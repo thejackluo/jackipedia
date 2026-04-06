@@ -4,6 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Jackipedia</title>
+<script>
+// Apply theme before CSS renders to prevent flash
+(function() {
+  var saved = localStorage.getItem('jw-theme');
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  var theme = saved || (prefersDark ? 'dark' : 'light');
+  document.documentElement.setAttribute('data-theme', theme);
+})();
+</script>
 <style>
 /* ── Theme variables ── */
 :root {
@@ -602,13 +611,6 @@ tr:nth-child(even) td { background: var(--table-stripe); }
 <script src="/random-articles.js"></script>
 <script>
 // ── Theme ──
-(function() {
-  const saved = localStorage.getItem('jw-theme');
-  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-  const theme = saved || (prefersDark ? 'dark' : 'light');
-  document.documentElement.setAttribute('data-theme', theme);
-})();
-
 function toggleTheme() {
   const html = document.documentElement;
   const current = html.getAttribute('data-theme');
