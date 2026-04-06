@@ -374,6 +374,11 @@
   ],
   "wiki/concepts/openclaw": [
     {
+      "commit": "890e057e",
+      "date": "2026-04-06 05:33:56",
+      "summary": "build: auto-update 2026-04-06 05:33 UTC (73 pages)"
+    },
+    {
       "commit": "51ba407b",
       "date": "2026-04-06 05:32:52",
       "summary": "build: auto-update 2026-04-06 05:32 UTC (73 pages)"
