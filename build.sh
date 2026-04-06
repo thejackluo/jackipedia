@@ -408,6 +408,9 @@ def build_main_page(nav, all_history, page_count=0):
 .mp-title {{ font-family: 'Linux Libertine', Georgia, Times, serif; font-size: 1.95em; font-weight: normal; border-bottom: 1px solid var(--border); padding-bottom: 4px; margin-bottom: 16px; }}
 .mp-welcome {{ background: var(--bg-secondary); border: 1px solid var(--border); padding: 12px 16px; margin-bottom: 16px; font-size: 13.5px; }}
 .mp-welcome b {{ font-size: 1.1em; }}
+[data-theme="dark"] .mp-welcome {{ background: #1f1f20 !important; color: #d7dadc; }}
+[data-theme="dark"] .mp-title {{ border-bottom-color: #3c3c3d; }}
+[data-theme="dark"] .mp-welcome a {{ color: #4e9af1; }}
 </style>
 
 <div class="mp-title">Welcome to Jackipedia</div>
