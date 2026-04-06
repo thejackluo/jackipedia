@@ -83,3 +83,26 @@ Three separate editing sessions across 14 months. Three reverts. Whatever Jack t
 - [[projects/ces-2025]]
 - [[interests/city-skylines]]
 - [[people/jack-luo]]
+
+## The User Page
+
+Jack's Wikipedia user page (User:Jack145945) reads like a manifesto:
+
+> "Hi, I am Jack. I am a computer science student who cares a lot about how knowledge is organized, explained, and preserved. Most of my edits come from a simple instinct: when I read something confusing, unsourced, or structurally messy, I want to make it clearer, more reliable, and easier for future readers to understand."
+
+He lists his focus areas: technology, universities, urban planning, cities. The user page accurately predicts the contribution log — Georgia Tech, UCSC, UCSB, CES, Humanoid robot, Nvidia GTC, Cold-weather biking.
+
+The userboxes:
+- **100+ edits** on Wikipedia
+- **7 years** editing Wikipedia
+- **This user rides an electric unicycle** — the most specific userbox on the page
+
+He also notes photography as a hobby: "I am an amateur photographer who likes capturing people in natural, unposed moments." The Klarman Hall (Harvard Business School) photo and the ice biking photo he uploaded reflect this — real photos, not stock images.
+
+The page ends with a note about **Ryan** — "a friend of mine who, for reasons only he truly understands, loves posting what we call 'human bear pictures' of himself." Jack uploaded a photo of Ryan in a car from December 2025, captioned "in full human bear mode." This is the most human thing on his Wikipedia presence.
+
+## The Contradiction
+
+The user page describes a measured, neutral, sourcing-focused editor who believes in collaborative problem solving. The contribution log shows someone who added 3,986 chars to Wharton School on a single day and got immediately reverted, tried to edit Ratatouille three times across 14 months, and spent a single 3-minute sprint adding images to five obscure stub articles at 3:37 AM.
+
+Both are true. This is consistent with everything else.
