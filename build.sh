@@ -92,7 +92,7 @@ def render_page(title, content, nav, extra_css="", is_main=False, translation_ht
     tabs = ""
     if not is_main:
         lang_btn = f'<button class="lang-toggle-btn" onclick="toggleLang(this, \'{lang_label}\')">{lang_label}</button>' if translation_html else ""
-        tabs = f'<a class="tab active" href="#">Article</a><a class="tab" href="#page-history">History</a><a class="tab" href="/meta/history.html">All changes</a>{lang_btn}'
+        tabs = f'<a class="tab active" href="#">Article</a><a class="tab" href="#page-history" onclick="event.preventDefault();var el=document.getElementById(\'page-history\');if(el){{el.scrollIntoView({{behavior:\'smooth\',block:\'start\'}})}}">History</a><a class="tab" href="/meta/history.html">All changes</a>{lang_btn}'
     else:
         tabs = '<a class="tab active" href="/index.html">Main page</a><a class="tab" href="/meta/history.html">Recent changes</a>'
 
