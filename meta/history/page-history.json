@@ -496,6 +496,7 @@
       "summary": "build: auto-update 2026-04-06 05:56 UTC (85 pages)"
     }
   ],
+  "wiki/people/ivan-yeung": [],
   "wiki/people/eddie-lou": [
     {
       "commit": "2c4dfac7",
@@ -529,6 +530,7 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
+  "wiki/concepts/prod-so": [],
   "wiki/concepts/z-fellows": [
     {
       "commit": "6f5b60eb",
@@ -604,6 +606,7 @@
       "summary": "build: auto-update 2026-04-06 05:39 UTC (78 pages)"
     }
   ],
+  "wiki/concepts/y-combinator": [],
   "wiki/concepts/idea-vault": [
     {
       "commit": "2ce09073",

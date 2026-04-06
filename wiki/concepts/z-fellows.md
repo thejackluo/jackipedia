@@ -1,46 +1,53 @@
 # Z Fellows
 
-**Category:** Projects / Concepts
+**Category:** Concepts / Ecosystem
 **Website:** zfellows.com
-**Summary:** The fellowship for exceptional young builders — and its relevance to Jack
+**Founded by:** Cory Levy
+**Summary:** The fellowship for exceptional young builders — $10K, one week, no equity
 **Last updated:** 2026-04-06
 
 ## Overview
 
-Z Fellows is a fellowship program for exceptional young founders and builders — specifically targeting people under 20 (or in the early college years) who are already building something significant. It provides $10,000 in no-equity funding, mentorship from top founders and investors, and access to a network of high-agency peers.
+Z Fellows is a fellowship program for young builders who are already making something. Founded by **Cory Levy**, it provides $10,000 in no-equity funding and one week working alongside some of the most successful founders and operators in Silicon Valley. There is no age cutoff — Z Fellows has accepted high school dropouts, college students, and people with full-time jobs. Applications are rolling with no deadline.
 
-Z Fellows was founded by Brian Xie with the explicit premise that the most exceptional young builders don't need to wait for college, YC, or a traditional accelerator — they need resources, connections, and permission to move faster.
+The program's founding premise, from Cory Levy's own writing: "Skip class or work for a week and get paid $10,000."
 
-## What It Is
+## The Format
 
-- **No-equity grant:** $10,000, no strings, no dilution
-- **Age focus:** Primarily under 20, though the spirit is "early-stage exceptional builder"
-- **Cohort model:** Fellows join a group of similarly ambitious peers
-- **Mentors:** Top founders and operators from the Bay Area ecosystem
-- **Remote-first:** Fellows don't need to move anywhere
+- **$10,000 grant** — no equity, no strings
+- **One week** — intensive, working alongside mentors and fellow builders
+- **No age requirement** — aimed at young builders but not age-restricted
+- **Rolling applications** — no deadline; multiple cohorts per year; re-applications encouraged
+- **Solo or team** — apply alone or with co-founders
 
-Z Fellows is positioned in the same conceptual space as Thiel Fellowship (under-20, drop out and build) but without the requirement to leave school, and with a more accessible grant size.
+The format is deliberately minimal. No curriculum. No structured lectures. The value is: money, time, and proximity to people who have done it.
 
-## Why It Matters to Jack
+## Cory Levy
 
-Z Fellows represents a specific node in the ecosystem Jack is navigating — the programs and networks that exist for people who are moving too fast for the standard institutional timeline. The Thiel Fellowship, Z Fellows, a16z Speedrun, YC — these are the alternative credential systems for people who find the standard path too slow or too narrow.
+Cory Levy is a Bay Area connector and builder who co-founded Z Fellows. He also hosts events like Internapalooza — informal mixers that bring together the Bay Area intern and young founder cohort. This is consistent with the Z Fellows philosophy: the best thing you can do for exceptional young builders is put them in rooms with other exceptional people and get out of the way.
 
-Jack received an email from a16z Speedrun in September 2025 that said "excited to see your idea!" — signaling that he was already on the radar of accelerator programs. Z Fellows occupies a similar but earlier-stage niche: before YC, before Speedrun, when you're still in the "building something real while technically still a student" phase.
+Jack met Leo Zhang at an Internapalooza event hosted by Cory Levy.
+
+## Why Z Fellows Exists
+
+The founding thesis: exceptional young builders don't need more education, more structure, or more gatekeeping. They need money to keep going, and access to people who are further along. The $10K is enough to extend a runway. The week is enough to change a trajectory.
+
+This sits alongside the Thiel Fellowship (stop going to college, we'll pay you to build) and a16z Speedrun (early-stage founder acceleration) in a cluster of programs that bet on people before institutions are ready to.
 
 ## The Prestige Paradox
 
-Z Fellows exists in interesting tension with Leo Zhang's "prestige is bullshit" thesis. The fellowship is itself a prestige signal — being a Z Fellow is a credential that opens doors. The argument would be: it's not that credentials don't matter, it's that chasing credentials as the end goal rather than as a byproduct of building something real is the failure mode.
+Z Fellows is itself a prestige signal — being a Fellow is a credential that opens doors. This sits in interesting tension with Leo Zhang's "prestige is bullshit" thesis, which Jack agreed with at a Cory Levy event.
 
-Z Fellows selects for people who are already building. The credential follows the work, not the other way around. That distinction is the one that matters.
+The resolution: the failure mode isn't credentials, it's credential-seeking as the primary goal. Z Fellows selects for people who are already building. The fellowship follows the work. That sequencing is the difference.
 
-## Notable Fellows
+## Competitiveness
 
-Z Fellows has produced a number of founders who went on to raise significant funding and build notable companies. The network compounds over time as fellows support each other across cohorts.
+Z Fellows is selective but not opaque about rejection. The Reddit community around Z Fellows applications shows people who apply multiple times and are encouraged to reapply. The program is looking for evidence of building, not prestige credentials — which is both the appeal and the reason it's hard to game.
 
 ## Related
 
 - [[people/leo-zhang]]
 - [[history/internapalooza]]
+- [[concepts/y-combinator]]
 - [[concepts/idea-vault]]
-- [[projects/agentdex]]
 - [[people/jack-luo]]

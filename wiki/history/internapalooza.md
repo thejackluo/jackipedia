@@ -9,7 +9,7 @@
 
 Internapalooza is a recurring Bay Area event for interns, students, and early-career founders — a mixer designed to get the cohort of people who showed up in San Francisco for the summer into the same room. It operates on the principle that the best connections happen when you put ambitious people together informally and let the conversation happen.
 
-Jack attended Internapalooza hosted by Cory. It is where he met Leo Zhang.
+Jack attended Internapalooza hosted by Cory Levy Levy — co-founder of Z Fellows. It is where he met Leo Zhang.
 
 ## The Event Format
 

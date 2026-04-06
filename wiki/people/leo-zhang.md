@@ -10,7 +10,7 @@ Leo Zhang is a Caltech student from Florida — Jack calls him "the Florida Man.
 
 ## How They Met
 
-Leo and Jack met at Internapalooza, an event hosted by Cory. The conversation that kicked off their friendship: Leo said **prestige** is bullshit. Jack agreed. They've been talking ever since.
+Leo and Jack met at Internapalooza, an event hosted by Cory Levy Levy. The conversation that kicked off their friendship: Leo said **prestige** is bullshit. Jack agreed. They've been talking ever since.
 
 For context: "prestige" is the word that organizes an enormous amount of tech and startup decision-making — which school, which company, which investor, which accelerator. Leo's willingness to call the whole system out by name signals a level of independence from status games that Jack finds rare and valuable.
 
