@@ -75,7 +75,12 @@ For Jack, the question is not whether SF is important but whether it's where he 
 ## Related
 
 - [[history/boston]]
-- [[history/new-york-city]]
-- [[history/miami]]
+- [[history/qhouse-2023]]
+- [[history/georgia-tech-era]]
+- [[history/ucsc-era]]
 - [[history/travel]]
+- [[history/vienna-austria]]
+- [[concepts/burning-man]]
+- [[philosophy/effective-altruism]]
+- [[projects/agentdex]]
 - [[people/jack-luo]]

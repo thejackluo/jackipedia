@@ -71,7 +71,11 @@ Notion faces serious competition:
 
 ## Related
 
-- [[concepts/jotion]]
+- [[concepts/linear]]
+- [[concepts/figma]]
 - [[concepts/granola]]
 - [[projects/jackipedia]]
+- [[projects/agentdex]]
+- [[philosophy/walk-in-the-park-framework]]
+- [[books/essentialism]]
 - [[people/jack-luo]]

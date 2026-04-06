@@ -66,4 +66,8 @@ The Lab's methodology — build weird prototypes, observe what happens when huma
 - [[history/mit-era]]
 - [[concepts/ai-interactive-storytelling]]
 - [[concepts/agent-x-launch]]
+- [[concepts/burning-man]]
+- [[philosophy/effective-altruism]]
+- [[projects/agentdex]]
+- [[concepts/figma]]
 - [[people/jack-luo]]

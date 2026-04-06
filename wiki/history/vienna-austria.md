@@ -80,5 +80,9 @@ Performing in this city as a choral musician means participating in a tradition 
 
 - [[history/travel]]
 - [[history/japan-trip-2024]]
-- [[interests/city-skylines]]
+- [[history/san-francisco]]
+- [[interests/anime]]
+- [[concepts/burning-man]]
+- [[philosophy/effective-altruism]]
 - [[people/jack-luo]]
+- [[concepts/mit-media-lab]]

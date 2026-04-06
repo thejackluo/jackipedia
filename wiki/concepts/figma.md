@@ -59,7 +59,11 @@ Understanding Figma enough to be useful in a design review, to read a component'
 
 ## Related
 
+- [[concepts/notion]]
+- [[concepts/linear]]
 - [[concepts/granola]]
-- [[concepts/jotion]]
+- [[concepts/mit-media-lab]]
+- [[books/design-of-everyday-things]]
 - [[projects/agentdex]]
+- [[history/san-francisco]]
 - [[people/jack-luo]]

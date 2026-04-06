@@ -66,5 +66,10 @@ The movement's presence in tech creates a particular cultural mix: people who ar
 ## Related
 
 - [[philosophy/walk-in-the-park-framework]]
-- [[concepts/y-combinator]]
+- [[concepts/mit-media-lab]]
+- [[concepts/burning-man]]
+- [[books/life-30]]
+- [[books/billion-dollar-whale]]
+- [[concepts/reading-list]]
+- [[history/san-francisco]]
 - [[people/jack-luo]]

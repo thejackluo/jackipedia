@@ -64,6 +64,9 @@ The founders were explicit about their values when building Linear:
 ## Related
 
 - [[concepts/notion]]
+- [[concepts/figma]]
 - [[concepts/granola]]
 - [[projects/agentdex]]
-- [[concepts/buildspace]]
+- [[projects/jackipedia]]
+- [[history/san-francisco]]
+- [[people/jack-luo]]

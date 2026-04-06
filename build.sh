@@ -164,31 +164,103 @@ def build_page(md_file, nav, all_history):
 
 def build_main_page(nav, all_history, page_count=0):
     """Build the Wikipedia-style two-column main page."""
+    import datetime
+    day_of_year = datetime.datetime.utcnow().timetuple().tm_yday
 
-    # Featured article — Walk in the Park Framework
-    featured = """
-<div class="wiki-box wiki-box-blue">
+    # Pool of featured articles — rotates by day of year
+    featured_pool = [
+        {
+            "title": "The Walk in the Park Framework",
+            "url": "/wiki/philosophy/walk-in-the-park-framework.html",
+            "color": "wiki-box-blue",
+            "body": 'On February 9, 2025, Jack articulated a four-part personal philosophy during a walk — one of the highest-rated pieces in his five-year writing archive. The framework covers relationships (grow, don\'t chase), success (vision over money), work (game-like engagement), and wisdom (acceptance, not control). It draws on themes from <a href="/wiki/concepts/reading-list.html">The Courage to Be Disliked</a> and <a href="/wiki/books/essentialism.html">Essentialism</a> and represents the clearest single synthesis of Jack\'s values.',
+        },
+        {
+            "title": "Japan Trip 2024",
+            "url": "/wiki/history/japan-trip-2024.html",
+            "color": "wiki-box-blue",
+            "body": 'From December 15–30, 2024, Jack traveled to <a href="/wiki/history/japan-trip-2024.html">Japan</a> — one of the most memorable periods of the year. The trip surfaced in his <a href="/wiki/concepts/writing-archive.html">2024 annual review</a> as the defining travel experience of the year. Jack visited Tokyo, Kyoto, and Osaka, and the trip deepened his interest in <a href="/wiki/interests/anime.html">anime</a>, Japanese design, and the country\'s relationship with technology and tradition.',
+        },
+        {
+            "title": "AgentDex",
+            "url": "/wiki/projects/agentdex.html",
+            "color": "wiki-box-green",
+            "body": '<a href="/wiki/projects/agentdex.html">AgentDex</a> is Jack\'s main project: an AI-native personal CRM and relationship intelligence app. It ingests contacts from <a href="/wiki/history/georgia-tech-era.html">calendar</a>, email, and conversations, structures them into a typed graph, and surfaces context at the moment you need it. The product is built with Next.js, PostgreSQL, and Drizzle ORM. As of April 2026, the MVP backbone and most intelligence surfaces are implemented.',
+        },
+        {
+            "title": "Essentialism",
+            "url": "/wiki/books/essentialism.html",
+            "color": "wiki-box-blue",
+            "body": 'Jack finished <a href="/wiki/books/essentialism.html">Essentialism</a> by Greg McKeown on February 14, 2026 — rated 4 stars. The book\'s core thesis: "Far too many people are focused on additive activities." The disciplined pursuit of less resonated with Jack\'s tendency toward too many simultaneous projects. Key lessons: protect your time like an asset, learn to say no, and recognize that the most important choices compound. See also: <a href="/wiki/philosophy/walk-in-the-park-framework.html">Walk in the Park Framework</a>.',
+        },
+        {
+            "title": "Cupertino High School Era",
+            "url": "/wiki/history/cupertino-high-school.html",
+            "color": "wiki-box-blue",
+            "body": 'Jack attended <a href="/wiki/history/cupertino-high-school.html">Cupertino High School</a> — in the heart of Silicon Valley, surrounded by Apple, Google, and Intel campuses. The environment shaped his early exposure to technology and ambition. Growing up in Cupertino means growing up adjacent to the mythology of how the modern tech industry was built. It\'s one of the few places on earth where founding a company in high school is not unusual.',
+        },
+        {
+            "title": "Vienna, Austria",
+            "url": "/wiki/history/vienna-austria.html",
+            "color": "wiki-box-blue",
+            "body": 'Jack visited <a href="/wiki/history/vienna-austria.html">Vienna</a> as part of a choir trip — one of the densest architectural and intellectual cities in the world. Vienna was the center of the <a href="/wiki/concepts/mit-media-lab.html">Habsburg Empire</a> for centuries and in the early 20th century hosted Freud, Wittgenstein, Klimt, and Mahler simultaneously. Jack traveled via Lufthansa, and the food — Wiener Schnitzel, Sachertorte, Viennese Kaffeehaus breakfast — is its own category.',
+        },
+        {
+            "title": "The Billion Dollar Whale",
+            "url": "/wiki/books/billion-dollar-whale.html",
+            "color": "wiki-box-green",
+            "body": '"Jho Low is probably one of the most interesting guys I have had the honor to read." Jack is currently reading <a href="/wiki/books/billion-dollar-whale.html">Billion Dollar Whale</a> (4 stars) — the story of how Jho Low stole $4.5 billion from Malaysia\'s 1MDB sovereign wealth fund using Goldman Sachs, Hollywood, and the global financial system. It\'s a masterclass in how money, relationships, and audacity combine. See also: <a href="/wiki/concepts/effective-altruism.html">Effective Altruism</a> and the FTX parallel.',
+        },
+    ]
+
+    fa = featured_pool[day_of_year % len(featured_pool)]
+    recently_added_articles = [
+        ("/wiki/concepts/reading-list.html", "Reading List"),
+        ("/wiki/history/vienna-austria.html", "Vienna"),
+        ("/wiki/concepts/mit-media-lab.html", "MIT Media Lab"),
+        ("/wiki/philosophy/effective-altruism.html", "Effective Altruism"),
+        ("/wiki/concepts/linear.html", "Linear"),
+        ("/wiki/interests/anime.html", "Anime"),
+    ]
+    recently_added_html = " &nbsp;·&nbsp; ".join(f'<a href="{u}">{n}</a>' for u, n in recently_added_articles)
+
+    featured = f"""
+<div class="wiki-box {fa['color']}">
   <div class="wiki-box-heading">Featured article</div>
-  <b><a href="/wiki/philosophy/walk-in-the-park-framework.html">The Walk in the Park Framework</a></b>
-  <p style="margin:8px 0 0;">On February 9, 2025, Jack articulated a four-part personal philosophy during a walk — one of the highest-rated pieces in his five-year writing archive. The framework covers relationships (grow, don't chase), success (vision over money), work (game-like engagement), and wisdom (acceptance, not control). It draws on themes from <a href="/wiki/concepts/reading-list.html">The Courage to Be Disliked</a> and represents the clearest single synthesis of Jack's values.</p>
-  <div style="margin-top:8px; font-size:12px; font-family:sans-serif;"><a href="/wiki/philosophy/walk-in-the-park-framework.html">Read full article...</a></div>
+  <b><a href="{fa['url']}">{fa['title']}</a></b>
+  <p style="margin:8px 0 0;">{fa['body']}</p>
+  <div style="margin-top:8px; font-size:12px; font-family:sans-serif;"><a href="{fa['url']}">Read full article...</a></div>
 </div>
-<div style="font-size:12px; font-family:sans-serif; color:#54595d; margin-bottom:16px;">
-  Recently added: <a href="/wiki/concepts/writing-archive.html">Writing Archive</a> &nbsp;·&nbsp; <a href="/wiki/people/meetings-index.html">Meetings Index</a> &nbsp;·&nbsp; <a href="/wiki/concepts/reading-list.html">Reading List</a>
+<div style="font-size:12px; font-family:sans-serif; color:var(--text-muted); margin-bottom:16px;">
+  Recently added: {recently_added_html}
 </div>"""
 
-    # Did you know
-    dyk = """
+    # Did you know — rotates a subset by day
+    all_dyk = [
+        '... that Jack has maintained a personal writing practice since 2020, accumulating over <b>360 entries</b> in his <a href="/wiki/concepts/writing-archive.html">writing archive</a>?',
+        '... that Jack\'s song of the year for 2024 was <i>Steins;Gate</i>\'s "Hacking to the Gate" — connecting his love of <a href="/wiki/interests/anime.html">anime</a> and music?',
+        '... that Jack traveled to <a href="/wiki/history/japan-trip-2024.html">Japan</a> for two weeks in December 2024, rating it as one of the most memorable periods of the year?',
+        '... that Jack rated <a href="/wiki/books/the-courage-to-be-disliked.html"><i>The Courage to Be Disliked</i></a> <b>5 stars</b> — his highest rating — alongside a book on AI agents?',
+        '... that Jack\'s <a href="/wiki/philosophy/walk-in-the-park-framework.html">Walk in the Park philosophy</a> was synthesized entirely during a single walk in February 2025?',
+        '... that Jack identified his biggest failure of 2024 as "not pursuing side projects hard enough" in his <a href="/wiki/concepts/writing-archive.html">annual review</a>?',
+        '... that <a href="/wiki/projects/agentdex.html">AgentDex</a> was built with a BMAD story workflow and has over 6 epics of structured product work?',
+        '... that Jack attended <a href="/wiki/history/cupertino-high-school.html">Cupertino High School</a> — steps from Apple HQ — before studying at <a href="/wiki/history/ucsc-era.html">UCSC</a> and <a href="/wiki/history/georgia-tech-era.html">Georgia Tech</a>?',
+        '... that Jack performed in a choir on a trip to <a href="/wiki/history/vienna-austria.html">Vienna</a> — the city where Mozart, Beethoven, and Brahms all spent their careers?',
+        '... that Jack is reading <a href="/wiki/books/billion-dollar-whale.html">Billion Dollar Whale</a> — calling Jho Low "one of the most interesting guys I have had the honor to read"?',
+        '... that <a href="/wiki/history/qhouse-2023.html">Q House</a> was a hacker house Jack co-organized in San Francisco in 2023, where his working relationship with <a href="/wiki/people/kevin-zhang.html">Kevin Zhang</a> solidified?',
+        '... that Jack\'s <a href="/wiki/concepts/reading-list.html">reading list</a> includes both Nick Bostrom\'s <i>Superintelligence</i> and <i>Deep Utopia</i> — signaling serious engagement with AI risk?',
+        '... that Jack completed <a href="/wiki/books/essentialism.html">Essentialism</a> on February 14, 2026, rating it 4 stars and noting "far too many people are focused on additive activities"?',
+        '... that Jack attended the <a href="/wiki/projects/ces-2025.html">CES 2025</a> trade show in Las Vegas in January 2025 as one of his first major industry events?',
+    ]
+    # Pick 6 DYK items rotating by day
+    start = day_of_year % len(all_dyk)
+    selected_dyk = [all_dyk[(start + i) % len(all_dyk)] for i in range(6)]
+    dyk_items = "".join(f"<li>{item}</li>" for item in selected_dyk)
+    dyk = f"""
 <div class="wiki-box">
   <div class="wiki-box-heading">Did you know</div>
   <ul style="margin-left:18px; font-size:13.5px;">
-    <li>... that Jack has maintained a personal writing practice since 2020, accumulating over <b>360 entries</b> spanning reflections, essays, and startup notes?</li>
-    <li>... that Jack's song of the year for 2024 was <i>Steins;Gate</i>'s "Hacking to the Gate"?</li>
-    <li>... that Jack conducted over <b>20 customer discovery interviews</b> in a single month in early 2026?</li>
-    <li>... that Jack traveled to <b>Japan</b> for two weeks in December 2024, one of his most memorable periods of the year?</li>
-    <li>... that Jack rated <i>The Courage to Be Disliked</i> <b>5 stars</b> — his highest rating — alongside a book on AI agents?</li>
-    <li>... that Jack's "Walk in the Park" philosophy was synthesized entirely during a single walk in February 2025?</li>
-    <li>... that Jack identified his biggest failure of 2024 as "not pursuing side projects hard enough"?</li>
+    {dyk_items}
   </ul>
   <div style="margin-top:8px; font-size:12px; font-family:sans-serif;"><a href="/wiki/concepts/writing-archive.html">Browse writing archive...</a></div>
 </div>"""
@@ -225,7 +297,7 @@ def build_main_page(nav, all_history, page_count=0):
   <b><a href="/wiki/concepts/reading-list.html">Jack's Reading List</a></b>
   <p style="margin:8px 0 0; font-size:13.5px;">Jack maintains a rated reading list spanning AI, business, personal development, and philosophy. Highlights include <i>The Courage to Be Disliked</i> (5 stars), <i>Essentialism</i> (4 stars, finished Feb 2026), and <i>Billion Dollar Whale</i> (4 stars, in progress). He is currently working through multiple AI/ML books simultaneously.</p>
   <div style="margin-top:8px; font-size:12px; font-family:sans-serif;"><a href="/wiki/concepts/reading-list.html">Full reading list...</a></div>
-  <div style="margin-top:4px; font-size:12px; font-family:sans-serif; color:#54595d;">Recently featured: <a href="/wiki/concepts/writing-archive.html">Writing Archive</a> &nbsp;·&nbsp; <a href="/wiki/people/meetings-index.html">Meetings</a></div>
+  <div style="margin-top:4px; font-size:12px; font-family:sans-serif; color:var(--text-muted);">Recently featured: <a href="/wiki/concepts/writing-archive.html">Writing Archive</a> &nbsp;·&nbsp; <a href="/wiki/people/meetings-index.html">Meetings</a></div>
 </div>"""
 
     # Featured picture — Japan 2024
@@ -234,7 +306,7 @@ def build_main_page(nav, all_history, page_count=0):
   <div class="wiki-box-heading">Featured entry</div>
   <b>Japan Trip, December 2024</b>
   <p style="margin:8px 0; font-size:13.5px;">From December 15 to 30, 2024, Jack traveled to Japan — one of the most memorable periods of the year by his own account. The trip appears in his 2024 annual review as the defining travel experience of the year, alongside CES (Jan), TreeHacks at Stanford (Feb), and the Berkeley AI hackathon (Jun). Travel consistently absorbs the largest portion of Jack's discretionary spending.</p>
-  <div style="margin-top:4px; font-size:12px; font-family:sans-serif; color:#54595d;">Source: <a href="/wiki/concepts/writing-archive.html">40 Questions Annual Review (01/06/25)</a></div>
+  <div style="margin-top:4px; font-size:12px; font-family:sans-serif; color:var(--text-muted);">Source: <a href="/wiki/concepts/writing-archive.html">40 Questions Annual Review (01/06/25)</a></div>
 </div>"""
 
     # On this day — expanded with life timeline
@@ -246,8 +318,8 @@ def build_main_page(nav, all_history, page_count=0):
     <li><b>2025:</b> Jack's app went to production — "seeing all the crazy stuff"</li>
     <li><b>2026:</b> Jackipedia founded. Notion MCP connected. 360+ writings ingested.</li>
   </ul>
-  <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:4px;">Life milestones</div>
-  <ul style="margin-left:18px; font-size:13px; color:#54595d;">
+  <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:var(--text-muted); margin-bottom:4px;">Life milestones</div>
+  <ul style="margin-left:18px; font-size:13px; color:var(--text-muted);">
     <li>Jan 6–10, 2025 — CES, Las Vegas</li>
     <li>Feb 16–18, 2025 — TreeHacks, Stanford</li>
     <li>Jun 29, 2024 — Berkeley AI Hackathon</li>
@@ -260,7 +332,7 @@ def build_main_page(nav, all_history, page_count=0):
     # Community portal section
     community = """
 <div class="wiki-box">
-  <div style="font-size:13px; font-weight:bold; font-family:sans-serif; border-bottom:1px solid #a2a9b1; padding-bottom:4px; margin-bottom:8px;">Other areas of Jackipedia</div>
+  <div style="font-size:13px; font-weight:bold; font-family:sans-serif; border-bottom:1px solid var(--border); padding-bottom:4px; margin-bottom:8px;">Other areas of Jackipedia</div>
   <div style="font-size:13px; font-family:sans-serif; display:grid; grid-template-columns:1fr 1fr; gap:4px 16px;">
     <div><a href="/meta/history.html">Recent changes</a> – All edits to the wiki, most recent first.</div>
     <div><a href="/log.html">Log</a> – Chronological record of all ingests and updates.</div>
@@ -274,32 +346,32 @@ def build_main_page(nav, all_history, page_count=0):
     # Sister projects (Jack's own projects)
     sister = """
 <div class="wiki-box">
-  <div style="font-size:13px; font-weight:bold; font-family:sans-serif; border-bottom:1px solid #a2a9b1; padding-bottom:4px; margin-bottom:8px;">Jack's projects</div>
+  <div style="font-size:13px; font-weight:bold; font-family:sans-serif; border-bottom:1px solid var(--border); padding-bottom:4px; margin-bottom:8px;">Jack's projects</div>
   <p style="font-size:13px; font-family:sans-serif; margin-bottom:10px;">Jackipedia is maintained by <a href="https://openclaw.ai">Claw</a> and sourced from Jack's Notion workspace. Jack's active projects:</p>
   <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:8px; font-size:13px; font-family:sans-serif;">
-    <div style="border:1px solid #a2a9b1; padding:8px; background:#fff; border-radius:2px;">
+    <div style="border:1px solid var(--border); padding:8px; background:var(--bg-secondary); border-radius:2px;">
       <div style="font-weight:bold; margin-bottom:2px;"><a href="https://agentdex.agentschool.io">AgentDex</a></div>
-      <div style="color:#54595d; font-size:12px;">Personal CRM &amp; relationship intelligence app</div>
+      <div style="color:var(--text-muted); font-size:12px;">Personal CRM &amp; relationship intelligence app</div>
     </div>
-    <div style="border:1px solid #a2a9b1; padding:8px; background:#fff; border-radius:2px;">
+    <div style="border:1px solid var(--border); padding:8px; background:var(--bg-secondary); border-radius:2px;">
       <div style="font-weight:bold; margin-bottom:2px;"><a href="https://agentschool.io">Agent School</a></div>
-      <div style="color:#54595d; font-size:12px;">AI agent infrastructure and tooling</div>
+      <div style="color:var(--text-muted); font-size:12px;">AI agent infrastructure and tooling</div>
     </div>
-    <div style="border:1px solid #a2a9b1; padding:8px; background:#fff; border-radius:2px;">
+    <div style="border:1px solid var(--border); padding:8px; background:var(--bg-secondary); border-radius:2px;">
       <div style="font-weight:bold; margin-bottom:2px;"><a href="https://paperclip.agentschool.io">Paperclip</a></div>
-      <div style="color:#54595d; font-size:12px;">Agent memory and context store</div>
+      <div style="color:var(--text-muted); font-size:12px;">Agent memory and context store</div>
     </div>
-    <div style="border:1px solid #a2a9b1; padding:8px; background:#fff; border-radius:2px;">
+    <div style="border:1px solid var(--border); padding:8px; background:var(--bg-secondary); border-radius:2px;">
       <div style="font-weight:bold; margin-bottom:2px;"><a href="https://jackipedia.agentschool.io">Jackipedia</a></div>
-      <div style="color:#54595d; font-size:12px;">This personal knowledge wiki</div>
+      <div style="color:var(--text-muted); font-size:12px;">This personal knowledge wiki</div>
     </div>
-    <div style="border:1px solid #a2a9b1; padding:8px; background:#fff; border-radius:2px;">
+    <div style="border:1px solid var(--border); padding:8px; background:var(--bg-secondary); border-radius:2px;">
       <div style="font-weight:bold; margin-bottom:2px;"><a href="https://github.com/thejackluo">GitHub</a></div>
-      <div style="color:#54595d; font-size:12px;">Open source work and repositories</div>
+      <div style="color:var(--text-muted); font-size:12px;">Open source work and repositories</div>
     </div>
-    <div style="border:1px solid #a2a9b1; padding:8px; background:#fff; border-radius:2px;">
+    <div style="border:1px solid var(--border); padding:8px; background:var(--bg-secondary); border-radius:2px;">
       <div style="font-weight:bold; margin-bottom:2px;"><a href="https://thejackluo.notion.site">Notion</a></div>
-      <div style="color:#54595d; font-size:12px;">Public writing and reflections</div>
+      <div style="color:var(--text-muted); font-size:12px;">Public writing and reflections</div>
     </div>
   </div>
 </div>"""
@@ -307,7 +379,7 @@ def build_main_page(nav, all_history, page_count=0):
     # Languages / dimensions of Jack
     languages = """
 <div class="wiki-box">
-  <div style="font-size:13px; font-weight:bold; font-family:sans-serif; border-bottom:1px solid #a2a9b1; padding-bottom:4px; margin-bottom:8px;">Dimensions of Jack</div>
+  <div style="font-size:13px; font-weight:bold; font-family:sans-serif; border-bottom:1px solid var(--border); padding-bottom:4px; margin-bottom:8px;">Dimensions of Jack</div>
   <p style="font-size:13px; font-family:sans-serif; margin-bottom:8px;">Jackipedia documents Jack across multiple dimensions. Articles exist or are planned for each:</p>
   <div style="font-size:13px; font-family:sans-serif; margin-bottom:6px;"><b>Documented</b></div>
   <div style="font-family:sans-serif; font-size:13px; line-height:2;">
@@ -318,7 +390,7 @@ def build_main_page(nav, all_history, page_count=0):
     <a href="/wiki/people/meetings-index.html">Relationships</a>
   </div>
   <div style="font-size:13px; font-family:sans-serif; margin:8px 0 4px;"><b>Planned</b></div>
-  <div style="font-family:sans-serif; font-size:13px; color:#54595d; line-height:2;">
+  <div style="font-family:sans-serif; font-size:13px; color:var(--text-muted); line-height:2;">
     Fitness &nbsp;·&nbsp; Goals &nbsp;·&nbsp; Travel &nbsp;·&nbsp; Dream journal &nbsp;·&nbsp;
     Health &nbsp;·&nbsp; Boston &nbsp;·&nbsp; Japan &nbsp;·&nbsp; AgentDex &nbsp;·&nbsp;
     Startup history &nbsp;·&nbsp; Running log &nbsp;·&nbsp; ADHD &nbsp;·&nbsp; Anime
@@ -333,8 +405,8 @@ def build_main_page(nav, all_history, page_count=0):
 .mp-3col {{ display: flex; gap: 20px; }}
 .mp-3col > div {{ flex: 1; min-width: 0; }}
 @media (max-width: 700px) {{ .mp-columns, .mp-3col {{ flex-direction: column; }} }}
-.mp-title {{ font-family: 'Linux Libertine', Georgia, Times, serif; font-size: 1.95em; font-weight: normal; border-bottom: 1px solid #a2a9b1; padding-bottom: 4px; margin-bottom: 16px; }}
-.mp-welcome {{ background: #eaf3fb; border: 1px solid #a2a9b1; padding: 12px 16px; margin-bottom: 16px; font-size: 13.5px; }}
+.mp-title {{ font-family: 'Linux Libertine', Georgia, Times, serif; font-size: 1.95em; font-weight: normal; border-bottom: 1px solid var(--border); padding-bottom: 4px; margin-bottom: 16px; }}
+.mp-welcome {{ background: #eaf3fb; border: 1px solid var(--border); padding: 12px 16px; margin-bottom: 16px; font-size: 13.5px; }}
 .mp-welcome b {{ font-size: 1.1em; }}
 </style>
 
@@ -358,7 +430,7 @@ def build_main_page(nav, all_history, page_count=0):
   </div>
 </div>
 
-<hr style="border:none; border-top:1px solid #a2a9b1; margin:16px 0;">
+<hr style="border:none; border-top:1px solid var(--border); margin:16px 0;">
 
 <div class="mp-3col">
   <div>{feat_list}</div>
@@ -367,14 +439,14 @@ def build_main_page(nav, all_history, page_count=0):
     <div class="wiki-box wiki-box-yellow">
       <div class="wiki-box-heading">Wiki stats</div>
       <table style="width:100%; border:none; font-size:13px; font-family:sans-serif;">
-        <tr><td style="border:none; padding:2px 0; color:#54595d;">Articles</td><td style="border:none; padding:2px 0; font-weight:bold;">7</td></tr>
-        <tr><td style="border:none; padding:2px 0; color:#54595d;">Source entries</td><td style="border:none; padding:2px 0; font-weight:bold;">360+</td></tr>
-        <tr><td style="border:none; padding:2px 0; color:#54595d;">Years covered</td><td style="border:none; padding:2px 0; font-weight:bold;">2020–2026</td></tr>
-        <tr><td style="border:none; padding:2px 0; color:#54595d;">Books tracked</td><td style="border:none; padding:2px 0; font-weight:bold;">20+</td></tr>
-        <tr><td style="border:none; padding:2px 0; color:#54595d;">People logged</td><td style="border:none; padding:2px 0; font-weight:bold;">25+</td></tr>
-        <tr><td style="border:none; padding:2px 0; color:#54595d;">Founded</td><td style="border:none; padding:2px 0; font-weight:bold;">April 6, 2026</td></tr>
+        <tr><td style="border:none; padding:2px 0; color:var(--text-muted);">Articles</td><td style="border:none; padding:2px 0; font-weight:bold;">{page_count}</td></tr>
+        <tr><td style="border:none; padding:2px 0; color:var(--text-muted);">Source entries</td><td style="border:none; padding:2px 0; font-weight:bold;">360+</td></tr>
+        <tr><td style="border:none; padding:2px 0; color:var(--text-muted);">Years covered</td><td style="border:none; padding:2px 0; font-weight:bold;">2020–2026</td></tr>
+        <tr><td style="border:none; padding:2px 0; color:var(--text-muted);">Books tracked</td><td style="border:none; padding:2px 0; font-weight:bold;">20+</td></tr>
+        <tr><td style="border:none; padding:2px 0; color:var(--text-muted);">People logged</td><td style="border:none; padding:2px 0; font-weight:bold;">25+</td></tr>
+        <tr><td style="border:none; padding:2px 0; color:var(--text-muted);">Founded</td><td style="border:none; padding:2px 0; font-weight:bold;">April 6, 2026</td></tr>
       </table>
-      <div style="margin-top:10px; font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:4px;">Sections</div>
+      <div style="margin-top:10px; font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:var(--text-muted); margin-bottom:4px;">Sections</div>
       <div style="font-size:13px; font-family:sans-serif;">
         <a href="/wiki/people/jack-luo.html">People</a> &nbsp;·&nbsp;
         <a href="/wiki/philosophy/walk-in-the-park-framework.html">Philosophy</a> &nbsp;·&nbsp;
@@ -384,13 +456,13 @@ def build_main_page(nav, all_history, page_count=0):
   </div>
 </div>
 
-<hr style="border:none; border-top:1px solid #a2a9b1; margin:16px 0;">
+<hr style="border:none; border-top:1px solid var(--border); margin:16px 0;">
 
 {community}
 {sister}
 {languages}
 
-<div style="border-top:1px solid #a2a9b1; padding-top:10px; font-size:12px; font-family:sans-serif; color:#54595d; text-align:center;">
+<div style="border-top:1px solid var(--border); padding-top:10px; font-size:12px; font-family:sans-serif; color:var(--text-muted); text-align:center;">
   Content sourced from Jack Luo's personal Notion workspace &nbsp;|&nbsp;
   Maintained by <a href="https://openclaw.ai">Claw (OpenClaw)</a> &nbsp;|&nbsp;
   <a href="/meta/history.html">Recent changes</a> &nbsp;|&nbsp;

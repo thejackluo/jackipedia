@@ -54,7 +54,11 @@ Jack attended Anime Expo 2022 at the Los Angeles Convention Center. Anime Expo i
 
 ## Related
 
-- [[interests/steins-gate]]
-- [[interests/japanese-language]]
 - [[history/japan-trip-2024]]
+- [[history/vienna-austria]]
+- [[concepts/reading-list]]
+- [[concepts/burning-man]]
+- [[history/cupertino-high-school]]
+- [[history/ucsc-era]]
 - [[interests/index]]
+- [[people/jack-luo]]

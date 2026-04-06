@@ -53,7 +53,11 @@ The entire UX design field traces its intellectual lineage partly to Norman. Whe
 
 ## Related
 
-- [[books/zero-to-one]]
 - [[concepts/figma]]
-- [[concepts/granola]]
+- [[concepts/linear]]
+- [[concepts/notion]]
+- [[concepts/mit-media-lab]]
+- [[books/essentialism]]
+- [[books/zero-to-one]]
 - [[projects/agentdex]]
+- [[people/jack-luo]]
