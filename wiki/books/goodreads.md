@@ -1,47 +1,65 @@
-# Goodreads Reading List
+# Goodreads
 
 **Category:** Books
-**Goodreads profile:** goodreads.com/user/show/145945-jack (requires login to view full shelf)
+**Profile:** goodreads.com/user/show/145945-jack
 **Last updated:** 2026-04-06
 
-## Overview
+A complete log of books Jack has read, sourced from his Goodreads "Read" shelf. Sorted by date updated (most recent first). Ratings are out of 5 stars.
 
-Jack maintains a Goodreads profile (user ID 145945) tracking books read, in progress, and on his to-read shelf. The profile is private/login-gated, but his reading history is partially documented in his Notion media database and writing archive.
+## Read Shelf
 
-## Books — Documented Ratings
+| Title | Author | Rating | Date Read | Notes |
+|-------|--------|--------|-----------|-------|
+| The Mathematics of Poker | Bill Chen | 4/5 | — | — |
+| Agents in the Long Game of AI: Computational Cognitive Modeling | Marjorie McShane | 5/5 | — | — |
+| The Unfair Advantage | Ash Ali & Hasan Kubba | 3/5 | — | — |
+| Where You Go Is Not Who You'll Be | Frank Bruni | 5/5 | Jan 2022 | "One of the most important books I've read in the 2022 era. You are who you believe who you are." |
+| Principles of Building AI Agents | Sam Bhagwat | 2/5 | Jan 2024 | "Free book I got at a hackathon. Good introductory materials on agents, though it's not the most well-written." |
+| Frankenstein: The 1818 Text | Mary Wollstonecraft Shelley | 3/5 | Sep 2022 | "Great book, nothing particularly memorable." |
+| Classroom of the Elite (Light Novel) Vol. 1 | Syougo Kinugasa | 4/5 | Jan 2023 | Plans to add the full series (~20 volumes) to his Goodreads shelf |
+| The Recruit (Cherub #1) | Robert Muchamore | — | — | — |
+| The Hard Thing About Hard Things | Ben Horowitz | 5/5 | — | "I can physically feel the tension that Ben Horowitz has felt when he is building a startup through this book." |
+| Homo Deus: A History of Tomorrow | Yuval Noah Harari | 3/5 | — | "Controversial take — the ideas are great, but I just did not find the interest to continue reading." |
+| Zero to One | Peter Thiel | 4/5 | Jul 2025 | "A very fascinating book about how to build startups from the ground up. I have applied a lot of the ideas in my own thought process in building startups." |
+| 50 Political Ideas You Really Need to Know | Ben Dupré | 3/5 | — | "A good foundational overview of different political ideas. Felt more like an encyclopedia with facts rather than anything too engaging." |
+| Essentialism: The Disciplined Pursuit of Less | Greg McKeown | 4/5 | Dec 2025–Feb 2026 | "Far too many people are focused on additive activities, trying to do as much as possible. This book is about being able to prioritize." |
+| How to Win Friends and Influence People | Dale Carnegie | 5/5 | Jan 2023 | "A foundational piece of work that I've still used as advice to this day, even though I've read it a few years ago." |
+| Life 3.0: Being Human in the Age of Artificial Intelligence | Max Tegmark | 4/5 | — | "A great high-level overview of the application and emergence of AI by an MIT expert grappling with the idea of being human in artificial intelligence." |
+| The Three-Body Problem | Liu Cixin | 5/5 | Sep–Oct 2024 | "One of the best book series I've read in recent time, ever since the Netflix show came out. I highly, highly recommend." |
+| The Courage to Be Disliked | Ichiro Kishimi & Fumitake Koga | 4/5 | Apr–Nov 2025 | "A phenomenal piece of work that takes the unique format of a conversation between a lost guy and a philosopher." |
+| The Real Truth About Success | Garrison Wynn | 3/5 | — | — |
+| The Dark Forest (Three-Body Problem #2) | Liu Cixin | 5/5 | — | — |
+| The Redemption of Time (Three-Body spinoff) | Baoshu | 3/5 | — | — |
+| Death's End (Three-Body Problem #3) | Cixin Liu | 5/5 | — | — |
 
-From the Notion Media/Books database (`5b5b6fe7-4680-4f99-bad8-1b650cd1623f`):
+## Patterns
 
-| Title | Rating | Status | Notes |
-|-------|--------|--------|-------|
-| The Courage to Be Disliked | 5 Stars | Read | Highest rated — core to Walk in the Park framework |
-| Essentialism | 4 Stars | Finished Feb 2026 | Greg McKeown; less is more |
-| Billion Dollar Whale | 4 Stars | In Progress | 1MDB scandal |
-| Life 3.0 | 4 Stars | Read | Max Tegmark; AI futures |
-| Atomic Habits | — | Read | Referenced in motivation writing |
+**Five-star books:** Where You Go Is Not Who You'll Be, Agents in the Long Game of AI, The Hard Thing About Hard Things, How to Win Friends and Influence People, The Three-Body Problem, The Dark Forest, Death's End
 
-## Reading Patterns
+**The Three-Body Problem trilogy** dominates the list — all three main books rated 5 stars. Read Sep–Oct 2024, sparked by the Netflix adaptation. The spinoff (Redemption of Time by Baoshu) rated lower at 3 stars.
 
-Jack's reading skews toward:
-- **AI/Technology futures** (Life 3.0, Superintelligence-adjacent)
-- **Business/Fraud** (Billion Dollar Whale, Bad Blood energy)
-- **Philosophy/Self-development** (Courage to Be Disliked, Essentialism)
-- **Startup/Founder** (referenced across writing archive)
+**Non-fiction skew:** Heavy on business/startup (Zero to One, Hard Thing, Essentialism, Unfair Advantage), AI/tech (Life 3.0, Agents in the Long Game, Principles of Building AI Agents), and philosophy (Courage to Be Disliked, How to Win Friends).
 
-He does not read fiction frequently — the writing archive has no book reviews of novels. The exception is anime/manga adjacent content and Steins;Gate (visual novel, not a book but functions similarly in his cultural landscape).
+**Classroom of the Elite** is the only light novel series — Jack notes he plans to add ~20 volumes but hasn't because it would dominate the shelf.
 
-## The 2025–2026 Reading Push
+## Five-Star Reviews
 
-From his annual review and Notion database, 2025–2026 shows an uptick in reading — Essentialism finished February 2026, multiple books in progress simultaneously. Consistent with the Agent School period: more structured, more intentional about inputs.
+### The Hard Thing About Hard Things
+"I can physically feel the tension that Ben Horowitz has felt when he is building a startup through this book."
 
-## Goodreads Access
+### How to Win Friends and Influence People
+"A foundational piece of work that I've still used as advice to this day, even though I've read it a few years ago. A lot of the ideas about human relationships still apply."
 
-The full shelf is not publicly accessible without a Goodreads login. If Jack exports his Goodreads data (Account → Settings → Export library), I can ingest the full CSV and expand this page significantly.
+### Where You Go Is Not Who You'll Be
+"One of the most important books I've read in the 2022 era. You are who you believe who you are."
+
+### The Three-Body Problem
+"One of the best book series I've read in recent time, ever since the Netflix show has come out. I highly, highly recommend anyone who wants to read this series."
 
 ## Related
 
-- [[books/the-courage-to-be-disliked]]
+- [[books/index]]
 - [[books/essentialism]]
-- [[books/billion-dollar-whale]]
+- [[books/the-courage-to-be-disliked]]
 - [[books/life-30]]
-- [[concepts/reading-list]]
+- [[people/jack-luo]]
