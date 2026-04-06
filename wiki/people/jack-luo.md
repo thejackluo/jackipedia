@@ -90,7 +90,7 @@ Currently learning Japanese, self-rated between N3 and N4.
 
 ## People Close to Jack
 - [[people/arman-mahjoor]] — Close friend and AgentDex collaborator
-- [[people/kevin-zhang]] — HexaHacks CTO, technical co-conspirator
+- [[people/kevin-zhang]] — Co-founder of Efficore, technical co-conspirator
 - [[people/jeff]] — College-era friend, psychology, Kansas
 - [[people/nimesh]] — Customer champion, hotel operator
 - [[people/james-preiss]] — Robotics advisor

@@ -12,7 +12,7 @@ This section contains pages about people in Jack's life — collaborators, advis
 | Person | Role | Relationship |
 |--------|------|--------------|
 | [[people/arman-mahjoor]] | Circlez founder | Close friend, AgentDex collaborator |
-| [[people/kevin-zhang]] | HexaHacks CTO | Technical co-conspirator |
+| [[people/kevin-zhang]] | Co-founder of Efficore | Technical co-conspirator |
 | [[people/jeff]] | Psychology honor society | College-era close friend |
 
 ## AgentDex Team
