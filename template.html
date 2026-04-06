@@ -1,49 +1,112 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Jackipedia</title>
 <style>
+/* ── Theme variables ── */
+:root {
+  --bg: #ffffff;
+  --bg-secondary: #f8f9fa;
+  --bg-topbar: #ffffff;
+  --border: #a2a9b1;
+  --border-light: #eaecf0;
+  --text: #202122;
+  --text-muted: #54595d;
+  --link: #3366cc;
+  --link-visited: #6b4ba6;
+  --code-bg: #f8f9fa;
+  --table-stripe: #f8f9fa;
+  --table-head: #eaecf0;
+  --blockquote-text: #54595d;
+  --sidebar-bg: #f8f9fa;
+  --tab-bg: #f8f9fa;
+  --tab-active-bg: #ffffff;
+  --footer-bg: #f8f9fa;
+  --toggle-bg: #a2a9b1;
+  --toggle-knob: #ffffff;
+  --search-bg: #ffffff;
+}
+
+[data-theme="dark"] {
+  --bg: #1a1a1b;
+  --bg-secondary: #272729;
+  --bg-topbar: #1a1a1b;
+  --border: #3c3c3d;
+  --border-light: #2d2d2e;
+  --text: #d7dadc;
+  --text-muted: #818384;
+  --link: #4e9af1;
+  --link-visited: #a47dd1;
+  --code-bg: #272729;
+  --table-stripe: #1f1f20;
+  --table-head: #2d2d2e;
+  --blockquote-text: #818384;
+  --sidebar-bg: #1f1f20;
+  --tab-bg: #272729;
+  --tab-active-bg: #1a1a1b;
+  --footer-bg: #1f1f20;
+  --toggle-bg: #4e9af1;
+  --toggle-knob: #ffffff;
+  --search-bg: #272729;
+}
+
 * { box-sizing: border-box; margin: 0; padding: 0; }
+
 body {
-  background: #fff;
-  color: #202122;
+  background: var(--bg);
+  color: var(--text);
   font-family: -apple-system, 'Linux Libertine', Georgia, Times, serif;
   font-size: 14px;
   line-height: 1.6;
+  transition: background 0.2s, color 0.2s;
 }
 
 /* ── Top bar ── */
 #topbar {
-  background: #fff;
-  border-bottom: 1px solid #a2a9b1;
+  background: var(--bg-topbar);
+  border-bottom: 1px solid var(--border);
   display: flex;
   align-items: center;
   padding: 0 12px;
   height: 50px;
-  gap: 12px;
+  gap: 10px;
   position: sticky;
   top: 0;
-  z-index: 100;
+  z-index: 200;
 }
 #topbar .site-name {
   font-size: 1rem;
   font-weight: bold;
-  color: #000;
+  color: var(--text);
   text-decoration: none;
   white-space: nowrap;
   font-family: sans-serif;
+  flex-shrink: 0;
 }
-#topbar .site-name span { color: #3366cc; }
+#topbar .site-name span { color: var(--link); }
+
+/* Hamburger (mobile only) */
+#menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px;
+  color: var(--text);
+  flex-shrink: 0;
+}
+#menu-toggle svg { display: block; }
+
 #search-form {
   display: flex;
   align-items: center;
-  border: 1px solid #a2a9b1;
+  border: 1px solid var(--border);
   border-radius: 2px;
   overflow: hidden;
   flex: 1;
-  max-width: 400px;
+  max-width: 380px;
   margin-left: auto;
 }
 #search-form input {
@@ -53,16 +116,40 @@ body {
   width: 100%;
   outline: none;
   font-family: sans-serif;
+  background: var(--search-bg);
+  color: var(--text);
 }
 #search-form button {
-  background: #f8f9fa;
+  background: var(--bg-secondary);
   border: none;
-  border-left: 1px solid #a2a9b1;
+  border-left: 1px solid var(--border);
   padding: 5px 10px;
   cursor: pointer;
   font-size: 13px;
-  color: #54595d;
+  color: var(--text-muted);
+  flex-shrink: 0;
 }
+
+/* ── Dark/light toggle ── */
+#theme-toggle {
+  flex-shrink: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px 6px;
+  color: var(--text-muted);
+  font-size: 17px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  transition: background 0.15s;
+}
+#theme-toggle:hover { background: var(--bg-secondary); }
+.icon-moon { display: none; }
+.icon-sun  { display: inline; }
+[data-theme="dark"] .icon-moon { display: inline; }
+[data-theme="dark"] .icon-sun  { display: none; }
 
 /* ── Layout ── */
 #layout {
@@ -74,12 +161,13 @@ body {
 #sidebar {
   width: 160px;
   min-height: 100%;
-  background: #f8f9fa;
-  border-right: 1px solid #a2a9b1;
+  background: var(--sidebar-bg);
+  border-right: 1px solid var(--border);
   padding: 12px 0;
   flex-shrink: 0;
   font-size: 12.5px;
   font-family: sans-serif;
+  transition: transform 0.25s ease, background 0.2s;
 }
 #sidebar .nav-section { margin-bottom: 8px; }
 #sidebar .nav-heading {
@@ -87,45 +175,55 @@ body {
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  color: #54595d;
+  color: var(--text-muted);
   padding: 8px 12px 2px;
 }
 #sidebar a {
   display: block;
   padding: 2px 12px;
-  color: #3366cc;
+  color: var(--link);
   text-decoration: none;
   font-size: 12.5px;
 }
 #sidebar a:hover { text-decoration: underline; }
-#sidebar hr { border: none; border-top: 1px solid #a2a9b1; margin: 6px 0; }
+#sidebar hr { border: none; border-top: 1px solid var(--border); margin: 6px 0; }
+
+/* Sidebar overlay backdrop (mobile) */
+#sidebar-backdrop {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.4);
+  z-index: 150;
+}
 
 /* ── Page tabs ── */
 #page-tabs {
-  background: #fff;
-  border-bottom: 1px solid #a2a9b1;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
   padding: 0 20px;
   display: flex;
   align-items: flex-end;
   gap: 0;
   font-family: sans-serif;
   font-size: 12.5px;
+  flex-wrap: wrap;
 }
 .tab {
   padding: 6px 12px;
   border: 1px solid transparent;
   border-bottom: none;
-  color: #3366cc;
+  color: var(--link);
   text-decoration: none;
   margin-bottom: -1px;
-  background: #f8f9fa;
-  border-color: #a2a9b1;
-  border-bottom-color: #fff;
+  background: var(--tab-bg);
+  border-color: var(--border);
+  border-bottom-color: var(--bg);
   margin-right: 2px;
   border-radius: 2px 2px 0 0;
 }
 .tab:hover { text-decoration: underline; }
-.tab.active { background: #fff; color: #202122; }
+.tab.active { background: var(--tab-active-bg); color: var(--text); }
 .tab-spacer { flex: 1; }
 
 /* ── Right tools sidebar ── */
@@ -135,7 +233,7 @@ body {
   padding: 12px;
   font-size: 12px;
   font-family: sans-serif;
-  border-left: 1px solid #eaecf0;
+  border-left: 1px solid var(--border-light);
 }
 #right-tools .tools-section { margin-bottom: 12px; }
 #right-tools .tools-heading {
@@ -143,12 +241,12 @@ body {
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  color: #54595d;
+  color: var(--text-muted);
   margin-bottom: 4px;
 }
 #right-tools a {
   display: block;
-  color: #3366cc;
+  color: var(--link);
   text-decoration: none;
   padding: 1px 0;
 }
@@ -161,9 +259,6 @@ body {
   display: flex;
   flex-direction: column;
 }
-#page-tabs-wrap {
-  border-bottom: 1px solid #a2a9b1;
-}
 #content {
   padding: 20px 24px 48px;
   max-width: 960px;
@@ -174,31 +269,57 @@ h1 {
   font-family: 'Linux Libertine', Georgia, Times, serif;
   font-size: 1.95em;
   font-weight: normal;
-  border-bottom: 1px solid #a2a9b1;
+  border-bottom: 1px solid var(--border);
   padding-bottom: 4px;
   margin-bottom: 12px;
+  color: var(--text);
 }
 h2 {
   font-family: sans-serif;
   font-size: 1.3em;
   font-weight: normal;
-  border-bottom: 1px solid #a2a9b1;
+  border-bottom: 1px solid var(--border);
   margin: 24px 0 8px;
   padding-bottom: 2px;
+  color: var(--text);
 }
-h3 { font-family: sans-serif; font-size: 1.05em; font-weight: bold; margin: 16px 0 6px; }
-h4 { font-size: 1em; font-weight: bold; margin: 12px 0 4px; font-family: sans-serif; }
+h3 { font-family: sans-serif; font-size: 1.05em; font-weight: bold; margin: 16px 0 6px; color: var(--text); }
+h4 { font-size: 1em; font-weight: bold; margin: 12px 0 4px; font-family: sans-serif; color: var(--text); }
 p { margin: 8px 0; }
-a { color: #3366cc; text-decoration: none; }
+a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
-a:visited { color: #6b4ba6; }
+a:visited { color: var(--link-visited); }
 ul, ol { margin: 8px 0 8px 28px; }
 li { margin: 3px 0; }
-code { background: #f8f9fa; border: 1px solid #a2a9b1; padding: 1px 4px; font-size: .9em; font-family: monospace; }
-pre { background: #f8f9fa; border: 1px solid #a2a9b1; padding: 12px; overflow-x: auto; margin: 12px 0; font-size: 12.5px; }
-blockquote { border-left: 3px solid #a2a9b1; margin: 12px 0 12px 24px; padding: 4px 12px; color: #54595d; font-style: italic; }
-hr { border: none; border-top: 1px solid #a2a9b1; margin: 20px 0; }
-table { border-collapse: collapse; margin: 12px 0; font-size: 13px; font-family: sans-serif; }
+code {
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  padding: 1px 4px;
+  font-size: .9em;
+  font-family: monospace;
+  color: var(--text);
+}
+pre {
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  padding: 12px;
+  overflow-x: auto;
+  margin: 12px 0;
+  font-size: 12.5px;
+  color: var(--text);
+}
+blockquote {
+  border-left: 3px solid var(--border);
+  margin: 12px 0 12px 24px;
+  padding: 4px 12px;
+  color: var(--blockquote-text);
+  font-style: italic;
+}
+hr { border: none; border-top: 1px solid var(--border); margin: 20px 0; }
+table { border-collapse: collapse; margin: 12px 0; font-size: 13px; font-family: sans-serif; width: 100%; overflow-x: auto; display: block; }
+th { background: var(--table-head); border: 1px solid var(--border); padding: 5px 10px; text-align: left; color: var(--text); }
+td { border: 1px solid var(--border); padding: 4px 10px; color: var(--text); }
+tr:nth-child(even) td { background: var(--table-stripe); }
 
 /* ── Images ── */
 #content img {
@@ -206,51 +327,106 @@ table { border-collapse: collapse; margin: 12px 0; font-size: 13px; font-family:
   height: auto;
   display: block;
   margin: 16px 0 4px;
-  border: 1px solid #a2a9b1;
+  border: 1px solid var(--border);
 }
-#content figure {
-  margin: 16px 0;
-}
+#content figure { margin: 16px 0; }
 #content figcaption {
   font-size: 0.82em;
-  color: #555;
+  color: var(--text-muted);
   font-family: sans-serif;
   margin-top: 4px;
   font-style: italic;
 }
-#content p > img:only-child {
-  margin: 16px auto;
-}
+#content p > img:only-child { margin: 16px auto; }
 
-th { background: #eaecf0; border: 1px solid #a2a9b1; padding: 5px 10px; text-align: left; }
-td { border: 1px solid #a2a9b1; padding: 4px 10px; }
-tr:nth-child(even) td { background: #f8f9fa; }
-.page-meta { font-size: 12px; color: #54595d; font-family: sans-serif; margin-bottom: 12px; }
-.categories { border-top: 1px solid #a2a9b1; margin-top: 32px; padding-top: 8px; font-size: 12.5px; font-family: sans-serif; color: #54595d; }
+.page-meta { font-size: 12px; color: var(--text-muted); font-family: sans-serif; margin-bottom: 12px; }
+.categories {
+  border-top: 1px solid var(--border);
+  margin-top: 32px;
+  padding-top: 8px;
+  font-size: 12.5px;
+  font-family: sans-serif;
+  color: var(--text-muted);
+}
 
 /* ── Footer ── */
 #footer {
-  border-top: 1px solid #a2a9b1;
+  border-top: 1px solid var(--border);
   padding: 12px 24px;
   font-size: 12px;
   font-family: sans-serif;
-  color: #54595d;
-  background: #f8f9fa;
+  color: var(--text-muted);
+  background: var(--footer-bg);
   margin-left: 160px;
+  transition: background 0.2s;
 }
-#footer a { color: #3366cc; }
+#footer a { color: var(--link); }
+
+/* ── Mobile ── */
+@media (max-width: 768px) {
+  #menu-toggle { display: flex; }
+
+  #sidebar {
+    position: fixed;
+    top: 50px;
+    left: 0;
+    bottom: 0;
+    width: 240px;
+    z-index: 160;
+    overflow-y: auto;
+    transform: translateX(-100%);
+  }
+  #sidebar.open { transform: translateX(0); }
+  #sidebar-backdrop.open { display: block; }
+
+  #right-tools { display: none; }
+
+  #content { padding: 14px 14px 48px; }
+
+  #footer { margin-left: 0; padding: 12px 14px; }
+
+  h1 { font-size: 1.5em; }
+  h2 { font-size: 1.15em; }
+
+  #search-form { max-width: none; }
+
+  table { font-size: 12px; }
+  td, th { padding: 4px 6px; }
+}
+
+@media (max-width: 480px) {
+  #topbar { gap: 6px; padding: 0 8px; }
+  #topbar .site-name { font-size: 0.9rem; }
+  #content { padding: 12px 10px 40px; }
+  #page-tabs { padding: 0 10px; }
+  .tab { padding: 5px 8px; font-size: 11.5px; }
+}
 </style>
 </head>
 <body>
 
 <!-- Top bar -->
 <div id="topbar">
+  <button id="menu-toggle" aria-label="Open navigation" onclick="toggleSidebar()">
+    <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+      <rect y="3" width="20" height="2" rx="1"/>
+      <rect y="9" width="20" height="2" rx="1"/>
+      <rect y="15" width="20" height="2" rx="1"/>
+    </svg>
+  </button>
   <a class="site-name" href="/index.html">Jack<span>ipedia</span></a>
   <form id="search-form" action="/meta/history.html">
-    <input type="text" placeholder="Search Jackipedia" name="q">
-    <button type="submit">Search</button>
+    <input type="text" placeholder="Search Jackipedia" name="q" autocomplete="off">
+    <button type="submit">&#128269;</button>
   </form>
+  <button id="theme-toggle" aria-label="Toggle dark mode" onclick="toggleTheme()">
+    <span class="icon-sun">&#9788;</span>
+    <span class="icon-moon">&#9790;</span>
+  </button>
 </div>
+
+<!-- Sidebar backdrop (mobile) -->
+<div id="sidebar-backdrop" onclick="closeSidebar()"></div>
 
 <div id="layout">
 
@@ -298,11 +474,45 @@ tr:nth-child(even) td { background: #f8f9fa; }
 
 <!-- Footer -->
 <div id="footer">
-  Jackipedia — Jack Luo's personal knowledge wiki &nbsp;|&nbsp;
+  Jackipedia &mdash; Jack Luo's personal knowledge wiki &nbsp;|&nbsp;
   <a href="/meta/history.html">Recent changes</a> &nbsp;|&nbsp;
   <a href="/log.html">Log</a> &nbsp;|&nbsp;
   Powered by git + pandoc
 </div>
+
+<script>
+// ── Theme ──
+(function() {
+  const saved = localStorage.getItem('jw-theme');
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const theme = saved || (prefersDark ? 'dark' : 'light');
+  document.documentElement.setAttribute('data-theme', theme);
+})();
+
+function toggleTheme() {
+  const html = document.documentElement;
+  const current = html.getAttribute('data-theme');
+  const next = current === 'dark' ? 'light' : 'dark';
+  html.setAttribute('data-theme', next);
+  localStorage.setItem('jw-theme', next);
+}
+
+// ── Sidebar (mobile) ──
+function toggleSidebar() {
+  document.getElementById('sidebar').classList.toggle('open');
+  document.getElementById('sidebar-backdrop').classList.toggle('open');
+}
+function closeSidebar() {
+  document.getElementById('sidebar').classList.remove('open');
+  document.getElementById('sidebar-backdrop').classList.remove('open');
+}
+// Close sidebar on nav link click (mobile)
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('#sidebar a').forEach(function(link) {
+    link.addEventListener('click', closeSidebar);
+  });
+});
+</script>
 
 </body>
 </html>
