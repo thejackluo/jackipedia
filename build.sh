@@ -406,7 +406,7 @@ def build_main_page(nav, all_history, page_count=0):
 .mp-3col > div {{ flex: 1; min-width: 0; }}
 @media (max-width: 700px) {{ .mp-columns, .mp-3col {{ flex-direction: column; }} }}
 .mp-title {{ font-family: 'Linux Libertine', Georgia, Times, serif; font-size: 1.95em; font-weight: normal; border-bottom: 1px solid var(--border); padding-bottom: 4px; margin-bottom: 16px; }}
-.mp-welcome {{ background: #eaf3fb; border: 1px solid var(--border); padding: 12px 16px; margin-bottom: 16px; font-size: 13.5px; }}
+.mp-welcome {{ background: var(--bg-secondary); border: 1px solid var(--border); padding: 12px 16px; margin-bottom: 16px; font-size: 13.5px; }}
 .mp-welcome b {{ font-size: 1.1em; }}
 </style>
 
