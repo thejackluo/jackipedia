@@ -15,6 +15,7 @@ He has been maintaining a writing practice since at least 2021 — 360+ entries 
 | Field | Value |
 |-------|-------|
 | Full name | Jack Luo |
+| Chinese name | 罗唅章 |
 | Username | thejackluo |
 | Current location | San Francisco Bay Area / Oakland, CA |
 | Email | jack@hexahacks.com |
