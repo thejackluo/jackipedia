@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jackipedia</title>
+<style>
+  :root {
+    --bg: #0f0f0f;
+    --surface: #1a1a1a;
+    --border: #2a2a2a;
+    --text: #e8e8e8;
+    --muted: #888;
+    --gold: #d4a843;
+    --link: #a78bfa;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.7; }
+  .layout { display: flex; min-height: 100vh; }
+  .sidebar { width: 260px; min-height: 100vh; background: var(--surface); border-right: 1px solid var(--border); padding: 24px 16px; position: fixed; overflow-y: auto; }
+  .sidebar h1 { font-size: 1.3rem; color: var(--gold); margin-bottom: 4px; }
+  .sidebar .tagline { font-size: 0.75rem; color: var(--muted); margin-bottom: 24px; }
+  .sidebar nav h2 { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); margin: 16px 0 6px; }
+  .sidebar nav a { display: block; padding: 4px 8px; border-radius: 4px; color: var(--text); text-decoration: none; font-size: 0.875rem; }
+  .sidebar nav a:hover { background: var(--border); color: var(--gold); }
+  .main { margin-left: 260px; padding: 48px; max-width: 860px; }
+  h1 { font-size: 2rem; color: var(--gold); margin-bottom: 8px; }
+  h2 { font-size: 1.25rem; margin: 32px 0 12px; color: var(--text); border-bottom: 1px solid var(--border); padding-bottom: 6px; }
+  h3 { font-size: 1rem; margin: 24px 0 8px; color: var(--text); }
+  p { margin: 12px 0; color: var(--text); }
+  a { color: var(--link); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  ul, ol { margin: 12px 0 12px 24px; }
+  li { margin: 4px 0; }
+  code { background: var(--surface); padding: 2px 6px; border-radius: 4px; font-size: 0.875em; color: var(--gold); }
+  pre { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 16px; overflow-x: auto; margin: 16px 0; }
+  blockquote { border-left: 3px solid var(--gold); padding: 8px 16px; margin: 16px 0; background: var(--surface); border-radius: 0 8px 8px 0; color: var(--muted); }
+  hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+  table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+  th, td { padding: 8px 12px; border: 1px solid var(--border); text-align: left; }
+  th { background: var(--surface); color: var(--gold); }
+  .meta { font-size: 0.8rem; color: var(--muted); margin-bottom: 24px; }
+</style>
+</head>
+<body>
+<div class="layout">
+  <aside class="sidebar">
+    <h1>🧠 Jackipedia</h1>
+    <div class="tagline">Jack Luo's personal knowledge wiki</div>
+    <nav>
+      <h2>Core</h2>
+      <a href="/index.html">Index</a>
+      <a href="/log.html">Log</a>
+      <h2>People</h2>
+      <a href="/wiki/people/jack-luo.html">Jack Luo</a>
+      <h2>Philosophy</h2>
+      <h2>Goals</h2>
+      <h2>Concepts</h2>
+    </nav>
+  </aside>
+  <main class="main">
+    CONTENT_PLACEHOLDER
+  </main>
+</div>
+</body>
+</html>
