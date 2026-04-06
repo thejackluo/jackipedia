@@ -88,16 +88,20 @@ def build_page_history_html(history):
     return f"<div id='page-history' style='margin-top:32px;border-top:1px solid var(--border);padding-top:12px;'><h2>Revision history</h2><table><tr><th>Date</th><th>Commit</th><th>Edit summary</th></tr>{rows}</table></div>"
 
 
-def render_page(title, content, nav, extra_css="", is_main=False):
+def render_page(title, content, nav, extra_css="", is_main=False, translation_html="", lang_label=""):
     tabs = ""
     if not is_main:
-        tabs = '<a class="tab active" href="#">Article</a><a class="tab" href="#page-history">History</a><a class="tab" href="/meta/history.html">All changes</a>'
+        lang_btn = f'<button class="lang-toggle-btn" onclick="toggleLang(this, \'{lang_label}\')">{lang_label}</button>' if translation_html else ""
+        tabs = f'<a class="tab active" href="#">Article</a><a class="tab" href="#page-history">History</a><a class="tab" href="/meta/history.html">All changes</a>{lang_btn}'
     else:
         tabs = '<a class="tab active" href="/index.html">Main page</a><a class="tab" href="/meta/history.html">Recent changes</a>'
+
+    translation_block = f'<div id="content-translation">{translation_html}</div>' if translation_html else ""
 
     html = BASE_TEMPLATE
     html = html.replace("NAV_PLACEHOLDER", nav)
     html = html.replace("CONTENT_PLACEHOLDER", content)
+    html = html.replace("TRANSLATION_PLACEHOLDER", translation_block)
     html = html.replace("TABS_PLACEHOLDER", tabs)
     html = html.replace("EXTRA_CSS_PLACEHOLDER", extra_css)
     html = html.replace("<title>Jackipedia</title>", f"<title>{title} — Jackipedia</title>")
@@ -135,7 +139,22 @@ def build_page(md_file, nav, all_history):
     full_content = meta + content + history_html
 
     is_main = (rel_path == "index.md")
-    html = render_page(title, full_content, nav, is_main=is_main)
+
+    # Check for translation file (.zh.md or .ja.md)
+    translation_html = ""
+    lang_label = ""
+    for lang_ext, lang_lbl in [(".zh.md", "中文"), (".ja.md", "日本語")]:
+        trans_file = md_file.replace(".md", lang_ext)
+        if os.path.exists(trans_file):
+            tr = subprocess.run(
+                ["pandoc", "--from", "markdown", "--to", "html", "--no-highlight", trans_file],
+                capture_output=True, text=True
+            )
+            translation_html = tr.stdout
+            lang_label = lang_lbl
+            break
+
+    html = render_page(title, full_content, nav, is_main=is_main, translation_html=translation_html, lang_label=lang_label)
     with open(out_file, "w") as f:
         f.write(html)
 

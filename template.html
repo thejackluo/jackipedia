@@ -233,6 +233,35 @@ body {
 }
 .tab:hover { text-decoration: underline; }
 .tab.active { background: var(--tab-active-bg); color: var(--text); }
+
+/* Translation */
+#content-translation {
+  display: none;
+  padding: 16px 24px 24px;
+  flex: 1;
+  font-family: -apple-system, 'Linux Libertine', Georgia, Times, serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--text);
+  max-width: 860px;
+}
+#content-translation.visible { display: block; }
+.lang-toggle-btn {
+  display: inline-block;
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-bottom: none;
+  color: var(--link);
+  text-decoration: none;
+  margin-bottom: -1px;
+  background: var(--tab-bg);
+  border-color: var(--border);
+  border-bottom-color: var(--bg);
+  margin-right: 2px;
+  border-radius: 2px 2px 0 0;
+  cursor: pointer;
+  font-size: 13px;
+}
 .tab-spacer { flex: 1; }
 
 /* ── Right tools sidebar ── */
@@ -594,6 +623,7 @@ tr:nth-child(even) td { background: var(--table-stripe); }
       <div id="content">
         CONTENT_PLACEHOLDER
       </div>
+      TRANSLATION_PLACEHOLDER
     </div>
 
   </div>
@@ -617,6 +647,23 @@ function toggleTheme() {
   const next = current === 'dark' ? 'light' : 'dark';
   html.setAttribute('data-theme', next);
   localStorage.setItem('jw-theme', next);
+}
+
+// ── Language toggle ──
+function toggleLang(btn, langLabel) {
+  const eng = document.getElementById('content');
+  const tra = document.getElementById('content-translation');
+  if (!tra) return;
+  const isTranslation = tra.classList.contains('visible');
+  if (isTranslation) {
+    tra.classList.remove('visible');
+    eng.style.display = '';
+    btn.textContent = langLabel;
+  } else {
+    tra.classList.add('visible');
+    eng.style.display = 'none';
+    btn.textContent = 'English';
+  }
 }
 
 // ── Random article ──

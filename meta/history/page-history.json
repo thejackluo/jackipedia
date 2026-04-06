@@ -170,6 +170,7 @@
       "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
     }
   ],
+  "wiki/writings/vivarium.ja": [],
   "wiki/writings/nostalgia-burnout-georgia-tech": [
     {
       "commit": "c2e146b2",
@@ -405,6 +406,7 @@
       "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
     }
   ],
+  "wiki/people/jack-luo.zh": [],
   "wiki/people/leo-zhang": [
     {
       "commit": "6b128df8",
@@ -506,6 +508,7 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
+  "wiki/books/three-body-problem": [],
   "wiki/books/the-courage-to-be-disliked": [
     {
       "commit": "c3410fe8",
@@ -513,6 +516,8 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
+  "wiki/books/three-body-problem.zh": [],
+  "wiki/books/three-body-problem.ja": [],
   "wiki/books/billion-dollar-whale": [
     {
       "commit": "c3410fe8",
@@ -660,6 +665,7 @@
       "summary": "build: auto-update 2026-04-06 05:39 UTC (78 pages)"
     }
   ],
+  "wiki/history/japan-trip-2024.ja": [],
   "wiki/history/cupertino-high-school": [
     {
       "commit": "83bb4f5c",
@@ -672,6 +678,7 @@
       "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
     }
   ],
+  "wiki/music/soundcloud.ja": [],
   "wiki/music/soundcloud": [
     {
       "commit": "b9719069",
@@ -686,6 +693,7 @@
       "summary": "ingest: writing archive (360 entries), walk-in-the-park framework, annual review 2024"
     }
   ],
+  "wiki/projects/ces-2025.zh": [],
   "wiki/projects/mira": [
     {
       "commit": "83bb4f5c",
