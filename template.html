@@ -199,6 +199,29 @@ pre { background: #f8f9fa; border: 1px solid #a2a9b1; padding: 12px; overflow-x:
 blockquote { border-left: 3px solid #a2a9b1; margin: 12px 0 12px 24px; padding: 4px 12px; color: #54595d; font-style: italic; }
 hr { border: none; border-top: 1px solid #a2a9b1; margin: 20px 0; }
 table { border-collapse: collapse; margin: 12px 0; font-size: 13px; font-family: sans-serif; }
+
+/* ── Images ── */
+#content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 16px 0 4px;
+  border: 1px solid #a2a9b1;
+}
+#content figure {
+  margin: 16px 0;
+}
+#content figcaption {
+  font-size: 0.82em;
+  color: #555;
+  font-family: sans-serif;
+  margin-top: 4px;
+  font-style: italic;
+}
+#content p > img:only-child {
+  margin: 16px auto;
+}
+
 th { background: #eaecf0; border: 1px solid #a2a9b1; padding: 5px 10px; text-align: left; }
 td { border: 1px solid #a2a9b1; padding: 4px 10px; }
 tr:nth-child(even) td { background: #f8f9fa; }

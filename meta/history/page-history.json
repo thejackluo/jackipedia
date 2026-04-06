@@ -6,7 +6,13 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
-  "wiki/dreams/jolie-austin-cool-place": [],
+  "wiki/dreams/jolie-austin-cool-place": [
+    {
+      "commit": "f9fee634",
+      "date": "2026-04-06 05:10:30",
+      "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
+    }
+  ],
   "wiki/dreams/great-america": [
     {
       "commit": "c3410fe8",
@@ -21,10 +27,34 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
-  "wiki/dreams/vending-machine-2023": [],
-  "wiki/dreams/japanese-stores-phantom-friends": [],
-  "wiki/dreams/roguelike-card-game": [],
-  "wiki/dreams/vending-machine-dreams": [],
+  "wiki/dreams/vending-machine-2023": [
+    {
+      "commit": "f9fee634",
+      "date": "2026-04-06 05:10:30",
+      "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
+    }
+  ],
+  "wiki/dreams/japanese-stores-phantom-friends": [
+    {
+      "commit": "f9fee634",
+      "date": "2026-04-06 05:10:30",
+      "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
+    }
+  ],
+  "wiki/dreams/roguelike-card-game": [
+    {
+      "commit": "f9fee634",
+      "date": "2026-04-06 05:10:30",
+      "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
+    }
+  ],
+  "wiki/dreams/vending-machine-dreams": [
+    {
+      "commit": "f9fee634",
+      "date": "2026-04-06 05:10:30",
+      "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
+    }
+  ],
   "wiki/fitness/running-project-2021": [
     {
       "commit": "c3410fe8",
@@ -317,10 +347,34 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
-  "wiki/history/georgia-tech-era": [],
-  "wiki/history/japan-trip-2024": [],
-  "wiki/history/ucsc-era": [],
-  "wiki/history/cupertino-high-school": [],
+  "wiki/history/georgia-tech-era": [
+    {
+      "commit": "f9fee634",
+      "date": "2026-04-06 05:10:30",
+      "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
+    }
+  ],
+  "wiki/history/japan-trip-2024": [
+    {
+      "commit": "f9fee634",
+      "date": "2026-04-06 05:10:30",
+      "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
+    }
+  ],
+  "wiki/history/ucsc-era": [
+    {
+      "commit": "f9fee634",
+      "date": "2026-04-06 05:10:30",
+      "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
+    }
+  ],
+  "wiki/history/cupertino-high-school": [
+    {
+      "commit": "f9fee634",
+      "date": "2026-04-06 05:10:30",
+      "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
+    }
+  ],
   "wiki/philosophy/walk-in-the-park-framework": [
     {
       "commit": "b855070d",

@@ -4,7 +4,9 @@
 
 ## Overview
 
-Jack Luo (username: thejackluo) is a builder, writer, and student working at the intersection of AI agents, automation, and personal software. He is the founder of AgentDex and the operator of Agent School. He describes himself as an "AI-centric full-stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight."
+Jack Luo (username: thejackluo) is a builder, writer, and student working at the intersection of AI agents, automation, and personal software.
+
+![Jack Luo](/assets/photos/jack-main.jpg) He is the founder of AgentDex and the operator of Agent School. He describes himself as an "AI-centric full-stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight."
 
 He has been maintaining a writing practice since at least 2021 — 360+ entries spanning deep personal reflection, technical essays, and annual reviews. The archive is the best record of who he is.
 
@@ -49,9 +51,14 @@ Working on agentic architecture. GitHub: github.com/SGIARK/arkos.
 ## Accomplishments
 
 - Won Top 15 at Berkeley AI Hackathon (June 2024)
+
+![Berkeley AI Hackathon — Jack and team at UC Berkeley](/assets/photos/berkeley-hackathon.jpg)
+
 - Won 1st place at Digitalized and CodeDay SF
 - Finalist at Penn's pitch competition and Northwestern's pitch competition
 - Discussed AI with Elon Musk on Hack Club video calls (2 appearances, both on YouTube)
+
+![Elon Musk on the Hack Club video call](/assets/photos/elon-hackclub-1.jpg)
 - Featured in Towards AI news
 - Co-organized Q House (2023), New York Hacker House (2025), and inspired the Georgia Tech Hacker House (2025)
 - Slept on a WeWork office rooftop for a month
