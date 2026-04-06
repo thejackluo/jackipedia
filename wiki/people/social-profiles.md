@@ -35,7 +35,7 @@ Currently pursuing an "unconventional education" through building and tackling c
 - Attended NVIDIA conference, hosted group to CES
 - Growth hacked 30X in DeSo through ETH and alt coins
 - Graduated Buildspace S4 (nights and weekends cohort)
-- Got viral on TikTok: 2M+ combined views on Brazil and Nepal content, reposted by @chrisclipsss
+- Got viral on TikTok: 2M+ combined views on Brazil, Nepal, and Portugal content, reposted by @chrisclipsss
 - Researched neural networks in NLP
 - 50+ Medium blogs (surpassed milestone as of jack-luo.com writing)
 

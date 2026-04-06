@@ -30,7 +30,7 @@ A dramatic bronze sculpture of a man mid-stride, his lower body fragmenting into
 
 [[image:miami-successful-tiktok.jpg|Jack in Georgia Tech shirt talking with caption "successful"]]
 
-A frame from what appears to be a TikTok or Instagram Reel — Jack in his Georgia Tech shirt mid-conversation with someone, the word "succesful" overlaid in white text. This is consistent with the Eddie the Lou collab or the viral two-countries TikTok (Brazil and Nepal) that got 2M+ combined views.
+A frame from what appears to be a TikTok or Instagram Reel — Jack in his Georgia Tech shirt mid-conversation with someone, the word "succesful" overlaid in white text. This is consistent with the Eddie the Lou collab or the viral three-countries TikTok (Brazil, Nepal, and Portugal) that got 2M+ combined views.
 
 ## Food
 

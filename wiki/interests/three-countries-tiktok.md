@@ -1,4 +1,4 @@
-# Two-Countries TikTok
+# Three-Countries TikTok
 
 **Category:** Interests / Social Media
 **Summary:** Jack's viral TikTok content about Brazil and Nepal — 2M+ combined views
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Jack went viral on TikTok with content about two countries: **Brazil** and **Nepal**. The videos accumulated 2 million+ combined views, primarily through reposter accounts (notably @chrisclipsss, which redistributed the content and drove the bulk of views).
+Jack went viral on TikTok with content about three countries: **Brazil**, **Nepal**, and **Portugal**. The videos accumulated 2 million+ combined views, primarily through reposter accounts (notably @chrisclipsss, which redistributed the content and drove the bulk of views).
 
 This is one of the stranger facts in the Jackipedia — a person building AI agents and writing dense philosophical essays also has 2M+ TikTok views on country content.
 
@@ -18,9 +18,19 @@ Brazil is one of the most culturally vivid countries on earth: the Amazon, Carni
 
 ### Nepal
 
+Nepal is the opposite of Brazil in almost every way. Landlocked, mountainous, extreme landscape. The Himalayas are not subtle. Kathmandu is not a subtle city. Nepal is where people go when they want to feel like the world is larger than they thought.
+
+### Portugal
+
+Portugal sits at the edge of Europe — the westernmost point of continental Europe, Atlantic-facing, with a long history of exploration and a culture built around saudade (a Portuguese word roughly meaning "longing for something beautiful that is gone or may never have existed"). Lisbon is one of the most architecturally distinctive cities in Europe: tiled facades, hilltop views, trams, a particular quality of light. Porto has the wine, the bridges, the river. Portugal punches well above its size in cultural density.
+
+It completes a trio with Brazil (former Portuguese colony, shares the language) and Nepal (extreme altitude, extreme landscape) — three countries that each carry an unusually vivid sense of place.
+
+
+
 Nepal is the opposite of Brazil in almost every way. Landlocked, mountainous, one of the least densely populated countries relative to its landmass. But it shares the same property: extreme intensity of place. The Himalayas are not a subtle landscape. Kathmandu is not a subtle city. Nepal is where people go when they want to feel like the world is larger than they thought.
 
-The two countries together suggest content that plays on contrast — or on a specific curiosity about what makes places feel alive and different from the default.
+The three countries together suggest content that plays on contrast — or on a specific curiosity about what makes places feel alive and different from the default.
 
 ## The Viral Mechanics
 
