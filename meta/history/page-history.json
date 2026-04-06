@@ -2405,6 +2405,11 @@
   ],
   "wiki/interests/electric-unicycle": [
     {
+      "commit": "6127ca30",
+      "date": "2026-04-06 08:50:14",
+      "summary": "build: auto-update 2026-04-06 08:50 UTC (131 pages)"
+    },
+    {
       "commit": "337e1ee6",
       "date": "2026-04-06 08:47:03",
       "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
@@ -2500,7 +2505,13 @@
       "summary": "build: auto-update 2026-04-06 06:14 UTC (97 pages)"
     }
   ],
-  "wiki/interests/world-records": [],
+  "wiki/interests/world-records": [
+    {
+      "commit": "6127ca30",
+      "date": "2026-04-06 08:50:14",
+      "summary": "build: auto-update 2026-04-06 08:50 UTC (131 pages)"
+    }
+  ],
   "wiki/interests/factorio": [
     {
       "commit": "337e1ee6",
