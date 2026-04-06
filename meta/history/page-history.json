@@ -6,10 +6,39 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
-  "wiki/dreams/great-america": [],
-  "wiki/dreams/cloud-code-hierarchy": [],
-  "wiki/fitness/running-project-2021": [],
-  "wiki/fitness/weight-loss-tracker": [],
+  "wiki/dreams/jolie-austin-cool-place": [],
+  "wiki/dreams/great-america": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
+  "wiki/dreams/cloud-code-hierarchy": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
+  "wiki/dreams/vending-machine-2023": [],
+  "wiki/dreams/japanese-stores-phantom-friends": [],
+  "wiki/dreams/roguelike-card-game": [],
+  "wiki/dreams/vending-machine-dreams": [],
+  "wiki/fitness/running-project-2021": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
+  "wiki/fitness/weight-loss-tracker": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
   "wiki/writings/ai-society-human-evolution": [
     {
       "commit": "c2e146b2",
@@ -225,9 +254,27 @@
       "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
     }
   ],
-  "wiki/concepts/agent-x-launch": [],
-  "wiki/concepts/ai-interactive-storytelling": [],
-  "wiki/concepts/investor-pitch-mechanics": [],
+  "wiki/concepts/agent-x-launch": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
+  "wiki/concepts/ai-interactive-storytelling": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
+  "wiki/concepts/investor-pitch-mechanics": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
   "wiki/concepts/reading-list": [
     {
       "commit": "f1c764ed",
@@ -242,10 +289,38 @@
       "summary": "ingest: writing archive (360 entries), walk-in-the-park framework, annual review 2024"
     }
   ],
-  "wiki/books/essentialism": [],
-  "wiki/books/the-courage-to-be-disliked": [],
-  "wiki/books/billion-dollar-whale": [],
-  "wiki/books/life-30": [],
+  "wiki/books/essentialism": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
+  "wiki/books/the-courage-to-be-disliked": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
+  "wiki/books/billion-dollar-whale": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
+  "wiki/books/life-30": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
+  "wiki/history/georgia-tech-era": [],
+  "wiki/history/japan-trip-2024": [],
+  "wiki/history/ucsc-era": [],
+  "wiki/history/cupertino-high-school": [],
   "wiki/philosophy/walk-in-the-park-framework": [
     {
       "commit": "b855070d",
@@ -253,8 +328,32 @@
       "summary": "ingest: writing archive (360 entries), walk-in-the-park framework, annual review 2024"
     }
   ],
-  "wiki/projects/mira": [],
-  "wiki/projects/ces-2025": [],
-  "wiki/projects/agentdex": [],
-  "wiki/projects/jackipedia": []
+  "wiki/projects/mira": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
+  "wiki/projects/ces-2025": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
+  "wiki/projects/agentdex": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
+  "wiki/projects/jackipedia": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ]
 }

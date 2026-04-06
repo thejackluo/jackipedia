@@ -38,7 +38,7 @@ def get_git_log(md_file):
 def get_sidebar_nav():
     sections = {
         "people": [], "writings": [], "philosophy": [], "projects": [],
-        "books": [], "fitness": [], "dreams": [], "concepts": [], "goals": []
+        "books": [], "fitness": [], "dreams": [], "history": [], "concepts": [], "goals": []
     }
     for section in sections:
         path = f"{WIKI_DIR}/wiki/{section}"
@@ -52,7 +52,7 @@ def get_sidebar_nav():
     labels = {
         "people": "People", "writings": "Writings", "philosophy": "Philosophy",
         "projects": "Projects", "books": "Books", "fitness": "Fitness",
-        "dreams": "Dreams", "concepts": "Concepts", "goals": "Goals"
+        "dreams": "Dreams", "history": "History", "concepts": "Concepts", "goals": "Goals"
     }
     for key, label in labels.items():
         if sections[key]:
