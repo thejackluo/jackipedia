@@ -1520,6 +1520,11 @@
   ],
   "wiki/history/ces": [
     {
+      "commit": "d5fb1681",
+      "date": "2026-04-06 07:36:39",
+      "summary": "build: auto-update 2026-04-06 07:36 UTC (129 pages)"
+    },
+    {
       "commit": "5ebe9165",
       "date": "2026-04-06 06:43:54",
       "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
@@ -1920,6 +1925,11 @@
   ],
   "wiki/projects/ces-2025.zh": [
     {
+      "commit": "d5fb1681",
+      "date": "2026-04-06 07:36:39",
+      "summary": "build: auto-update 2026-04-06 07:36 UTC (129 pages)"
+    },
+    {
       "commit": "1b094f72",
       "date": "2026-04-06 06:16:09",
       "summary": "build: auto-update 2026-04-06 06:16 UTC (97 pages)"
@@ -1958,6 +1968,11 @@
     }
   ],
   "wiki/projects/ces-2025": [
+    {
+      "commit": "d5fb1681",
+      "date": "2026-04-06 07:36:39",
+      "summary": "build: auto-update 2026-04-06 07:36 UTC (129 pages)"
+    },
     {
       "commit": "948c69c8",
       "date": "2026-04-06 06:45:28",
