@@ -10,7 +10,8 @@ This section documents the eras, events, and places that have shaped Jack's life
 |-----|--------|------|
 | Cupertino | 2019–2022 | [[history/cupertino-high-school]] |
 | UCSC | 2022–2024 | [[history/ucsc-era]] |
-| Georgia Tech | 2024–present | [[history/georgia-tech-era]] |
+| Georgia Tech | 2024–2025 | [[history/georgia-tech-era]] |
+| MIT Era | 2025–present | [[history/mit-era]] |
 
 ## Key Events
 

@@ -1,4 +1,6 @@
 # Weight Loss Tracker (MIG)
+
+![Jack at the gym, 2025](/assets/photos/jack-gym.jpg)
 **Category:** Fitness
 **Period:** 2021 – ongoing
 **Last updated:** 2026-04-06

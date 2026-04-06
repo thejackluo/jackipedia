@@ -105,6 +105,20 @@ Jack's writing archive spans 2021–2026. The best pieces are documented in the 
 - GitHub (public profile)
 - Conversations via Telegram (2026-03 to present)
 
+## Personal Artifacts
+
+![Custom tote bag with Jack's photo printed on it](/assets/photos/jack-tote-bag.jpg)
+
+A custom-printed tote bag with Jack's photo on it — spotted in a car. The kind of thing that exists because someone made it happen.
+
+![Jack and a friend at a Chinese BBQ restaurant](/assets/photos/jack-bbq-friend.jpg)
+
+Jack and a friend at a Chinese BBQ restaurant — skewers on the table, neon sign visible through the wooden partition behind them. The casual version of the social life.
+
+![Hillside house in Oakland/Berkeley hills](/assets/photos/hillside-house.jpg)
+
+A modern hillside house in the Oakland/Berkeley hills — white concrete, multiple decks, wood-paneled upper story, blue sky. Jack's home base area.
+
 ## Travel Statistics
 
 ![Flighty flight log — 76 flights, 120,963 miles, 26 airports, 9 airlines](/assets/photos/flighty-stats.jpg)

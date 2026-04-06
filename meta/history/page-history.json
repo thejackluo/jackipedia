@@ -113,6 +113,11 @@
   ],
   "wiki/writings/loneliness-and-sacrifice": [
     {
+      "commit": "12c9d050",
+      "date": "2026-04-06 05:16:35",
+      "summary": "photos: 5 personal photos added \u2014 flighty stats, noodles, neon sign, rain/catering tray, japan sweets; new travel page with full flight stats"
+    },
+    {
       "commit": "c2e146b2",
       "date": "2026-04-06 04:08:43",
       "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
@@ -253,6 +258,11 @@
   ],
   "wiki/people/jack-luo": [
     {
+      "commit": "12c9d050",
+      "date": "2026-04-06 05:16:35",
+      "summary": "photos: 5 personal photos added \u2014 flighty stats, noodles, neon sign, rain/catering tray, japan sweets; new travel page with full flight stats"
+    },
+    {
       "commit": "aa83b40e",
       "date": "2026-04-06 05:14:13",
       "summary": "images: profile photo, berkeley hackathon group, elon musk hackclub call; CSS image styles; auto-copy assets on build"
@@ -303,6 +313,7 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
+  "wiki/concepts/emotional-intelligence-ai": [],
   "wiki/concepts/investor-pitch-mechanics": [
     {
       "commit": "c3410fe8",
@@ -352,7 +363,13 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
+  "wiki/history/mit-era": [],
   "wiki/history/georgia-tech-era": [
+    {
+      "commit": "12c9d050",
+      "date": "2026-04-06 05:16:35",
+      "summary": "photos: 5 personal photos added \u2014 flighty stats, noodles, neon sign, rain/catering tray, japan sweets; new travel page with full flight stats"
+    },
     {
       "commit": "f9fee634",
       "date": "2026-04-06 05:10:30",
@@ -361,12 +378,23 @@
   ],
   "wiki/history/japan-trip-2024": [
     {
+      "commit": "12c9d050",
+      "date": "2026-04-06 05:16:35",
+      "summary": "photos: 5 personal photos added \u2014 flighty stats, noodles, neon sign, rain/catering tray, japan sweets; new travel page with full flight stats"
+    },
+    {
       "commit": "f9fee634",
       "date": "2026-04-06 05:10:30",
       "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
     }
   ],
-  "wiki/history/travel": [],
+  "wiki/history/travel": [
+    {
+      "commit": "12c9d050",
+      "date": "2026-04-06 05:16:35",
+      "summary": "photos: 5 personal photos added \u2014 flighty stats, noodles, neon sign, rain/catering tray, japan sweets; new travel page with full flight stats"
+    }
+  ],
   "wiki/history/ucsc-era": [
     {
       "commit": "f9fee634",
@@ -407,6 +435,7 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
+  "wiki/projects/agent-school": [],
   "wiki/projects/agentdex": [
     {
       "commit": "c3410fe8",

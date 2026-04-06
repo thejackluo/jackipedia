@@ -27,6 +27,16 @@ Jack has been building this since at least mid-2024. It went to production April
 - AI routing: Bedrock → Anthropic → OpenAI
 - Deployment: Coolify on worker-vps-1 (agentdex.agentschool.io) and Vercel (rolo.agentschool.io)
 
+## The Night Shift
+
+![Agentdex commit analysis — Jack at 1am still building](/assets/photos/agentdex-commit-analysis.jpg)
+
+A late-night AI analysis of the agentdex-v1 commit log, March 2026. The "Jessica Incident" refers to a persona Jack added to the codebase at 10pm, deleted at 1:35am after an existential crisis, then restored 21 minutes later. She's still in the repo today.
+
+![OpenCode session tracking March dev log](/assets/photos/opencode-dev-log.jpg)
+
+Jack's OpenCode session log for March 2026 — days like March 26 logged 76 turns in a single session. March 27: 299 turns. The kind of data that only accumulates when you don't stop.
+
 ## Project History
 
 | Date | Event |

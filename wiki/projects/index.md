@@ -8,6 +8,7 @@ This section covers Jack's major projects — startups, events, and initiatives 
 | Project | Status | Description |
 |---------|--------|-------------|
 | [[projects/agentdex]] | Launched Apr 1, 2026 | AI-powered personal CRM / relationship intelligence |
+| [[projects/agent-school]] | Active | MIT E38-379, AI agent infrastructure |
 | [[projects/jackipedia]] | Active | This wiki |
 
 ## Past / Concluded

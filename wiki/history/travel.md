@@ -53,6 +53,16 @@ During the AgentDex build period, Jack lived a partially nomadic life — moving
 
 ![Jack in the rain, holding a catering tray — a hacker house food run](/assets/photos/jack-rain-catering.jpg)
 
+## Flight Culture
+
+![Chainsaw Man on airplane seatback screen](/assets/photos/chainsaw-man-flight.jpg)
+
+Jack watching Chainsaw Man on a flight — the anime visible on the seatback screen, cabin lights dim overhead. This is the natural state: in transit, watching anime.
+
+![Lobster plushie at airport](/assets/photos/lobster-plushie.jpg)
+
+A red lobster plushie held up at an airport terminal — windows behind it showing an early dawn sky. Picked up somewhere between Boston and wherever next. The kind of thing you carry when airports are a regular habitat.
+
 ## Next
 
 From the March 2025 Jeff conversation, Jack's next travel targets: **Shanghai, Tokyo, Osaka**.
