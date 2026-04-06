@@ -13,7 +13,7 @@ Jack conducted 24+ customer discovery interviews in January and February 2026, v
 |---|--------|------|---------|
 | CD 2 | Seco | Jan 26, 2026 | Not ICP, potential collab on website/project if needed for revenue |
 | CD 5 | Manas Nair | Jan 21, 2026 | Going to connect Jack with his cofounder who does sales |
-| CD 8 | Arman Mahjoor | Jan 23, 2026 | Strong connection — closeness 8/10, marked Critical priority |
+| CD 8 | Arman Mahjoor | Jan 23, 2026 | Close friend and collaborator |
 | CD 9 | Heath Sun | Jan 28, 2026 | Pivoted from security cameras to voice agent startup. Discussed MAGK, technical approaches, workflow pain points, social media marketing |
 | CD 10 | Aarush Jambunathan | Jan 26, 2026 | Not ICP, but reevaluate in future |
 | CD 12 | Rahul | Jan 26, 2026 | Notes via Granola |

@@ -5,7 +5,7 @@
 
 ## Overview
 
-Kevin Zhang is the CTO of HexaHacks and one of Jack's closest technical collaborators. He is based in the San Francisco Bay Area. His email is kevin@hexahacks.com and his LinkedIn is linkedin.com/in/kevinzhang. He appears across multiple layers of Jack's Notion — CRM (relationship strength: 8/10), meeting records, and project tasks.
+Kevin Zhang is the CTO of HexaHacks and one of Jack's closest technical collaborators. He is based in the San Francisco Bay Area.
 
 ## Role at HexaHacks
 
@@ -28,15 +28,7 @@ Kevin appears as the creator of several Granola meeting notes — suggesting he 
 
 ## Mira
 
-Between June-September 2024, Notion contains "Mira Meetings" — recurring syncs with someone named Mira. These appear to be Kevin-related based on the meeting structure; Kevin's email is kevin@mira.energy in one appearance, suggesting he may have been involved with an energy startup called Mira during this period.
-
-## CRM Notes
-
-- **Relationship strength:** 8/10
-- **Priority level:** High
-- **Contact frequency goal:** Weekly
-- **Shared interests:** Technology, Entrepreneurship
-- **Can help with:** CES preparation, hackathon organization, technical leadership
+Between June-September 2024, Notion contains "Mira Meetings" — recurring syncs with someone named Mira. These appear to be Kevin-related based on the meeting structure; The Mira meetings ran Jun–Sep 2024 as weekly team syncs.
 
 ## Architecture and Product Discussions
 

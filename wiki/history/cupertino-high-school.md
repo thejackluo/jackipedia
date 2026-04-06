@@ -43,7 +43,7 @@ The final day, November 30, is labeled "Final Day." December 1 continues — sub
 
 This level of documentation — even for a routine high school deadline — is characteristic. Jack's Notion was already his operating system.
 
-**Applications submitted to:** UC schools (likely UC Berkeley, UCLA, UC San Diego, UCSC, others). He was ultimately admitted to UCSC (Crown College) before later transferring to Georgia Tech.
+**Applications submitted to:** UC schools. He ultimately transferred to Georgia Tech.
 
 ## The SAT
 
@@ -68,7 +68,6 @@ The insight Jack reaches by 2025: "I didn't appreciate it because I was too spoi
 But the insight and the behavior are different things. The writing archive shows Jack still longing for Cupertino people even after articulating this lesson.
 
 ## Related
-- [[history/ucsc-era]]
 - [[writings/nostalgia-burnout-georgia-tech]]
 - [[writings/social-reflection-2022]]
 - [[writings/mit-operation-frosh]]

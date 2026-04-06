@@ -27,7 +27,7 @@ He has been maintaining a writing practice since at least 2021 — 360+ entries 
 ## Education
 
 Jack has been through multiple schools:
-- **UCSC** (Crown College) — early college years, 2022 era. The "People to Reach Out to" Notion page from Sept 2022 references Crown College advising and BSOE advisors.
+- Previous college years, before the Georgia Tech transfer.
 - **Georgia Tech** — Computer Science, focus on AI and embedded systems. Transferred in 2024. The transfer itself was "biggest achievement of 2024" per his annual review.
 - **MIT** — Currently affiliated with MIT SIPB (Student Information Processing Board) on the Arc Project. LinkedIn lists MIT as current institution.
 

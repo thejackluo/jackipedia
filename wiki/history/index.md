@@ -9,7 +9,6 @@ This section documents the eras, events, and places that have shaped Jack's life
 | Era | Period | Page |
 |-----|--------|------|
 | Cupertino | 2019–2022 | [[history/cupertino-high-school]] |
-| UCSC | 2022–2024 | [[history/ucsc-era]] |
 | Georgia Tech | 2024–2025 | [[history/georgia-tech-era]] |
 | MIT Era | 2025–present | [[history/mit-era]] |
 
@@ -29,7 +28,6 @@ This section documents the eras, events, and places that have shaped Jack's life
 
 Jack has lived in or spent significant time in:
 - **Cupertino, CA** — grew up here; the reference environment
-- **Santa Cruz, CA** — UCSC years
 - **San Francisco, CA** — recurring trips during college, hacker houses
 - **Atlanta, GA** — Georgia Tech
 - **Boston, MA** — MIT SIPB, hacker house, 2025

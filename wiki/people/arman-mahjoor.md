@@ -5,7 +5,7 @@
 
 ## Overview
 
-Arman Mahjoor (email: armansmahjoor@gmail.com) is one of the most significant people in Jack's network — a close college friend who became a collaborator on AgentDex, and later the co-founder of Circlez. He appears in Jack's Notion CRM with a Closeness Score of 8/10, Priority Level "Critical," and Relationship Category "Close Friend." He is in the San Francisco Bay Area.
+Arman Mahjoor is one of the most significant people in Jack's network — a close college friend who became a collaborator on AgentDex, and later the co-founder of Circlez. He is in the San Francisco Bay Area.
 
 ## How They Met
 
@@ -28,16 +28,6 @@ By early 2025, Arman was associated with a project called **Circlez** — a netw
 ## At AgentDex
 
 An Instagram Reel from March 2026 is captioned: "Hey everyone this is Jack and this is my friend Arman" — a public introduction, suggesting Arman was part of Jack's 1-minute-a-day content sprint. An onboarding task ("Arman onboarding call potentially?") appears in Jack's Notion backlog, assigned to both Jack and Karthik Jandhyala.
-
-## CRM Notes
-
-Jack's CRM records about Arman:
-- **Relationship strength:** 8/10
-- **Priority level:** Critical
-- **Can help with:** Personal support, social activities, friendship
-- **Shared interests:** Gaming, Technology
-- **Contact goal:** Bi-weekly
-- **Mutual connections:** College gaming community, tech friends
 
 ## The "Success Factors & Personal Motivation" Meeting
 

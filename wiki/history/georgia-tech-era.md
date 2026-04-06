@@ -12,7 +12,7 @@ Georgia Tech (Georgia Institute of Technology) is where Jack transferred in Fall
 Jack fought for the transfer to Georgia Tech — the word "fight" is used in his annual review: "transferring to Georgia Tech" as an achievement, with the implicit understanding it wasn't automatic. Transfer admissions to GT's CS program are competitive.
 
 His reasons, documented in the January and February 2025 reflections:
-- Better engineering environment than UCSC
+- Better engineering environment than previous college
 - Proximity to serious students and career opportunities
 - A fresh start socially
 - A chance to not repeat the Cupertino mistake — to recognize exceptional people and actually engage with them
@@ -65,7 +65,6 @@ Despite the early frustrations, the Georgia Tech years were when Jack:
 - Got involved with MIT SIPB
 
 ## Related
-- [[history/ucsc-era]]
 - [[history/cupertino-high-school]]
 - [[writings/nostalgia-burnout-georgia-tech]]
 - [[writings/escapism-georgia-tech]]

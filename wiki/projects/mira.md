@@ -8,7 +8,7 @@
 
 Mira was a project Jack worked on intensively from June through September 2024 — approximately 4 months of weekly team syncs. The meeting records show bi-weekly to weekly "Mira Meetings" from June 9 through September 12, 2024 (11+ logged sessions). The notes for individual meetings are marked "NO NOTE" or empty, but the meeting cadence alone tells a story: this was a serious, sustained collaboration.
 
-Kevin Zhang (kevin@mira.energy) appears to have been involved, suggesting Mira may have been an energy-adjacent project or startup.
+Kevin Zhang was involved in the project.
 
 ## Meeting Log
 
@@ -32,7 +32,6 @@ Kevin Zhang (kevin@mira.energy) appears to have been involved, suggesting Mira m
 ## What Was Mira?
 
 Based on available signals:
-- Kevin Zhang's email is kevin@mira.energy → energy sector
 - The final meeting is labeled "After Pylon" — Pylon is an AI customer support tool (YC company); possibly Mira evaluated or integrated Pylon
 - The project had a structured meeting cadence with a co-founder/collaborator named "Jamie" (per the meeting source field "Jamie" for all Mira meetings)
 - The meetings ran at 2–3x per week intensity in August, suggesting a crunch period
