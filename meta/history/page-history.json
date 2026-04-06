@@ -942,6 +942,7 @@
       "summary": "build: auto-update 2026-04-06 06:35 UTC (109 pages)"
     }
   ],
+  "wiki/concepts/granola": [],
   "wiki/concepts/z-fellows": [
     {
       "commit": "5ebe9165",
@@ -971,6 +972,7 @@
       "summary": "feat: 14 new photos, EI concepts page, agent-school page, mit-era page"
     }
   ],
+  "wiki/concepts/hackathon-circuit": [],
   "wiki/concepts/experiment-log": [
     {
       "commit": "948c69c8",
@@ -983,6 +985,7 @@
       "summary": "build: auto-update 2026-04-06 06:07 UTC (97 pages)"
     }
   ],
+  "wiki/concepts/jotion": [],
   "wiki/concepts/openclaw-news": [
     {
       "commit": "948c69c8",
@@ -1051,6 +1054,7 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
+  "wiki/concepts/elon-musk-hack-club": [],
   "wiki/concepts/entp-mbti": [
     {
       "commit": "a05f14d2",
@@ -1058,6 +1062,7 @@
       "summary": "build: auto-update 2026-04-06 06:26 UTC (103 pages)"
     }
   ],
+  "wiki/concepts/deso": [],
   "wiki/concepts/writing-archive": [
     {
       "commit": "948c69c8",
@@ -1075,6 +1080,7 @@
       "summary": "ingest: writing archive (360 entries), walk-in-the-park framework, annual review 2024"
     }
   ],
+  "wiki/concepts/buildspace": [],
   "wiki/concepts/wikipedia-editing": [
     {
       "commit": "948c69c8",
@@ -1229,6 +1235,8 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
+  "wiki/books/zero-to-one": [],
+  "wiki/history/boston": [],
   "wiki/history/vienna-austria": [
     {
       "commit": "9f9a5236",
@@ -1383,6 +1391,7 @@
       "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
     }
   ],
+  "wiki/history/qhouse-2023": [],
   "wiki/history/japan-trip-2024": [
     {
       "commit": "5ebe9165",
@@ -1451,6 +1460,7 @@
       "summary": "build: auto-update 2026-04-06 06:26 UTC (103 pages)"
     }
   ],
+  "wiki/history/philmont-2019": [],
   "wiki/history/travel": [
     {
       "commit": "948c69c8",

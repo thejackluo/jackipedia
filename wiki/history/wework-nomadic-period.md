@@ -1,71 +1,51 @@
-# WeWork and the Nomadic Period
+# WeWork Nomadic Period
 
 **Category:** History
-**Period:** 2023–2025
+**Period:** 2024–2025 (approx)
+**Summary:** Jack lived in a WeWork office for a month — the nomadic phase between Georgia Tech and Boston
 **Last updated:** 2026-04-06
 
 ## Overview
 
-Between college and [[history/georgia-tech-era]], [[people/jack-luo]] lived a partially nomadic lifestyle centered on WeWork coworking spaces, hacker houses, and startup events. This period — roughly 2023 to early 2025 — is the substrate beneath the Vending Machine Dreams essay, the loneliness writings, and the founding of [[projects/agentdex]].
+At some point during his nomadic period, Jack lived in a WeWork coworking space for a month. This is documented on jack-luo.com ("slept in a WeWork office for a month") as a matter-of-fact biographical detail — not a complaint, not a boast, just a thing that happened.
 
-## The Pattern
+## WeWork as Habitat
 
-The operating mode during this period:
+WeWork sells hot desks, dedicated desks, and private offices to individuals and companies who don't want a traditional lease. It is designed as a workspace, not a residence. The fact that someone can live in one — showers in the gym downstairs, food at the nearby café, sleeping arrangements improvised — says something about both the flexibility of the format and the resourcefulness of the person.
 
-- Fly into a city on the GoWild pass (Frontier Airlines)
-- Find a WeWork or similar coworking space
-- Work until the building emptied
-- Sleep in conference rooms, on couches, or at a hacker house
-- Wake before staff arrived, continue working
-- Repeat
+For a founder in a nomadic phase, a WeWork has specific advantages:
+- **Always-on workspace**: no commute between home and work
+- **Community**: other founders, freelancers, startup people in the same space
+- **Location flexibility**: WeWork locations exist in every major city; no lease commitment
+- **Legitimacy**: a WeWork address is a real business address
 
-No fixed rent. No fixed city. Chipotle as a dietary constant. The Flighty app tracking every flight.
+The disadvantage is obvious: it's a coworking space, not a home. The lighting is designed for work, not sleep. The ambient noise doesn't stop at normal hours. Privacy is limited.
 
-From "Loneliness and Sacrifice" (March 2025):
+## The Nomadic Period
 
-> "When I move between WeWork week to week, when I am juggling conversations that pull me in five directions, when travel turns sleep into an experiment, the journal keeps me anchored."
+The WeWork month sits within a broader nomadic arc in Jack's timeline. Between leaving [[history/georgia-tech-era]] (formally or effectively) and establishing a more stable base in Boston, there was a period of deliberate placelessness:
 
-## The Hacker Houses
+- Q House 2023 (NYC)
+- WeWork (city TBD — likely NYC, Boston, or SF)
+- Various hacker houses and temporary arrangements
+- Couch-surfing and extended stays in different cities
 
-Jack participated in and co-organized several hacker houses during this period:
+This kind of nomadic phase is common among ambitious early-20s builders who haven't yet found their city. The logic: don't over-commit to a location until you know what you need from a place. Stay mobile. Follow the opportunities.
 
-| Event | Location | Year |
-|-------|----------|------|
-| Q House | Bay Area | 2023 |
-| New York Hacker House | New York | 2025 |
-| Georgia Tech Hacker House | Atlanta | 2025 |
+Jack's jack-luo.com bio also mentions sleeping on a WeWork office rooftop — it's unclear if this is the same period or a separate incident. The rooftop detail suggests the nomadic phase included some genuinely adventurous (or desperate) moments.
 
-Hacker houses: dense living arrangements where a group of builders share space for 1–4 weeks, work intensively, and use the proximity to compound each other's output. Jack's pattern was to attend them and then help organize the next one.
+## The Logic of Doing This
 
-## The Startup Identity
+Most people don't live in WeWorks. The people who do are optimizing for something other than comfort: usually momentum, proximity to work, or avoidance of the friction of setting up a real living situation in a new city.
 
-This period produced the clearest articulation of Jack's startup identity — the person who:
+For Jack, the pattern makes sense: he was moving fast, across cities, focused on building. A WeWork month is a month where you've reduced all life overhead to zero so you can focus entirely on output. The cost is personal comfort. The gain is velocity.
 
-- Lived in an office
-- Slept on a rooftop
-- Survived off Chipotle
-- Had his agent accidentally sign him up for a dating app
-
-The catering tray photo — Jack standing in the rain outside an event holding a serving tray — is from this period. It's one of the most honest images: glamorous in its commitment, unglamorous in its execution.
-
-## WeWork as Infrastructure
-
-WeWork was not incidental. It was the answer to "where do you work when you have no permanent address." The monthly day pass structure meant you could drop into any city — San Francisco, New York, Boston, Atlanta — and have a desk, wifi, coffee, and conference rooms within hours of landing.
-
-The conference room sleeping is documented in his writing archive but rarely discussed directly. It falls into the category of things that feel embarrassing in retrospect but were, at the time, the most efficient possible use of resources.
-
-## The Turning Point
-
-The Georgia Tech transfer (Fall 2024) was the first major re-anchoring after this nomadic period. Then the MIT Arc Project / [[projects/agent-school]] (2025) was the second — a physical room, a real address, a community.
-
-The progression: no fixed location → Georgia Tech campus → MIT E38-379. Each step more anchored than the last.
+This is the same logic as the electric unicycle (no car, no parking, maximum mobility), the hacker house (no separate home/work life), and the Notion operating system (zero friction between having a thought and capturing it).
 
 ## Related
 
-- [[history/frontier-gowild]]
 - [[history/georgia-tech-era]]
-- [[history/mit-era]]
-- [[projects/agent-school]]
-- [[writings/loneliness-and-sacrifice]]
-- [[writings/vending-machine-dreams]]
-- [[writings/nostalgia-burnout-georgia-tech]]
+- [[history/qhouse-2023]]
+- [[history/new-york-city]]
+- [[interests/electric-unicycle]]
+- [[people/jack-luo]]
