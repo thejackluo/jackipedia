@@ -471,6 +471,7 @@
       "summary": "feat: 14 new photos, EI concepts page, agent-school page, mit-era page"
     }
   ],
+  "wiki/concepts/experiment-log": [],
   "wiki/concepts/openclaw-news": [
     {
       "commit": "75913391",
@@ -518,6 +519,7 @@
       "summary": "build: auto-update 2026-04-06 05:39 UTC (78 pages)"
     }
   ],
+  "wiki/concepts/idea-vault": [],
   "wiki/books/essentialism": [
     {
       "commit": "c3410fe8",

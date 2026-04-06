@@ -63,3 +63,41 @@ A complete log of books Jack has read, sourced from his Goodreads "Read" shelf. 
 - [[books/the-courage-to-be-disliked]]
 - [[books/life-30]]
 - [[people/jack-luo]]
+
+## Harry Potter Series (J.K. Rowling)
+
+Jack has read at least 4 of the 7 Harry Potter books, all tracked in his Notion media database:
+
+| Book | Rating |
+|------|--------|
+| Philosopher's Stone | — |
+| Chamber of Secrets | 4/5 |
+| Prisoner of Azkaban | 5/5 |
+| Goblet of Fire | 5/5 |
+| Order of the Phoenix | 4/5 |
+
+## Classroom of the Elite (Full Series)
+
+Jack has read the entire Classroom of the Elite light novel series by Syougo Kinugasa — one of the most ambitious reading commitments in his log. Year 1 Volumes 1–11.5 and Year 2 Volumes 1–8 are all marked Finished (100% progress). Year 2 Vol. 8 and 8.5 are not yet started.
+
+**Year 1:** Vol. 1, 2, 3, 4, 4.5, 5, 6, 7, 7.5, 8, 9, 10, 11, 11.5 — all complete
+**Year 2:** Vol. 1–7 complete, Vol. 7.5–8.5 not started yet
+
+## Currently Reading / Paused
+
+| Title | Author | Status | Progress |
+|-------|--------|--------|----------|
+| Taking Charge of Adult ADHD | Russell Barkley | In progress | — |
+| The Art of Strategy | Dixit & Nalebuff | In progress | — |
+| Elements of Programming Interviews (Python) | Aziz, Lee, Prakash | In progress | — |
+| Outline of Classical Chinese Grammar | Edwin Pulleyblank | In progress | — |
+| 34 Stories of Philosophy | — | In progress | 55% |
+| Subtle Art of Not Giving a F*** | Mark Manson | In progress | 60% |
+| 7 Habits of Highly Effective People | Stephen Covey | Paused | 15% |
+| 48 Laws of Power | Robert Greene | Paused | 10% |
+
+## Want to Read
+
+- The Power of Now — Eckhart Tolle
+- Diary of a CEO (podcast, not book)
+- Unwritten Rules of Social Relationships — Temple Grandin
