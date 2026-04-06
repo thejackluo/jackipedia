@@ -225,12 +225,80 @@ def build_main_page(nav, all_history):
   <div style="margin-top:8px; font-size:12px; font-family:sans-serif;"><a href="/wiki/concepts/writing-archive.html">More from the archive...</a></div>
 </div>"""
 
-    # Two-column layout + three-column bottom row
+    # Community portal section
+    community = """
+<div style="border:1px solid #a2a9b1; background:#f8f9fa; padding:12px 16px; margin-bottom:16px;">
+  <div style="font-size:13px; font-weight:bold; font-family:sans-serif; border-bottom:1px solid #a2a9b1; padding-bottom:4px; margin-bottom:8px;">Other areas of Jackipedia</div>
+  <div style="font-size:13px; font-family:sans-serif; display:grid; grid-template-columns:1fr 1fr; gap:4px 16px;">
+    <div><a href="/meta/history.html">Recent changes</a> – All edits to the wiki, most recent first.</div>
+    <div><a href="/log.html">Log</a> – Chronological record of all ingests and updates.</div>
+    <div><a href="/wiki/people/meetings-index.html">Meetings index</a> – All logged meetings and people.</div>
+    <div><a href="/wiki/concepts/writing-archive.html">Writing archive</a> – 360+ personal entries spanning 2020–2026.</div>
+    <div><a href="/wiki/concepts/reading-list.html">Reading list</a> – Rated books with notes and patterns.</div>
+    <div><a href="/wiki/philosophy/walk-in-the-park-framework.html">Philosophy</a> – Core frameworks and worldview.</div>
+  </div>
+</div>"""
+
+    # Sister projects (Jack's own projects)
+    sister = """
+<div style="border:1px solid #a2a9b1; background:#f8f9fa; padding:12px 16px; margin-bottom:16px;">
+  <div style="font-size:13px; font-weight:bold; font-family:sans-serif; border-bottom:1px solid #a2a9b1; padding-bottom:4px; margin-bottom:8px;">Jack's projects</div>
+  <p style="font-size:13px; font-family:sans-serif; margin-bottom:10px;">Jackipedia is maintained by <a href="https://openclaw.ai">Claw</a> and sourced from Jack's Notion workspace. Jack's active projects:</p>
+  <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:8px; font-size:13px; font-family:sans-serif;">
+    <div style="border:1px solid #a2a9b1; padding:8px; background:#fff; border-radius:2px;">
+      <div style="font-weight:bold; margin-bottom:2px;"><a href="https://agentdex.agentschool.io">AgentDex</a></div>
+      <div style="color:#54595d; font-size:12px;">Personal CRM &amp; relationship intelligence app</div>
+    </div>
+    <div style="border:1px solid #a2a9b1; padding:8px; background:#fff; border-radius:2px;">
+      <div style="font-weight:bold; margin-bottom:2px;"><a href="https://agentschool.io">Agent School</a></div>
+      <div style="color:#54595d; font-size:12px;">AI agent infrastructure and tooling</div>
+    </div>
+    <div style="border:1px solid #a2a9b1; padding:8px; background:#fff; border-radius:2px;">
+      <div style="font-weight:bold; margin-bottom:2px;"><a href="https://paperclip.agentschool.io">Paperclip</a></div>
+      <div style="color:#54595d; font-size:12px;">Agent memory and context store</div>
+    </div>
+    <div style="border:1px solid #a2a9b1; padding:8px; background:#fff; border-radius:2px;">
+      <div style="font-weight:bold; margin-bottom:2px;"><a href="https://jackipedia.agentschool.io">Jackipedia</a></div>
+      <div style="color:#54595d; font-size:12px;">This personal knowledge wiki</div>
+    </div>
+    <div style="border:1px solid #a2a9b1; padding:8px; background:#fff; border-radius:2px;">
+      <div style="font-weight:bold; margin-bottom:2px;"><a href="https://github.com/thejackluo">GitHub</a></div>
+      <div style="color:#54595d; font-size:12px;">Open source work and repositories</div>
+    </div>
+    <div style="border:1px solid #a2a9b1; padding:8px; background:#fff; border-radius:2px;">
+      <div style="font-weight:bold; margin-bottom:2px;"><a href="https://thejackluo.notion.site">Notion</a></div>
+      <div style="color:#54595d; font-size:12px;">Public writing and reflections</div>
+    </div>
+  </div>
+</div>"""
+
+    # Languages / dimensions of Jack
+    languages = """
+<div style="border:1px solid #a2a9b1; background:#f8f9fa; padding:12px 16px; margin-bottom:16px;">
+  <div style="font-size:13px; font-weight:bold; font-family:sans-serif; border-bottom:1px solid #a2a9b1; padding-bottom:4px; margin-bottom:8px;">Dimensions of Jack</div>
+  <p style="font-size:13px; font-family:sans-serif; margin-bottom:8px;">Jackipedia documents Jack across multiple dimensions. Articles exist or are planned for each:</p>
+  <div style="font-size:13px; font-family:sans-serif; margin-bottom:6px;"><b>Documented</b></div>
+  <div style="font-family:sans-serif; font-size:13px; line-height:2;">
+    <a href="/wiki/people/jack-luo.html">Identity</a> &nbsp;·&nbsp;
+    <a href="/wiki/philosophy/walk-in-the-park-framework.html">Philosophy</a> &nbsp;·&nbsp;
+    <a href="/wiki/concepts/reading-list.html">Reading</a> &nbsp;·&nbsp;
+    <a href="/wiki/concepts/writing-archive.html">Writing</a> &nbsp;·&nbsp;
+    <a href="/wiki/people/meetings-index.html">Relationships</a>
+  </div>
+  <div style="font-size:13px; font-family:sans-serif; margin:8px 0 4px;"><b>Planned</b></div>
+  <div style="font-family:sans-serif; font-size:13px; color:#54595d; line-height:2;">
+    Fitness &nbsp;·&nbsp; Goals &nbsp;·&nbsp; Travel &nbsp;·&nbsp; Dream journal &nbsp;·&nbsp;
+    Health &nbsp;·&nbsp; Boston &nbsp;·&nbsp; Japan &nbsp;·&nbsp; AgentDex &nbsp;·&nbsp;
+    Startup history &nbsp;·&nbsp; Running log &nbsp;·&nbsp; ADHD &nbsp;·&nbsp; Anime
+  </div>
+</div>"""
+
+    # Two-column layout + three-column bottom row + full bottom sections
     content = f"""
 <style>
 .mp-columns {{ display: flex; gap: 20px; }}
 .mp-col {{ flex: 1; min-width: 0; }}
-.mp-3col {{ display: flex; gap: 20px; margin-top: 0; }}
+.mp-3col {{ display: flex; gap: 20px; }}
 .mp-3col > div {{ flex: 1; min-width: 0; }}
 @media (max-width: 700px) {{ .mp-columns, .mp-3col {{ flex-direction: column; }} }}
 .mp-title {{ font-family: 'Linux Libertine', Georgia, Times, serif; font-size: 1.95em; font-weight: normal; border-bottom: 1px solid #a2a9b1; padding-bottom: 4px; margin-bottom: 16px; }}
@@ -282,6 +350,20 @@ def build_main_page(nav, all_history):
       </div>
     </div>
   </div>
+</div>
+
+<hr style="border:none; border-top:1px solid #a2a9b1; margin:16px 0;">
+
+{community}
+{sister}
+{languages}
+
+<div style="border-top:1px solid #a2a9b1; padding-top:10px; font-size:12px; font-family:sans-serif; color:#54595d; text-align:center;">
+  Content sourced from Jack Luo's personal Notion workspace &nbsp;|&nbsp;
+  Maintained by <a href="https://openclaw.ai">Claw (OpenClaw)</a> &nbsp;|&nbsp;
+  <a href="/meta/history.html">Recent changes</a> &nbsp;|&nbsp;
+  <a href="/log.html">Log</a> &nbsp;|&nbsp;
+  Powered by git + pandoc
 </div>"""
 
     out_file = f"{OUT_DIR}/index.html"
