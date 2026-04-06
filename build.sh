@@ -120,7 +120,7 @@ def build_page(md_file, nav, all_history):
     content = result.stdout
     content = re.sub(
         r'\[\[([^\]]+)\]\]',
-        lambda m: f'<a href="/{m.group(1)}.html">{m.group(1).split("/")[-1].replace("-", " ").title()}</a>',
+        lambda m: f'<a href="/wiki/{m.group(1)}.html">{m.group(1).split("/")[-1].replace("-", " ").title()}</a>',
         content
     )
 
