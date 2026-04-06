@@ -9,7 +9,9 @@ Kevin Zhang is the co-founder of Efficore and one of Jack's closest technical co
 
 ## Role at Efficore
 
-Kevin co-founded Efficore with Jack. Efficore appears to be a productivity or efficiency-focused startup — consistent with Jack's broader focus on AI-assisted workflows and personal productivity tooling.
+Kevin co-founded Efficore with Jack. Efficore is a **unified energy optimization platform for data centers** — Kevin brings deep expertise in energy systems and data center infrastructure, translating complex energy domain knowledge into practical solutions. Jack leads Efficore's software and decision-making systems.
+
+The company's domain is mira.energy. Kevin's background includes Northwestern Energy and Sustainability Club (NESC) and Q House — the same Q House that Jack co-organized in 2023, which is how their paths likely first crossed.
 
 ## CES 2025
 

@@ -1,14 +1,16 @@
-# Mira
+# Efficore (Mira)
 **Category:** Project
-**Status:** Concluded (as of late 2024)
-**Period:** June–September 2024
+**Status:** Active (domain: mira.energy)
+**Active development period:** June–September 2024
 **Last updated:** 2026-04-06
 
 ## Overview
 
-Mira was a project Jack worked on intensively from June through September 2024 — approximately 4 months of weekly team syncs. The meeting records show bi-weekly to weekly "Mira Meetings" from June 9 through September 12, 2024 (11+ logged sessions). The notes for individual meetings are marked "NO NOTE" or empty, but the meeting cadence alone tells a story: this was a serious, sustained collaboration.
+Efficore is a **unified energy optimization platform for data centers**, co-founded by Jack and Kevin Zhang. The company's public domain is mira.energy.
 
-Kevin Zhang was involved in the project.
+Jack leads Efficore's software and decision-making systems. Kevin brings deep expertise in energy systems and data center infrastructure — previously involved with the Northwestern Energy and Sustainability Club (NESC) and Q House.
+
+The summer 2024 period (June–September) shows intensive weekly team syncs in Notion — 14 logged "Mira Meetings" — suggesting the core product and architecture was being built out during this period.
 
 ## Meeting Log
 
