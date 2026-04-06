@@ -409,6 +409,21 @@ print("  ✓ meta/history.html")
 with open(f"{HISTORY_DIR}/page-history.json", "w") as f:
     json.dump(all_history, f, indent=2)
 
+# Build random-articles.js — list of all wiki article URLs for random navigation
+article_urls = []
+for section in ["people", "writings", "philosophy", "projects", "books", "fitness", "dreams", "history", "concepts", "goals"]:
+    section_path = f"{WIKI_DIR}/wiki/{section}"
+    if os.path.exists(section_path):
+        for fname in sorted(os.listdir(section_path)):
+            if fname.endswith(".md"):
+                url = f"/wiki/{section}/{fname.replace('.md', '.html')}"
+                article_urls.append(url)
+
+js_content = f"var JACKIPEDIA_ARTICLES = {json.dumps(article_urls)};\n"
+with open(f"{OUT_DIR}/random-articles.js", "w") as f:
+    f.write(js_content)
+print(f"  ✓ random-articles.js ({len(article_urls)} articles)")
+
 # Copy assets (photos, etc.) to web root
 import shutil
 assets_src = f"{WIKI_DIR}/assets"

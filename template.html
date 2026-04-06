@@ -401,6 +401,28 @@ tr:nth-child(even) td { background: var(--table-stripe); }
   #page-tabs { padding: 0 10px; }
   .tab { padding: 5px 8px; font-size: 11.5px; }
 }
+
+/* ── Random article button ── */
+#random-btn {
+  flex-shrink: 0;
+  background: none;
+  border: 1px solid var(--border);
+  cursor: pointer;
+  padding: 4px 8px;
+  color: var(--text-muted);
+  font-size: 13px;
+  border-radius: 3px;
+  font-family: sans-serif;
+  white-space: nowrap;
+  transition: background 0.15s, color 0.15s;
+}
+#random-btn:hover {
+  background: var(--bg-secondary);
+  color: var(--link);
+}
+@media (max-width: 480px) {
+  #random-btn { font-size: 12px; padding: 4px 6px; }
+}
 </style>
 </head>
 <body>
@@ -423,6 +445,9 @@ tr:nth-child(even) td { background: var(--table-stripe); }
     <span class="icon-sun">&#9788;</span>
     <span class="icon-moon">&#9790;</span>
   </button>
+  <button id="random-btn" aria-label="Random article" onclick="goRandom()" title="Random article">
+    &#9684;
+  </button>
 </div>
 
 <!-- Sidebar backdrop (mobile) -->
@@ -437,6 +462,7 @@ tr:nth-child(even) td { background: var(--table-stripe); }
       <a href="/index.html">Main page</a>
       <a href="/meta/history.html">Recent changes</a>
       <a href="/log.html">Log</a>
+      <a href="#" id="random-article-link" onclick="goRandom(); return false;">Random article</a>
     </div>
     <hr>
     <div class="nav-section">
@@ -480,6 +506,7 @@ tr:nth-child(even) td { background: var(--table-stripe); }
   Powered by git + pandoc
 </div>
 
+<script src="/random-articles.js"></script>
 <script>
 // ── Theme ──
 (function() {
@@ -497,6 +524,13 @@ function toggleTheme() {
   localStorage.setItem('jw-theme', next);
 }
 
+// ── Random article ──
+function goRandom() {
+  if (typeof JACKIPEDIA_ARTICLES === 'undefined' || !JACKIPEDIA_ARTICLES.length) return;
+  const url = JACKIPEDIA_ARTICLES[Math.floor(Math.random() * JACKIPEDIA_ARTICLES.length)];
+  window.location.href = url;
+}
+
 // ── Sidebar (mobile) ──
 function toggleSidebar() {
   document.getElementById('sidebar').classList.toggle('open');
@@ -506,7 +540,6 @@ function closeSidebar() {
   document.getElementById('sidebar').classList.remove('open');
   document.getElementById('sidebar-backdrop').classList.remove('open');
 }
-// Close sidebar on nav link click (mobile)
 document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('#sidebar a').forEach(function(link) {
     link.addEventListener('click', closeSidebar);
