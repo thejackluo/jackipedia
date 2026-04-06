@@ -571,6 +571,7 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
+  "wiki/concepts/entp-mbti": [],
   "wiki/concepts/writing-archive": [
     {
       "commit": "b855070d",
@@ -772,6 +773,7 @@
       "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
     }
   ],
+  "wiki/history/ces": [],
   "wiki/history/new-york-city": [
     {
       "commit": "2c4dfac7",
@@ -784,6 +786,7 @@
       "summary": "build: auto-update 2026-04-06 05:58 UTC (86 pages)"
     }
   ],
+  "wiki/history/treehacks-2025": [],
   "wiki/history/travel": [
     {
       "commit": "7d985e37",
@@ -863,6 +866,7 @@
       "summary": "build: auto-update 2026-04-06 06:18 UTC (100 pages)"
     }
   ],
+  "wiki/interests/tuvalu": [],
   "wiki/interests/steins-gate": [
     {
       "commit": "d132d4cd",
