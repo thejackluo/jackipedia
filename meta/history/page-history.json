@@ -6,25 +6,141 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
-  "wiki/writings/ai-society-human-evolution": [],
-  "wiki/writings/mit-operation-frosh": [],
-  "wiki/writings/college-ocean-town": [],
-  "wiki/writings/steins-gate": [],
-  "wiki/writings/social-reflection-2022": [],
-  "wiki/writings/annual-review-2024": [],
-  "wiki/writings/loneliness-and-sacrifice": [],
-  "wiki/writings/boston-and-the-future": [],
-  "wiki/writings/year-end-2021-2022": [],
-  "wiki/writings/life-philosophy-worldview": [],
-  "wiki/writings/relationships-trust-growth": [],
-  "wiki/writings/fear-connection-perfectionism": [],
-  "wiki/writings/nostalgia-burnout-georgia-tech": [],
-  "wiki/writings/escapism-georgia-tech": [],
-  "wiki/writings/treehacks-2025": [],
-  "wiki/writings/browser-agents-drl": [],
-  "wiki/writings/walk-in-the-park": [],
-  "wiki/writings/society-status-authenticity": [],
-  "wiki/writings/motivation-self-discipline-2021": [],
+  "wiki/writings/ai-society-human-evolution": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/mit-operation-frosh": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/college-ocean-town": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/steins-gate": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/social-reflection-2022": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/annual-review-2024": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/loneliness-and-sacrifice": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/boston-and-the-future": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/year-end-2021-2022": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/life-philosophy-worldview": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/relationships-trust-growth": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/fear-connection-perfectionism": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/nostalgia-burnout-georgia-tech": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/escapism-georgia-tech": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/treehacks-2025": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/browser-agents-drl": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/walk-in-the-park": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/society-status-authenticity": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/writings/motivation-self-discipline-2021": [
+    {
+      "commit": "c2e146b2",
+      "date": "2026-04-06 04:08:43",
+      "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
+    }
+  ],
+  "wiki/people/james-preiss": [],
+  "wiki/people/hongyin": [],
   "wiki/people/meetings-index": [
     {
       "commit": "f1c764ed",
@@ -32,6 +148,10 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
+  "wiki/people/nimesh": [],
+  "wiki/people/kunal-gupta": [],
+  "wiki/people/kevin-zhang": [],
+  "wiki/people/karthik-jandhyala": [],
   "wiki/people/jack-luo": [
     {
       "commit": "f1c764ed",
@@ -39,6 +159,9 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
+  "wiki/people/jeff": [],
+  "wiki/people/manas-nair": [],
+  "wiki/people/arman-mahjoor": [],
   "wiki/concepts/reading-list": [
     {
       "commit": "f1c764ed",
