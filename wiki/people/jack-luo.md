@@ -104,3 +104,15 @@ Jack's writing archive spans 2021–2026. The best pieces are documented in the 
 - LinkedIn (public profile)
 - GitHub (public profile)
 - Conversations via Telegram (2026-03 to present)
+
+## Travel Statistics
+
+![Flighty flight log — 76 flights, 120,963 miles, 26 airports, 9 airlines](/assets/photos/flighty-stats.jpg)
+
+All-time Flighty stats as of early 2026:
+- **76 flights** (15 long haul)
+- **120,963 miles** — 4.9x around the world
+- **12 days 8 hours** total flight time
+- **26 airports**, **9 airlines**
+- **Most flown aircraft:** A321neo (26 flights)
+- **30 hours lost to delays** (averaged 56 min late per delayed flight)

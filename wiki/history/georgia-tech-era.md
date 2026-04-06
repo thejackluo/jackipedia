@@ -74,3 +74,7 @@ Despite the early frustrations, the Georgia Tech years were when Jack:
 - [[people/kunal-gupta]]
 - [[projects/agentdex]]
 - [[people/jack-luo]]
+
+## Photographs
+
+![Neon sign at a WeWork or hacker house common area during the startup grind period](/assets/photos/neon-sign.jpg)

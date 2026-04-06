@@ -65,3 +65,7 @@ From the March 2025 Jeff catch-up, Jack was targeting Asia — "Shanghai, Tokyo,
 - [[dreams/great-america]]
 - [[people/jeff]]
 - [[people/jack-luo]]
+
+## Photographs
+
+![Japanese wagashi (traditional sweets) tasting — matcha mochi with red bean filling, alongside a printed flavor/pairing guide](/assets/photos/japan-sweets.jpg)

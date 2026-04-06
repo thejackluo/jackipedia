@@ -34,3 +34,9 @@ The piece connects directly to the tension in [[philosophy/walk-in-the-park-fram
 - [[writings/mit-operation-frosh]]
 - [[goals/agentdex]]
 - [[people/jack-luo]]
+
+## Photographs
+
+![Late night — noodles reheated in a microwave. The startup diet.](/assets/photos/noodles-microwave.jpg)
+
+![Jack in the rain, carrying a catering tray — a hacker house food run](/assets/photos/jack-rain-catering.jpg)

@@ -1,0 +1,64 @@
+# Travel
+**Category:** History
+**Last updated:** 2026-04-06
+
+## Overview
+
+Jack has been to almost all major US cities and tracks every flight in the Flighty app. As of early 2026, his all-time stats represent a serious travel habit accumulated across hackathons, hacker houses, CES, Japan, and the nomadic startup lifestyle.
+
+## All-Time Flight Statistics
+
+![Flighty flight log — Jack Luo](/assets/photos/flighty-stats.jpg)
+
+| Stat | Value |
+|------|-------|
+| Total flights | 76 |
+| Long haul flights | 15 |
+| Total distance | 120,963 miles |
+| Times around the world | 4.9x |
+| Total flight time | 12 days 8 hours |
+| Airports visited | 26 |
+| Airlines flown | 9 |
+| Most flown aircraft | A321neo (26 flights) |
+| Hours lost to delays | 30 hours |
+| Average delay | 56 minutes |
+
+## Places Visited
+
+| Place | Context |
+|-------|---------|
+| Cupertino / Bay Area | Grew up here |
+| Santa Cruz | UCSC years |
+| San Francisco | Hacker houses, startup events |
+| Los Angeles | City travel |
+| Las Vegas | CES 2025 |
+| New York | NY Hacker House 2025 |
+| Atlanta | Georgia Tech |
+| Boston | MIT SIPB, 2025 |
+| Stanford / Palo Alto | TreeHacks, visits |
+| Berkeley | Berkeley AI Hackathon |
+| Japan | December 2024 — [[history/japan-trip-2024]] |
+
+## The Japan Trip
+
+The Japan trip (December 15–30, 2024) was Jack's most significant travel experience — 15 nights, likely including Tokyo and possibly Osaka/Kyoto. The sweets tasting photo below captures one of the cultural highlights.
+
+![Japanese wagashi tasting — matcha mochi with red bean filling](/assets/photos/japan-sweets.jpg)
+
+## Nomadic Period (2025)
+
+During the AgentDex build period, Jack lived a partially nomadic life — moving between WeWork locations week to week, sleeping in offices. The "Vending Machine Dreams" essay was explicitly written from this period:
+
+> "When I move between WeWork week to week, when I am juggling conversations that pull me in five directions, when travel turns sleep into an experiment, the journal keeps me anchored."
+
+![Jack in the rain, holding a catering tray — a hacker house food run](/assets/photos/jack-rain-catering.jpg)
+
+## Next
+
+From the March 2025 Jeff conversation, Jack's next travel targets: **Shanghai, Tokyo, Osaka**.
+
+## Related
+- [[history/japan-trip-2024]]
+- [[history/georgia-tech-era]]
+- [[projects/ces-2025]]
+- [[people/jack-luo]]
