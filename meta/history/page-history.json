@@ -1,0 +1,51 @@
+{
+  "index": [
+    {
+      "commit": "f1c764ed",
+      "date": "2026-04-06 03:47:54",
+      "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
+    }
+  ],
+  "log": [
+    {
+      "commit": "f1c764ed",
+      "date": "2026-04-06 03:47:54",
+      "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
+    }
+  ],
+  "wiki/people/meetings-index": [
+    {
+      "commit": "f1c764ed",
+      "date": "2026-04-06 03:47:54",
+      "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
+    }
+  ],
+  "wiki/people/jack-luo": [
+    {
+      "commit": "f1c764ed",
+      "date": "2026-04-06 03:47:54",
+      "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
+    }
+  ],
+  "wiki/concepts/reading-list": [
+    {
+      "commit": "f1c764ed",
+      "date": "2026-04-06 03:47:54",
+      "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
+    }
+  ],
+  "wiki/concepts/writing-archive": [
+    {
+      "commit": "b855070d",
+      "date": "2026-04-06 03:51:52",
+      "summary": "ingest: writing archive (360 entries), walk-in-the-park framework, annual review 2024"
+    }
+  ],
+  "wiki/philosophy/walk-in-the-park-framework": [
+    {
+      "commit": "b855070d",
+      "date": "2026-04-06 03:51:52",
+      "summary": "ingest: writing archive (360 entries), walk-in-the-park framework, annual review 2024"
+    }
+  ]
+}
