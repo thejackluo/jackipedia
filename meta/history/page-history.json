@@ -414,6 +414,11 @@
   ],
   "wiki/people/eddie-lou": [
     {
+      "commit": "2c4dfac7",
+      "date": "2026-04-06 05:59:31",
+      "summary": "build: auto-update 2026-04-06 05:59 UTC (87 pages)"
+    },
+    {
       "commit": "fcc5c336",
       "date": "2026-04-06 05:58:47",
       "summary": "build: auto-update 2026-04-06 05:58 UTC (87 pages)"
@@ -605,6 +610,11 @@
     }
   ],
   "wiki/history/new-york-city": [
+    {
+      "commit": "2c4dfac7",
+      "date": "2026-04-06 05:59:31",
+      "summary": "build: auto-update 2026-04-06 05:59 UTC (87 pages)"
+    },
     {
       "commit": "7d985e37",
       "date": "2026-04-06 05:58:05",
