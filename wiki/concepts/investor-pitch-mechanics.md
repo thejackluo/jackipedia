@@ -5,7 +5,7 @@
 
 ## Overview
 
-On April 1, 2026 — the day of the Agent Text launch — Jack logged a structured set of notes titled "Pitch deck feedback notes (Problem/Solution, Team, Market, Mechanics)." These appear to be distilled learnings from a VC review session or a Granola founder playlist. The notes were cleaned and rated "AI Summarized" confidence.
+On April 1, 2026 — the day of the AgentDex launch — Jack logged a structured set of notes titled "Pitch deck feedback notes (Problem/Solution, Team, Market, Mechanics)." These appear to be distilled learnings from a VC review session or a Granola founder playlist. The notes were cleaned and rated "AI Summarized" confidence.
 
 ## Summary
 

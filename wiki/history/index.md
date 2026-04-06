@@ -22,7 +22,7 @@ This section documents the eras, events, and places that have shaped Jack's life
 | CES Las Vegas | Jan 6–10, 2025 | [[projects/ces-2025]] |
 | TreeHacks Stanford | Feb 16–18, 2025 | [[writings/treehacks-2025]] |
 | Berkeley AI Hackathon | June 2024 | (in [[people/jack-luo]]) |
-| Agent Text launch | April 1, 2026 | [[projects/agentdex]] |
+| AgentDex launch | April 1, 2026 | [[projects/agentdex]] |
 
 ## Places
 
@@ -37,7 +37,7 @@ Jack has lived in or spent significant time in:
 
 ## The Arc
 
-High school in Cupertino → UC Santa Cruz (wrong environment) → transfer fight → Georgia Tech → Boston/MIT connections → Agent Text launch → ongoing.
+High school in Cupertino → UC Santa Cruz (wrong environment) → transfer fight → Georgia Tech → Boston/MIT connections → AgentDex launch → ongoing.
 
 The through-line is a person trying to find or build the right environment while building the internal capacity to not need it as desperately.
 

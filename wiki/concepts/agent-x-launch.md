@@ -5,7 +5,7 @@
 
 ## Overview
 
-On March 27, 2026, Jack held a wide-ranging planning session covering personal energy management, crisis frameworks, tech vs. finance culture, and the Agent X / Agent Text launch strategy for April 1. This meeting was tagged Important + Startup and generated structured decisions.
+On March 27, 2026, Jack held a wide-ranging planning session covering personal energy management, crisis frameworks, tech vs. finance culture, and the AgentDex launch strategy for April 1. This meeting was tagged Important + Startup and generated structured decisions.
 
 ## The Launch Plan
 

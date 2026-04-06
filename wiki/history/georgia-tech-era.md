@@ -61,7 +61,7 @@ Despite the early frustrations, the Georgia Tech years were when Jack:
 - Had his deepest advisor conversations (James Preiss, Kunal Gupta)
 - Wrote the Walk in the Park framework
 - Published "Vending Machine Dreams" on Medium
-- Launched Agent Text (April 2026)
+- Launched AgentDex (April 2026)
 - Got involved with MIT SIPB
 
 ## Related

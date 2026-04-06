@@ -19,7 +19,7 @@ The entry cuts off mid-sentence. The truncated "I just want to w—" suggests it
 
 ## Context
 
-This was written on March 31, 2025 — one day before Jack's stated AgentDex launch target ("Agent Text launch Mar 31," per the meeting notes). The emotional state reflects the final stretch of a long solo grind.
+This was written on March 31, 2025 — one day before Jack's stated AgentDex launch target ("AgentDex launch Mar 31," per the meeting notes). The emotional state reflects the final stretch of a long solo grind.
 
 The physical details are striking: office, rooftop, Chipotle. This isn't metaphorical — Jack was literally living the startup monk archetype at some point in his college years.
 

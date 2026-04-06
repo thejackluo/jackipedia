@@ -11,10 +11,10 @@ Jeff (last name unknown in records — Notion CRM lists "Jefferey A," location n
 
 The most detailed record of Jeff in Jack's Notion is a March 25, 2026 meeting: "Jack x Jeff Catch-Up: Startup, Dating, Travel & Life Plans." The summary reads:
 
-> "Wide-ranging catch-up covering Agent Text launch (Mar 31), Jeff's psychology honor society growth, post-grad plans, dating research (Eastwick), Asia travel aspirations, and life philosophy on relationships and purpose."
+> "Wide-ranging catch-up covering AgentDex launch (Mar 31), Jeff's psychology honor society growth, post-grad plans, dating research (Eastwick), Asia travel aspirations, and life philosophy on relationships and purpose."
 
 **Topics covered:**
-- Jack's Agent Text launch (targeting March 31)
+- Jack's AgentDex launch (targeting March 31)
 - Jeff's psychology honor society — growing
 - Post-graduation plans for both
 - Dating research by a professor named Eastwick
@@ -23,11 +23,11 @@ The most detailed record of Jeff in Jack's Notion is a March 25, 2026 meeting: "
 
 **Decisions made:**
 - Jack continuing startup path over returning to school
-- Targeting March 31 for Agent Text launch
+- Targeting March 31 for AgentDex launch
 - Asia (Shanghai, Tokyo, Osaka) as next travel focus
 
 **Action items:**
-1. Prepare for Agent Text public launch March 31
+1. Prepare for AgentDex public launch March 31
 2. Consider bachelor's degree completion for Asia visa requirements
 3. Follow up with Jeff post-launch for feedback
 
