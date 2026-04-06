@@ -332,6 +332,11 @@
   ],
   "wiki/people/jack-luo": [
     {
+      "commit": "d57911d9",
+      "date": "2026-04-06 05:51:54",
+      "summary": "build: auto-update 2026-04-06 05:51 UTC (83 pages)"
+    },
+    {
       "commit": "83bb4f5c",
       "date": "2026-04-06 05:45:43",
       "summary": "build: auto-update 2026-04-06 05:45 UTC (83 pages)"
@@ -621,6 +626,11 @@
     }
   ],
   "wiki/projects/ces-2025": [
+    {
+      "commit": "d57911d9",
+      "date": "2026-04-06 05:51:54",
+      "summary": "build: auto-update 2026-04-06 05:51 UTC (83 pages)"
+    },
     {
       "commit": "aa83b40e",
       "date": "2026-04-06 05:14:13",
