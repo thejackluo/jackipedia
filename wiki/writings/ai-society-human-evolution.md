@@ -7,7 +7,7 @@
 
 ## Overview
 
-A stream-of-consciousness speculative entry rated Bib Gourmand — Jack's exceptional tier. Written in short bursts across a morning, this piece explores what happens at the intersection of AI capability and human identity. It reads like raw philosophical notes, unpolished but genuinely provocative.
+A stream-of-consciousness speculative entry rated Bib Gourmand — [[people/jack-luo]]'s exceptional tier. Written in short bursts across a morning, this piece explores what happens at the intersection of AI capability and human identity. It reads like raw philosophical notes, unpolished but genuinely provocative.
 
 ## The Questions
 

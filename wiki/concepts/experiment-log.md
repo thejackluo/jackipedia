@@ -26,7 +26,7 @@ Hands-on security testing around encryption methods. Date: September 25, 2021. R
 
 ### EUC Experience (Jul 2022)
 
-Jack's first documented Electric Unicycle (EUC) experience — July 2022, shortly before he would go on to ride 2,500+ miles on one. This is the origin entry for what became one of his defining physical hobbies.
+Jack's first documented [[interests/electric-unicycle]] (EUC) experience — July 2022, shortly before he would go on to ride 2,500+ miles on one. This is the origin entry for what became one of his defining physical hobbies.
 
 ### Music Composition: Jakku Song (Suno Experiment) (Aug 2024)
 

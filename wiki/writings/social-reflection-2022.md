@@ -26,7 +26,7 @@ This single line contains the germ of what the [[philosophy/walk-in-the-park-fra
 This belief — that Jack's social difficulties stem from not finding peers who match his aspirations, not from personal deficiency — appears across the archive:
 - 2023: "I am not good with getting along with most of the people, nor am I able to purpose my crazy MIT ideas to them" ([[writings/mit-operation-frosh]])
 - 2025: "Maybe the reason I don't connect with peers is because I don't aspire to be them" (this entry)
-- 2025: Nostalgia for Cupertino people as uniquely high-signal ([[writings/nostalgia-burnout-georgia-tech]])
+- 2025: Nostalgia for [[history/cupertino-high-school]] people as uniquely high-signal ([[writings/nostalgia-burnout-georgia-tech]])
 
 ## Related
 - [[writings/mit-operation-frosh]]

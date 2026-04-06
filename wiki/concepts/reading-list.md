@@ -12,13 +12,13 @@ Jack maintains an extensive reading list spanning AI, business, personal develop
 
 ## ⭐⭐⭐⭐ Four Stars (Excellent)
 
-- **Billion Dollar Whale** — Tom Wright & Bradley Hope | *Business* | In progress (16%)
+- **[[books/billion-dollar-whale]]** — Tom Wright & Bradley Hope | *Business* | In progress (16%)
   - "Jho Low is probably one of the most interesting guys I have had the honor to read"
 - **System Design Interview** — Alex Xu | *Technical* | In progress (28%)
 - **Life 3.0** — Max Tegmark | *SciFi/AI* | Finished (32%)
 - **Models** — Mark Manson | *Improvement* | In progress (45%)
 - **Deep Learning Illustrated** — Krohn, Beyleveld, Bassens | *AI* | In progress (29%)
-- **Essentialism** — Greg McKeown | *Personal Development* | Finished (Feb 14, 2026)
+- **[[books/essentialism]]** — Greg McKeown | *Personal Development* | Finished (Feb 14, 2026)
   - "Far too many people are focused on additive activities... this book is about being able to do less"
 - **100 Page Machine Learning Book** — Andriy Burkov | *AI* | In progress (35%)
 - **Grokking Deep Reinforcement Learning** — Miguel Morales | *AI* | In progress (8%)

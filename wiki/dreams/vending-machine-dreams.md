@@ -40,7 +40,7 @@ The dream repeats four times in succession — each pass giving Jack the chance 
 
 **Jack's interpretation:** The dream is about what you actually reach for vs. what you claim to want. You cannot give kids a pause if you cannot model one yourself. The vending machine is his own appetite for stimulation over substance.
 
-## Dream 3: Miami to Atlanta, The Red Car, The Heavy Door
+## Dream 3: [[history/miami]] to Atlanta, The Red Car, The Heavy Door
 
 **Setting:** A long drive from Miami toward Atlanta. Then a building in an unnamed city.
 

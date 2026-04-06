@@ -19,7 +19,7 @@ This entry — written 48 hours later — is likely the first real application o
 ## Trust in the Archive
 
 Trust is a recurring word in Jack's writing:
-- Cupertino friends as people he could trust (lost, and missed)
+- [[history/cupertino-high-school]] friends as people he could trust (lost, and missed)
 - New environments ([[history/georgia-tech-era]], Boston) as places where trust hasn't been built yet
 - The startup team as people he's deciding whether to trust
 

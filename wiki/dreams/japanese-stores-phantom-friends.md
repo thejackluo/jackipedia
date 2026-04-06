@@ -15,7 +15,7 @@ A quiet, atmospheric dream from early March 2025 — three weeks after the [[phi
 
 ## Reading
 
-**Japanese stores with mom:** Shopping with his mother in a Japanese context — deeply domestic, familiar. The discount detail is precise (the subconscious is economical). This likely connects to the Japan trip of December 2024 and Jack's Japanese language studies.
+**Japanese stores with mom:** Shopping with his mother in a Japanese context — deeply domestic, familiar. The discount detail is precise (the subconscious is economical). This likely connects to the [[history/japan-trip-2024]] of December 2024 and Jack's Japanese language studies.
 
 **Out of nowhere places:** The geography is uncertain — "out of nowhere places almost." Places that don't quite exist, on the edge of the known map. This is a recurring motif in Jack's dreams: the walk beyond the map, the portal city, the shifting biome. He keeps dreaming about the edge of the known.
 

@@ -11,7 +11,7 @@ Jack's account of Philmont Scout Ranch — a 12-day, 65-mile backpacking trek th
 
 He calls it his greatest achievement at the time of writing.
 
-> "Ahhhh, Philmont, a place where you heal using Sriracha Peanut Butter, also another place to climb 45 degree mountains and lighting position." — Jack Luo
+> "Ahhhh, Philmont, a place where you heal using Sriracha Peanut Butter, also another place to climb 45 degree mountains and lighting position." — [[people/jack-luo]]
 
 ## The Trek
 

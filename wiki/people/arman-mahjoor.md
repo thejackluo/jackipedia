@@ -27,7 +27,7 @@ By early 2025, Arman was associated with a project called **Circlez** — a netw
 
 ## At AgentDex
 
-An Instagram Reel from March 2026 is captioned: "Hey everyone this is Jack and this is my friend Arman" — a public introduction, suggesting Arman was part of Jack's 1-minute-a-day content sprint. An onboarding task ("Arman onboarding call potentially?") appears in Jack's Notion backlog, assigned to both Jack and Karthik Jandhyala.
+An Instagram Reel from March 2026 is captioned: "Hey everyone this is Jack and this is my friend Arman" — a public introduction, suggesting Arman was part of Jack's 1-minute-a-day content sprint. An onboarding task ("Arman onboarding call potentially?") appears in Jack's Notion backlog, assigned to both Jack and [[people/karthik-jandhyala]].
 
 ## The "Success Factors & Personal Motivation" Meeting
 

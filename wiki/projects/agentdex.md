@@ -56,7 +56,7 @@ Jack's OpenCode session log for March 2026 — days like March 26 logged 76 turn
 Jack ran a structured 26-interview customer discovery sprint in January-February 2026. Key findings:
 
 - **Champion:** Nimesh (hotel operator, 3 owned + 20+ managed, Best Western network)
-- **Non-ICP contacts** who made intros: Manas Nair (sales co-founder intro)
+- **Non-ICP contacts** who made intros: [[people/manas-nair]] (sales co-founder intro)
 - **Team recruit:** Arman Mahjoor (CD 8, became collaborator)
 - **Insight:** Pain points vary sharply by user type (investors, hotel operators, founders, sales professionals)
 

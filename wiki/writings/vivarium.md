@@ -7,7 +7,7 @@
 
 ## Overview
 
-Jack's 69th Medium post, noted as "shall be a short story" — a deliberate break from the usual essay format. Vivarium is a piece of speculative fiction about a character named Aku, a builder living alone in a cramped apartment that doubles as workshop, archive, and bunker.
+[[people/jack-luo]]'s 69th Medium post, noted as "shall be a short story" — a deliberate break from the usual essay format. Vivarium is a piece of speculative fiction about a character named Aku, a builder living alone in a cramped apartment that doubles as workshop, archive, and bunker.
 
 The story is technically accomplished. The prose is measured and atmospheric — reminiscent of Ursula K. Le Guin's quiet science fiction or a Neal Stephenson character study. The world is implied, not explained.
 

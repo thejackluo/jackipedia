@@ -7,7 +7,7 @@
 
 ## Overview
 
-Nick Sortino was one of the last customer discovery interviews in Jack's January–February 2026 sprint for [[projects/agentdex]] — CD 23 out of at least 24. He works in sports data analytics.
+Nick Sortino was one of the last customer discovery interviews in [[people/jack-luo]]'s January–February 2026 sprint for [[projects/agentdex]] — CD 23 out of at least 24. He works in sports data analytics.
 
 ## Meeting Notes (CD 23, Feb 12, 2026)
 

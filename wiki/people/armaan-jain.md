@@ -7,13 +7,13 @@
 
 ## Overview
 
-Armaan Jain is the founder of Phantom — a startup in Jack's extended network. Jack met him as part of the [[projects/agentdex]] customer discovery sprint in January 2026.
+Armaan Jain is the founder of Phantom — a startup in [[people/jack-luo]]'s extended network. Jack met him as part of the [[projects/agentdex]] customer discovery sprint in January 2026.
 
 ## Meeting Notes (CD 15, Jan 27, 2026)
 
 Summary: "Founder of Phantom"
 
-No extended notes available. The meeting happened the same day as CD 14 (Nimesh) — both on January 27 — suggesting a high-volume interview day during the CES Las Vegas period or immediately after.
+No extended notes available. The meeting happened the same day as CD 14 ([[people/nimesh]]) — both on January 27 — suggesting a high-volume interview day during the CES Las Vegas period or immediately after.
 
 ## Phantom
 

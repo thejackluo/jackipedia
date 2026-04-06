@@ -7,7 +7,7 @@
 
 ## Overview
 
-A transcript-style reflection from a ChatGPT conversation, covering three interlinked themes: nostalgia as escapism, burnout and work avoidance, and the Cupertino vs. Georgia Tech environment question. One of Jack's most self-aware pieces — he explicitly asks ChatGPT to separate his authentic thoughts from the AI replies, a meta-move that reveals how seriously he takes the integrity of his own journal.
+A transcript-style reflection from a [[history/chatgpt-senior-year]] conversation, covering three interlinked themes: nostalgia as escapism, burnout and work avoidance, and the [[history/cupertino-high-school]] vs. Georgia Tech environment question. One of Jack's most self-aware pieces — he explicitly asks ChatGPT to separate his authentic thoughts from the AI replies, a meta-move that reveals how seriously he takes the integrity of his own journal.
 
 ## Jack's Authentic Thoughts (verbatim)
 

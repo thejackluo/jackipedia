@@ -49,7 +49,7 @@ The sustained loss from ~190 → 176 across fall/winter 2021 suggests the runnin
 
 ## The 2024 Reset
 
-By the Annual Review 2024, Jack notes being "slightly fatter" — suggesting some weight regain during the [[history/georgia-tech-era]] transition and startup period. The "be more fit" goal first appeared in his 2022 New Year resolution, indicating fitness has been a recurring commitment, not a one-time achievement.
+By the [[writings/annual-review-2024]], Jack notes being "slightly fatter" — suggesting some weight regain during the [[history/georgia-tech-era]] transition and startup period. The "be more fit" goal first appeared in his 2022 New Year resolution, indicating fitness has been a recurring commitment, not a one-time achievement.
 
 ## Related
 - [[fitness/running-project-2021]]

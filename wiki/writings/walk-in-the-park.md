@@ -7,7 +7,7 @@
 
 ## Overview
 
-Written on February 9, 2025 after a walk and a series of ChatGPT conversations, this is the most philosophically developed and highest-rated piece in the archive. Jack articulates a four-part core philosophy — one of the clearest single statements of his values across 360+ entries.
+Written on February 9, 2025 after a walk and a series of [[history/chatgpt-senior-year]] conversations, this is the most philosophically developed and highest-rated piece in the archive. Jack articulates a four-part core philosophy — one of the clearest single statements of his values across 360+ entries.
 
 > "This is coming together into something much bigger than just a few scattered reflections — it's forming a **core philosophy** that could guide how you approach **relationships, success, and purpose** moving forward. Instead of just searching for lost points, you're building a **framework** that integrates those ideas into something long-lasting."
 

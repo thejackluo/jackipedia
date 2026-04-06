@@ -8,7 +8,7 @@
 
 ## Overview
 
-Jack has been editing Wikipedia since approximately 2018 — the same year he was planning Philmont. His stated motivation: when he reads something confusing, unsourced, or structurally messy, he wants to make it clearer.
+[[people/jack-luo]] has been editing Wikipedia since approximately 2018 — the same year he was planning Philmont. His stated motivation: when he reads something confusing, unsourced, or structurally messy, he wants to make it clearer.
 
 From his Wikipedia user page:
 

@@ -1,4 +1,4 @@
-# Dream Journal: Great America (Georgia to California to China to Japan)
+# Dream Journal: Great America (Georgia to California to [[history/china]] to Japan)
 **Rating:** Bib Gourmand
 **Date:** March 28, 2026
 **Last updated:** 2026-04-06
@@ -14,13 +14,13 @@ A single dream from March 28, 2026, rated Bib Gourmand. The setting moves from [
 ## The Journey
 
 **Georgia Tech → Great America:**
-The dream starts at Georgia Tech (Jack's current academic home) and moves to Great America — the Paramount's Great America theme park in Santa Clara, California, near Cupertino. Jack grew up near there.
+The dream starts at Georgia Tech (Jack's current academic home) and moves to Great America — the Paramount's Great America theme park in Santa Clara, California, near [[history/cupertino-high-school]]. Jack grew up near there.
 
 **"Felt like China walking":**
 The crowds, the scale, something about the texture of the experience evokes China. Jack has traveled to China or has family/cultural connection to it (Chinese-American background, studying classical Chinese grammar, studying Japan). The phrase is sensory — not that he's *in* China, but that it *feels* like China walking.
 
 **Japanese train with uniformed people:**
-Precise uniform personnel, orderly queuing, the specific texture of the Japanese transit system — this is experiential memory from the December 2024 Japan trip. The uniformed detail is characteristically Japanese: station attendants in white gloves, precise timing.
+Precise uniform personnel, orderly queuing, the specific texture of the Japanese transit system — this is experiential memory from the December 2024 [[history/japan-trip-2024]]. The uniformed detail is characteristically Japanese: station attendants in white gloves, precise timing.
 
 **Lots of lines; no roller coasters:**
 He came for the thrill (roller coasters = big experiences) but instead got the administrative reality (lines, waiting, process). A useful metaphor for the [[projects/agentdex]] launch period.

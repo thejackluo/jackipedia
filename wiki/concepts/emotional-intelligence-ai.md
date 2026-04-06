@@ -69,6 +69,6 @@ That gap — between the size of the problem and the awareness of it — is eith
 
 ## Related Pages
 
-- [[walk-in-the-park-framework]] — the emotional architecture behind Jack's early writing
+- [[walk-in-the-park-framework]] — the emotional architecture behind [[people/jack-luo]]'s early writing
 - [[agentdex]] — AI infrastructure work that touches adjacent territory
 - [[annual-review-2024]] — reflections on the year that inform this thinking

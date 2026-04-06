@@ -1,7 +1,7 @@
 # Interests
 
 **Category:** Index
-**Summary:** Jack's documented hobbies, passions, and obsessions
+**Summary:** [[people/jack-luo]]'s documented hobbies, passions, and obsessions
 **Last updated:** 2026-04-06
 
 ## Overview
@@ -17,7 +17,7 @@ A map of what Jack consistently returns to — not career goals or projects, but
 - [[interests/city-skylines]] — urban density, ambition, the feeling of being somewhere things are happening
 
 ### Physical
-- [[fitness/index]] — running, weight loss, EUC riding
+- [[fitness/index]] — running, weight loss, [[interests/electric-unicycle]] riding
 - [[fitness/running-project-2021]]
 - [[fitness/weight-loss-tracker]]
 

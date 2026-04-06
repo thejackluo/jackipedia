@@ -1,4 +1,4 @@
-# Dear Dear Jack
+# Dear Dear [[people/jack-luo]]
 
 **Published:** February 9, 2026 — Medium
 **Type:** Letter / speculative essay

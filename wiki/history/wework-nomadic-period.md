@@ -6,7 +6,7 @@
 
 ## Overview
 
-Between college and [[history/georgia-tech-era]], Jack lived a partially nomadic lifestyle centered on WeWork coworking spaces, hacker houses, and startup events. This period — roughly 2023 to early 2025 — is the substrate beneath the Vending Machine Dreams essay, the loneliness writings, and the founding of [[projects/agentdex]].
+Between college and [[history/georgia-tech-era]], [[people/jack-luo]] lived a partially nomadic lifestyle centered on WeWork coworking spaces, hacker houses, and startup events. This period — roughly 2023 to early 2025 — is the substrate beneath the Vending Machine Dreams essay, the loneliness writings, and the founding of [[projects/agentdex]].
 
 ## The Pattern
 

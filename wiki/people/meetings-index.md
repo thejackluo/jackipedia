@@ -3,7 +3,7 @@
 **Category:** People
 **Last updated:** 2026-04-06
 
-A comprehensive log of notable meetings across Jack's life — customer discovery calls, advisor sessions, team syncs, and one-on-ones. Sourced from Notion meetings database.
+A comprehensive log of notable meetings across [[people/jack-luo]]'s life — customer discovery calls, advisor sessions, team syncs, and one-on-ones. Sourced from Notion meetings database.
 
 ## Customer Discovery ([[projects/agentdex]], Jan–Feb 2026)
 

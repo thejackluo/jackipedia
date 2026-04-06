@@ -7,7 +7,7 @@
 
 On February 9, 2025, Jack articulated a four-part core philosophy during a walk. It represents the clearest single synthesis of his values in the entire writing archive — rated 3 Stars, one of his highest-rated pieces.
 
-The framework emerged from conversations with ChatGPT and a period of personal reflection. Jack noted at the time: "This is coming together into something much bigger than just a few scattered reflections — it's forming a core philosophy that could guide how you approach relationships, success, and purpose moving forward."
+The framework emerged from conversations with [[history/chatgpt-senior-year]] and a period of personal reflection. Jack noted at the time: "This is coming together into something much bigger than just a few scattered reflections — it's forming a core philosophy that could guide how you approach relationships, success, and purpose moving forward."
 
 ## The Four Principles
 

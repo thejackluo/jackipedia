@@ -95,7 +95,7 @@ He lists his focus areas: technology, universities, urban planning, cities. The 
 The userboxes:
 - **100+ edits** on Wikipedia
 - **7 years** editing Wikipedia
-- **This user rides an electric unicycle** — the most specific userbox on the page
+- **This user rides an [[interests/electric-unicycle]]** — the most specific userbox on the page
 
 He also notes photography as a hobby: "I am an amateur photographer who likes capturing people in natural, unposed moments." The Klarman Hall (Harvard Business School) photo and the ice biking photo he uploaded reflect this — real photos, not stock images.
 

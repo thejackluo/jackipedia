@@ -17,7 +17,7 @@ Jack has uploaded 23 images to Wikimedia Commons as Jack145945, all released und
 
 ![Anime Expo 2022 opening crowd](/assets/photos/commons/anime-expo-2022.jpg)
 
-The opening crowd at Anime Expo 2022, Los Angeles. Uploaded November 2022. This was one of Jack's earliest Commons contributions — during the UCSC era, before the [[history/georgia-tech-era]] transfer. Anime Expo is the largest anime convention in North America; this photo captures the moment the doors opened.
+The opening crowd at Anime Expo 2022, Los Angeles. Uploaded November 2022. This was one of Jack's earliest Commons contributions — during the [[history/ucsc-era]] era, before the [[history/georgia-tech-era]] transfer. Anime Expo is the largest anime convention in North America; this photo captures the moment the doors opened.
 
 ### Michelin Star Dish — Gucci Osteria, Beverly Hills (Jun 2022)
 
@@ -29,7 +29,7 @@ A course from Gucci Osteria da Massimo Bottura in Beverly Hills, photographed Ju
 
 ![Senior Prom gathering](/assets/photos/commons/senior-prom.jpg)
 
-A Cupertino High School senior prom gathering — "guys in tuxedos/dress suits, girls in dresses." Photographed May 16, 2022, uploaded to Commons July 2023. Used in the Wikipedia Prom article (though his edits were sometimes reverted). This is the same prom article he attempted to edit three separate times.
+A [[history/cupertino-high-school]] High School senior prom gathering — "guys in tuxedos/dress suits, girls in dresses." Photographed May 16, 2022, uploaded to Commons July 2023. Used in the Wikipedia Prom article (though his edits were sometimes reverted). This is the same prom article he attempted to edit three separate times.
 
 ### American Wagyu — Atlanta, Nov 2025
 
@@ -61,7 +61,7 @@ The 2025 Georgia Tech vs. Virginia Tech ACC rivalry game at Bobby Dodd Stadium, 
 
 A KFC-branded food truck on a university campus in the US, photographed November 21, 2025. Used in the Wikipedia KFC article. Description: "reflecting the company's use of mobile units for promotional and catering purposes." One of several food photos from the November 2025 sprint.
 
-### McCafe Mobile Truck — China, 2024
+### McCafe Mobile Truck — [[history/china]], 2024
 
 ![McCafe mobile coffee truck China](/assets/photos/commons/mccafe-mobile-china.jpg)
 

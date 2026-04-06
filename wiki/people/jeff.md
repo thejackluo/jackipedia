@@ -35,7 +35,7 @@ The most detailed record of Jeff in Jack's Notion is a March 25, 2026 meeting: "
 
 Jeff is the friend Jack processes life with — not a startup collaborator, not a customer, not a mentor. The topics are the full range of what Jack is actually thinking about: work, relationships, geography, the future. This is rare in Jack's network, which is otherwise heavily skewed toward professional/strategic contacts.
 
-The Asia visa question is interesting: Jack appears to be thinking about extended stays in Asia, and Jeff apparently surfaced the visa consideration (probably requiring a completed degree for long-stay visas in Japan or China).
+The Asia visa question is interesting: Jack appears to be thinking about extended stays in Asia, and Jeff apparently surfaced the visa consideration (probably requiring a completed degree for long-stay visas in Japan or [[history/china]]).
 
 ## Eastwick Reference
 

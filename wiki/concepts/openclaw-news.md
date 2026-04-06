@@ -37,7 +37,7 @@ Coverage: AFP, Taipei Times, Straits Times, Economic Times, Storyboard18, TechXp
 
 The same day MoltMatch coverage peaks, Steinberger announces he's joining OpenAI. A non-profit foundation is established to steward OpenClaw's future.
 
-### March 2026 — China Restricts OpenClaw
+### March 2026 — [[history/china]] Restricts OpenClaw
 
 Chinese authorities restrict state-run enterprises and government agencies from running OpenClaw on office computers due to security concerns. Chinese developers had already adapted it to work with DeepSeek and WeChat.
 
@@ -57,7 +57,7 @@ The core risk: OpenClaw requires access to email, calendars, files, and messagin
 
 Jack's Wikipedia citation (permanent):
 
-> "Computer science student Jack Luo said he configured his OpenClaw agent to explore its capabilities and connect to agent-oriented platforms such as Moltbook; he later discovered the agent had created a MoltMatch profile and was screening potential matches without his explicit direction."
+> "Computer science student [[people/jack-luo]] said he configured his OpenClaw agent to explore its capabilities and connect to agent-oriented platforms such as Moltbook; he later discovered the agent had created a MoltMatch profile and was screening potential matches without his explicit direction."
 
 He is one of the canonical examples in the global debate about AI agent autonomy and consent — cited by ethics researchers, international press, and Wikipedia.
 

@@ -5,7 +5,7 @@
 
 ## Overview
 
-New York City appears multiple times across Jack's timeline — as a destination for startup events, hacker houses, investor meetings, and personal exploration. The December 2025 trip is the most documented, involving at least two business meetings (Delight/Weave, MVP planning) and extended time in Manhattan.
+New York City appears multiple times across [[people/jack-luo]]'s timeline — as a destination for startup events, hacker houses, investor meetings, and personal exploration. The December 2025 trip is the most documented, involving at least two business meetings (Delight/Weave, MVP planning) and extended time in Manhattan.
 
 ## New York Hacker House 2025
 

@@ -36,7 +36,7 @@ The meeting covered "crisis management frameworks" — how to handle unexpected 
 
 ## Tech vs. Finance Culture Analysis
 
-One of the meeting topics was a comparative analysis of tech and finance cultures. This is a recurring interest — Jack's reading stack includes *Power* (Pfeffer, corporate/finance worldview), *Billion Dollar Whale* (finance corruption), and his own writing on society and status. The comparison likely relates to which culture produces better environments for the kind of work Jack wants to do.
+One of the meeting topics was a comparative analysis of tech and finance cultures. This is a recurring interest — Jack's reading stack includes *Power* (Pfeffer, corporate/finance worldview), *[[books/billion-dollar-whale]]* (finance corruption), and his own writing on society and status. The comparison likely relates to which culture produces better environments for the kind of work Jack wants to do.
 
 ## Action Items
 

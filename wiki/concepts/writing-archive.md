@@ -53,7 +53,7 @@ Key facts from 2024 annual review:
 - Biggest achievement: Transferring to Georgia Tech and improving social skills
 - Biggest failure: Not pursuing side projects hard enough
 - Hardships: Losing some friends, being isolated in bad locations, lack of startup traction
-- Physical: Twisted ankle, minor lung issue, electric unicycle crash
+- Physical: Twisted ankle, minor lung issue, [[interests/electric-unicycle]] crash
 - Best purchase: New laptop
 - Celebrated: Ivan's consistent drive on Prodicity
 - Song of the year: [[interests/steins-gate]] "Hacking to the Gate"
@@ -101,7 +101,7 @@ Based on the catalog and selected readings, the following themes recur persisten
 3. **Vision over money** — anti-prestige strand that coexists with clear prestige-seeking (tension)
 4. **Environment as destiny** — recurring belief that the right city, school, or community will unlock potential
 5. **Startup identity** — writing frequently tags "Startup"; work and identity are deeply fused
-6. **Japan and travel** — Japan trip Dec 2024 clearly significant; travel as expansion/escape
+6. **Japan and travel** — [[history/japan-trip-2024]] Dec 2024 clearly significant; travel as expansion/escape
 7. **Anime as philosophy** — Steins;Gate in particular, as both entertainment and worldview reference
 
 ## Writing Quality Distribution (Michelin system)

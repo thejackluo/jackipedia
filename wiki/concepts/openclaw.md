@@ -1,7 +1,7 @@
 # OpenClaw
 
 **Category:** Concepts / Technology
-**Relevance:** Jack is cited in the Wikipedia article for OpenClaw
+**Relevance:** [[people/jack-luo]] is cited in the Wikipedia article for OpenClaw
 **Last updated:** 2026-04-06
 
 ## Overview

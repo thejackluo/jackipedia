@@ -32,7 +32,7 @@ Cross-referencing with the writing archive:
 Jack explicitly identified "I want everything to be perfect because I want people to think highly of me" (January 2025). Adler's answer: that is exactly the wrong goal. The task of what people think is *theirs*, not Jack's.
 
 **The environment-as-destiny belief:**
-Jack repeatedly attributes his unhappiness to being in the wrong environment (not Cupertino people, not MIT). Adler's teleological view would challenge this: Jack's focus on environment may be serving a goal (justifying inaction, preserving the dream of the "right place" as a future solution).
+Jack repeatedly attributes his unhappiness to being in the wrong environment (not [[history/cupertino-high-school]] people, not MIT). Adler's teleological view would challenge this: Jack's focus on environment may be serving a goal (justifying inaction, preserving the dream of the "right place" as a future solution).
 
 **"Aspirational mismatch as loneliness":**
 Jack's theory of his own loneliness — "I don't aspire to be them" — is close to Adler's concept of *social interest* misalignment. But Adler would add: the solution is not to find peers at your level; it's to contribute to whatever community you're in, at whatever level you're at now.
@@ -42,7 +42,7 @@ The book's philosopher is specifically associated with Japan (it's a Japanese be
 
 ## The 5-Star Signal
 
-Jack rating this book at the highest tier — above all his AI books, above Life 3.0, above Essentialism — suggests it hit something fundamental. The Adlerian framework may have given him philosophical vocabulary for things he'd been living for years: the desire to be liked, the frustration of not finding peers, the difficulty of just doing the work without external validation.
+Jack rating this book at the highest tier — above all his AI books, above Life 3.0, above [[books/essentialism]] — suggests it hit something fundamental. The Adlerian framework may have given him philosophical vocabulary for things he'd been living for years: the desire to be liked, the frustration of not finding peers, the difficulty of just doing the work without external validation.
 
 ## Related
 - [[books/index]]

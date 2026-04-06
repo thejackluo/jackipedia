@@ -27,11 +27,11 @@ Jack has been to almost all major US cities and tracks every flight in the Fligh
 
 | Place | Context |
 |-------|---------|
-| Cupertino / Bay Area | Grew up here |
+| [[history/cupertino-high-school]] / Bay Area | Grew up here |
 | San Francisco | Hacker houses, startup events |
 | Los Angeles / Santa Monica | City travel, beach walks |
 | Las Vegas | [[projects/ces-2025]] |
-| Miami | Brickell, beach, galleries, content creation |
+| [[history/miami]] | Brickell, beach, galleries, content creation |
 | New York | NY Hacker House 2025, Dec 2025 meetings — [[history/new-york-city]] |
 | Atlanta | [[history/georgia-tech-era]] |
 | Boston | MIT SIPB, 2025 |

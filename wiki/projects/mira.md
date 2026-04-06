@@ -40,7 +40,7 @@ Based on available signals:
 
 ## Significance
 
-Mira occupies a significant gap in the archive — the entire summer of 2024, concurrent with the Berkeley AI Hackathon (June 29) and the Japan trip planning. It likely represents either a previous startup Jack was involved with that wound down before he pivoted to [[projects/agentdex]], or a parallel collaboration that influenced the AgentDex direction.
+Mira occupies a significant gap in the archive — the entire summer of 2024, concurrent with the Berkeley AI Hackathon (June 29) and the [[history/japan-trip-2024]] planning. It likely represents either a previous startup Jack was involved with that wound down before he pivoted to [[projects/agentdex]], or a parallel collaboration that influenced the AgentDex direction.
 
 The Berkeley AI Hackathon Top 15 win in June 2024 (from Jack's website) may have been Mira-related or AgentDex's precursor.
 

@@ -15,7 +15,7 @@ Total change: approximately 30 lbs over ~7 months
 
 ## Route Geography
 
-Jack ran across multiple locations in and around Cupertino, California:
+Jack ran across multiple locations in and around [[history/cupertino-high-school]], California:
 - **Lawson Middle School** — early runs, track loops
 - **Cupertino High School** — Day 2, road running, "extremely hot"
 - **The Great Jack Luo Loop** — a route he named himself; familiar enough to call "his"

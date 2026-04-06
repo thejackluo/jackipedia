@@ -1,4 +1,4 @@
-# CES 2026 NVIDIA Keynote Analysis
+# [[history/ces]] NVIDIA Keynote Analysis
 
 **Published:** January 24, 2026 — Medium
 **Type:** Technical analysis / conference notes
@@ -7,7 +7,7 @@
 
 ## Overview
 
-Jack's detailed writeup of NVIDIA's CES 2026 keynote by Jensen Huang — one of his most technically dense Medium pieces, published from Las Vegas during the CES trip.
+[[people/jack-luo]]'s detailed writeup of NVIDIA's CES 2026 keynote by Jensen Huang — one of his most technically dense Medium pieces, published from Las Vegas during the CES trip.
 
 ## NVIDIA's Core Argument
 
@@ -27,7 +27,7 @@ The key difference this cycle: applications are not "using" AI as a feature. The
 |------|-----------|
 | 2015 | BERT — first language model Huang believed would be truly transformative |
 | 2017 | Transformers introduced |
-| 2022 | ChatGPT — "awakened the world" |
+| 2022 | [[history/chatgpt-senior-year]] — "awakened the world" |
 | 2024 | First O1-style reasoning model — "test-time scaling" (models think longer at inference) |
 | 2025 | Full agentic systems: reason, call tools, plan multi-step workflows, simulate outcomes |
 

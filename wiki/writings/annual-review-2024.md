@@ -24,7 +24,7 @@ Jack's 2024 annual review, written in the "40 Questions" format — a structured
 | January 6–10 | CES, Las Vegas |
 | February 16–18 | [[history/treehacks-2025]], Stanford |
 | June 29 | Berkeley AI Hackathon |
-| December 15–30 | Japan trip |
+| December 15–30 | [[history/japan-trip-2024]] |
 | April 6 | Went to production |
 
 ### Biggest Achievement

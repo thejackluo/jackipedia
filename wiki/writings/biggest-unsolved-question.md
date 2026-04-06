@@ -7,9 +7,9 @@
 
 ## Overview
 
-A short essay posing a question Jack had not resolved: how do you create exceptional environments everywhere — not just in elite institutions?
+A short essay posing a question [[people/jack-luo]] had not resolved: how do you create exceptional environments everywhere — not just in elite institutions?
 
-Published the same day as his CES 2026 NVIDIA Keynote writeup, during the CES trip to Las Vegas.
+Published the same day as his [[history/ces]] NVIDIA Keynote writeup, during the CES trip to Las Vegas.
 
 ## The Question
 
