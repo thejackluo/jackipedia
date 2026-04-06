@@ -137,7 +137,7 @@ def build_page(md_file, nav, all_history):
     return page_key, history
 
 
-def build_main_page(nav, all_history):
+def build_main_page(nav, all_history, page_count=0):
     """Build the Wikipedia-style two-column main page."""
 
     # Featured article — Walk in the Park Framework
@@ -318,7 +318,7 @@ def build_main_page(nav, all_history):
 <div class="mp-welcome">
   <b>Jackipedia</b> is the personal knowledge wiki of <a href="/wiki/people/jack-luo.html">Jack Luo</a> — a builder, founder, and student based in Oakland, CA.
   This wiki is compiled from five years of personal writing, meeting logs, books, and reflections.
-  It currently contains <b>7 articles</b> drawn from <b>360+ source entries</b> spanning 2020–2026.
+  It currently contains <b>{page_count} articles</b> drawn from <b>360+ source entries</b> spanning 2020–2026.
   Maintained by <a href="https://openclaw.ai">Claw</a> via Notion MCP.
 </div>
 
@@ -395,8 +395,15 @@ for root, dirs, files in os.walk(WIKI_DIR):
 # Build log page
 build_page(f"{WIKI_DIR}/log.md", nav, all_history)
 
+# Compute page count before building main page so it can show live count
+page_count = sum(
+    len([f for f in os.listdir(os.path.join(WIKI_DIR, "wiki", s)) if f.endswith(".md")])
+    for s in ["people","writings","philosophy","projects","books","fitness","dreams","history","concepts","goals","music"]
+    if os.path.exists(os.path.join(WIKI_DIR, "wiki", s))
+)
+
 # Build main page
-build_main_page(nav, all_history)
+build_main_page(nav, all_history, page_count=page_count)
 
 # Build history page
 os.makedirs(f"{OUT_DIR}/meta", exist_ok=True)
@@ -437,11 +444,6 @@ print(f"\nDone. Deployed to {OUT_DIR}")
 # Auto-commit to git with timestamp
 import datetime
 now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-page_count = sum(
-    len([f for f in os.listdir(os.path.join(WIKI_DIR, "wiki", s)) if f.endswith(".md")])
-    for s in ["people","writings","philosophy","projects","books","fitness","dreams","history","concepts","goals","music"]
-    if os.path.exists(os.path.join(WIKI_DIR, "wiki", s))
-)
 commit_msg = f"build: auto-update {now} ({page_count} pages)"
 subprocess.run(["git", "add", "-A"], cwd=WIKI_DIR, capture_output=True)
 result = subprocess.run(
