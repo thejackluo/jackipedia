@@ -15,7 +15,7 @@
 | Instagram | instagram.com/thejackluo | |
 | Medium | medium.com/@thejackluo8 | 69+ posts |
 | SoundCloud | soundcloud.com/thejackluo | Music |
-| TikTok | tiktok.com/@chrisclipsss | 2M+ views (via reposter Chris) |
+| TikTok | tiktok.com/@chrisclipsss | 2M+ views — Brazil & Nepal content, reposted by @chrisclipsss |
 | Wikipedia | wikipedia.org/wiki/User:Jack145945 | 100+ edits, 7 years |
 | Goodreads | goodreads.com/user/show/145945-jack | Reading log |
 
@@ -35,7 +35,7 @@ Currently pursuing an "unconventional education" through building and tackling c
 - Attended NVIDIA conference, hosted group to CES
 - Growth hacked 30X in DeSo through ETH and alt coins
 - Graduated Buildspace S4 (nights and weekends cohort)
-- Got viral on TikTok: 2M+ views
+- Got viral on TikTok: 2M+ combined views on Brazil and Nepal content, reposted by @chrisclipsss
 - Researched neural networks in NLP
 - 50+ Medium blogs (surpassed milestone as of jack-luo.com writing)
 
