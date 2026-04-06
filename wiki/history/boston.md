@@ -36,7 +36,7 @@ This is consistent with how Jack relates to cities generally: not as places you 
 
 ## Boston vs. San Francisco
 
-The Bay Area — where Jack grew up in Cupertino — is the default destination for ambitious tech builders. But Jack's relationship with San Francisco is complicated. It comes up in the city-skylines interest, in his travel patterns, in the rooftop photos. He knows the Bay well.
+The Bay Area — where Jack grew up in [[history/cupertino-high-school]] — is the default destination for ambitious tech builders. But Jack's relationship with San Francisco is complicated. It comes up in the city-skylines interest, in his travel patterns, in the rooftop photos. He knows the Bay well.
 
 Boston offers something different:
 - **Intellectual density over venture density**: more researchers, fewer VCs
@@ -57,3 +57,7 @@ Jack's nomadic period — WeWork, hacker houses, couch-surfing, city-hopping —
 - [[history/new-york-city]]
 - [[writings/annual-review-2024]]
 - [[people/jack-luo]]
+
+## Photos
+
+![Jack on a snowy mountain — the kind of landscape that shows up when you leave California](/assets/photos/jack-snowy-mountain.jpg)

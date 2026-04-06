@@ -55,3 +55,9 @@ The relationship between Agent School and AgentDex is similar to the relationshi
 - [[people/jack-luo]]
 - [[concepts/granola]]
 - [[concepts/jotion]]
+
+## Photos
+
+![Agent School door at night — the workspace where it all happens](/assets/photos/agent-school-door-night.jpg)
+
+![Agent School room — the interior setup](/assets/photos/agent-school-room.jpg)

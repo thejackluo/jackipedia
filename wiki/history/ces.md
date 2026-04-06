@@ -58,3 +58,7 @@ The Las Vegas context helps: CES takes over the city. Jack wrote his Annual Revi
 - [[people/kevin-zhang]]
 - [[interests/wikipedia-contributions]]
 - [[people/jack-luo]]
+
+## Photos
+
+![Humanoid robot boxing exhibition, November 2025 — the kind of physical AI Jack was tracking before CES 2026](/assets/photos/commons/humanoid-robot-boxing.png)

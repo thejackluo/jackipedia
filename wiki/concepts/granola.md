@@ -24,7 +24,7 @@ Jack's Notion meetings database shows the Granola fingerprint clearly: entries h
 
 Jack runs a dense meeting schedule and documents everything. Before tools like Granola, meeting notes were either manual (slow, incomplete) or neglected (never written). Granola makes high-quality documentation nearly automatic.
 
-The result is the meetings database in [[concepts/jotion]]: dozens of structured entries with action items, decisions, and summaries that can be queried, searched, and cross-referenced. This is the raw material for Jackipedia's history and people sections.
+The result is the meetings database in [[concepts/jotion]]: dozens of structured entries with action items, decisions, and summaries that can be queried, searched, and cross-referenced. This is the raw material for [[projects/jackipedia]]'s history and people sections.
 
 The March 28 meeting entry ("Codebase architecture + onboarding story") and the March 27 entry ("Personal Development, Crisis Management & Agent X Launch") are both Granola-sourced. They contain verbatim action items and decisions that read like they were structured by the AI and then cleaned by Jack.
 

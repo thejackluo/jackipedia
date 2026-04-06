@@ -73,3 +73,7 @@ But the insight and the behavior are different things. The writing archive shows
 - [[writings/mit-operation-frosh]]
 - [[fitness/running-project-2021]]
 - [[people/jack-luo]]
+
+## Photos
+
+![Senior prom, Cupertino High School, May 2022](/assets/photos/commons/senior-prom.jpg)

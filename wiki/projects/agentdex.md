@@ -88,3 +88,9 @@ This is the "overnight agent harness" architecture — AI agents handle small bu
 - [[people/nimesh]]
 - [[people/jack-luo]]
 - [[projects/mira]]
+
+## Photos
+
+![Gather Town, January 2026 — the virtual team space used during AgentDex development](/assets/photos/gather-town-jan2026.jpg)
+
+![AgentDex commit analysis — the codebase growth over time](/assets/photos/agentdex-commit-analysis.jpg)

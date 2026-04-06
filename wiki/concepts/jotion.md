@@ -34,7 +34,7 @@ The most important database. 360+ entries spanning 2021–2026 with a Michelin-s
 
 Tags include: Essay, Note, Reflection, Idea, Log, Academic, Personal, Startup, Creative, Events, High School.
 
-The dream journals are tagged Log + Personal and rated Bib Gourmand. The major essays (Walk in the Park, Annual Reviews) are 2–3 stars. Day-to-day logs are unrated or 1 star.
+The dream journals are tagged Log + Personal and rated Bib Gourmand. The major essays ([[philosophy/walk-in-the-park-framework]], Annual Reviews) are 2–3 stars. Day-to-day logs are unrated or 1 star.
 
 The Michelin rating system applied to personal writing is one of the more distinctive things about Jack's approach. Most people either don't rate their own work or use a simple 1–5 stars. The Michelin system has specific qualitative meaning at each level — not just "how good is this" but "what kind of effort does it merit from a reader."
 

@@ -42,3 +42,9 @@ Jack's Song of Year 2024 is "Hacking to the Gate" from [[interests/steins-gate]]
 - [[interests/steins-gate]]
 - [[writings/limbinal]]
 - [[history/cupertino-high-school]]
+
+## Photos
+
+![Neon sign — the aesthetic that runs through Jack's music and writing](/assets/photos/neon-sign.jpg)
+
+![Neon sign FYF — another neon piece in the collection](/assets/photos/neon-sign-fyf.jpg)

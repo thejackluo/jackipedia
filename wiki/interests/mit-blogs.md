@@ -77,6 +77,6 @@ Then it pivots. The essay is structured around four components of a world-class 
 
 The essay ends: *"As they say at MIT, 'Pain is just weakness leaving the body.' So go forth, and conquer the world!"*
 
-This piece sits at the intersection of two things that define Jack's early writing: processing rejection through reframing, and building systematic frameworks for self-directed growth. It is also the origin of the "unconventional education" thread that runs through his entire arc — UCSC, Georgia Tech, Boston, building AgentDex.
+This piece sits at the intersection of two things that define Jack's early writing: processing rejection through reframing, and building systematic frameworks for self-directed growth. It is also the origin of the "unconventional education" thread that runs through his entire arc — [[history/ucsc-era]], Georgia Tech, Boston, building [[projects/agentdex]].
 
 The essay is dedicated to "those who may be feeling the sting of rejection."

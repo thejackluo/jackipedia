@@ -46,3 +46,7 @@ Mark Zuckerberg competing in MMA (and training seriously) is the most visible te
 - [[interests/electric-unicycle]]
 - [[history/philmont-2019]]
 - [[people/jack-luo]]
+
+## Photos
+
+![Jack at the gym — the physical training regimen that BJJ fits into](/assets/photos/jack-gym.jpg)

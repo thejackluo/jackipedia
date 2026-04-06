@@ -55,3 +55,9 @@ The MIT era is Jack's lived version of that argument: the institution that rejec
 - [[people/jack-luo]]
 - [[history/cupertino-high-school]]
 - [[history/chatgpt-senior-year]]
+
+## Photos
+
+![MIT group crowd — the density of the MIT community](/assets/photos/mit-group-crowd.jpg)
+
+![MIT rabbit — the classic MIT campus resident](/assets/photos/mit-rabbit.jpg)

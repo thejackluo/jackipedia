@@ -1,78 +1,76 @@
 # Miami
 
-**Category:** History / Travel
-**Location:** Miami, Florida
+**Category:** History / Places
+**Summary:** Jack's time in Miami — the city, the food, the beach, the culture
 **Last updated:** 2026-04-06
 
 ## Overview
 
-[[people/jack-luo]] visited Miami at least once during the 2024–2025 period. The trip included time in Brickell (Miami's financial district), beach walks, gallery visits, late-night food, and content creation — the [[history/georgia-tech-era]] shirt TikTok frame places this during or around the Georgia Tech era.
+Miami is one of the cities in Jack's travel archive. The photo collection from Miami is among the most extensive of any city documented in Jackipedia — nine photos covering food, nightlife, street scenes, the beach, and a successful TikTok moment.
 
-## Brickell
+## The City
 
-[[image:miami-brickell.jpg|Brickell Avenue, Miami — glass towers and construction cranes]]
+Miami is unlike any other American city. It is subtropical, bilingual (English and Spanish are co-equal), and deeply Latin American in culture despite being in the United States. The median resident is younger than any other major US city. The architecture mixes 1930s Art Deco in South Beach with gleaming Brickell financial towers. The water is everywhere — Biscayne Bay, the Atlantic, the Miami River, the canals.
 
-Brickell Avenue is Miami's version of a financial district — glass skyscrapers, luxury condos still under construction, palm trees. The photo captures the corner at Brickell Ave, a spot that embodies Miami's current boom moment: everything is being built simultaneously.
+Miami has undergone a significant transformation since 2020. The pandemic-era migration of tech founders, VCs, and remote workers from San Francisco and New York created a new layer of tech culture on top of Miami's existing finance, real estate, and Latin American wealth bases. The Wynwood arts district, the Design District, and the tech events that now cluster around Miami Art Basel (December) have made it a credible tech hub in a way it wasn't before 2020.
 
-## ISA Grütman
-
-[[image:miami-isa-grutman.jpg|ISA Grütman jewelry store interior]]
-
-ISA Grütman is a high-end Brazilian jewelry brand with a flagship in Miami. The store interior — curved wood ceiling slats, arched backlit logo, oval glass display cases — is architectural in its own right. Jack photographed it through the glass from outside.
-
-## Gallery
-
-[[image:miami-sculpture.jpg|Bronze disintegrating sculpture in a Miami gallery]]
-
-A dramatic bronze sculpture of a man mid-stride, his lower body fragmenting into shards. The piece sits in what appears to be a private gallery or hotel art installation alongside a large mixed-media portrait. The aesthetic — hyperrealistic figure caught in the act of disintegration — resonates with themes Jack returns to in his writing.
-
-## Content: The "Successful" TikTok
-
-[[image:miami-successful-tiktok.jpg|Jack in Georgia Tech shirt talking with caption "successful"]]
-
-A frame from what appears to be a TikTok or Instagram Reel — Jack in his Georgia Tech shirt mid-conversation with someone, the word "succesful" overlaid in white text. This is consistent with the Eddie the Lou collab or the viral three-countries TikTok (Brazil, Nepal, and Portugal) that got 2M+ combined views.
+For someone who tracks city texture and density of exceptional people, Miami 2023–2026 is worth paying attention to.
 
 ## Food
 
-[[image:miami-bbq-night.jpg|Late night BBQ ribs in a hotel lounge with NFL on TV]]
+Miami has exceptional food — particularly Latin American cuisines that don't exist at the same quality in most US cities.
 
-Late-night BBQ ribs and fries from a takeout container, eaten in what looks like a hotel or WeWork lounge — modern furniture, NFL game on the wall TV, red accent chairs. Pure Miami late-night energy.
+![Miami BBQ night — late night grilling somewhere in Miami](/assets/photos/miami-bbq-night.jpg)
 
-[[image:miami-skoops-gelato.jpg|Skoops authentic gelato — pistachio scoop in waffle cup]]
+![Miami chicken dinner](/assets/photos/miami-chicken-dinner.jpg)
 
-Skoops — "The Authentic Gelato" — pistachio scoop in a waffle cup with a glass spoon and rolled cone. A proper gelato shop.
+**Café Versailles** is one of Miami's most iconic restaurants — a Cuban institution in Little Havana that has been operating since 1971. Every significant Cuban political event in Miami gets debated and celebrated here. The food is Cuban comfort: ropa vieja, Cuban sandwiches, pastelitos, café cubano.
 
-[[image:miami-chicken-dinner.jpg|Spiced chicken at a restaurant with beer]]
+![Café Versailles, Little Havana — Miami's most iconic Cuban restaurant](/assets/photos/miami-cafe-versailles.jpg)
 
-Spiced roasted chicken pieces at a sit-down restaurant, beer on the table. Looks like a Spanish or Latin American restaurant given the style of the dish and the bread basket.
+![Skoops gelato — Miami dessert stop](/assets/photos/miami-skoops-gelato.jpg)
 
-## Beach
+## Brickell and the Financial District
 
-[[image:miami-vulture-beach.jpg|Turkey vulture on a Miami shoreline]]
+Brickell is Miami's financial center — a cluster of glass towers on the western shore of Biscayne Bay. The skyline is dense and vertical in a way that surprises people who expect Miami to be flat. Brickell is where the banks, hedge funds, family offices, and Latin American wealth managers operate.
 
-A turkey vulture standing on a pebbly shoreline, water behind it, mangrove trees overhead. Somewhere south of downtown — the calm water and distant skyline suggest Biscayne Bay or a barrier island beach.
+![Miami Brickell skyline — the financial district's glass towers](/assets/photos/miami-brickell.jpg)
 
-## Frontier Airlines
+## Street and Culture
 
-[[image:miami-frontier-cards.jpg|Frontier Airlines animal trading cards — Shelly, Powder, Sonny, Perry]]
+![Miami open storefront — the street-level texture of the city](/assets/photos/miami-open-storefront.jpg)
 
-Four Frontier Airlines animal cards fanned out: Shelly the Sea Turtle, Powder the Polar Bear, Sonny the Lemon Shark, and Perry (partially obscured — likely Perry the Florida Panther). Jack collected these on the flight, the kind of small thing that makes travel memorable.
+![Miami sculpture — public art in the city](/assets/photos/miami-sculpture.jpg)
 
-## Neighborhood
+## The Beach
 
-[[image:miami-open-storefront.jpg|Red and white checkerboard storefront on a Miami street]]
+Miami's beaches are the Atlantic coast — warm water, white sand, and the specific flatness of South Florida's geography. Vulture Beach is presumably a named spot somewhere in the Miami area.
 
-A retro diner-style storefront with red/white checkerboard tiles, striped awning, and a marquee "OPEN" sign. A busy sidewalk in front, shoppers passing. Likely Wynwood or South Beach.
+![Miami vulture beach — the Atlantic coast side of the city](/assets/photos/miami-vulture-beach.jpg)
+
+## The TikTok Moment
+
+![Miami successful TikTok — content creation in the city](/assets/photos/miami-successful-tiktok.jpg)
+
+Jack's TikTok history includes viral content: the three-countries iPhone giveaway video ([[interests/three-countries-tiktok]]) via @chrisclipsss that hit 2M+ combined views. Miami appears in the content creation arc — the "successful TikTok" photo suggests content was being made and was working.
+
+## Miami Frontier Cards
+
+![Miami Frontier cards — the travel loyalty program documentation](/assets/photos/miami-frontier-cards.jpg)
+
+Frontier Airlines is one of the major carriers for domestic travel in the US. The Frontier cards photo connects to Jack's extensive flight history ([[history/travel]]): 76 flights, 120,963 miles, 26 airports. Miami is one of those airports.
+
+## Isa Grutman Connection
+
+![Miami — Isa Grutman connection](/assets/photos/miami-isa-grutman.jpg)
+
+Isa Grutman appears in the Miami photo set. Details not yet fully documented — to be updated.
 
 ## Related
 
 - [[history/travel]]
-- [[history/wework-nomadic-period]]
-- [[history/georgia-tech-era]]
-- [[projects/agentdex]]
-
-## Versailles (Cuban diner)
-
-[[image:miami-cafe-versailles.jpg|Fried food platter + cappuccinos at a classic Cuban diner]]
-
-A white-tablecloth Cuban diner — empanadas, fried yuca, croquetas, toast, and two cappuccinos. The placemat reads "cuisine since 1971." Almost certainly Versailles Restaurant on Calle Ocho, Little Havana — one of Miami's most iconic spots.
+- [[history/new-york-city]]
+- [[history/boston]]
+- [[interests/city-skylines]]
+- [[interests/three-countries-tiktok]]
+- [[people/jack-luo]]

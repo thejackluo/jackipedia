@@ -43,3 +43,7 @@ The EUC community is small, globally distributed, and has a strong online presen
 - [[concepts/experiment-log]]
 - [[interests/factorio]]
 - [[people/jack-luo]]
+
+## Photos
+
+![Indoor shooting range, November 2025 — another high-skill-ceiling activity in Jack's rotation](/assets/photos/commons/indoor-shooting-range.png)

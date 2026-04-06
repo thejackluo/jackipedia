@@ -102,7 +102,7 @@ Jack's writing archive spans 2021–2026. Published on multiple platforms:
 
 - **jack-luo.com/blogs** — personal blog, 50+ posts. Key entries:
   - *"MIT Blog"* (jack-luo.com/blogs/mit) — written after his MIT rejection on Pi Day (March 14). Full essay on building a world-class education outside elite institutions: "drink from the right firehose," surround yourself with great people, approach everything with IHTFP energy. One of his most personal public pieces.
-  - *"Unconventional Education"* — the framing that runs through his entire educational arc: UCSC → Georgia Tech → Boston → self-directed learning
+  - *"Unconventional Education"* — the framing that runs through his entire educational arc: [[history/ucsc-era]] → Georgia Tech → Boston → self-directed learning
 - **Medium** (@thejackluo8) — 50+ articles including technical pieces on hierarchical memory and adaptive state management for AI agents
 - **Notion writing archive** — 360+ private entries, 2021–2026
 
@@ -155,3 +155,19 @@ One of the definitive Jack photos — crouching in a rain-soaked parking lot at 
 ![Jack meditating in lotus pose on a snowy rooftop at night, city lights behind him](/assets/photos/jack-rooftop-meditation.jpg)
 
 Black jacket, lotus position, city lights blurred across the horizon. Taken on a snowy rooftop — likely Boston or New York during the nomadic period.
+
+## Food Photos
+
+![Michelin star dish — Gucci Osteria Beverly Hills, June 2022](/assets/photos/commons/michelin-star-dish.jpg)
+
+![American wagyu at an Atlanta yakiniku restaurant, November 2025](/assets/photos/commons/american-wagyu-atlanta.jpg)
+
+![Jack at a Chinese BBQ restaurant with a friend](/assets/photos/jack-bbq-friend.jpg)
+
+![Noodles (microwave edition) — the other end of the food spectrum](/assets/photos/noodles-microwave.jpg)
+
+![Lobster plushie — the kind of detail that shows up when someone's paying attention](/assets/photos/lobster-plushie.jpg)
+
+![Hillside house — the architectural aesthetic](/assets/photos/hillside-house.jpg)
+
+![Jack rain catering — operating in all conditions](/assets/photos/jack-rain-catering.jpg)

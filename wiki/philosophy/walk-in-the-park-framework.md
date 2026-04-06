@@ -53,3 +53,9 @@ The framework is Adlerian in spirit — it resonates with [[concepts/the-courage
 - [[concepts/writing-archive]]
 - [[philosophy/vision-over-money]]
 - [[people/jack-luo]]
+
+## Photos
+
+![Jack rooftop meditation — the contemplative mode that informs the Walk in the Park framework](/assets/photos/jack-rooftop-meditation.jpg)
+
+![Jack in the neon rain — the aesthetic that runs through his writing](/assets/photos/jack-neon-rain.jpg)

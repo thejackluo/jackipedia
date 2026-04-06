@@ -58,3 +58,9 @@ Post-launch state: PRs open for auth fixes (PR #172, clerk sign-in fix) and buil
 - [[concepts/y-combinator]]
 - [[people/arman-mahjoor]]
 - [[people/jack-luo]]
+
+## Photos
+
+![Startup is resumed — the signal that building was back in full force](/assets/photos/startup-is-resumed.jpg)
+
+![Startup financials class — learning pitch mechanics and financial modeling](/assets/photos/startup-financials-class.jpg)

@@ -50,3 +50,7 @@ The organizational instinct — pulling people together, creating conditions for
 - [[history/new-york-city]]
 - [[history/georgia-tech-era]]
 - [[people/jack-luo]]
+
+## Photos
+
+![Q House — the hacker house Jack co-organized](/assets/photos/qhouse.jpg)

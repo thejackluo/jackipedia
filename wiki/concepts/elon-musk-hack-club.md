@@ -56,3 +56,11 @@ Musk is not a personal connection — the calls were group events. But his prese
 - [[history/ces]]
 - [[concepts/buildspace]]
 - [[people/jack-luo]]
+
+## Photos
+
+![Elon Musk on the Hack Club video call — first appearance](/assets/photos/elon-hackclub-1.jpg)
+
+![Elon Musk on the Hack Club video call — second appearance](/assets/photos/elon-hackclub-2.jpg)
+
+Both calls were recorded and uploaded to YouTube. Jack is among the students on the call in both sessions.

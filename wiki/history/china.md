@@ -66,3 +66,7 @@ In March 2026, China restricted OpenClaw — the AI assistant Jack uses. The res
 - [[interests/wikimedia-commons]]
 - [[dreams/great-america]]
 - [[people/jack-luo]]
+
+## Photos
+
+![McCafe mobile truck in China, 2024 — the McDonald's coffee truck Jack photographed on his China visit](/assets/photos/commons/mccafe-mobile-china.jpg)

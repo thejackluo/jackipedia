@@ -80,3 +80,13 @@ Santa Monica's wide flat beach on a clear day — blue sky, mountains behind the
 ![Jack walking on a snowy mountain path — pine trees, mountain range, overcast winter sky](/assets/photos/jack-snowy-mountain.jpg)
 
 Winter mountain hiking — black puffer, hands in pockets, walking toward a lodge with a snow-dusted mountain range in the background. Likely White Mountains, New Hampshire, or Vermont. The scale of the landscape against the solitary figure is quietly cinematic.
+
+## Photos
+
+![Flighty stats — 76 flights, 120,963 miles, 4.9x around the earth](/assets/photos/flighty-stats.jpg)
+
+![Flighty stats, detailed view](/assets/photos/flighty-stats-2.jpg)
+
+![Santa Monica beach — one of many US cities visited](/assets/photos/santa-monica-beach.jpg)
+
+![Chainsaw Man on a flight — reading manga at 35,000 feet](/assets/photos/chainsaw-man-flight.jpg)

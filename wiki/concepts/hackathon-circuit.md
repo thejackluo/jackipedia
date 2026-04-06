@@ -55,3 +55,7 @@ The transition from hackathon-circuit competitor to startup founder is a natural
 - [[concepts/z-fellows]]
 - [[projects/agentdex]]
 - [[people/jack-luo]]
+
+## Photos
+
+![Jack and team at the Berkeley AI Hackathon, June 2024 — Top 15 placement](/assets/photos/berkeley-hackathon.jpg)

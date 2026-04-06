@@ -81,3 +81,17 @@ Despite the early frustrations, the Georgia Tech years were when Jack:
 ![Jack at a Gather.town virtual office with Alex, January 22, 2026](/assets/photos/gather-town-jan2026.jpg)
 
 ![Neon sign at a WeWork or hacker house common area during the startup grind period](/assets/photos/neon-sign.jpg)
+
+## Photos
+
+![Georgia Tech football game, 2025 — vs Virginia Tech](/assets/photos/commons/georgia-tech-football-2025.jpg)
+
+![Georgia Tech Hacker House, 2025 — the builder community Jack helped inspire](/assets/photos/commons/georgia-tech-hacker-house.jpg)
+
+![Georgia Tech Halloween 2025 — Sigma Phi Epsilon](/assets/photos/commons/georgia-tech-halloween.jpg)
+
+![Stealing the T — the T missing from Truist Plaza, November 2025](/assets/photos/commons/stealing-the-t.jpg)
+
+![KFC food truck on campus, November 2025](/assets/photos/commons/kfc-food-truck.jpg)
+
+![Georgia Tech football](/assets/photos/georgia-tech-football.jpg)
