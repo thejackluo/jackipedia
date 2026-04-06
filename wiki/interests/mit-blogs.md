@@ -59,3 +59,24 @@ Whether the interest is aspirational, nostalgic, network-driven, or all three si
 - [[concepts/z-fellows]]
 - [[concepts/y-combinator]]
 - [[history/internapalooza]]
+
+## Jack's MIT Essay
+
+Jack wrote a full essay on jack-luo.com titled **"MIT Blog"** (jack-luo.com/blogs/mit), written after receiving his MIT rejection on Pi Day (March 14 — the day MIT decisions come out for 45,000 applicants, of whom ~43,000 are rejected).
+
+The essay opens with the rejection experience directly:
+
+> "On that day, shattered dreams and broken hearts were the only companions of the thousands who dared to dream big, work hard, and hope for a better future."
+
+Then it pivots. The essay is structured around four components of a world-class education you can build anywhere:
+
+1. **Drink from the right firehose** — MIT's curriculum is described as "drinking from a firehose"; the essay argues you choose your own firehose, calibrate the intensity, and blast consistently
+2. **Ripple of kindness** — MIT students cite the people as the best part; building that network requires starting with random acts of kindness
+3. **IHTFP** — "I Hate This Fucking Place / I Have Truly Found Paradise" — MIT's actual unofficial motto; the essay uses it as a lens on any environment: paradise and hell are both always true simultaneously; your attitude determines which you experience
+4. **Positive mindset as prerequisite** — the "five good things today" reflection as a daily reset
+
+The essay ends: *"As they say at MIT, 'Pain is just weakness leaving the body.' So go forth, and conquer the world!"*
+
+This piece sits at the intersection of two things that define Jack's early writing: processing rejection through reframing, and building systematic frameworks for self-directed growth. It is also the origin of the "unconventional education" thread that runs through his entire arc — UCSC, Georgia Tech, Boston, building AgentDex.
+
+The essay is dedicated to "those who may be feeling the sting of rejection."

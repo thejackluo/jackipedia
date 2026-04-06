@@ -97,13 +97,25 @@ Currently learning Japanese, self-rated between N3 and N4.
 - [[people/james-preiss]] — Robotics advisor
 
 ## Writing
-Jack's writing archive spans 2021–2026. The best pieces are documented in the Writings section. Start with [[writings/walk-in-the-park]] for his core philosophy.
+
+Jack's writing archive spans 2021–2026. Published on multiple platforms:
+
+- **jack-luo.com/blogs** — personal blog, 50+ posts. Key entries:
+  - *"MIT Blog"* (jack-luo.com/blogs/mit) — written after his MIT rejection on Pi Day (March 14). Full essay on building a world-class education outside elite institutions: "drink from the right firehose," surround yourself with great people, approach everything with IHTFP energy. One of his most personal public pieces.
+  - *"Unconventional Education"* — the framing that runs through his entire educational arc: UCSC → Georgia Tech → Boston → self-directed learning
+- **Medium** (@thejackluo8) — 50+ articles including technical pieces on hierarchical memory and adaptive state management for AI agents
+- **Notion writing archive** — 360+ private entries, 2021–2026
+
+The best public pieces are documented in the [[concepts/writing-archive]] section. Start with [[writings/walk-in-the-park]] for his core philosophy, or [[writings/annual-review-2024]] for the most recent full-year reflection.
 
 ## Sources
-- jack-luo.com (2026-04-06)
+- **jack-luo.com** — personal website (live as of 2026-04-06)
+- **jack-luo.com/blogs/mit** — full MIT rejection essay
+- **jack-luo.com/journey** — creative projects: Limbinal (novel), SoundCloud music
+- **jack-luo.com/special/books** — full bookshelf with ratings and progress
 - Notion workspace: USER.md, meetings DB, CRM DB, writing archive
 - LinkedIn (public profile)
-- GitHub (public profile)
+- GitHub: github.com/thejackluo
 - Conversations via Telegram (2026-03 to present)
 
 ## Personal Artifacts

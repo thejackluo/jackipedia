@@ -92,8 +92,33 @@ Jack has read the entire Classroom of the Elite light novel series by Syougo Kin
 | Outline of Classical Chinese Grammar | Edwin Pulleyblank | In progress | — |
 | 34 Stories of Philosophy | — | In progress | 55% |
 | Subtle Art of Not Giving a F*** | Mark Manson | In progress | 60% |
+| Men's Guide to Women | — | In progress | 60% |
+| How to Do AI Research at MIT | MIT AI Lab | In progress | 70% |
+| Models | Mark Manson | In progress | 34% |
+| Deep Learning Illustrated | Jon Krohn | In progress | 30% |
+| Life 3.0 | Max Tegmark | In progress | 30% |
+| System Design Interview | Alex Xu | In progress | 30% |
+| The Unfair Advantage | Ash Ali | In progress | 30% |
+| Future is Faster Than You Think | Peter H. Diamandis | In progress | 40% |
+| 100 Page Machine Learning Book | Andriy Burkov | In progress | 35% |
+| Finish What You Start | Peter Hollins | In progress | 45% |
 | 7 Habits of Highly Effective People | Stephen Covey | Paused | 15% |
 | 48 Laws of Power | Robert Greene | Paused | 10% |
+
+## Additional Completed Books (from jack-luo.com/special/books)
+
+| Title | Author | Genre | Rating |
+|-------|--------|-------|--------|
+| Brigands M.C. | Robert Muchamore | Fiction | 5/5 |
+| Shadow Wave | Robert Muchamore | Fiction | 5/5 |
+| The Killing | Robert Muchamore | Fiction | 5/5 |
+| The Dark Forest | Cixin Liu | SciFi | 5/5 |
+| Death's End | Cixin Liu | SciFi | 5/5 |
+| Where You Go Is Not Who You'll Be | Frank Bruni | College | 5/5 |
+| The Redemption of Time | Cixin Liu | SciFi | 3/5 |
+| Frankenstein | Mary Shelley | SciFi | 4/5 |
+| Zero to One | Peter Thiel | Entrepreneurship | 4/5 |
+| Your Name | Makoto Shinkai | SciFi | 4/5 |
 
 ## Want to Read
 
