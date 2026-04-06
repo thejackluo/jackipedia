@@ -413,7 +413,13 @@
       "summary": "feat: 5 Medium articles ingested (Vivarium, Dear Dear Jack, Philmont, Biggest Unsolved Question, CES 2026 NVIDIA Keynote)"
     }
   ],
-  "wiki/writings/limbinal": [],
+  "wiki/writings/limbinal": [
+    {
+      "commit": "70ce2406",
+      "date": "2026-04-06 06:55:10",
+      "summary": "build: auto-update 2026-04-06 06:55 UTC (113 pages)"
+    }
+  ],
   "wiki/writings/annual-review-2024.zh": [
     {
       "commit": "d132d4cd",
@@ -681,6 +687,11 @@
     }
   ],
   "wiki/people/jack-luo": [
+    {
+      "commit": "70ce2406",
+      "date": "2026-04-06 06:55:10",
+      "summary": "build: auto-update 2026-04-06 06:55 UTC (113 pages)"
+    },
     {
       "commit": "5ebe9165",
       "date": "2026-04-06 06:43:54",
@@ -1181,6 +1192,11 @@
   ],
   "wiki/books/goodreads": [
     {
+      "commit": "70ce2406",
+      "date": "2026-04-06 06:55:10",
+      "summary": "build: auto-update 2026-04-06 06:55 UTC (113 pages)"
+    },
+    {
       "commit": "5ebe9165",
       "date": "2026-04-06 06:43:54",
       "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
@@ -1551,6 +1567,11 @@
   ],
   "wiki/interests/mit-blogs": [
     {
+      "commit": "70ce2406",
+      "date": "2026-04-06 06:55:10",
+      "summary": "build: auto-update 2026-04-06 06:55 UTC (113 pages)"
+    },
+    {
       "commit": "22023748",
       "date": "2026-04-06 06:50:13",
       "summary": "build: auto-update 2026-04-06 06:50 UTC (112 pages)"
@@ -1654,7 +1675,13 @@
       "summary": "build: auto-update 2026-04-06 06:50 UTC (112 pages)"
     }
   ],
-  "wiki/interests/soundcloud": [],
+  "wiki/interests/soundcloud": [
+    {
+      "commit": "70ce2406",
+      "date": "2026-04-06 06:55:10",
+      "summary": "build: auto-update 2026-04-06 06:55 UTC (113 pages)"
+    }
+  ],
   "wiki/interests/wikimedia-commons": [
     {
       "commit": "948c69c8",
