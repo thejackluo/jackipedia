@@ -486,6 +486,11 @@
   ],
   "wiki/people/leo-zhang": [
     {
+      "commit": "e981f81f",
+      "date": "2026-04-06 06:35:00",
+      "summary": "build: auto-update 2026-04-06 06:35 UTC (109 pages)"
+    },
+    {
       "commit": "6f5b60eb",
       "date": "2026-04-06 06:32:53",
       "summary": "build: auto-update 2026-04-06 06:32 UTC (106 pages)"
@@ -496,7 +501,13 @@
       "summary": "build: auto-update 2026-04-06 05:56 UTC (85 pages)"
     }
   ],
-  "wiki/people/ivan-yeung": [],
+  "wiki/people/ivan-yeung": [
+    {
+      "commit": "e981f81f",
+      "date": "2026-04-06 06:35:00",
+      "summary": "build: auto-update 2026-04-06 06:35 UTC (109 pages)"
+    }
+  ],
   "wiki/people/eddie-lou": [
     {
       "commit": "2c4dfac7",
@@ -530,8 +541,19 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
-  "wiki/concepts/prod-so": [],
+  "wiki/concepts/prod-so": [
+    {
+      "commit": "e981f81f",
+      "date": "2026-04-06 06:35:00",
+      "summary": "build: auto-update 2026-04-06 06:35 UTC (109 pages)"
+    }
+  ],
   "wiki/concepts/z-fellows": [
+    {
+      "commit": "e981f81f",
+      "date": "2026-04-06 06:35:00",
+      "summary": "build: auto-update 2026-04-06 06:35 UTC (109 pages)"
+    },
     {
       "commit": "6f5b60eb",
       "date": "2026-04-06 06:32:53",
@@ -606,7 +628,13 @@
       "summary": "build: auto-update 2026-04-06 05:39 UTC (78 pages)"
     }
   ],
-  "wiki/concepts/y-combinator": [],
+  "wiki/concepts/y-combinator": [
+    {
+      "commit": "e981f81f",
+      "date": "2026-04-06 06:35:00",
+      "summary": "build: auto-update 2026-04-06 06:35 UTC (109 pages)"
+    }
+  ],
   "wiki/concepts/idea-vault": [
     {
       "commit": "2ce09073",
@@ -893,6 +921,11 @@
     }
   ],
   "wiki/history/internapalooza": [
+    {
+      "commit": "e981f81f",
+      "date": "2026-04-06 06:35:00",
+      "summary": "build: auto-update 2026-04-06 06:35 UTC (109 pages)"
+    },
     {
       "commit": "6f5b60eb",
       "date": "2026-04-06 06:32:53",
