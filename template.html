@@ -1,66 +1,246 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Jackipedia</title>
 <style>
-  :root {
-    --bg: #0f0f0f;
-    --surface: #1a1a1a;
-    --border: #2a2a2a;
-    --text: #e8e8e8;
-    --muted: #888;
-    --gold: #d4a843;
-    --link: #a78bfa;
-  }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.7; }
+  body {
+    background: #f8f9fa;
+    color: #202122;
+    font-family: -apple-system, 'Linux Libertine', Georgia, Times, serif;
+    font-size: 14px;
+    line-height: 1.6;
+  }
   .layout { display: flex; min-height: 100vh; }
-  .sidebar { width: 260px; min-height: 100vh; background: var(--surface); border-right: 1px solid var(--border); padding: 24px 16px; position: fixed; overflow-y: auto; }
-  .sidebar h1 { font-size: 1.3rem; color: var(--gold); margin-bottom: 4px; }
-  .sidebar .tagline { font-size: 0.75rem; color: var(--muted); margin-bottom: 24px; }
-  .sidebar nav h2 { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); margin: 16px 0 6px; }
-  .sidebar nav a { display: block; padding: 4px 8px; border-radius: 4px; color: var(--text); text-decoration: none; font-size: 0.875rem; }
-  .sidebar nav a:hover { background: var(--border); color: var(--gold); }
-  .main { margin-left: 260px; padding: 48px; max-width: 860px; }
-  h1 { font-size: 2rem; color: var(--gold); margin-bottom: 8px; }
-  h2 { font-size: 1.25rem; margin: 32px 0 12px; color: var(--text); border-bottom: 1px solid var(--border); padding-bottom: 6px; }
-  h3 { font-size: 1rem; margin: 24px 0 8px; color: var(--text); }
-  p { margin: 12px 0; color: var(--text); }
-  a { color: var(--link); text-decoration: none; }
+
+  /* Sidebar */
+  .sidebar {
+    width: 160px;
+    min-height: 100vh;
+    background: #f8f9fa;
+    border-right: 1px solid #a2a9b1;
+    padding: 12px 8px;
+    position: fixed;
+    top: 0; left: 0; bottom: 0;
+    overflow-y: auto;
+    font-size: 12.5px;
+  }
+  .sidebar .logo {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #000;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 16px;
+    line-height: 1.2;
+  }
+  .sidebar .logo span { color: #3366cc; }
+  .sidebar nav h3 {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #54595d;
+    margin: 12px 0 4px;
+    font-family: sans-serif;
+  }
+  .sidebar nav a {
+    display: block;
+    padding: 2px 4px;
+    color: #3366cc;
+    text-decoration: none;
+    font-size: 12.5px;
+  }
+  .sidebar nav a:hover { text-decoration: underline; }
+
+  /* Top bar */
+  .topbar {
+    margin-left: 160px;
+    background: #fff;
+    border-bottom: 1px solid #a2a9b1;
+    padding: 0 24px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    font-size: 12.5px;
+    font-family: sans-serif;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .topbar a { color: #3366cc; text-decoration: none; }
+  .topbar a:hover { text-decoration: underline; }
+  .topbar .sep { color: #a2a9b1; }
+
+  /* Main content */
+  .main {
+    margin-left: 160px;
+    padding: 20px 24px 40px;
+    max-width: 960px;
+    background: #fff;
+    min-height: calc(100vh - 36px);
+    border-right: 1px solid #a2a9b1;
+  }
+
+  /* Page title */
+  h1 {
+    font-family: 'Linux Libertine', Georgia, Times, serif;
+    font-size: 1.95em;
+    font-weight: normal;
+    border-bottom: 1px solid #a2a9b1;
+    padding-bottom: 4px;
+    margin-bottom: 12px;
+    color: #000;
+  }
+  h2 {
+    font-family: sans-serif;
+    font-size: 1.3em;
+    font-weight: normal;
+    border-bottom: 1px solid #a2a9b1;
+    margin: 24px 0 8px;
+    padding-bottom: 2px;
+  }
+  h3 {
+    font-family: sans-serif;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin: 16px 0 6px;
+  }
+  h4 { font-size: 1em; font-weight: bold; margin: 12px 0 4px; }
+
+  p { margin: 8px 0; }
+  a { color: #3366cc; text-decoration: none; }
   a:hover { text-decoration: underline; }
-  ul, ol { margin: 12px 0 12px 24px; }
-  li { margin: 4px 0; }
-  code { background: var(--surface); padding: 2px 6px; border-radius: 4px; font-size: 0.875em; color: var(--gold); }
-  pre { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 16px; overflow-x: auto; margin: 16px 0; }
-  blockquote { border-left: 3px solid var(--gold); padding: 8px 16px; margin: 16px 0; background: var(--surface); border-radius: 0 8px 8px 0; color: var(--muted); }
-  hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
-  table { width: 100%; border-collapse: collapse; margin: 16px 0; }
-  th, td { padding: 8px 12px; border: 1px solid var(--border); text-align: left; }
-  th { background: var(--surface); color: var(--gold); }
-  .meta { font-size: 0.8rem; color: var(--muted); margin-bottom: 24px; }
+  a:visited { color: #6b4ba6; }
+
+  ul, ol { margin: 8px 0 8px 28px; }
+  li { margin: 3px 0; }
+
+  /* Wikipedia-style infobox */
+  .infobox {
+    float: right;
+    clear: right;
+    margin: 0 0 16px 24px;
+    background: #f8f9fa;
+    border: 1px solid #a2a9b1;
+    font-size: 12.5px;
+    font-family: sans-serif;
+    width: 280px;
+  }
+  .infobox th {
+    background: #cee0f2;
+    text-align: center;
+    padding: 4px 8px;
+    font-size: 13px;
+  }
+  .infobox td { padding: 3px 8px; vertical-align: top; }
+  .infobox tr:nth-child(even) td { background: #f0f0f0; }
+
+  code {
+    background: #f8f9fa;
+    border: 1px solid #a2a9b1;
+    padding: 1px 4px;
+    font-size: 0.9em;
+    font-family: monospace;
+  }
+  pre {
+    background: #f8f9fa;
+    border: 1px solid #a2a9b1;
+    padding: 12px;
+    overflow-x: auto;
+    margin: 12px 0;
+    font-size: 12.5px;
+  }
+  blockquote {
+    border-left: 3px solid #a2a9b1;
+    margin: 12px 0 12px 24px;
+    padding: 4px 12px;
+    color: #54595d;
+    font-style: italic;
+  }
+  hr { border: none; border-top: 1px solid #a2a9b1; margin: 20px 0; }
+
+  table {
+    border-collapse: collapse;
+    margin: 12px 0;
+    font-size: 13px;
+    font-family: sans-serif;
+  }
+  th {
+    background: #eaecf0;
+    border: 1px solid #a2a9b1;
+    padding: 5px 10px;
+    text-align: left;
+  }
+  td { border: 1px solid #a2a9b1; padding: 4px 10px; }
+  tr:nth-child(even) td { background: #f8f9fa; }
+
+  /* TOC */
+  .toc {
+    background: #f8f9fa;
+    border: 1px solid #a2a9b1;
+    padding: 12px 16px;
+    display: inline-block;
+    margin: 12px 0;
+    font-size: 13px;
+    font-family: sans-serif;
+    min-width: 200px;
+  }
+  .toc-title { font-weight: bold; text-align: center; margin-bottom: 6px; }
+  .toc ol { margin: 0 0 0 18px; }
+  .toc li { margin: 2px 0; }
+
+  /* Meta */
+  .page-meta {
+    font-size: 12px;
+    color: #54595d;
+    font-family: sans-serif;
+    margin-bottom: 12px;
+  }
+
+  /* Categories footer */
+  .categories {
+    border-top: 1px solid #a2a9b1;
+    margin-top: 32px;
+    padding-top: 8px;
+    font-size: 12.5px;
+    font-family: sans-serif;
+    color: #54595d;
+  }
 </style>
 </head>
 <body>
 <div class="layout">
   <aside class="sidebar">
-    <h1>🧠 Jackipedia</h1>
-    <div class="tagline">Jack Luo's personal knowledge wiki</div>
+    <a class="logo" href="/index.html">🧠 <span>Jackipedia</span></a>
     <nav>
-      <h2>Core</h2>
-      <a href="/index.html">Index</a>
-      <a href="/log.html">Log</a>
-      <h2>People</h2>
+      <h3>Navigation</h3>
+      <a href="/index.html">Main page</a>
+      <a href="/log.html">Recent changes</a>
+      <h3>People</h3>
       <a href="/wiki/people/jack-luo.html">Jack Luo</a>
-      <h2>Philosophy</h2>
-      <h2>Goals</h2>
-      <h2>Concepts</h2>
+      <a href="/wiki/people/meetings-index.html">Meetings</a>
+      <h3>Concepts</h3>
+      <a href="/wiki/concepts/reading-list.html">Reading list</a>
+      <h3>Philosophy</h3>
+      <h3>Goals</h3>
     </nav>
   </aside>
-  <main class="main">
-    CONTENT_PLACEHOLDER
-  </main>
+
+  <div style="margin-left:160px; flex:1; display:flex; flex-direction:column;">
+    <div class="topbar">
+      <a href="/index.html">Article</a>
+      <span class="sep">|</span>
+      <a href="/log.html">History</a>
+      <span class="sep">|</span>
+      <span style="color:#54595d; font-family:sans-serif;">Jackipedia — Jack Luo's personal knowledge wiki</span>
+    </div>
+    <main class="main">
+      CONTENT_PLACEHOLDER
+    </main>
+  </div>
 </div>
 </body>
 </html>
