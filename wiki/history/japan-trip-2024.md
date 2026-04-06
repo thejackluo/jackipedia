@@ -69,3 +69,5 @@ From the March 2025 Jeff catch-up, Jack was targeting Asia — "Shanghai, Tokyo,
 ## Photographs
 
 ![Japanese wagashi (traditional sweets) tasting — matcha mochi with red bean filling, alongside a printed flavor/pairing guide](/assets/photos/japan-sweets.jpg)
+
+![Jack signs up for a Japanese dating app — "登録が完了しました！" (Registration complete!)](/assets/photos/japan-dating-app.jpg)

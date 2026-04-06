@@ -130,3 +130,15 @@ All-time Flighty stats as of early 2026:
 - **26 airports**, **9 airlines**
 - **Most flown aircraft:** A321neo (26 flights)
 - **30 hours lost to delays** (averaged 56 min late per delayed flight)
+
+## Portrait: Neon Rain
+
+![Jack crouching in a neon-lit rainy parking lot, pink puddle reflection](/assets/photos/jack-neon-rain.jpg)
+
+One of the definitive Jack photos — crouching in a rain-soaked parking lot at night, pink and purple neon reflecting in the puddle beneath him, Patagonia puffer and backpack, BMW headlights in the background. Looks like a still from a cyberpunk film. The photo captures something real: the aesthetic of late-night city life that runs through his writing, his taste in music, and his vision of what a meaningful life looks like.
+
+## Portrait: Rooftop Meditation
+
+![Jack meditating in lotus pose on a snowy rooftop at night, city lights behind him](/assets/photos/jack-rooftop-meditation.jpg)
+
+Black jacket, lotus position, city lights blurred across the horizon. Taken on a snowy rooftop — likely Boston or New York during the nomadic period.

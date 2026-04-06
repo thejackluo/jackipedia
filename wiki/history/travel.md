@@ -29,7 +29,7 @@ Jack has been to almost all major US cities and tracks every flight in the Fligh
 |-------|---------|
 | Cupertino / Bay Area | Grew up here |
 | San Francisco | Hacker houses, startup events |
-| Los Angeles | City travel |
+| Los Angeles / Santa Monica | City travel, beach walks |
 | Las Vegas | CES 2025 |
 | Miami | Brickell, beach, galleries, content creation |
 | New York | NY Hacker House 2025 |
@@ -72,3 +72,7 @@ From the March 2025 Jeff conversation, Jack's next travel targets: **Shanghai, T
 - [[history/georgia-tech-era]]
 - [[projects/ces-2025]]
 - [[people/jack-luo]]
+
+![Santa Monica beach — wide sandy shore, bike path, Santa Monica mountains in the distance](/assets/photos/santa-monica-beach.jpg)
+
+Santa Monica's wide flat beach on a clear day — blue sky, mountains behind the bay, the bike path running parallel. One of those California days where everything looks like a postcard.

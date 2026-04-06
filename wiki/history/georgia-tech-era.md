@@ -76,4 +76,8 @@ Despite the early frustrations, the Georgia Tech years were when Jack:
 
 ## Photographs
 
+![Georgia Tech football game at Bobby Dodd Stadium — Calvin Johnson name on the scoreboard, packed crowd](/assets/photos/georgia-tech-football.jpg)
+
+![Jack at a Gather.town virtual office with Alex, January 22, 2026](/assets/photos/gather-town-jan2026.jpg)
+
 ![Neon sign at a WeWork or hacker house common area during the startup grind period](/assets/photos/neon-sign.jpg)

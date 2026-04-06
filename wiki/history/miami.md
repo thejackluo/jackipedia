@@ -70,3 +70,9 @@ A retro diner-style storefront with red/white checkerboard tiles, striped awning
 - [[history/wework-nomadic-period]]
 - [[history/georgia-tech-era]]
 - [[projects/agentdex]]
+
+## Versailles (Cuban diner)
+
+[[image:miami-cafe-versailles.jpg|Fried food platter + cappuccinos at a classic Cuban diner]]
+
+A white-tablecloth Cuban diner — empanadas, fried yuca, croquetas, toast, and two cappuccinos. The placemat reads "cuisine since 1971." Almost certainly Versailles Restaurant on Calle Ocho, Little Havana — one of Miami's most iconic spots.
