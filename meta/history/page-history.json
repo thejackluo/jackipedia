@@ -471,7 +471,13 @@
       "summary": "feat: 14 new photos, EI concepts page, agent-school page, mit-era page"
     }
   ],
-  "wiki/concepts/experiment-log": [],
+  "wiki/concepts/experiment-log": [
+    {
+      "commit": "2ce09073",
+      "date": "2026-04-06 06:07:09",
+      "summary": "build: auto-update 2026-04-06 06:07 UTC (97 pages)"
+    }
+  ],
   "wiki/concepts/openclaw-news": [
     {
       "commit": "75913391",
@@ -519,7 +525,13 @@
       "summary": "build: auto-update 2026-04-06 05:39 UTC (78 pages)"
     }
   ],
-  "wiki/concepts/idea-vault": [],
+  "wiki/concepts/idea-vault": [
+    {
+      "commit": "2ce09073",
+      "date": "2026-04-06 06:07:09",
+      "summary": "build: auto-update 2026-04-06 06:07 UTC (97 pages)"
+    }
+  ],
   "wiki/books/essentialism": [
     {
       "commit": "c3410fe8",
@@ -563,6 +575,11 @@
     }
   ],
   "wiki/books/goodreads": [
+    {
+      "commit": "2ce09073",
+      "date": "2026-04-06 06:07:09",
+      "summary": "build: auto-update 2026-04-06 06:07 UTC (97 pages)"
+    },
     {
       "commit": "ecf6b6c5",
       "date": "2026-04-06 05:50:23",
