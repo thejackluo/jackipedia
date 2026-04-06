@@ -78,15 +78,20 @@ def build_history_page(all_history):
 
 def build_page_history_html(history):
     if not history:
-        return ""
-    rows = "".join(f"<tr><td>{e['date']}</td><td><code>{e['commit']}</code></td><td>{e['summary']}</td></tr>" for e in history)
-    return f"<div style='margin-top:32px;border-top:1px solid #a2a9b1;padding-top:12px;'><h2>Page history</h2><table><tr><th>Date</th><th>Commit</th><th>Edit summary</th></tr>{rows}</table></div>"
+        return '<div id="page-history" style="margin-top:32px;border-top:1px solid var(--border);padding-top:12px;"><p style="font-family:sans-serif;font-size:13px;color:var(--text-muted);">No revision history available.</p></div>'
+    rows = "".join(
+        f"<tr><td>{e['date']}</td>"
+        f"<td><a href='https://github.com/thejackluo/jackipedia/commit/{e['commit']}' target='_blank'><code>{e['commit'][:8]}</code></a></td>"
+        f"<td>{e['summary']}</td></tr>"
+        for e in history
+    )
+    return f"<div id='page-history' style='margin-top:32px;border-top:1px solid var(--border);padding-top:12px;'><h2>Revision history</h2><table><tr><th>Date</th><th>Commit</th><th>Edit summary</th></tr>{rows}</table></div>"
 
 
 def render_page(title, content, nav, extra_css="", is_main=False):
     tabs = ""
     if not is_main:
-        tabs = '<a class="tab active" href="#">Article</a><a class="tab" href="/meta/history.html">History</a>'
+        tabs = '<a class="tab active" href="#">Article</a><a class="tab" href="#page-history">History</a><a class="tab" href="/meta/history.html">All changes</a>'
     else:
         tabs = '<a class="tab active" href="/index.html">Main page</a><a class="tab" href="/meta/history.html">Recent changes</a>'
 
@@ -124,7 +129,8 @@ def build_page(md_file, nav, all_history):
     all_history[page_key] = history
 
     last_edit = history[0]["date"] if history else "unknown"
-    meta = f'<div class="page-meta">Last edited: {last_edit} &nbsp;|&nbsp; <a href="/meta/history.html">View all changes</a></div>'
+    rev_count = len(history)
+    meta = f'<div class="page-meta">Last edited: {last_edit} &nbsp;|&nbsp; <a href="#page-history">{rev_count} revision{"s" if rev_count != 1 else ""}</a> &nbsp;|&nbsp; <a href="/meta/history.html">All changes</a></div>'
     history_html = build_page_history_html(history)
     full_content = meta + content + history_html
 
