@@ -87,7 +87,6 @@ Jack has read the entire Classroom of the Elite light novel series by Syougo Kin
 
 | Title | Author | Status | Progress |
 |-------|--------|--------|----------|
-| Taking Charge of Adult ADHD | Russell Barkley | In progress | — |
 | The Art of Strategy | Dixit & Nalebuff | In progress | — |
 | Elements of Programming Interviews (Python) | Aziz, Lee, Prakash | In progress | — |
 | Outline of Classical Chinese Grammar | Edwin Pulleyblank | In progress | — |
