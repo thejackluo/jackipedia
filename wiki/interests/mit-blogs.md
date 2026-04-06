@@ -1,60 +1,61 @@
 # MIT Admissions Blogs
 
 **Category:** Interests
-**Summary:** Jack's relationship with the MIT Admissions blog — the internet's most earnest window into what MIT actually is
+**Summary:** Jack's relationship with the MIT Admissions Blogs — the internet's most earnest window into what MIT actually is
 **Last updated:** 2026-04-06
 
 ## Overview
 
-The MIT Admissions Blogs (mitadmissions.org/blogs) are student-written posts published by MIT's admissions office. They are unusually good. Students write about psets, identity, mental health, housing, their research, their friendships, what it feels like to fail a midterm, what it feels like to pass one. They are also part of what makes MIT's application process feel different — the admissions office has spent decades cultivating a culture of radical transparency about what the place is.
+The MIT Admissions Blogs (mitadmissions.org/blogs) are student-written posts published by MIT's admissions office. They are unusually good. Students write about psets, identity, mental health, housing, research, what it feels like to fail a midterm, what it feels like to pass one. They are also part of what makes MIT's application process feel different — the admissions office has spent decades cultivating a culture of radical transparency about what the place actually is.
 
 Jack reads them. This is not a casual relationship.
 
-## Why They Matter
+## Why They're Different
 
-For someone not currently at MIT, the blogs are the closest thing to being there. They document the texture of MIT life: the problem sets at 3am, the 2.009 final presentations, the way people talk to each other, what gets celebrated and what gets quietly tolerated. The blogs are why people who never visited MIT develop strong feelings about whether they belong there.
+Most university blogs are admissions marketing. They're written to persuade, not to describe. The photos are professional. The challenges mentioned are framed as growth opportunities. The students sound like they have it together.
 
-Jack has those feelings.
+MIT Admissions Blogs are not that.
 
-The gravitational pull toward MIT shows up across his writing, his network (MITAS connections, the Founder Breakfast on April 16 in Boston), his interest in Boston as a possible base city, and in how he talks about density of exceptional people. The blogs are part of what built that gravity.
+Students write about crying in the bathroom before an exam. They write about switching majors three times. They write about the feeling of being surrounded by people who all seem smarter than you and slowly realizing that this feeling is universal. They write about 5am psets and the specific type of delirium that sets in around hour 9. They write about building a trebuchet in the courtyard at 2am because someone thought it would be funny.
 
-## What the Blogs Actually Are
+The admissions office publishes this. This is the policy. The philosophy is: if MIT is right for you, reading the real thing will confirm it. If it's wrong for you, reading the real thing will reveal that. Either outcome is valuable. Marketing serves the institution; transparency serves the student.
 
-Posts are written by current MIT students (class years noted: '26, '27, '28, etc.) and occasionally alumni. Topics range from:
+## The Texture of MIT Life (via the Blogs)
 
-- **Day-in-the-life posts** — what a Tuesday actually looks like
-- **Reflection pieces** — what changed, what didn't, why it mattered
-- **Craft posts** — detailed writeups of specific projects or research
-- **Honest pieces about failure** — surprisingly common; MIT culture values this
-- **Absurdist shitposts** — also common (see: "MIT x Caltech: the wedding", "stupider than ever come with me for a week in HELL", "[april fools] interview with james e. tetazoo")
+Reading the blogs over time builds a specific picture:
 
-The range is the point. MIT is simultaneously one of the most rigorous academic environments on earth and a place where people build elaborate hacks, write comic shitposts, and run minesweeper series. The blogs document all of it.
+- **Problem set culture**: Not just difficult, but dense. Multiple courses simultaneously, each with problem sets due the same week. The culture around collaborative problem solving (working together, citing collaborators) is distinct.
+- **East Campus vs. West Campus**: Two distinct social universes. East Campus (EC) is the hacker, artist, weirdo side — building elaborate dorm room contraptions, running roller coasters during orientation. West Campus is cleaner, more institutional. Both are real MIT.
+- **Hacks**: MIT has a century-long tradition of elaborate technical pranks called "hacks" — putting a police car on top of the Great Dome, installing a functional fire hydrant in the Infinite Corridor, turning the MIT chapel into a pirate ship for a day. The hacks are documented on the blogs.
+- **The Infinite Corridor**: The 160-meter main corridor connecting buildings 7 and 8. On specific days in November and January (MIT Hack days), the sun aligns directly down the corridor — an event called MIThenge, MIT's version of Stonehenge.
+- **Course numbering**: MIT refers to departments by number, not name. Course 6 is Electrical Engineering and Computer Science. Course 2 is Mechanical Engineering. Course 18 is Math. Students identify themselves by course: "I'm a 6-3" (CS), "I'm a 2A" (flexible MechE). This is part of the cultural fabric.
+- **The Brass Rat**: MIT's class ring, shaped like a beaver (the MIT mascot, chosen because beavers are nature's engineers). The ring faces inward during freshman year, is flipped outward at graduation.
 
-## The Admissions Philosophy Behind Them
+## Notable Blog Types
 
-MIT Admissions is unusual in the selective university landscape. The blogs are part of a larger transparency project: the office publishes rejection rates, discusses what they're actually looking for, and encourages students to write honestly rather than palatably. The result is a body of writing that reads less like university marketing and more like a genuine attempt to help people figure out if they belong there.
+- **The honest failure post** — appears regularly; a student describes bombing an exam, not as a cautionary tale but as a real experience to sit with
+- **The "what I wish I knew" post** — retrospectives from upperclassmen; remarkably self-aware
+- **The April Fools tradition** — annual absurdist posts; elaborate fake interviews, fake policy announcements, shitposts with genuine comedic effort
+- **The day-in-the-life post** — real schedules, including the ones where everything goes wrong
+- **The "I almost left" post** — students who seriously considered transferring or taking a leave; these exist and MIT publishes them
 
-This approach is what makes the blogs worth reading even after your application is decided.
+## The MITAS Connection
 
-## Notable Posts (by character, not title)
+MIT Alumni Entrepreneurs (MITAS) is the network that has been a concrete touchpoint for Jack. The Founder Breakfast on April 16, 2026 in Boston is an event through this network. The blogs are the cultural substrate; MITAS is one of the places that culture produces.
 
-- The ones where someone fails an exam and talks about it openly — these appear regularly
-- The ones that document specific MIT subcultures (East Campus, Random Hall, the building 20 legacy)
-- The April Fools posts — annual tradition, often elaborate
-- The "day in the life" series that track real schedule density vs. the idealized version
+## What the Blogs Built in Jack
 
-## MIT and Jack
+For someone who grew up in Cupertino — surrounded by Apple, Google, the ambient culture of tech ambition — MIT was never just a university. It was a specific type of place that produces a specific type of person: technically serious, intellectually restless, practically oriented, not impressed by credentials alone.
 
-MIT represents something specific in Jack's mental map: the place where technically serious people go when they care about both depth and ambition. Not just prestige — Harvard carries more raw prestige — but the combination of hardcore engineering culture, founder energy, proximity to exceptional people, and a community that takes ideas seriously without being cynical about them.
+The blogs are a significant part of why that picture formed and why it stuck. They provide texture that a US News ranking doesn't.
 
-The MITAS network (MIT Alumni/Entrepreneur Association) has been a concrete touchpoint: the Founder Breakfast in Boston on April 16, 2026.
-
-Whether Jack has applied to MIT, is planning to, or is engaging with it purely as an intellectual and social node is not recorded here.
+Whether the interest is aspirational, nostalgic, network-driven, or all three simultaneously is left to the reader.
 
 ## Related
 
-- [[history/travel]]
-- [[people/meetings-index]]
-- [[interests/city-skylines]]
-- [[concepts/idea-vault]]
 - [[people/jack-luo]]
+- [[history/cupertino-high-school]]
+- [[history/georgia-tech-era]]
+- [[concepts/z-fellows]]
+- [[concepts/y-combinator]]
+- [[history/internapalooza]]
