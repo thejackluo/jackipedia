@@ -15,12 +15,22 @@
   ],
   "wiki/dreams/great-america": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "c3410fe8",
       "date": "2026-04-06 05:04:20",
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
   "wiki/dreams/cloud-code-hierarchy": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "83d226b5",
       "date": "2026-04-06 06:38:25",
@@ -34,6 +44,11 @@
   ],
   "wiki/dreams/vending-machine-2023": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "f9fee634",
       "date": "2026-04-06 05:10:30",
       "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
@@ -41,12 +56,22 @@
   ],
   "wiki/dreams/index": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "c3410fe8",
       "date": "2026-04-06 05:04:20",
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
   "wiki/dreams/japanese-stores-phantom-friends": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "f9fee634",
       "date": "2026-04-06 05:10:30",
@@ -62,6 +87,11 @@
   ],
   "wiki/dreams/vending-machine-dreams": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "f9fee634",
       "date": "2026-04-06 05:10:30",
       "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
@@ -76,6 +106,11 @@
   ],
   "wiki/fitness/weight-loss-tracker": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "c64bc8d9",
       "date": "2026-04-06 05:25:30",
       "summary": "feat: 14 new photos, EI concepts page, agent-school page, mit-era page"
@@ -87,6 +122,11 @@
     }
   ],
   "wiki/fitness/index": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "c3410fe8",
       "date": "2026-04-06 05:04:20",
@@ -109,12 +149,22 @@
   ],
   "wiki/writings/college-ocean-town": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "c2e146b2",
       "date": "2026-04-06 04:08:43",
       "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
     }
   ],
   "wiki/writings/steins-gate": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "c2e146b2",
       "date": "2026-04-06 04:08:43",
@@ -123,6 +173,11 @@
   ],
   "wiki/writings/social-reflection-2022": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "c2e146b2",
       "date": "2026-04-06 04:08:43",
       "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
@@ -130,12 +185,22 @@
   ],
   "wiki/writings/annual-review-2024": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "c2e146b2",
       "date": "2026-04-06 04:08:43",
       "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
     }
   ],
   "wiki/writings/loneliness-and-sacrifice": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "83d226b5",
       "date": "2026-04-06 06:38:25",
@@ -168,12 +233,22 @@
   ],
   "wiki/writings/life-philosophy-worldview": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "c2e146b2",
       "date": "2026-04-06 04:08:43",
       "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
     }
   ],
   "wiki/writings/relationships-trust-growth": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "c2e146b2",
       "date": "2026-04-06 04:08:43",
@@ -182,12 +257,22 @@
   ],
   "wiki/writings/ces-2026-nvidia-keynote": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "eefd6a93",
       "date": "2026-04-06 05:31:20",
       "summary": "feat: 5 Medium articles ingested (Vivarium, Dear Dear Jack, Philmont, Biggest Unsolved Question, CES 2026 NVIDIA Keynote)"
     }
   ],
   "wiki/writings/fear-connection-perfectionism": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "c2e146b2",
       "date": "2026-04-06 04:08:43",
@@ -203,6 +288,11 @@
   ],
   "wiki/writings/nostalgia-burnout-georgia-tech": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "c2e146b2",
       "date": "2026-04-06 04:08:43",
       "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
@@ -210,12 +300,22 @@
   ],
   "wiki/writings/escapism-georgia-tech": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "c2e146b2",
       "date": "2026-04-06 04:08:43",
       "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
     }
   ],
   "wiki/writings/treehacks-2025": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "c2e146b2",
       "date": "2026-04-06 04:08:43",
@@ -238,6 +338,11 @@
   ],
   "wiki/writings/dear-dear-jack": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "eefd6a93",
       "date": "2026-04-06 05:31:20",
       "summary": "feat: 5 Medium articles ingested (Vivarium, Dear Dear Jack, Philmont, Biggest Unsolved Question, CES 2026 NVIDIA Keynote)"
@@ -252,12 +357,22 @@
   ],
   "wiki/writings/vivarium": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "eefd6a93",
       "date": "2026-04-06 05:31:20",
       "summary": "feat: 5 Medium articles ingested (Vivarium, Dear Dear Jack, Philmont, Biggest Unsolved Question, CES 2026 NVIDIA Keynote)"
     }
   ],
   "wiki/writings/walk-in-the-park": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "c2e146b2",
       "date": "2026-04-06 04:08:43",
@@ -266,12 +381,22 @@
   ],
   "wiki/writings/society-status-authenticity": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "c2e146b2",
       "date": "2026-04-06 04:08:43",
       "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
     }
   ],
   "wiki/writings/motivation-self-discipline-2021": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "c2e146b2",
       "date": "2026-04-06 04:08:43",
@@ -287,12 +412,22 @@
   ],
   "wiki/writings/biggest-unsolved-question": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "eefd6a93",
       "date": "2026-04-06 05:31:20",
       "summary": "feat: 5 Medium articles ingested (Vivarium, Dear Dear Jack, Philmont, Biggest Unsolved Question, CES 2026 NVIDIA Keynote)"
     }
   ],
   "wiki/people/james-preiss": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "7d18e507",
       "date": "2026-04-06 04:57:17",
@@ -307,6 +442,11 @@
     }
   ],
   "wiki/people/meetings-index": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "83bb4f5c",
       "date": "2026-04-06 05:45:43",
@@ -325,6 +465,11 @@
   ],
   "wiki/people/social-profiles": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "87e6fa3d",
       "date": "2026-04-06 06:15:05",
       "summary": "build: auto-update 2026-04-06 06:15 UTC (97 pages)"
@@ -342,6 +487,11 @@
   ],
   "wiki/people/nimesh": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "7d18e507",
       "date": "2026-04-06 04:57:17",
       "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
@@ -349,12 +499,22 @@
   ],
   "wiki/people/ryan-jae-li": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "2f7e1ea4",
       "date": "2026-04-06 06:37:29",
       "summary": "build: auto-update 2026-04-06 06:37 UTC (110 pages)"
     }
   ],
   "wiki/people/index": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "d57911d9",
       "date": "2026-04-06 05:51:54",
@@ -368,6 +528,11 @@
   ],
   "wiki/people/heath-sun": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "e10f7c83",
       "date": "2026-04-06 05:40:56",
       "summary": "build: auto-update 2026-04-06 05:40 UTC (81 pages)"
@@ -375,12 +540,22 @@
   ],
   "wiki/people/kunal-gupta": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "7d18e507",
       "date": "2026-04-06 04:57:17",
       "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
     }
   ],
   "wiki/people/kevin-zhang": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "628e31a3",
       "date": "2026-04-06 06:05:20",
@@ -404,12 +579,22 @@
   ],
   "wiki/people/karthik-jandhyala": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "7d18e507",
       "date": "2026-04-06 04:57:17",
       "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
     }
   ],
   "wiki/people/jack-luo": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "09032d50",
       "date": "2026-04-06 06:35:51",
@@ -463,12 +648,22 @@
   ],
   "wiki/people/nick-sortino": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "e10f7c83",
       "date": "2026-04-06 05:40:56",
       "summary": "build: auto-update 2026-04-06 05:40 UTC (81 pages)"
     }
   ],
   "wiki/people/jeff": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "83d226b5",
       "date": "2026-04-06 06:38:25",
@@ -482,12 +677,22 @@
   ],
   "wiki/people/manas-nair": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "7d18e507",
       "date": "2026-04-06 04:57:17",
       "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
     }
   ],
   "wiki/people/arman-mahjoor": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "83bb4f5c",
       "date": "2026-04-06 05:45:43",
@@ -513,6 +718,11 @@
   ],
   "wiki/people/leo-zhang": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "e981f81f",
       "date": "2026-04-06 06:35:00",
       "summary": "build: auto-update 2026-04-06 06:35 UTC (109 pages)"
@@ -529,6 +739,11 @@
     }
   ],
   "wiki/people/ivan-yeung": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "e981f81f",
       "date": "2026-04-06 06:35:00",
@@ -549,12 +764,22 @@
   ],
   "wiki/people/armaan-jain": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "e10f7c83",
       "date": "2026-04-06 05:40:56",
       "summary": "build: auto-update 2026-04-06 05:40 UTC (81 pages)"
     }
   ],
   "wiki/concepts/agent-x-launch": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "83d226b5",
       "date": "2026-04-06 06:38:25",
@@ -568,6 +793,11 @@
   ],
   "wiki/concepts/ai-interactive-storytelling": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "c3410fe8",
       "date": "2026-04-06 05:04:20",
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
@@ -575,12 +805,22 @@
   ],
   "wiki/concepts/prod-so": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "e981f81f",
       "date": "2026-04-06 06:35:00",
       "summary": "build: auto-update 2026-04-06 06:35 UTC (109 pages)"
     }
   ],
   "wiki/concepts/z-fellows": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "e981f81f",
       "date": "2026-04-06 06:35:00",
@@ -608,12 +848,22 @@
   ],
   "wiki/concepts/openclaw-news": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "75913391",
       "date": "2026-04-06 05:39:12",
       "summary": "build: auto-update 2026-04-06 05:39 UTC (78 pages)"
     }
   ],
   "wiki/concepts/investor-pitch-mechanics": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "83d226b5",
       "date": "2026-04-06 06:38:25",
@@ -626,6 +876,11 @@
     }
   ],
   "wiki/concepts/openclaw": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "890e057e",
       "date": "2026-04-06 05:33:56",
@@ -653,12 +908,22 @@
   ],
   "wiki/concepts/writing-archive": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "b855070d",
       "date": "2026-04-06 03:51:52",
       "summary": "ingest: writing archive (360 entries), walk-in-the-park framework, annual review 2024"
     }
   ],
   "wiki/concepts/wikipedia-editing": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "75913391",
       "date": "2026-04-06 05:39:12",
@@ -667,6 +932,11 @@
   ],
   "wiki/concepts/y-combinator": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "e981f81f",
       "date": "2026-04-06 06:35:00",
       "summary": "build: auto-update 2026-04-06 06:35 UTC (109 pages)"
@@ -674,12 +944,22 @@
   ],
   "wiki/concepts/idea-vault": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "2ce09073",
       "date": "2026-04-06 06:07:09",
       "summary": "build: auto-update 2026-04-06 06:07 UTC (97 pages)"
     }
   ],
   "wiki/books/essentialism": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "c3410fe8",
       "date": "2026-04-06 05:04:20",
@@ -694,6 +974,11 @@
     }
   ],
   "wiki/books/the-courage-to-be-disliked": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "c3410fe8",
       "date": "2026-04-06 05:04:20",
@@ -735,6 +1020,11 @@
   ],
   "wiki/books/goodreads": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "3eb80294",
       "date": "2026-04-06 06:20:28",
       "summary": "build: auto-update 2026-04-06 06:20 UTC (100 pages)"
@@ -771,12 +1061,22 @@
   ],
   "wiki/history/mit-era": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "c64bc8d9",
       "date": "2026-04-06 05:25:30",
       "summary": "feat: 14 new photos, EI concepts page, agent-school page, mit-era page"
     }
   ],
   "wiki/history/miami": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "87e6fa3d",
       "date": "2026-04-06 06:15:05",
@@ -800,6 +1100,11 @@
   ],
   "wiki/history/index": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "83d226b5",
       "date": "2026-04-06 06:38:25",
       "summary": "build: auto-update 2026-04-06 06:38 UTC (110 pages)"
@@ -822,12 +1127,22 @@
   ],
   "wiki/history/chatgpt-senior-year": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "26e5a6c7",
       "date": "2026-04-06 06:39:36",
       "summary": "build: auto-update 2026-04-06 06:39 UTC (111 pages)"
     }
   ],
   "wiki/history/wework-nomadic-period": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "83bb4f5c",
       "date": "2026-04-06 05:45:43",
@@ -840,6 +1155,11 @@
     }
   ],
   "wiki/history/georgia-tech-era": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "83d226b5",
       "date": "2026-04-06 06:38:25",
@@ -868,6 +1188,11 @@
   ],
   "wiki/history/japan-trip-2024": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "56e922e0",
       "date": "2026-04-06 05:56:03",
       "summary": "build: auto-update 2026-04-06 05:56 UTC (84 pages)"
@@ -885,12 +1210,22 @@
   ],
   "wiki/history/ces": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "a05f14d2",
       "date": "2026-04-06 06:26:38",
       "summary": "build: auto-update 2026-04-06 06:26 UTC (103 pages)"
     }
   ],
   "wiki/history/new-york-city": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "2c4dfac7",
       "date": "2026-04-06 05:59:31",
@@ -904,12 +1239,22 @@
   ],
   "wiki/history/treehacks-2025": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "a05f14d2",
       "date": "2026-04-06 06:26:38",
       "summary": "build: auto-update 2026-04-06 06:26 UTC (103 pages)"
     }
   ],
   "wiki/history/travel": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "7d985e37",
       "date": "2026-04-06 05:58:05",
@@ -950,12 +1295,22 @@
   ],
   "wiki/history/frontier-gowild": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "75913391",
       "date": "2026-04-06 05:39:12",
       "summary": "build: auto-update 2026-04-06 05:39 UTC (78 pages)"
     }
   ],
   "wiki/history/china": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "328b99fd",
       "date": "2026-04-06 06:29:51",
@@ -971,6 +1326,11 @@
   ],
   "wiki/history/cupertino-high-school": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "83bb4f5c",
       "date": "2026-04-06 05:45:43",
       "summary": "build: auto-update 2026-04-06 05:45 UTC (83 pages)"
@@ -982,6 +1342,11 @@
     }
   ],
   "wiki/history/internapalooza": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "e981f81f",
       "date": "2026-04-06 06:35:00",
@@ -1001,6 +1366,11 @@
     }
   ],
   "wiki/interests/electric-unicycle": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "d132d4cd",
       "date": "2026-04-06 06:18:14",
@@ -1030,6 +1400,11 @@
   ],
   "wiki/interests/three-countries-tiktok": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "6201d087",
       "date": "2026-04-06 06:27:48",
       "summary": "build: auto-update 2026-04-06 06:27 UTC (103 pages)"
@@ -1046,6 +1421,11 @@
     }
   ],
   "wiki/interests/factorio": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "45a88027",
       "date": "2026-04-06 06:10:09",
@@ -1068,6 +1448,11 @@
   ],
   "wiki/interests/wikimedia-commons": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "bda95c07",
       "date": "2026-04-06 06:24:27",
       "summary": "build: auto-update 2026-04-06 06:24 UTC (100 pages)"
@@ -1075,12 +1460,22 @@
   ],
   "wiki/interests/city-skylines": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "45a88027",
       "date": "2026-04-06 06:10:09",
       "summary": "build: auto-update 2026-04-06 06:10 UTC (97 pages)"
     }
   ],
   "wiki/interests/wikipedia-contributions": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "6e186f2c",
       "date": "2026-04-06 06:21:22",
@@ -1100,6 +1495,11 @@
     }
   ],
   "wiki/music/soundcloud": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "b9719069",
       "date": "2026-04-06 05:42:30",
@@ -1127,6 +1527,11 @@
   ],
   "wiki/projects/mira": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "628e31a3",
       "date": "2026-04-06 06:05:20",
       "summary": "build: auto-update 2026-04-06 06:05 UTC (95 pages)"
@@ -1143,6 +1548,11 @@
     }
   ],
   "wiki/projects/ces-2025": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "d57911d9",
       "date": "2026-04-06 05:51:54",
@@ -1161,6 +1571,11 @@
   ],
   "wiki/projects/index": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "c64bc8d9",
       "date": "2026-04-06 05:25:30",
       "summary": "feat: 14 new photos, EI concepts page, agent-school page, mit-era page"
@@ -1173,6 +1588,11 @@
   ],
   "wiki/projects/agent-school": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "c64bc8d9",
       "date": "2026-04-06 05:25:30",
       "summary": "feat: 14 new photos, EI concepts page, agent-school page, mit-era page"
@@ -1180,12 +1600,22 @@
   ],
   "wiki/projects/github-projects": [
     {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
+    {
       "commit": "b9719069",
       "date": "2026-04-06 05:42:30",
       "summary": "build: auto-update 2026-04-06 05:42 UTC (84 pages)"
     }
   ],
   "wiki/projects/agentdex": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "83d226b5",
       "date": "2026-04-06 06:38:25",
@@ -1203,6 +1633,11 @@
     }
   ],
   "wiki/projects/jackipedia": [
+    {
+      "commit": "5ebe9165",
+      "date": "2026-04-06 06:43:54",
+      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
+    },
     {
       "commit": "c3410fe8",
       "date": "2026-04-06 05:04:20",
