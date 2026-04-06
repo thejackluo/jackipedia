@@ -186,12 +186,53 @@ def build_main_page(nav, all_history):
   </ul>
 </div>"""
 
-    # Two-column layout
+    # Featured list — Books
+    feat_list = """
+<div style="border:1px solid #a2a9b1; background:#f5fffa; padding:12px 16px; margin-bottom:16px;">
+  <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:6px;">Featured list</div>
+  <b><a href="/wiki/concepts/reading-list.html">Jack's Reading List</a></b>
+  <p style="margin:8px 0 0; font-size:13.5px;">Jack maintains a rated reading list spanning AI, business, personal development, and philosophy. Highlights include <i>The Courage to Be Disliked</i> (5 stars), <i>Essentialism</i> (4 stars, finished Feb 2026), and <i>Billion Dollar Whale</i> (4 stars, in progress). He is currently working through multiple AI/ML books simultaneously.</p>
+  <div style="margin-top:8px; font-size:12px; font-family:sans-serif;"><a href="/wiki/concepts/reading-list.html">Full reading list...</a></div>
+  <div style="margin-top:4px; font-size:12px; font-family:sans-serif; color:#54595d;">Recently featured: <a href="/wiki/concepts/writing-archive.html">Writing Archive</a> &nbsp;·&nbsp; <a href="/wiki/people/meetings-index.html">Meetings</a></div>
+</div>"""
+
+    # Featured picture — Japan 2024
+    feat_pic = """
+<div style="border:1px solid #a2a9b1; background:#f8f9fa; padding:12px 16px; margin-bottom:16px;">
+  <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:6px;">Featured entry</div>
+  <b>Japan Trip, December 2024</b>
+  <p style="margin:8px 0; font-size:13.5px;">From December 15 to 30, 2024, Jack traveled to Japan — one of the most memorable periods of the year by his own account. The trip appears in his 2024 annual review as the defining travel experience of the year, alongside CES (Jan), TreeHacks at Stanford (Feb), and the Berkeley AI hackathon (Jun). Travel consistently absorbs the largest portion of Jack's discretionary spending.</p>
+  <div style="margin-top:4px; font-size:12px; font-family:sans-serif; color:#54595d;">Source: <a href="/wiki/concepts/writing-archive.html">40 Questions Annual Review (01/06/25)</a></div>
+</div>"""
+
+    # On this day — expanded with life timeline
+    otd = """
+<div style="border:1px solid #a2a9b1; background:#f8f9fa; padding:12px 16px;">
+  <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:6px;">On this day</div>
+  <div style="font-size:13px; font-weight:bold; margin-bottom:8px;">April 6</div>
+  <ul style="margin-left:18px; font-size:13.5px; margin-bottom:10px;">
+    <li><b>2025:</b> Jack's app went to production — "seeing all the crazy stuff"</li>
+    <li><b>2026:</b> Jackipedia founded. Notion MCP connected. 360+ writings ingested.</li>
+  </ul>
+  <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:4px;">Life milestones</div>
+  <ul style="margin-left:18px; font-size:13px; color:#54595d;">
+    <li>Jan 6–10, 2025 — CES, Las Vegas</li>
+    <li>Feb 16–18, 2025 — TreeHacks, Stanford</li>
+    <li>Jun 29, 2024 — Berkeley AI Hackathon</li>
+    <li>Dec 15–30, 2024 — Japan</li>
+    <li>2024 — Transferred to Georgia Tech</li>
+  </ul>
+  <div style="margin-top:8px; font-size:12px; font-family:sans-serif;"><a href="/wiki/concepts/writing-archive.html">More from the archive...</a></div>
+</div>"""
+
+    # Two-column layout + three-column bottom row
     content = f"""
 <style>
 .mp-columns {{ display: flex; gap: 20px; }}
 .mp-col {{ flex: 1; min-width: 0; }}
-@media (max-width: 700px) {{ .mp-columns {{ flex-direction: column; }} }}
+.mp-3col {{ display: flex; gap: 20px; margin-top: 0; }}
+.mp-3col > div {{ flex: 1; min-width: 0; }}
+@media (max-width: 700px) {{ .mp-columns, .mp-3col {{ flex-direction: column; }} }}
 .mp-title {{ font-family: 'Linux Libertine', Georgia, Times, serif; font-size: 1.95em; font-weight: normal; border-bottom: 1px solid #a2a9b1; padding-bottom: 4px; margin-bottom: 16px; }}
 .mp-welcome {{ background: #eaf3fb; border: 1px solid #a2a9b1; padding: 12px 16px; margin-bottom: 16px; font-size: 13.5px; }}
 .mp-welcome b {{ font-size: 1.1em; }}
@@ -214,6 +255,32 @@ def build_main_page(nav, all_history):
   <div class="mp-col">
     {news}
     {otd}
+  </div>
+</div>
+
+<hr style="border:none; border-top:1px solid #a2a9b1; margin:16px 0;">
+
+<div class="mp-3col">
+  <div>{feat_list}</div>
+  <div>{feat_pic}</div>
+  <div>
+    <div style="border:1px solid #a2a9b1; background:#fff8dc; padding:12px 16px;">
+      <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:6px;">Wiki stats</div>
+      <table style="width:100%; border:none; font-size:13px; font-family:sans-serif;">
+        <tr><td style="border:none; padding:2px 0; color:#54595d;">Articles</td><td style="border:none; padding:2px 0; font-weight:bold;">7</td></tr>
+        <tr><td style="border:none; padding:2px 0; color:#54595d;">Source entries</td><td style="border:none; padding:2px 0; font-weight:bold;">360+</td></tr>
+        <tr><td style="border:none; padding:2px 0; color:#54595d;">Years covered</td><td style="border:none; padding:2px 0; font-weight:bold;">2020–2026</td></tr>
+        <tr><td style="border:none; padding:2px 0; color:#54595d;">Books tracked</td><td style="border:none; padding:2px 0; font-weight:bold;">20+</td></tr>
+        <tr><td style="border:none; padding:2px 0; color:#54595d;">People logged</td><td style="border:none; padding:2px 0; font-weight:bold;">25+</td></tr>
+        <tr><td style="border:none; padding:2px 0; color:#54595d;">Founded</td><td style="border:none; padding:2px 0; font-weight:bold;">April 6, 2026</td></tr>
+      </table>
+      <div style="margin-top:10px; font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:4px;">Sections</div>
+      <div style="font-size:13px; font-family:sans-serif;">
+        <a href="/wiki/people/jack-luo.html">People</a> &nbsp;·&nbsp;
+        <a href="/wiki/philosophy/walk-in-the-park-framework.html">Philosophy</a> &nbsp;·&nbsp;
+        <a href="/wiki/concepts/reading-list.html">Concepts</a>
+      </div>
+    </div>
   </div>
 </div>"""
 
