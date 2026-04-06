@@ -898,7 +898,13 @@
       "summary": "build: auto-update 2026-04-06 06:26 UTC (103 pages)"
     }
   ],
-  "wiki/interests/north-korea-food": [],
+  "wiki/interests/north-korea-food": [
+    {
+      "commit": "2ff086ce",
+      "date": "2026-04-06 06:31:18",
+      "summary": "build: auto-update 2026-04-06 06:31 UTC (104 pages)"
+    }
+  ],
   "wiki/interests/steins-gate": [
     {
       "commit": "d132d4cd",
