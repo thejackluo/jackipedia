@@ -414,9 +414,9 @@ import shutil
 assets_src = f"{WIKI_DIR}/assets"
 assets_dst = f"{OUT_DIR}/assets"
 if os.path.exists(assets_src):
-    if os.path.exists(assets_dst):
-        shutil.rmtree(assets_dst)
-    shutil.copytree(assets_src, assets_dst)
+    shutil.copytree(assets_src, assets_dst, dirs_exist_ok=True)
     print("  ✓ assets/")
+
+print(f"\nDone. Deployed to {OUT_DIR}")
 
 print(f"\nDone. Deployed to {OUT_DIR}")

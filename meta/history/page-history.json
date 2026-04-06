@@ -253,6 +253,11 @@
   ],
   "wiki/people/jack-luo": [
     {
+      "commit": "aa83b40e",
+      "date": "2026-04-06 05:14:13",
+      "summary": "images: profile photo, berkeley hackathon group, elon musk hackclub call; CSS image styles; auto-copy assets on build"
+    },
+    {
       "commit": "7d18e507",
       "date": "2026-04-06 04:57:17",
       "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
@@ -390,6 +395,11 @@
     }
   ],
   "wiki/projects/ces-2025": [
+    {
+      "commit": "aa83b40e",
+      "date": "2026-04-06 05:14:13",
+      "summary": "images: profile photo, berkeley hackathon group, elon musk hackclub call; CSS image styles; auto-copy assets on build"
+    },
     {
       "commit": "c3410fe8",
       "date": "2026-04-06 05:04:20",
