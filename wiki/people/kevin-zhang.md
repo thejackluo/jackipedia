@@ -1,19 +1,19 @@
 # Kevin Zhang
 **Type:** Person
-**Relationship to Jack:** HexaHacks CTO, collaborator, co-organizer
+**Relationship to Jack:** Co-founder of Efficore, collaborator, co-organizer
 **Last updated:** 2026-04-06
 
 ## Overview
 
-Kevin Zhang is the CTO of HexaHacks and one of Jack's closest technical collaborators. He is based in the San Francisco Bay Area.
+Kevin Zhang is the co-founder of Efficore and one of Jack's closest technical collaborators. He is based in the San Francisco Bay Area.
 
-## Role at HexaHacks
+## Role at Efficore
 
-Kevin is CTO of HexaHacks — the same organization under which Jack's email jack@hexahacks.com operates. This suggests they co-founded or co-lead HexaHacks, with Kevin holding the technical lead role. Jack's website bio references HexaHacks as his primary contact domain, making this relationship structurally important.
+Kevin co-founded Efficore with Jack. Efficore appears to be a productivity or efficiency-focused startup — consistent with Jack's broader focus on AI-assisted workflows and personal productivity tooling.
 
 ## CES 2025
 
-Kevin was a key part of Jack's CES 2025 trip to Las Vegas (January 6-10, 2025). The CES People List in Notion was organized around their delegation, which also included Ryan Kim and Lucas Jaggernauth. The CRM entry notes: "CTO at HexaHacks, working closely on CES projects. Strong technical leadership and project management skills. Part of CES 2025 team."
+Kevin was a key part of Jack's CES 2025 trip to Las Vegas (January 6-10, 2025). The CES People List in Notion was organized around their delegation, which also included Ryan Kim and Lucas Jaggernauth.
 
 ## Meetings
 
