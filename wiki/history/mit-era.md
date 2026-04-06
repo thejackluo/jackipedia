@@ -1,48 +1,57 @@
-# MIT Era (2025–present)
+# MIT Era
 
 **Category:** History
-**Period:** 2025 – present
-**Location:** Cambridge, MA
+**Period:** 2024–2026 (ongoing)
+**Summary:** Jack's MIT-adjacent period — SIPB Arc Project, MITAS network, Boston connections
 **Last updated:** 2026-04-06
 
 ## Overview
 
-Jack arrived in Cambridge in 2025 through the MIT SIPB Arc Project — a program for exceptional builders working at the intersection of AI and systems. He operates out of room E38-379, the [[projects/agent-school]] office. This is the chapter where the ambition meets the infrastructure.
+Jack was rejected from MIT (as documented in the [[interests/mit-blogs]] essay he wrote on Pi Day). He then built his way into the MIT orbit anyway. This is the MIT era: not enrollment, but proximity, contribution, and network.
 
-## The Community
+## MIT SIPB Arc Project
 
-![MIT group photo — crowd of people, Jack centered](/assets/photos/mit-group-crowd.jpg)
+Jack is working on agentic architecture at the MIT Student Information Processing Board (SIPB). The project is called Arc, hosted at GitHub: github.com/SGIARK/arkos.
 
-A group photo from an MIT community event — Jack visible in the center of the crowd. The kind of density of people who are all building something that you can only find at a handful of places in the world.
+SIPB (the Student Information Processing Board) is one of MIT's oldest student groups, founded in 1969. It is responsible for running and maintaining MIT's computing infrastructure, including the Athena network. SIPB members are among MIT's most technically serious students.
 
-## The Office
+Contributing to a SIPB project without being an MIT student is not standard. It means Jack's technical contributions are strong enough to be accepted into a project run by MIT students, on agentic systems — the exact domain he is building in with [[projects/agentdex]].
 
-![Agent School room — E38-379](/assets/photos/agent-school-room.jpg)
+## MITAS
 
-Room E38-379: whiteboards, standing desks, glass walls showing Cambridge at dusk. Where the work happens.
+MITAS (MIT Alumni/Entrepreneur Association or similar) is the MIT alumni entrepreneur network that Jack has connections in. The specific event documented: **MITAS Founder Breakfast, April 16, 2026, Boston**. Limited spots. Jack should register.
 
-## MIT Rabbits
+This event is a concrete touchpoint: a breakfast in Boston with MIT alumni founders. The format — small group, in-person, founders — is the highest-signal version of networking.
 
-![Wild rabbit on MIT campus at night](/assets/photos/mit-rabbit.jpg)
+## The Rejection-to-Orbit Pattern
 
-Late-night wildlife on the MIT campus brick paths. The rabbits come out when most people have gone home.
+Jack applied to MIT. He was rejected. He then:
 
-## Classes
+1. Wrote an essay about it (jack-luo.com/blogs/mit) — processing it publicly
+2. Read the MIT Admissions Blogs obsessively — maintaining cultural proximity
+3. Contributed to a SIPB project — technical proximity
+4. Built MITAS connections — network proximity
+5. Published writing about Boston as a city of the future — geographical proximity
 
-Jack attended startup and venture capital lectures at MIT, including Startup Financials and pitch structure workshops run by Pillar VC.
+This is not sour grapes. It is a specific approach to rejection: treat the institution as a resource you can access on your own terms rather than a gate that determines your worth.
 
-![Startup Financials class — "#3 Problem: The vacation is broken"](/assets/photos/startup-financials-class.jpg)
+The alternative to MIT is building something that MIT would want to admit. Jack appears to be doing that.
 
-A slide from the Startup Financials class: "The vacation is broken — Cost: Average $4k. Commute: Travel takes forever. Beaches filled with strangers. So much you have to do. 1 week out of 52." The framework on the right asks: who is your customer, what is causing the pain, why is this a big deal. Jack was studying how to pitch by seeing how others pitched.
+## Boston as a Base
 
-## MITAS Founder Breakfast
+The [[history/boston]] page covers the city in more detail. The MIT era and the Boston chapter are intertwined — the MITAS connections, the SIPB work, the Founder Breakfast are all Boston-located. Boston is where the MIT network actually lives and works.
 
-A message in the MITBuilds WhatsApp community announced a MITAS (MIT Alumni Startup Network) founder breakfast on April 16 in Boston — limited spots. The same group where startup founders share tools and ask for feedback.
+## The IHTFP Parallel
+
+In the [[interests/mit-blogs]] essay, Jack uses MIT's unofficial motto — IHTFP ("I Hate This Fucking Place / I Have Truly Found Paradise") — as a lens on any environment. The essay argues that attitude determines whether your environment is paradise or hell.
+
+The MIT era is Jack's lived version of that argument: the institution that rejected him has become part of his intellectual and professional world anyway. His attitude toward the rejection — "the path I'll take is better" — produced the outcome.
 
 ## Related
 
-- [[projects/agent-school]]
+- [[interests/mit-blogs]]
+- [[history/boston]]
 - [[projects/agentdex]]
-- [[history/georgia-tech-era]]
-- [[concepts/investor-pitch-mechanics]]
 - [[people/jack-luo]]
+- [[history/cupertino-high-school]]
+- [[history/chatgpt-senior-year]]

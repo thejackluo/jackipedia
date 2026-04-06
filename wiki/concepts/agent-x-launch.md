@@ -1,53 +1,60 @@
-# Agent X Launch Strategy
-**Category:** Concepts
-**Date:** March 27, 2026 (planning meeting)
+# AgentDex Launch (April 2026)
+
+**Category:** Projects / History
+**Date:** April 1, 2026
+**Summary:** The public launch of AgentDex — also called "Agent X" in pre-launch planning
 **Last updated:** 2026-04-06
 
 ## Overview
 
-On March 27, 2026, Jack held a wide-ranging planning session covering personal energy management, crisis frameworks, tech vs. finance culture, and the [[projects/agentdex]] launch strategy for April 1. This meeting was tagged Important + Startup and generated structured decisions.
+AgentDex launched publicly on April 1, 2026. In pre-launch planning (documented in Notion meetings), the launch was codenamed "Agent X." The target was 100 emails collected before launch day, with an email blast and LinkedIn promotion planned for the launch itself.
 
-## The Launch Plan
+## Pre-Launch Strategy
 
-**Target date:** April 1, 2026  
-**Goal:** 100 email signups before launch  
-**Strategy:** Organic — no paid ads, no UGC creators for test launch
+A March 27, 2026 Notion meeting titled "Personal Development, Crisis Management & Agent X Launch" documents the pre-launch decisions:
 
-### Growth funnel
-1. **Waitlist website** — set up before launch
-2. **Collect 100 emails** — pre-launch goal
-3. **Email blast** on launch day to those 100
-4. **LinkedIn promotion** post-launch
-5. No paid advertising for this test launch
+- **No paid ads or UGC creators** for the test launch — purely organic
+- **Growth strategy**: waitlist → email blast → LinkedIn
+- **100 emails** as the target before April 1
+- **Waitlist website** to be set up before launch
 
-The decision to go organic first is a principled product-market fit test: if you can't get 100 emails without paying for them, you don't have product-market fit signal yet.
+The decisions reflect a lean, organic-first launch philosophy: build a list, launch to the list, then use the launch signal to justify the next phase of growth. No ad spend before product-market fit.
 
-## Personal Energy Management
+## The April 1 Date
 
-A striking element of the March 27 meeting: the discussion of replacing caffeine with exercise and meditation as a primary energy management strategy.
+Launching on April Fools Day is either a bold move or an accident. For a product called AgentDex (later ROLO) — a personal CRM with AI — launching on April 1 means every headline about your launch gets the "is this a joke?" question. The risk is that people don't take it seriously. The potential upside is that a product that genuinely delivers will stand out sharply against the noise of April Fools announcements.
 
-> "Exercise + meditation replacing caffeine as energy strategy"
+The Notion meeting on April 1 (pitch deck feedback notes) shows Jack was already in investor conversation mode by launch day — reviewing pitch mechanics, planning the financial model, preparing for VC meetings. The launch was not the end point but the beginning of the fundraising narrative.
 
-This is noted as a **decision made**, not just a topic discussed. The shift is from chemical stimulation (caffeine, tolerance-dependent, crash-prone) to physical stimulation (exercise, sustainable, cumulative benefits). Combined with the action item "Try Brazilian Jiu Jitsu tomorrow," this represents a real behavioral commitment.
+## Pitch Deck Context
 
-## Crisis Management Framework
+The April 1 meeting entry ("Pitch deck feedback notes — Problem/Solution, Team, Market, Mechanics") documents Jack's distilled learnings from investor pitch review:
 
-The meeting covered "crisis management frameworks" — how to handle unexpected setbacks in a launch scenario. The specifics aren't detailed in the summary, but the topic itself is telling: Jack is preparing for the launch to go wrong, not just right.
+- **Quantify customer pain + research** before presenting solutions
+- **Map solution directly to pain** — no abstract value props
+- **Place team slide early** (after problem/solution, not at the end)
+- **Keep market sizing logic simple** — comparable companies, unit economics
+- **Avoid live demos** — pre-record instead
+- **Keep slides visual** with minimal text
+- **Be authentic about unknowns**
 
-## Tech vs. Finance Culture Analysis
+These are standard VC pitch mechanics but they suggest Jack had real VC feedback sessions by launch day — not just working from templates.
 
-One of the meeting topics was a comparative analysis of tech and finance cultures. This is a recurring interest — Jack's reading stack includes *Power* (Pfeffer, corporate/finance worldview), *[[books/billion-dollar-whale]]* (finance corruption), and his own writing on society and status. The comparison likely relates to which culture produces better environments for the kind of work Jack wants to do.
+## What AgentDex Is
 
-## Action Items
+Full coverage at [[projects/agentdex]]. The short version: a personal CRM and relationship intelligence platform — "the Rolodex for the AI age" (hence ROLO). Core product: AI-powered contact management that tracks relationship context, surfaces relevant information at the right moment, and reduces the manual overhead of maintaining a professional network.
 
-1. Set up waitlist website for Agent X launch
-2. Collect 100 emails before April 1st launch
-3. Prepare email blast for launch day
-4. Plan LinkedIn promotion post-launch
-5. Try Brazilian Jiu Jitsu tomorrow
-6. Transcribe handwritten notes to digital
+The technical stack: Next.js, Clerk auth, Postgres on Neon, AI routing through Bedrock → Anthropic → OpenAI, deployed via Coolify on worker-vps-1 (agentdex.agentschool.io) and Vercel for the ROLO variant (rolo.agentschool.io).
+
+## After Launch
+
+Post-launch state: PRs open for auth fixes (PR #172, clerk sign-in fix) and build fixes (PR #193, Coolify deployment fix). The launch was the beginning of the public phase, not the end of the build phase.
 
 ## Related
+
 - [[projects/agentdex]]
-- [[people/jeff]]
+- [[concepts/hackathon-circuit]]
+- [[concepts/z-fellows]]
+- [[concepts/y-combinator]]
+- [[people/arman-mahjoor]]
 - [[people/jack-luo]]

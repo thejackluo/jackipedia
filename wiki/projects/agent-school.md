@@ -1,52 +1,57 @@
 # Agent School
 
-**Category:** Project
-**Status:** Active
-**Location:** MIT E38-379, Cambridge, MA
+**Category:** Projects / Infrastructure
+**URL:** agentschool.io
+**Summary:** The infrastructure umbrella for Jack's AI agent ecosystem — Paperclip, Jackipedia, and more
 **Last updated:** 2026-04-06
 
 ## Overview
 
-Agent School is Jack's MIT-based project building AI agent infrastructure. It operates out of room E38-379 in MIT's Media Lab / Sloan building complex — a glass-walled room that became both office and identity.
+Agent School is the organizational umbrella and domain (agentschool.io) under which Jack runs his AI agent infrastructure. It is not a single product but a collection of tools, services, and experiments related to AI agents and intelligent automation.
 
-The name appears on the room's door sign in handwritten text on paper taped below the official room number. Equal parts provisional and permanent.
+## What Agent School Is
 
-## The Room
+The agentschool.io domain hosts several active properties:
 
-![Agent School door sign, E38-379 — night](/assets/photos/agent-school-door-night.jpg)
+| Subdomain | Product | Description |
+|-----------|---------|-------------|
+| agentdex.agentschool.io | AgentDex | The main CRM product, deployed via Coolify on worker-vps-1 |
+| rolo.agentschool.io | ROLO | Vercel-deployed variant with Clerk auth |
+| paperclip.agentschool.io | Paperclip | Internal AI/agent management tool |
+| jackipedia.agentschool.io | Jackipedia | This wiki |
 
-Room E38-379 at MIT, taken at night — the "AGENT SCHOOL" sign on glass, dark interior visible behind it. This is where the work happens.
+## Paperclip
 
-![Agent School room interior — someone working at standing desk](/assets/photos/agent-school-room.jpg)
+Paperclip is an AI agent management platform running at paperclip.agentschool.io (also accessible at the server's internal port 3100). It runs via Docker Compose on the main OpenClaw server at 52.12.222.191.
 
-The room during the day: whiteboards, floor-to-ceiling windows showing the Cambridge skyline at dusk, a person working at the standing desk with headphones. The kind of space that makes you feel like the work matters.
+Paperclip's exact functionality is internal-facing — it's a tooling and management layer for running AI agents, not a consumer product.
 
-## Infrastructure
+## The Infrastructure Stack
 
-The project runs a full AI agent stack:
+The Agent School infrastructure includes:
+- **OpenClaw server**: AWS Lightsail, 52.12.222.191, 2 vCPU, 3.7GB RAM, 4GB swap
+- **Worker VPS**: 54.205.100.7 (worker-vps-1), 61GB RAM — main dev/coding machine
+- **Coolify**: deployment platform running on worker-vps-1, manages AgentDex containers
+- **Neon**: Postgres database provider (used by AgentDex API server)
+- **Clerk**: authentication provider (used by ROLO variant)
+- **Bedrock → Anthropic → OpenAI**: the AI routing chain in AgentDex
 
-- **agentdex-v1, v2, mobile, website** — core product repos
-- **worker-vps-1** — 61GB RAM dev machine (`54.205.100.7`)
-- **Coolify** deployment on worker-vps-1 (agentdex.agentschool.io)
-- **Vercel** deployment (rolo.agentschool.io)
-- **Paperclip** at paperclip.agentschool.io — AI agent coordination
-- **[[projects/jackipedia]]** at jackipedia.agentschool.io — this wiki
+## The Name
 
-## The "Get Grinding" Story
+"Agent School" suggests an environment where agents learn, develop, and operate. It positions the umbrella as educational and developmental — not just a collection of tools but a system for building and running AI that gets smarter over time.
 
-![Instagram story: "Startup is resumed" / "If you are in agent school get grinding"](/assets/photos/startup-is-resumed.jpg)
+The name is also a branding surface: agentschool.io is memorable and relevant in the current AI agent moment. As AI agents become a mainstream category (2024–2026), having "agent" in the domain is a positioning asset.
 
-An Instagram story from early 2026: "If you are in agent school get grinding :)" — posted from what appears to be the Agent School office. The caption "Startup is resumed" next to a desk with multiple monitors. Practical and a little cinematic.
+## Connection to AgentDex
 
-## The MIT Rabbit
+[[projects/agentdex]] is the main product; Agent School is the platform it runs on. The distinction matters: AgentDex is the thing users interact with; Agent School is the infrastructure layer that makes it possible to run, iterate, and deploy multiple experiments simultaneously.
 
-![MIT rabbit on brick path at night](/assets/photos/mit-rabbit.jpg)
-
-A wild rabbit photographed on the MIT campus brick paths late at night. One of the small surreal details of working until 2am at a research university.
+The relationship between Agent School and AgentDex is similar to the relationship between AWS and a specific application: one provides the substrate, the other provides the value.
 
 ## Related
 
 - [[projects/agentdex]]
 - [[projects/jackipedia]]
-- [[history/georgia-tech-era]]
 - [[people/jack-luo]]
+- [[concepts/granola]]
+- [[concepts/jotion]]

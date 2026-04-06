@@ -158,6 +158,7 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
+  "wiki/fitness/brazilian-jiu-jitsu": [],
   "wiki/writings/ai-society-human-evolution": [
     {
       "commit": "948c69c8",
@@ -1182,6 +1183,8 @@
       "summary": "build: auto-update 2026-04-06 06:03 UTC (95 pages)"
     }
   ],
+  "wiki/books/agents-in-the-long-game": [],
+  "wiki/books/why-nations-fail": [],
   "wiki/books/the-courage-to-be-disliked": [
     {
       "commit": "948c69c8",
@@ -1278,6 +1281,7 @@
       "summary": "build: auto-update 2026-04-06 07:28 UTC (123 pages)"
     }
   ],
+  "wiki/books/power-why-some-people": [],
   "wiki/history/boston": [
     {
       "commit": "ec2587b9",
@@ -1599,6 +1603,18 @@
       "summary": "build: auto-update 2026-04-06 06:29 UTC (104 pages)"
     }
   ],
+  "wiki/history/ucsc-era": [
+    {
+      "commit": "83bb4f5c",
+      "date": "2026-04-06 05:45:43",
+      "summary": "build: auto-update 2026-04-06 05:45 UTC (83 pages)"
+    },
+    {
+      "commit": "f9fee634",
+      "date": "2026-04-06 05:10:30",
+      "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
+    }
+  ],
   "wiki/history/japan-trip-2024.ja": [
     {
       "commit": "a8891a31",
@@ -1690,6 +1706,7 @@
       "summary": "build: auto-update 2026-04-06 06:18 UTC (100 pages)"
     }
   ],
+  "wiki/interests/japanese-language": [],
   "wiki/interests/three-countries-tiktok": [
     {
       "commit": "5ebe9165",
