@@ -31,6 +31,7 @@ Jack has been to almost all major US cities and tracks every flight in the Fligh
 | San Francisco | Hacker houses, startup events |
 | Los Angeles | City travel |
 | Las Vegas | CES 2025 |
+| Miami | Brickell, beach, galleries, content creation |
 | New York | NY Hacker House 2025 |
 | Atlanta | Georgia Tech |
 | Boston | MIT SIPB, 2025 |
