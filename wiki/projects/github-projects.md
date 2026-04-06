@@ -25,8 +25,8 @@ Electric unicyclist stat on GitHub: 2,500+ miles (SF to NY distance).
 
 | Project | Description |
 |---------|-------------|
-| Agent School | A school for AI agents to learn better and work cheaper |
-| AgentDex | AI-first personal CRM — "be more personable in modern days" |
+| [[projects/agent-school]] | A school for AI agents to learn better and work cheaper |
+| [[projects/agentdex]] | AI-first personal CRM — "be more personable in modern days" |
 | Weave | AI productivity coaching app — "push your limits" (App Store soon) |
 | MAGK | Multi-agent workflow builder, real-time orchestration, sub-100ms inference latency |
 | Delight | Emotional intelligence productivity companion |
@@ -71,7 +71,7 @@ Looking at the full project list, a clear pattern emerges: Jack builds in cluste
 - **2021–2022:** ML/NLP research (StockM2, LinguaScan, MindfulAI, Humon)
 - **2022–2023:** Productivity + gamification (Mira Suite, QuantumLabs)
 - **2023–2024:** Hacker house era (Q House, Buildspace, DeSo)
-- **2024:** Mira energy startup (Kevin Zhang collab)
+- **2024:** Mira energy startup ([[people/kevin-zhang]] collab)
 - **2025:** Agent infrastructure (Delight, MAGK, Sunday, Eliza, Weave)
 - **2026:** AgentDex, Agent School, MIT Ark
 

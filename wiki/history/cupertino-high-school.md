@@ -15,7 +15,7 @@ From his 2025 nostalgia entry:
 > "Cupertino High School — it's not like everyone is hustling. There's still some level of variety."
 
 And:
-> "I didn't really take advantage of [Cupertino people] because I didn't know back then (too spoiled). Perhaps there is even the same idea for Georgia Tech people, so I want to not do that again."
+> "I didn't really take advantage of [Cupertino people] because I didn't know back then (too spoiled). Perhaps there is even the same idea for [[history/georgia-tech-era]] people, so I want to not do that again."
 
 The core regret: surrounded by high-signal peers and didn't extract the full value because he didn't recognize what he had.
 

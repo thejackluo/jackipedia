@@ -7,7 +7,7 @@
 
 ## Overview
 
-Heath Sun is a builder Jack met during the AgentDex customer discovery sprint in January 2026. By the time of their meeting, Heath had already pivoted once — from security cameras to a voice agent startup.
+Heath Sun is a builder Jack met during the [[projects/agentdex]] customer discovery sprint in January 2026. By the time of their meeting, Heath had already pivoted once — from security cameras to a voice agent startup.
 
 ## Meeting Notes (CD 9, Jan 28, 2026)
 

@@ -1,4 +1,4 @@
-# Why I Escaped to Georgia Tech (01/31/25)
+# Why I Escaped to [[history/georgia-tech-era]] (01/31/25)
 **Rating:** 2 Stars
 **Date:** January 31, 2025
 **Notebook:** Deep Reflections 2023-2025

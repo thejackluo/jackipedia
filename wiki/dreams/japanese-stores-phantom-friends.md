@@ -5,7 +5,7 @@
 
 ## Overview
 
-A quiet, atmospheric dream from early March 2025 — three weeks after the Walk in the Park framework, one week before TreeHacks. Jack's mother appears alongside phantom friends who "weren't really there."
+A quiet, atmospheric dream from early March 2025 — three weeks after the [[philosophy/walk-in-the-park-framework]] framework, one week before [[history/treehacks-2025]]. Jack's mother appears alongside phantom friends who "weren't really there."
 
 ## Full Notes
 

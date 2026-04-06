@@ -23,7 +23,7 @@ As of 2026, Jack is running in Atlanta area trails and going to the gym. A March
 
 > "Exercise + meditation replacing caffeine as energy strategy"
 
-This is a real shift: Jack is actively replacing stimulant-based energy management (caffeine) with movement-based energy management (exercise, meditation). This aligns with the Walk in the Park framework's principle 3 (work: present over perfect) and his broader project of becoming more stable.
+This is a real shift: Jack is actively replacing stimulant-based energy management (caffeine) with movement-based energy management (exercise, meditation). This aligns with the [[philosophy/walk-in-the-park-framework]] framework's principle 3 (work: present over perfect) and his broader project of becoming more stable.
 
 ## Fitness in the Writing Archive
 

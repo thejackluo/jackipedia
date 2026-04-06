@@ -46,7 +46,7 @@ Jack's OpenCode session log for March 2026 — days like March 26 logged 76 turn
 | Oct–Nov 2024 | Technical architecture decisions |
 | Dec 2024 | Product ideas and MVP planning meetings |
 | Jan 2026 | Customer discovery sprint (25+ interviews, CD series) |
-| Feb 2026 | Team formed: Arman Mahjoor, Karthik Jandhyala onboarded |
+| Feb 2026 | Team formed: [[people/arman-mahjoor]], Karthik Jandhyala onboarded |
 | Mar 28, 2026 | Codebase architecture review (Granola meeting) |
 | Mar 31, 2026 | Targeted launch date (AgentDex public launch) |
 | Apr 1, 2026 | Official launch |

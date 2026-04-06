@@ -23,7 +23,7 @@ First documented burst: February 25, 2023.
 The July 2023 session has the quality of a restless afternoon: editing Friendship, Prom, and Pho in quick succession — three articles that have nothing in common except that they were all things Jack was thinking about that summer.
 
 ### 2024 — Transfer Period
-- **UC Santa Barbara College of Engineering** (+5,198, +1,574, +1,522 chars) — August–September 2024. Three separate sessions substantially expanding the UCSB engineering article. This was during the transfer period — the timing suggests Jack was researching UCSB as a transfer target before ultimately choosing Georgia Tech.
+- **UC Santa Barbara College of Engineering** (+5,198, +1,574, +1,522 chars) — August–September 2024. Three separate sessions substantially expanding the UCSB engineering article. This was during the transfer period — the timing suggests Jack was researching UCSB as a transfer target before ultimately choosing [[history/georgia-tech-era]].
 - **UC Santa Barbara** — additional edits to the main UCSB article.
 
 ### November 2025 — The Big Sprint
@@ -45,7 +45,7 @@ The most concentrated burst in the contribution history: **November 22, 2025**, 
 | Wharton School | +3,986 (reverted) | Large addition, reverted by other editors |
 | Shooting range | +192 |  |
 
-This session is remarkable. Jack substantially expanded the Georgia Tech article — likely during or just after his time there, wanting the page to reflect what the school actually is. The Humanoid robot, Nvidia GTC, and Consumer Electronics Show edits are CES 2025 prep (CES was January 2026). Harvard Business School got a photo upload (Klarman Hall interior). Wharton got +3,986 chars that were immediately reverted — aggressive addition, pushback from the Wikipedia community.
+This session is remarkable. Jack substantially expanded the Georgia Tech article — likely during or just after his time there, wanting the page to reflect what the school actually is. The Humanoid robot, Nvidia GTC, and Consumer Electronics Show edits are [[projects/ces-2025]] prep (CES was January 2026). Harvard Business School got a photo upload (Klarman Hall interior). Wharton got +3,986 chars that were immediately reverted — aggressive addition, pushback from the Wikipedia community.
 
 ### December 2025 — Rapid Fire
 - **App-suggested edits sprint** (Dec 9, 2025): Patheka, Rozhanivka, Florence Steele, Painsec (New Brunswick), Pakovraće — all via the iOS Wikipedia app's "suggested edits" feature, adding images to stub articles in rapid succession. Five edits at 03:37–03:40 AM UTC — a 3-minute sprint.
@@ -68,7 +68,7 @@ This session is remarkable. Jack substantially expanded the Georgia Tech article
 
 **Repeated reverts on the same articles** — Prom (3 attempts), Ratatouille (2 attempts), Wharton (reverted same day), UCSC (reverted). Jack makes edits that other editors disagree with, gets reverted, and sometimes tries again. This is either stubbornness or genuine confidence in his additions — probably both.
 
-**The 3am app sprint** — Five articles in three minutes via the iOS app's suggested-edit feature. This is the "just one more" mode that also shows up in Factorio and running: once the feedback loop starts, you don't stop until something external interrupts it.
+**The 3am app sprint** — Five articles in three minutes via the iOS app's suggested-edit feature. This is the "just one more" mode that also shows up in [[interests/factorio]] and running: once the feedback loop starts, you don't stop until something external interrupts it.
 
 **Humanoid robot and Nvidia GTC** — November 2025, during CES prep. He didn't just attend CES, he expanded the Wikipedia articles about the technology he was going to see there.
 

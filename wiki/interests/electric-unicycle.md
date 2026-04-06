@@ -20,7 +20,7 @@ An electric unicycle (EUC) is exactly what it sounds like: a single-wheeled self
 
 The EUC fits a specific pattern in Jack's physical life: it rewards learning curves. The first hour on one is humbling. The first week is frustrating. Then it clicks, and the skill compounds. Once you can ride one, you can commute on it, navigate crowds, go places a bike can't. It's a high-learning-cost tool with high ongoing utility.
 
-This is the same reason he does running, tracks fitness data obsessively, and plays Factorio. The activation cost is high; the returns are disproportionate once you've paid it.
+This is the same reason he does running, tracks fitness data obsessively, and plays [[interests/factorio]]. The activation cost is high; the returns are disproportionate once you've paid it.
 
 ## The Crash
 

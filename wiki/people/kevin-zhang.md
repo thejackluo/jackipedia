@@ -1,6 +1,6 @@
 # Kevin Zhang
 **Type:** Person
-**Relationship to Jack:** Co-founder of Efficore, collaborator, co-organizer
+**Relationship to Jack:** Co-founder of [[projects/mira]], collaborator, co-organizer
 **Last updated:** 2026-04-06
 
 ## Overview
@@ -13,7 +13,7 @@ Kevin co-founded Efficore with Jack. Efficore is a **unified energy optimization
 
 The company's domain is mira.energy. Kevin's background includes Northwestern Energy and Sustainability Club (NESC) and Q House — the same Q House that Jack co-organized in 2023, which is how their paths likely first crossed.
 
-## CES 2025
+## [[projects/ces-2025]]
 
 Kevin was a key part of Jack's CES 2025 trip to Las Vegas (January 6-10, 2025). The CES People List in Notion was organized around their delegation, which also included Ryan Kim and Lucas Jaggernauth.
 
@@ -23,7 +23,7 @@ Kevin was a key part of Jack's CES 2025 trip to Las Vegas (January 6-10, 2025). 
 |------|---------|
 | Jan 28, 2026 | Jack x Kevin — initial talks on PMF (product-market fit) |
 | Jun 28, 2025 | Arman / Jack / Kevin — Team Sync |
-| Feb 26, 2025 | Networking: Arman Mahjoor (Circlez) — Kevin created this meeting note |
+| Feb 26, 2025 | Networking: [[people/arman-mahjoor]] (Circlez) — Kevin created this meeting note |
 | Feb 27, 2025 | Advisor: Jeff Henderson (Trienens NU) — Kevin created this note |
 
 Kevin appears as the creator of several Granola meeting notes — suggesting he was also using the same meeting notes infrastructure as Jack during their collaborative period (early-mid 2025).

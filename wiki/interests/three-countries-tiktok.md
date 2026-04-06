@@ -8,7 +8,7 @@
 
 Jack went viral on TikTok with content about three countries: **Brazil**, **Nepal**, and **Portugal**. The videos accumulated 2 million+ combined views, primarily through reposter accounts (notably @chrisclipsss, which redistributed the content and drove the bulk of views).
 
-This is one of the stranger facts in the Jackipedia — a person building AI agents and writing dense philosophical essays also has 2M+ TikTok views on country content.
+This is one of the stranger facts in the [[projects/jackipedia]] — a person building AI agents and writing dense philosophical essays also has 2M+ TikTok views on country content.
 
 ## The Countries
 
@@ -40,7 +40,7 @@ The content: an iPhone giveaway contest. Jack ran a TikTok giveaway — the clas
 
 ## Context
 
-- The viral videos appear to be from the Georgia Tech / Miami era (2024–2025)
+- The viral videos appear to be from the [[history/georgia-tech-era]] / Miami era (2024–2025)
 - Jack's TikTok handle is not publicly documented (the @chrisclipsss reposter drove the views)
 - This is concurrent with the Eddie the Lou collab on Delight and Weave — a period of active content creation
 

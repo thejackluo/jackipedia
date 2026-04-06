@@ -13,7 +13,7 @@ On March 25, 2026, Jack participated in a wide-ranging discussion about AI-power
 One participant was working on a game as their master's thesis — specifically about cultural hybridity: what happens when cultural identities blend, collide, or hybridize. The game was using AI to create interactive narrative branches responsive to cultural context.
 
 ### AI Self-Awareness and Metacognition
-The discussion touched on whether AI systems can develop metacognition — awareness of their own thinking processes. This connects to Jack's broader AI interest: he's building systems that are aware of their own state (AgentDex uses hierarchical memory and adaptive state management).
+The discussion touched on whether AI systems can develop metacognition — awareness of their own thinking processes. This connects to Jack's broader AI interest: he's building systems that are aware of their own state ([[projects/agentdex]] uses hierarchical memory and adaptive state management).
 
 ### Game Development Challenges
 The practical difficulties of game dev came up: tooling, pipeline, iteration speed. AI is beginning to change this — procedural content generation, AI-assisted dialogue trees, adaptive difficulty.
@@ -27,7 +27,7 @@ The practical difficulties of game dev came up: tooling, pipeline, iteration spe
 ## Why Jack Was Here
 
 Jack's connection to interactive storytelling comes through multiple channels:
-- His Steins;Gate obsession (visual novel format, branching narrative)
+- His [[interests/steins-gate]] obsession (visual novel format, branching narrative)
 - His AI agent work (agents as actors in narrative-like decision spaces)
 - His general interest in "AI + creativity" as a frontier
 

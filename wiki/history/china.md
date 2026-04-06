@@ -6,7 +6,7 @@
 
 ## Overview
 
-China is where Jack's family comes from. It is also one of the most consequential countries on earth — the world's most populous nation until recently surpassed by India, the second-largest economy, the dominant manufacturing and technology hub of the 21st century, and the source of some of the most significant science fiction (Liu Cixin's Three-Body Problem), food culture, and philosophical traditions in the world.
+China is where Jack's family comes from. It is also one of the most consequential countries on earth — the world's most populous nation until recently surpassed by India, the second-largest economy, the dominant manufacturing and technology hub of the 21st century, and the source of some of the most significant science fiction (Liu Cixin's [[books/three-body-problem]]), food culture, and philosophical traditions in the world.
 
 Jack's relationship with China is layered: ancestral heritage, childhood visits, language study, cultural fluency, and the ongoing question of how China fits into a life built primarily in the American tech ecosystem.
 
@@ -20,7 +20,7 @@ The Luo family is from mainland China. Specific family details are private.
 
 ### China 2024
 
-Jack visited China in 2024. The Wikimedia Commons archive includes a photo he took in China: a McCafé mobile coffee truck in China, 2024 — uploaded to the Wikipedia McDonald's article. The photo was taken with the eye of someone documenting urban life and commercial culture, not a tourist snapshot.
+Jack visited China in 2024. The [[interests/wikimedia-commons]] archive includes a photo he took in China: a McCafé mobile coffee truck in China, 2024 — uploaded to the Wikipedia McDonald's article. The photo was taken with the eye of someone documenting urban life and commercial culture, not a tourist snapshot.
 
 ### China 2025 (Planned)
 
@@ -31,7 +31,7 @@ Jack had a China 2025 trip in planning stages as of early 2025. The trip appeare
 Jack studies Mandarin Chinese — both spoken and written. His Notion archive includes:
 
 - **Outline of Classical Chinese Grammar** by Edwin Pulleyblank — actively in progress as of early 2026, one of the most rigorous academic treatments of written classical Chinese available in English
-- Chinese-language translation files for Jackipedia (`.zh.md`)
+- Chinese-language translation files for [[projects/jackipedia]] (`.zh.md`)
 - Comfort with reading Chinese characters (Traditional and Simplified)
 
 Classical Chinese grammar is a significantly different system from Modern Standard Mandarin — the Pulleyblank book suggests interest in historical depth, not just conversational fluency. This is consistent with the pattern of going deep rather than learning the surface layer.

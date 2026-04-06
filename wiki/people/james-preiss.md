@@ -21,7 +21,7 @@ Two substantive claims:
 
 Jack's interest in robotics is a thread that runs alongside his AI work. His website bio references "artificial intelligence and robotics" as his CS focus. The advice from Preiss — take ME+EE, understand the hardware — is the kind of direction that shapes course selection and long-term positioning.
 
-The timing (November 2024, shortly after transferring to Georgia Tech) suggests Jack was actively building out his academic trajectory at GT, and Preiss was part of that calibration.
+The timing (November 2024, shortly after transferring to [[history/georgia-tech-era]]) suggests Jack was actively building out his academic trajectory at GT, and Preiss was part of that calibration.
 
 ## Related
 - [[people/jack-luo]]

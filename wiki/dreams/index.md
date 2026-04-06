@@ -19,7 +19,7 @@ The dream journal is titled with the date and a descriptive subtitle. Jack write
 
 Both rated dreams share key features:
 - **Multiple settings** — dreams shift locations rapidly
-- **Technology + place hybrid** — real-world locations blend with Jack's current work context (coding sessions, Georgia Tech, California)
+- **Technology + place hybrid** — real-world locations blend with Jack's current work context (coding sessions, [[history/georgia-tech-era]], California)
 - **Alone at the end** — both dreams end with Jack isolated or waking alone
 - **Transition imagery** — portals, walking beyond maps, graduation ceremonies
 

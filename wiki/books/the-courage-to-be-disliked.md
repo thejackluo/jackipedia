@@ -37,7 +37,7 @@ Jack repeatedly attributes his unhappiness to being in the wrong environment (no
 **"Aspirational mismatch as loneliness":**
 Jack's theory of his own loneliness — "I don't aspire to be them" — is close to Adler's concept of *social interest* misalignment. But Adler would add: the solution is not to find peers at your level; it's to contribute to whatever community you're in, at whatever level you're at now.
 
-**The Steins;Gate parallel:**
+**The [[interests/steins-gate]] parallel:**
 The book's philosopher is specifically associated with Japan (it's a Japanese bestseller) and presents ideas Okabe from Steins;Gate would recognize: the price of choosing your own path, the cost of authenticity, the acceptance of isolation as part of real freedom.
 
 ## The 5-Star Signal

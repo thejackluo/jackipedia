@@ -8,7 +8,7 @@
 
 Jack has a consistent, documented love for city skylines — not just as aesthetic objects but as signals. A dense skyline means ambition, capital, and concentrated human energy. It means something is happening there. His attraction to cities is fundamentally about the feeling that you're near the center of something.
 
-This shows up everywhere: photos from rooftops, night city selfies in New York, the Miami Brickell shots, the Georgia Tech Atlanta views, the constant gravitational pull toward major metros.
+This shows up everywhere: photos from rooftops, night city selfies in New York, the Miami Brickell shots, the [[history/georgia-tech-era]] Atlanta views, the constant gravitational pull toward major metros.
 
 ## The Photos
 
@@ -47,7 +47,7 @@ A dense skyline is a visual proof that such a world exists.
 | Miami | 2025 trip |
 | New York City | Multiple visits, Dec 2025 meetings |
 | Boston | MIT and MITAS connections |
-| Las Vegas | CES 2025 |
+| Las Vegas | [[projects/ces-2025]] |
 
 ## The Skyline as Symbol
 

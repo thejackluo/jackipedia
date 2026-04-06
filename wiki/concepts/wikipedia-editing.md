@@ -18,7 +18,7 @@ From his Wikipedia user page:
 
 All edits via mobile iOS app and Visual Editor. The edit log shows a burst of activity in December 2025, then again in February 2026.
 
-### December 2, 2025 — The Georgia Tech Session
+### December 2, 2025 — The [[history/georgia-tech-era]] Session
 
 A single morning session of 10+ edits, all from mobile. Jack had just transferred to Georgia Tech and spent a morning editing Wikipedia articles about his new university.
 

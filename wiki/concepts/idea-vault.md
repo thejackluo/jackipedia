@@ -19,7 +19,7 @@ Multiple MAGK idea dumps exist in Notion from summer 2025 — one from July 1, 2
 
 ## HackGT Ideas
 
-A separate document for Georgia Tech hackathon ideas (September 27, 2025 — during the Georgia Tech era). Hackathon constraints (24-48 hours, demo required) force a different kind of thinking than open-ended product development: what can be built fast and shown to a room of people?
+A separate document for [[history/georgia-tech-era]] hackathon ideas (September 27, 2025 — during the Georgia Tech era). Hackathon constraints (24-48 hours, demo required) force a different kind of thinking than open-ended product development: what can be built fast and shown to a room of people?
 
 ## Jotion Blog Ideas V2
 
@@ -45,7 +45,7 @@ Whether he applied is not recorded.
 
 ## The Pattern
 
-Every few months, a new idea dump. Every few months, one of the ideas becomes a project. The ones that survive are the ones where the obsession outlasts the initial excitement. MAGK survived. AgentDex survived. Delight survived — because it kept coming back.
+Every few months, a new idea dump. Every few months, one of the ideas becomes a project. The ones that survive are the ones where the obsession outlasts the initial excitement. MAGK survived. [[projects/agentdex]] survived. Delight survived — because it kept coming back.
 
 ## Related
 

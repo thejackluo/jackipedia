@@ -5,7 +5,7 @@
 
 ## Overview
 
-Manas Nair appeared in Jack's customer discovery sprint as CD 5 on January 21, 2026. He was identified as not being an ideal customer profile (ICP) for AgentDex in its current form but offered a valuable introduction: a co-founder who does sales.
+Manas Nair appeared in Jack's customer discovery sprint as CD 5 on January 21, 2026. He was identified as not being an ideal customer profile (ICP) for [[projects/agentdex]] in its current form but offered a valuable introduction: a co-founder who does sales.
 
 ## The Meeting (CD 5, January 21, 2026)
 

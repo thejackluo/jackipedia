@@ -7,7 +7,7 @@
 
 ## Overview
 
-A 2-Star essay from April 2024, written when Jack was likely still deciding on or newly at his pre-Georgia Tech school. The title evokes a specific type of campus — smaller, coastal, quieter than the cities Jack craves.
+A 2-Star essay from April 2024, written when Jack was likely still deciding on or newly at his pre-[[history/georgia-tech-era]] school. The title evokes a specific type of campus — smaller, coastal, quieter than the cities Jack craves.
 
 ## Reading the Title
 

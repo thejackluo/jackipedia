@@ -37,12 +37,12 @@ YC sits at the top of the accelerator hierarchy that Jack navigates. The progres
 
 | Stage | Program |
 |-------|---------|
-| Building something real | Z Fellows |
+| Building something real | [[concepts/z-fellows]] |
 | Early-stage acceleration | a16z Speedrun, On Deck |
 | Growth-stage acceleration | YC |
 | Post-YC | Series A, Tier 1 VCs |
 
-Jack received an "excited to see your idea!" email from a16z Speedrun in September 2025 — one step below YC in the funnel, aimed at companies that are earlier than YC-ready. AgentDex (personal CRM, AI relationship intelligence) is the kind of product that targets the YC demographic directly: founders and operators who need to manage their networks at scale.
+Jack received an "excited to see your idea!" email from a16z Speedrun in September 2025 — one step below YC in the funnel, aimed at companies that are earlier than YC-ready. [[projects/agentdex]] (personal CRM, AI relationship intelligence) is the kind of product that targets the YC demographic directly: founders and operators who need to manage their networks at scale.
 
 ## Hacker News
 

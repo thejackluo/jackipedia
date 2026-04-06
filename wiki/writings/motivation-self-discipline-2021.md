@@ -17,7 +17,7 @@ The pairing of "motivation" and "self-discipline" as the first major topic is te
 
 ## The 5-Year Continuity
 
-From this 2021 entry to the Walk in the Park framework in 2025, the themes are remarkably consistent:
+From this 2021 entry to the [[philosophy/walk-in-the-park-framework]] framework in 2025, the themes are remarkably consistent:
 - Motivation: what drives action, what kills it
 - Self-discipline: how to maintain commitment when feeling burns out
 - Social environment: who you're around and how it shapes what's possible

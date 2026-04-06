@@ -67,9 +67,9 @@ Three classes of computers required:
 
 ## Jack's Takeaway
 
-Jack attended this keynote in person at CES 2026. His analysis shows how seriously he tracks AI infrastructure — this is not summarizing a blog post but engaging with the architecture of what NVIDIA is building and why it matters for the agent layer he is working on at Agent School.
+Jack attended this keynote in person at CES 2026. His analysis shows how seriously he tracks AI infrastructure — this is not summarizing a blog post but engaging with the architecture of what NVIDIA is building and why it matters for the agent layer he is working on at [[projects/agent-school]].
 
-The agentic architecture Huang described — routing, multi-model, hybrid — maps directly onto the infrastructure decisions in AgentDex (Bedrock fallback to Anthropic fallback to OpenAI).
+The agentic architecture Huang described — routing, multi-model, hybrid — maps directly onto the infrastructure decisions in [[projects/agentdex]] (Bedrock fallback to Anthropic fallback to OpenAI).
 
 ## Related
 

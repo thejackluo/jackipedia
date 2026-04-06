@@ -1,4 +1,4 @@
-# Reflection: Steins;Gate (01/26/23)
+# Reflection: [[interests/steins-gate]] (01/26/23)
 **Rating:** 1 Star
 **Date:** January 26, 2023
 **Notebook:** Deep Reflections 2021-2022

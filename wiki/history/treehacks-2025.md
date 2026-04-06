@@ -28,7 +28,7 @@ TreeHacks is run entirely by students. The logistics are complex (housing 500 ha
 
 ## Hackathon Philosophy
 
-Jack has a clear pattern with hackathons: he enters them during periods of high momentum, not as a break from work but as an extension of it. Berkeley AI Hackathon came right after going to production. TreeHacks came after CES. HackGT came during the AgentDex build sprint.
+Jack has a clear pattern with hackathons: he enters them during periods of high momentum, not as a break from work but as an extension of it. Berkeley AI Hackathon came right after going to production. TreeHacks came after CES. HackGT came during the [[projects/agentdex]] build sprint.
 
 This is the correct way to use a hackathon. It's not a vacation from a project — it's an external pressure structure that forces scope reduction and shipping. The constraint is the point.
 
@@ -40,7 +40,7 @@ The 36-hour format specifically rewards people who can move fast without panicki
 |-----------|------|----------|
 | Berkeley AI Hackathon | June 2024 | UC Berkeley |
 | TreeHacks | Feb 16–18, 2025 | Stanford University |
-| HackGT | Sep 2025 | Georgia Tech |
+| HackGT | Sep 2025 | [[history/georgia-tech-era]] |
 
 Three of the most technically credentialed university hackathons in the US, back to back. The pattern is not random.
 

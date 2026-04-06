@@ -17,7 +17,7 @@ Jack has uploaded 23 images to Wikimedia Commons as Jack145945, all released und
 
 ![Anime Expo 2022 opening crowd](/assets/photos/commons/anime-expo-2022.jpg)
 
-The opening crowd at Anime Expo 2022, Los Angeles. Uploaded November 2022. This was one of Jack's earliest Commons contributions — during the UCSC era, before the Georgia Tech transfer. Anime Expo is the largest anime convention in North America; this photo captures the moment the doors opened.
+The opening crowd at Anime Expo 2022, Los Angeles. Uploaded November 2022. This was one of Jack's earliest Commons contributions — during the UCSC era, before the [[history/georgia-tech-era]] transfer. Anime Expo is the largest anime convention in North America; this photo captures the moment the doors opened.
 
 ### Michelin Star Dish — Gucci Osteria, Beverly Hills (Jun 2022)
 
@@ -53,7 +53,7 @@ Students at a Halloween event near the Sigma Phi Epsilon fraternity house at Geo
 
 ![Georgia Tech vs Virginia Tech football](/assets/photos/commons/georgia-tech-football-2025.jpg)
 
-The 2025 Georgia Tech vs. Virginia Tech ACC rivalry game at Bobby Dodd Stadium, Atlanta. October 11, 2025. Used in the Georgia Tech Wikipedia article. Also in Jackipedia's Georgia Tech era page.
+The 2025 Georgia Tech vs. Virginia Tech ACC rivalry game at Bobby Dodd Stadium, Atlanta. October 11, 2025. Used in the Georgia Tech Wikipedia article. Also in [[projects/jackipedia]]'s Georgia Tech era page.
 
 ### KFC Food Truck — Georgia Tech Campus (Nov 2025)
 
@@ -83,7 +83,7 @@ The GT Hacker House — "a student-run entrepreneurial residence used for meetup
 
 ![Humanoid robots boxing at exhibition](/assets/photos/commons/humanoid-robot-boxing.png)
 
-Humanoid robots in a staged boxing match during a robotics exhibition. November 2025. Used in the Wikipedia Humanoid Robot article — consistent with the CES 2025 robotics interest and the same-day expansion of that article.
+Humanoid robots in a staged boxing match during a robotics exhibition. November 2025. Used in the Wikipedia Humanoid Robot article — consistent with the [[projects/ces-2025]] robotics interest and the same-day expansion of that article.
 
 ## Still Pending (rate-limited on download)
 

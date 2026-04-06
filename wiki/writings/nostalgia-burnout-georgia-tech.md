@@ -1,4 +1,4 @@
-# Nostalgia, Burnout and Georgia Tech (02/02/25)
+# Nostalgia, Burnout and [[history/georgia-tech-era]] (02/02/25)
 **Rating:** 2 Stars
 **Date:** February 2, 2025
 **Notebook:** Deep Reflections 2023-2025

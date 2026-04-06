@@ -6,7 +6,7 @@
 
 ## Overview
 
-Jack visited Miami at least once during the 2024–2025 period. The trip included time in Brickell (Miami's financial district), beach walks, gallery visits, late-night food, and content creation — the Georgia Tech shirt TikTok frame places this during or around the Georgia Tech era.
+Jack visited Miami at least once during the 2024–2025 period. The trip included time in Brickell (Miami's financial district), beach walks, gallery visits, late-night food, and content creation — the [[history/georgia-tech-era]] shirt TikTok frame places this during or around the Georgia Tech era.
 
 ## Brickell
 

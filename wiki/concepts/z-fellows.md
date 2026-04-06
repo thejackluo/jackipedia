@@ -24,9 +24,9 @@ The format is deliberately minimal. No curriculum. No structured lectures. The v
 
 ## Cory Levy
 
-Cory Levy is a Bay Area connector and builder who co-founded Z Fellows. He also hosts events like Internapalooza — informal mixers that bring together the Bay Area intern and young founder cohort. This is consistent with the Z Fellows philosophy: the best thing you can do for exceptional young builders is put them in rooms with other exceptional people and get out of the way.
+Cory Levy is a Bay Area connector and builder who co-founded Z Fellows. He also hosts events like [[history/internapalooza]] — informal mixers that bring together the Bay Area intern and young founder cohort. This is consistent with the Z Fellows philosophy: the best thing you can do for exceptional young builders is put them in rooms with other exceptional people and get out of the way.
 
-Jack met Leo Zhang at an Internapalooza event hosted by Cory Levy.
+Jack met [[people/leo-zhang]] at an Internapalooza event hosted by Cory Levy.
 
 ## Why Z Fellows Exists
 

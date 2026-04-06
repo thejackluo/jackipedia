@@ -1,7 +1,7 @@
 # Consumer Electronics Show (CES)
 
 **Category:** History / Projects
-**Dates attended:** CES 2025 (Jan 6–10, 2025), CES 2026 (Jan 2026)
+**Dates attended:** [[projects/ces-2025]] (Jan 6–10, 2025), CES 2026 (Jan 2026)
 **Location:** Las Vegas Convention Center, Las Vegas, NV
 **Summary:** Jack's relationship with CES — attended twice, organized delegations, wrote about it
 **Last updated:** 2026-04-06
@@ -16,7 +16,7 @@ Jack has attended CES twice — 2025 and 2026 — and treats it as a pilgrimage:
 
 **January 6–10, 2025 — Las Vegas**
 
-Jack organized a delegation for CES 2025 and wrote his 2024 Annual Review during the trip (January 6, 2025 — the same week as CES). Attendees from his network included Kevin Zhang, Max Lee, others from the CES People List (Notion database: `1328a2ee-f320-8063-94ce-d0a8e1113b98`).
+Jack organized a delegation for CES 2025 and wrote his 2024 Annual Review during the trip (January 6, 2025 — the same week as CES). Attendees from his network included [[people/kevin-zhang]], Max Lee, others from the CES People List (Notion database: `1328a2ee-f320-8063-94ce-d0a8e1113b98`).
 
 The 2025 show was notable for:
 - **Humanoid robots** — multiple companies showing walking, working robots in near-production form
@@ -24,7 +24,7 @@ The 2025 show was notable for:
 - **Automotive** — the car companies' booths had become tech company booths with wheels attached
 - **Spatial computing** — post-Apple Vision Pro announcement, the show floor was full of AR/VR experiments
 
-Jack came to CES 2025 already building AgentDex. The show was a calibration exercise: what is everyone else building, and where are the gaps?
+Jack came to CES 2025 already building [[projects/agentdex]]. The show was a calibration exercise: what is everyone else building, and where are the gaps?
 
 ## CES 2026
 

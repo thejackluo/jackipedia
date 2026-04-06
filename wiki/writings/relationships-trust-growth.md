@@ -7,7 +7,7 @@
 
 ## Overview
 
-Written two days after the Walk in the Park framework, this entry applies principle #1 (relationships: growth over attachment) to specific situations. The timing suggests this is a direct follow-up — testing the newly articulated framework against real relationships.
+Written two days after the [[philosophy/walk-in-the-park-framework]] framework, this entry applies principle #1 (relationships: growth over attachment) to specific situations. The timing suggests this is a direct follow-up — testing the newly articulated framework against real relationships.
 
 ## The Framework Applied
 
@@ -20,7 +20,7 @@ This entry — written 48 hours later — is likely the first real application o
 
 Trust is a recurring word in Jack's writing:
 - Cupertino friends as people he could trust (lost, and missed)
-- New environments (Georgia Tech, Boston) as places where trust hasn't been built yet
+- New environments ([[history/georgia-tech-era]], Boston) as places where trust hasn't been built yet
 - The startup team as people he's deciding whether to trust
 
 The "trust" in the title alongside "growth" suggests this entry examines when to invest in relationships (growth-oriented, trust-building) vs. when to let them go (attachment-based, no trajectory).

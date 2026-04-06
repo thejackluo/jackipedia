@@ -28,10 +28,10 @@ wiki/
   people/       — Jack, collaborators, friends, advisors
   writings/     — Essays from the 360+ entry writing archive
   books/        — Reading list with notes
-  projects/     — AgentDex, Mira, CES, hackathons
+  projects/     — [[projects/agentdex]], Mira, CES, hackathons
   fitness/      — Running logs, gym, weight tracking
   concepts/     — Reading list, writing archive index
-  philosophy/   — Walk in the Park framework
+  philosophy/   — [[philosophy/walk-in-the-park-framework]] framework
   dreams/       — Dream journal
   meta/         — History, about
 ```

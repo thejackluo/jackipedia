@@ -21,7 +21,7 @@ The writings are organized into thematic notebooks:
 
 ### Philosophy & Core Framework
 
-**"Walk in the Park" (02/09/25)** — 3 Stars
+**"[[philosophy/walk-in-the-park-framework]]" (02/09/25)** — 3 Stars
 The most philosophically developed piece in the archive. Jack articulates a four-part core philosophy synthesized from a walk:
 
 1. **Relationships: Focus on Growth, Not Attachment** — Instead of chasing relationships, become the kind of person who naturally attracts the right people. Let go of the need for specific friendships; people are flawed and not all relationships last forever. Key shift: stop trying to fix old relationships, improve yourself.
@@ -48,15 +48,15 @@ Early articulation of Jack's sense of not fitting in with typical peers — a re
 
 **"40 Questions Annual Review" (01/06/25)** — 2 Stars
 Key facts from 2024 annual review:
-- New things: Traveled to Japan (Dec 15-30), transferred to Georgia Tech, leased apartments, went to production, did a YouTube-like challenge
-- Memorable dates: April 6 (went to production), Jan 6-10 (CES), Feb 16-18 (TreeHacks), Jun 29 (Berkeley AI hackathon), Dec 15-30 (Japan)
+- New things: Traveled to Japan (Dec 15-30), transferred to [[history/georgia-tech-era]], leased apartments, went to production, did a YouTube-like challenge
+- Memorable dates: April 6 (went to production), Jan 6-10 (CES), Feb 16-18 ([[history/treehacks-2025]]), Jun 29 (Berkeley AI hackathon), Dec 15-30 (Japan)
 - Biggest achievement: Transferring to Georgia Tech and improving social skills
 - Biggest failure: Not pursuing side projects hard enough
 - Hardships: Losing some friends, being isolated in bad locations, lack of startup traction
 - Physical: Twisted ankle, minor lung issue, electric unicycle crash
 - Best purchase: New laptop
 - Celebrated: Ivan's consistent drive on Prodicity
-- Song of the year: Steins;Gate "Hacking to the Gate"
+- Song of the year: [[interests/steins-gate]] "Hacking to the Gate"
 - Compared to prior year: Happier, slightly fatter, richer
 - Wished for: Fast-paced life with fast recovery, committed to projects
 - Wanted less of: Bad YouTube, mindless eating

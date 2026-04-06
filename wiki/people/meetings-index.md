@@ -5,7 +5,7 @@
 
 A comprehensive log of notable meetings across Jack's life — customer discovery calls, advisor sessions, team syncs, and one-on-ones. Sourced from Notion meetings database.
 
-## Customer Discovery (AgentDex, Jan–Feb 2026)
+## Customer Discovery ([[projects/agentdex]], Jan–Feb 2026)
 
 Jack conducted 24+ customer discovery interviews in January and February 2026, validating AgentDex's AI-powered CRM concept. Each meeting was logged with a summary and ICP assessment.
 
@@ -13,7 +13,7 @@ Jack conducted 24+ customer discovery interviews in January and February 2026, v
 |---|--------|------|---------|
 | CD 2 | Seco | Jan 26, 2026 | Not ICP, potential collab on website/project if needed for revenue |
 | CD 5 | Manas Nair | Jan 21, 2026 | Going to connect Jack with his cofounder who does sales |
-| CD 8 | Arman Mahjoor | Jan 23, 2026 | Close friend and collaborator |
+| CD 8 | [[people/arman-mahjoor]] | Jan 23, 2026 | Close friend and collaborator |
 | CD 9 | Heath Sun | Jan 28, 2026 | Pivoted from security cameras to voice agent startup. Discussed MAGK, technical approaches, workflow pain points, social media marketing |
 | CD 10 | Aarush Jambunathan | Jan 26, 2026 | Not ICP, but reevaluate in future |
 | CD 12 | Rahul | Jan 26, 2026 | Notes via Granola |
@@ -42,7 +42,7 @@ Jack conducted 24+ customer discovery interviews in January and February 2026, v
 
 ## Mira Team Syncs (Jun–Sep 2024)
 
-Weekly Mira meetings sourced by Jamie, running through the summer 2024 project with Kevin Zhang.
+Weekly Mira meetings sourced by Jamie, running through the summer 2024 project with [[people/kevin-zhang]].
 
 | Date | Notes |
 |------|-------|

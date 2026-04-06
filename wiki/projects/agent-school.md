@@ -30,7 +30,7 @@ The project runs a full AI agent stack:
 - **Coolify** deployment on worker-vps-1 (agentdex.agentschool.io)
 - **Vercel** deployment (rolo.agentschool.io)
 - **Paperclip** at paperclip.agentschool.io — AI agent coordination
-- **Jackipedia** at jackipedia.agentschool.io — this wiki
+- **[[projects/jackipedia]]** at jackipedia.agentschool.io — this wiki
 
 ## The "Get Grinding" Story
 

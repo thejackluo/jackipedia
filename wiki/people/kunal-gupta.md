@@ -18,9 +18,9 @@ The key advice: stay in school, and the right time to go all-in on a startup is 
 
 April 2025 is a significant moment in Jack's trajectory:
 - He had gone to production on April 6, 2025 — his first live app
-- He was actively building AgentDex
-- He was writing some of his most philosophical work (Walk in the Park, April 2025)
-- He had just gotten back from TreeHacks (February) and the Boston trip (March)
+- He was actively building [[projects/agentdex]]
+- He was writing some of his most philosophical work ([[philosophy/walk-in-the-park-framework]], April 2025)
+- He had just gotten back from [[history/treehacks-2025]] (February) and the Boston trip (March)
 
 Kunal's advice to stay in school came at the exact moment Jack was most seriously considering the alternative. The fact that this meeting is in the record suggests it was taken seriously.
 

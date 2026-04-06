@@ -6,7 +6,7 @@
 
 ## Overview
 
-Between college and Georgia Tech, Jack lived a partially nomadic lifestyle centered on WeWork coworking spaces, hacker houses, and startup events. This period — roughly 2023 to early 2025 — is the substrate beneath the Vending Machine Dreams essay, the loneliness writings, and the founding of AgentDex.
+Between college and [[history/georgia-tech-era]], Jack lived a partially nomadic lifestyle centered on WeWork coworking spaces, hacker houses, and startup events. This period — roughly 2023 to early 2025 — is the substrate beneath the Vending Machine Dreams essay, the loneliness writings, and the founding of [[projects/agentdex]].
 
 ## The Pattern
 
@@ -56,7 +56,7 @@ The conference room sleeping is documented in his writing archive but rarely dis
 
 ## The Turning Point
 
-The Georgia Tech transfer (Fall 2024) was the first major re-anchoring after this nomadic period. Then the MIT Arc Project / Agent School (2025) was the second — a physical room, a real address, a community.
+The Georgia Tech transfer (Fall 2024) was the first major re-anchoring after this nomadic period. Then the MIT Arc Project / [[projects/agent-school]] (2025) was the second — a physical room, a real address, a community.
 
 The progression: no fixed location → Georgia Tech campus → MIT E38-379. Each step more anchored than the last.
 

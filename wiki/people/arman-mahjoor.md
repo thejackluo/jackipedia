@@ -1,6 +1,6 @@
 # Arman Mahjoor
 **Type:** Person
-**Relationship to Jack:** Close friend, AgentDex team member
+**Relationship to Jack:** Close friend, [[projects/agentdex]] team member
 **Last updated:** 2026-04-06
 
 ## Overview
@@ -17,7 +17,7 @@ Arman first appears as CD 8 in Jack's customer discovery sprint (January 23, 202
 |------|-------|
 | Jan 23, 2026 | CD 8: Customer discovery meeting |
 | Feb 13, 2026 | GM 6: "Success Factors & Personal Motivation" — team sync |
-| Jun 28, 2025 | Team sync with Jack and Kevin Zhang |
+| Jun 28, 2025 | Team sync with Jack and [[people/kevin-zhang]] |
 | Feb 26, 2025 | Networking: Arman Mahjoor (Circlez) — separate meeting |
 | Sep 18, 2025 | Last meaningful interaction logged |
 

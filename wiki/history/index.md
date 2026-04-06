@@ -20,7 +20,7 @@ This section documents the eras, events, and places that have shaped Jack's life
 | UC application sprint | Nov 22–30, 2021 | (in [[history/cupertino-high-school]]) |
 | Car crash during running | July 24, 2021 | (in [[fitness/running-project-2021]]) |
 | CES Las Vegas | Jan 6–10, 2025 | [[projects/ces-2025]] |
-| TreeHacks Stanford | Feb 16–18, 2025 | [[writings/treehacks-2025]] |
+| [[history/treehacks-2025]] Stanford | Feb 16–18, 2025 | [[writings/treehacks-2025]] |
 | Berkeley AI Hackathon | June 2024 | (in [[people/jack-luo]]) |
 | AgentDex launch | April 1, 2026 | [[projects/agentdex]] |
 

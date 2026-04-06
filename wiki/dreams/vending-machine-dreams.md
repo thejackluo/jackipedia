@@ -6,7 +6,7 @@
 
 ## Overview
 
-Jack's most ambitious piece of dream writing — a 1,400-word essay published on Medium that weaves three dreams from a single WeWork-nomad period into a unified meditation on stepping up, choosing nourishment over sparks, and giving shields instead of taking them. Written mid-2025, during the period Jack was moving between WeWork locations and building AgentDex.
+Jack's most ambitious piece of dream writing — a 1,400-word essay published on Medium that weaves three dreams from a single WeWork-nomad period into a unified meditation on stepping up, choosing nourishment over sparks, and giving shields instead of taking them. Written mid-2025, during the period Jack was moving between WeWork locations and building [[projects/agentdex]].
 
 This piece is qualitatively different from the raw Notion dream logs. It is polished, layered, and structured as a literary essay with a thesis. It opens with a declaration of method:
 

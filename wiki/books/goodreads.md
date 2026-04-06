@@ -25,7 +25,7 @@ A complete log of books Jack has read, sourced from his Goodreads "Read" shelf. 
 | Essentialism: The Disciplined Pursuit of Less | Greg McKeown | 4/5 | Dec 2025–Feb 2026 | "Far too many people are focused on additive activities, trying to do as much as possible. This book is about being able to prioritize." |
 | How to Win Friends and Influence People | Dale Carnegie | 5/5 | Jan 2023 | "A foundational piece of work that I've still used as advice to this day, even though I've read it a few years ago." |
 | Life 3.0: Being Human in the Age of Artificial Intelligence | Max Tegmark | 4/5 | — | "A great high-level overview of the application and emergence of AI by an MIT expert grappling with the idea of being human in artificial intelligence." |
-| The Three-Body Problem | Liu Cixin | 5/5 | Sep–Oct 2024 | "One of the best book series I've read in recent time, ever since the Netflix show came out. I highly, highly recommend." |
+| The [[books/three-body-problem]] | Liu Cixin | 5/5 | Sep–Oct 2024 | "One of the best book series I've read in recent time, ever since the Netflix show came out. I highly, highly recommend." |
 | The Courage to Be Disliked | Ichiro Kishimi & Fumitake Koga | 4/5 | Apr–Nov 2025 | "A phenomenal piece of work that takes the unique format of a conversation between a lost guy and a philosopher." |
 | The Real Truth About Success | Garrison Wynn | 3/5 | — | — |
 | The Dark Forest (Three-Body Problem #2) | Liu Cixin | 5/5 | — | — |

@@ -35,7 +35,7 @@ During the peak hacker house / startup grind period, Jack developed a practice o
 - Sleep in a conference room, couch, or unused desk area
 - Wake up before staff arrive, resume working
 
-This wasn't desperation — it was optimization. No rent, no commute, always near the people and the work. The office *was* the home. Agent School (MIT E38-379) is the formalized version of the same instinct: a room that is simultaneously workspace and identity.
+This wasn't desperation — it was optimization. No rent, no commute, always near the people and the work. The office *was* the home. [[projects/agent-school]] (MIT E38-379) is the formalized version of the same instinct: a room that is simultaneously workspace and identity.
 
 The catering tray photo (jack-rain-catering.jpg) captures the aesthetic: standing in the rain outside an event, serving food, building a startup. The line between work and life doesn't exist in this mode.
 

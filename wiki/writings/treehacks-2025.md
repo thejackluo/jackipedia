@@ -1,4 +1,4 @@
-# Reflection: TreeHacks (02/18/25)
+# Reflection: [[history/treehacks-2025]] (02/18/25)
 **Rating:** 2 Stars
 **Date:** February 18, 2025
 **Notebook:** Deep Reflections 2023-2025
@@ -26,7 +26,7 @@ For Jack, hackathons serve multiple functions:
 
 ## Archive Pattern
 
-Jack attends hackathons across the country (Stanford, Berkeley) while enrolled at Georgia Tech — using events as a workaround for his environment frustration. The actual content of the TreeHacks reflection was not retrieved in full; the framing above is inferred from surrounding context.
+Jack attends hackathons across the country (Stanford, Berkeley) while enrolled at [[history/georgia-tech-era]] — using events as a workaround for his environment frustration. The actual content of the TreeHacks reflection was not retrieved in full; the framing above is inferred from surrounding context.
 
 ## Related
 - [[writings/annual-review-2024]]

@@ -7,7 +7,7 @@
 
 ## Overview
 
-Armaan Jain is the founder of Phantom — a startup in Jack's extended network. Jack met him as part of the AgentDex customer discovery sprint in January 2026.
+Armaan Jain is the founder of Phantom — a startup in Jack's extended network. Jack met him as part of the [[projects/agentdex]] customer discovery sprint in January 2026.
 
 ## Meeting Notes (CD 15, Jan 27, 2026)
 

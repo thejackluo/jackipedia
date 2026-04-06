@@ -80,7 +80,7 @@ Cisco's AI security team tested a third-party skill and found it performed data 
 Jack runs OpenClaw on his AWS EC2 server (`52.12.222.191`) connected via Telegram. The instance:
 - Runs on Amazon Bedrock / Claude Sonnet
 - Has access to Notion MCP, Linear MCP
-- Powers this wiki (Jackipedia)
+- Powers this wiki ([[projects/jackipedia]])
 - Manages memory across sessions via daily markdown files
 - Has a 4GB swap file after the March 2026 server freeze
 

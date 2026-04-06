@@ -7,7 +7,7 @@
 
 ## Overview
 
-Jack arrived in Cambridge in 2025 through the MIT SIPB Arc Project — a program for exceptional builders working at the intersection of AI and systems. He operates out of room E38-379, the Agent School office. This is the chapter where the ambition meets the infrastructure.
+Jack arrived in Cambridge in 2025 through the MIT SIPB Arc Project — a program for exceptional builders working at the intersection of AI and systems. He operates out of room E38-379, the [[projects/agent-school]] office. This is the chapter where the ambition meets the infrastructure.
 
 ## The Community
 

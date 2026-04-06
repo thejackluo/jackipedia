@@ -68,7 +68,7 @@ Jack runs OpenClaw on AWS EC2 (`52.12.222.191`) via Telegram. His instance:
 - Model: Amazon Bedrock / Claude Sonnet 4.6
 - MCP: Notion, Linear
 - Memory: daily markdown files + MEMORY.md
-- Powers: Jackipedia, AgentDex automation, cost tracking, cron jobs
+- Powers: [[projects/jackipedia]], [[projects/agentdex]] automation, cost tracking, cron jobs
 - Swap: 4GB (added after March 2026 server freeze)
 
 The system that became an international news story is the same system writing these pages.

@@ -15,8 +15,8 @@ Jack loves it. This is not a coincidence.
 Factorio is not really a game about fun. It's a game about systems: inputs, outputs, throughput, bottlenecks, feedback loops. You spend hours building a belt that produces 300 iron plates per minute, only to realize your steel production is a bottleneck, which means your copper smelting is underutilized, which means your mining output ratio is wrong upstream.
 
 This is essentially the same mental model Jack applies to:
-- Agent workflow architectures (MAGK, AgentDex)
-- The "Walk in the Park" framework (how to sequence choices to avoid bottlenecks)
+- Agent workflow architectures (MAGK, [[projects/agentdex]])
+- The "[[philosophy/walk-in-the-park-framework]]" framework (how to sequence choices to avoid bottlenecks)
 - Investor pitch mechanics (what's the throughput-limiting constraint in a pitch?)
 - His own life operating system (which input is the bottleneck to his output?)
 

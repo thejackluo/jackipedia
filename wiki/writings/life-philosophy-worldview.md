@@ -7,7 +7,7 @@
 
 ## Overview
 
-Written two months after the Walk in the Park framework, this entry extends Jack's philosophical thinking. Rated 2 Stars — a solid piece, though not at the peak of the Walk in the Park.
+Written two months after the [[philosophy/walk-in-the-park-framework]] framework, this entry extends Jack's philosophical thinking. Rated 2 Stars — a solid piece, though not at the peak of the Walk in the Park.
 
 ## Position in the Sequence
 

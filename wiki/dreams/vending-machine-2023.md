@@ -17,7 +17,7 @@ A short 2023 dream that prefigures the major "Vending Machine Dreams" essay Jack
 
 **The tags:** Instead of food, the vending machine dispenses small tags from the bottom. The machine gives you labels instead of nourishment. Jack is trying to order food and getting categorization instead.
 
-**Ryotaro:** A Japanese name. Likely a reference from anime (Ryotaro Nogami from *Kamen Rider Den-O* is a recognizable character) or a person from Jack's Steins;Gate / Japanese cultural world. The key detail: Jack is left alone in the dark having to find Ryotaro. Searching in darkness for someone who matters — the isolation and navigation theme runs through Jack's entire dream archive.
+**Ryotaro:** A Japanese name. Likely a reference from anime (Ryotaro Nogami from *Kamen Rider Den-O* is a recognizable character) or a person from Jack's [[interests/steins-gate]] / Japanese cultural world. The key detail: Jack is left alone in the dark having to find Ryotaro. Searching in darkness for someone who matters — the isolation and navigation theme runs through Jack's entire dream archive.
 
 **Connection to the 2025 essay:** In "Vending Machine Dreams," Jack writes about reaching into the machine expecting food and getting lighters instead. The 2023 dream is the precursor: the machine gives tags. By 2025 it gives sparks. The machine is the same machine, two years older, with more loaded symbolism.
 

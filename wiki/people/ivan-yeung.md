@@ -7,7 +7,7 @@
 
 ## Overview
 
-Ivan Yeung is a builder and product person in Jack's extended network, associated with **Prodicity** and the prod.so community. In Jack's 2024 Annual Review — the "40 Questions" format written during CES week in Las Vegas — Jack named Ivan as the person he most celebrated that year:
+Ivan Yeung is a builder and product person in Jack's extended network, associated with **Prodicity** and the [[concepts/prod-so]] community. In Jack's 2024 Annual Review — the "40 Questions" format written during CES week in Las Vegas — Jack named Ivan as the person he most celebrated that year:
 
 > "Ivan — for his consistent drive on Prodicity."
 

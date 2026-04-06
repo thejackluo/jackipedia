@@ -2,14 +2,14 @@
 
 **Category:** History / Events
 **Host:** Cory
-**Summary:** The Bay Area intern networking event where Jack met Leo Zhang
+**Summary:** The Bay Area intern networking event where Jack met [[people/leo-zhang]]
 **Last updated:** 2026-04-06
 
 ## Overview
 
 Internapalooza is a recurring Bay Area event for interns, students, and early-career founders — a mixer designed to get the cohort of people who showed up in San Francisco for the summer into the same room. It operates on the principle that the best connections happen when you put ambitious people together informally and let the conversation happen.
 
-Jack attended Internapalooza hosted by Cory Levy Levy — co-founder of Z Fellows. It is where he met Leo Zhang.
+Jack attended Internapalooza hosted by Cory Levy Levy — co-founder of [[concepts/z-fellows]]. It is where he met Leo Zhang.
 
 ## The Event Format
 
@@ -19,7 +19,7 @@ This format is unusually productive for filtering signal from noise. In a formal
 
 ## Cory
 
-Cory hosted the event. He is a connector in the Bay Area intern/founder ecosystem — someone who organizes the kind of informal gatherings that are more socially valuable than most formal networking events. Further details about Cory are not yet documented in Jackipedia.
+Cory hosted the event. He is a connector in the Bay Area intern/founder ecosystem — someone who organizes the kind of informal gatherings that are more socially valuable than most formal networking events. Further details about Cory are not yet documented in [[projects/jackipedia]].
 
 ## What Came Out of It
 

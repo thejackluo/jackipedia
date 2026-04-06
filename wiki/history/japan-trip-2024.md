@@ -17,7 +17,7 @@ Jack traveled to Japan from December 15–30, 2024 — fifteen days covering wha
 
 ## In the Annual Review
 
-Japan is the first major event listed under "new things done" in Jack's 40 Questions Annual Review. It is mentioned ahead of the Georgia Tech transfer and the production launch — suggesting it held particular personal significance.
+Japan is the first major event listed under "new things done" in Jack's 40 Questions Annual Review. It is mentioned ahead of the [[history/georgia-tech-era]] transfer and the production launch — suggesting it held particular personal significance.
 
 ## In the Dreams
 
@@ -46,7 +46,7 @@ Not documented in current sources. Based on Jack's stated travel ambitions (Shan
 ## Japan in the Writing Archive
 
 Japan-adjacent references in the archive:
-- Steins;Gate (set in Akihabara, Tokyo)
+- [[interests/steins-gate]] (set in Akihabara, Tokyo)
 - "Hacking to the Gate" as 2024 song of the year
 - Classical Chinese Grammar in reading list (adjacent East Asian linguistic interest)
 - "The Power to Compete" by Rakuten founder Mikitani

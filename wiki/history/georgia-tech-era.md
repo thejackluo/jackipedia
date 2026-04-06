@@ -57,9 +57,9 @@ A 2-Star reflection from August 31, 2025 titled "Fin's Dreams & Life Accomplishm
 
 Despite the early frustrations, the Georgia Tech years were when Jack:
 - Completed the most intensive period of customer discovery (25+ interviews)
-- Assembled the AgentDex team (Arman Mahjoor, Karthik Jandhyala)
+- Assembled the [[projects/agentdex]] team ([[people/arman-mahjoor]], Karthik Jandhyala)
 - Had his deepest advisor conversations (James Preiss, Kunal Gupta)
-- Wrote the Walk in the Park framework
+- Wrote the [[philosophy/walk-in-the-park-framework]] framework
 - Published "Vending Machine Dreams" on Medium
 - Launched AgentDex (April 2026)
 - Got involved with MIT SIPB

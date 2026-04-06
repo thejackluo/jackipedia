@@ -41,7 +41,7 @@ This is either very cool or the single most unintentionally mysterious personal 
 
 ## Connection to Jack
 
-Ryan appears in Jack's Wikipedia contribution history — Jack uploaded a photo of Ryan to Wikimedia Commons in December 2025, captioned:
+Ryan appears in Jack's Wikipedia contribution history — Jack uploaded a photo of Ryan to [[interests/wikimedia-commons]] in December 2025, captioned:
 
 > "Ryan in the car, December 2025, in full 'human bear' mode."
 

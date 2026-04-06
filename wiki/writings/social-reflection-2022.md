@@ -19,7 +19,7 @@ This is a reversal of the usual social alienation narrative. Most people who fee
 
 "Sigil" — likely a username or alias of someone Jack admired at the time — represents a type rather than just a person: someone who was doing something Jack wanted to become.
 
-This single line contains the germ of what the Walk in the Park framework later developed more fully: the idea that the right people come when you become the right person, not when you chase the right people.
+This single line contains the germ of what the [[philosophy/walk-in-the-park-framework]] framework later developed more fully: the idea that the right people come when you become the right person, not when you chase the right people.
 
 ## Recurring Pattern
 

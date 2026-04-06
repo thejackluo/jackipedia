@@ -13,7 +13,7 @@ Jack's 2024 annual review, written in the "40 Questions" format — a structured
 
 ### New Things Done
 - Traveled to Japan (Dec 15–30)
-- Transferred to Georgia Tech
+- Transferred to [[history/georgia-tech-era]]
 - Leased apartments
 - Went to production (first time)
 - Did a "YouTube-like challenge"
@@ -22,7 +22,7 @@ Jack's 2024 annual review, written in the "40 Questions" format — a structured
 | Date | Event |
 |------|-------|
 | January 6–10 | CES, Las Vegas |
-| February 16–18 | TreeHacks, Stanford |
+| February 16–18 | [[history/treehacks-2025]], Stanford |
 | June 29 | Berkeley AI Hackathon |
 | December 15–30 | Japan trip |
 | April 6 | Went to production |
@@ -50,7 +50,7 @@ New laptop.
 Ivan — for his consistent drive on Prodicity. (See [[people/ivan]] when created.)
 
 ### Song of the Year
-"Hacking to the Gate" — the Steins;Gate opening theme.
+"Hacking to the Gate" — the [[interests/steins-gate]] opening theme.
 
 ### Compared to Prior Year
 Happier, slightly fatter, richer.

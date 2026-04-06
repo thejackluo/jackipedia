@@ -1,4 +1,4 @@
-# Walk in the Park (02/09/25)
+# [[philosophy/walk-in-the-park-framework]] (02/09/25)
 **Rating:** 3 Stars
 **Date:** February 9, 2025
 **Notebook:** Deep Reflections 2023-2025

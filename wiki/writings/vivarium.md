@@ -27,7 +27,7 @@ The vivarium metaphor: a controlled environment built to observe living things. 
 
 ## Context
 
-Jack described this as his 69th post. He has been publishing on Medium since at least 2019 (Philmont). March 2026 places this during the Agent School / AgentDex launch period — fiction as pressure release.
+Jack described this as his 69th post. He has been publishing on Medium since at least 2019 (Philmont). March 2026 places this during the [[projects/agent-school]] / [[projects/agentdex]] launch period — fiction as pressure release.
 
 ## Related
 

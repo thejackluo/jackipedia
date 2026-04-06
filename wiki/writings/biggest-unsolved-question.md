@@ -33,7 +33,7 @@ The vision: exceptional environments that also promote diversity of thought, wit
 
 ## Context
 
-This is the philosophical substrate beneath AgentDex, Agent School, and Jack's CRM-as-relationship-intelligence thesis. The personal CRM is, at one level, a tool for finding and maintaining connections to exceptional people wherever you are. Agent School is an attempt to create a compressed exceptional environment in a single room at MIT.
+This is the philosophical substrate beneath [[projects/agentdex]], [[projects/agent-school]], and Jack's CRM-as-relationship-intelligence thesis. The personal CRM is, at one level, a tool for finding and maintaining connections to exceptional people wherever you are. Agent School is an attempt to create a compressed exceptional environment in a single room at MIT.
 
 The unsolved question may be the question Jack is trying to answer with his life.
 

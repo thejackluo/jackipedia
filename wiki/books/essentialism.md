@@ -27,7 +27,7 @@ Jack finished this on February 14, 2026 and gave it 4 stars. His note:
 
 ## Jack's Reading Context
 
-February 2026 is a high-pressure month: the customer discovery sprint is in full swing (25+ interviews), the AgentDex team is being assembled, and Jack is 6 weeks from the March 31 launch. Reading Essentialism at this moment is significant.
+February 2026 is a high-pressure month: the customer discovery sprint is in full swing (25+ interviews), the [[projects/agentdex]] team is being assembled, and Jack is 6 weeks from the March 31 launch. Reading Essentialism at this moment is significant.
 
 The book directly addresses one of his profiled failure modes: "chases possibility faster than operationalizing consistency — bottleneck is disciplined reduction." Essentialism is the exact prescription for that diagnosis.
 

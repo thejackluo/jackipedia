@@ -6,7 +6,7 @@
 
 Jack Luo (username: thejackluo) is a builder, writer, and student working at the intersection of AI agents, automation, and personal software.
 
-![Jack Luo](/assets/photos/jack-main.jpg) He is the founder of AgentDex and the operator of Agent School. He describes himself as an "AI-centric full-stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight."
+![Jack Luo](/assets/photos/jack-main.jpg) He is the founder of [[projects/agentdex]] and the operator of [[projects/agent-school]]. He describes himself as an "AI-centric full-stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight."
 
 He has been maintaining a writing practice since at least 2021 — 360+ entries spanning deep personal reflection, technical essays, and annual reviews. The archive is the best record of who he is.
 
@@ -28,7 +28,7 @@ He has been maintaining a writing practice since at least 2021 — 360+ entries 
 ## Education
 
 Jack has been through multiple schools:
-- Previous college years, before the Georgia Tech transfer.
+- Previous college years, before the [[history/georgia-tech-era]] transfer.
 - **Georgia Tech** — Computer Science, focus on AI and embedded systems. Transferred in 2024. The transfer itself was "biggest achievement of 2024" per his annual review.
 - **MIT** — Currently affiliated with MIT SIPB (Student Information Processing Board) on the Arc Project. LinkedIn lists MIT as current institution.
 
@@ -38,7 +38,7 @@ Jack has been through multiple schools:
 Personal CRM and relationship intelligence platform — "the Rolodex for the AI age" (hence ROLO). Originally called MAGK during customer discovery. Went to production April 6, 2024. Stack: Next.js, Clerk auth, Coolify deployment on worker-vps-1 (agentdex.agentschool.io), Vercel for the Rolo variant (rolo.agentschool.io).
 
 ### Agent School
-Infrastructure and tooling for AI agents. Hosts the agentschool.io domain, Paperclip instance, Jackipedia.
+Infrastructure and tooling for AI agents. Hosts the agentschool.io domain, Paperclip instance, [[projects/jackipedia]].
 
 ### HexaHacks
 Earlier project / organization, still active. Jack's email is jack@hexahacks.com. Kevin Zhang is CTO.
@@ -63,7 +63,7 @@ Working on agentic architecture. GitHub: github.com/SGIARK/arkos.
 - Featured in Towards AI news
 - Co-organized Q House (2023), New York Hacker House (2025), and inspired the Georgia Tech Hacker House (2025)
 - Slept on a WeWork office rooftop for a month
-- Attended NVIDIA conference; hosted a group trip to CES 2025
+- Attended NVIDIA conference; hosted a group trip to [[projects/ces-2025]]
 - TikTok viral: 2 million+ combined views
 - Growth hacked 30x in Deso (crypto social platform)
 - Graduated from Buildspace S4 ("nights and weekends")
@@ -77,7 +77,7 @@ Key patterns documented in his writing:
 - Environment-as-destiny: the people around you are the decisive variable
 - Aspirational mismatch as loneliness: "I don't aspire to be them" (2022)
 - Fear/perfectionism/isolation triangle — self-diagnosed in Nov 2025
-- Japan and anime as recurring cultural anchors (Steins;Gate, "Hacking to the Gate")
+- Japan and anime as recurring cultural anchors ([[interests/steins-gate]], "Hacking to the Gate")
 - Startup sacrifice as identity: rooftop, Chipotle, solitude
 
 ## Japanese
@@ -91,7 +91,7 @@ Currently learning Japanese, self-rated between N3 and N4.
 
 ## People Close to Jack
 - [[people/arman-mahjoor]] — Close friend and AgentDex collaborator
-- [[people/kevin-zhang]] — Co-founder of Efficore, technical co-conspirator
+- [[people/kevin-zhang]] — Co-founder of [[projects/mira]], technical co-conspirator
 - [[people/jeff]] — College-era friend, psychology, Kansas
 - [[people/nimesh]] — Customer champion, hotel operator
 - [[people/james-preiss]] — Robotics advisor

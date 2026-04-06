@@ -5,7 +5,7 @@
 
 ## Overview
 
-A single dream from March 28, 2026, rated Bib Gourmand. The setting moves from Georgia Tech to Great America (a California amusement park) to something that felt like China to something that felt like Japan — a compressed tour of Jack's geographical identity.
+A single dream from March 28, 2026, rated Bib Gourmand. The setting moves from [[history/georgia-tech-era]] to Great America (a California amusement park) to something that felt like China to something that felt like Japan — a compressed tour of Jack's geographical identity.
 
 ## Dream Notes
 
@@ -23,7 +23,7 @@ The crowds, the scale, something about the texture of the experience evokes Chin
 Precise uniform personnel, orderly queuing, the specific texture of the Japanese transit system — this is experiential memory from the December 2024 Japan trip. The uniformed detail is characteristically Japanese: station attendants in white gloves, precise timing.
 
 **Lots of lines; no roller coasters:**
-He came for the thrill (roller coasters = big experiences) but instead got the administrative reality (lines, waiting, process). A useful metaphor for the AgentDex launch period.
+He came for the thrill (roller coasters = big experiences) but instead got the administrative reality (lines, waiting, process). A useful metaphor for the [[projects/agentdex]] launch period.
 
 **"Felt like consequences of world travel":**
 The most interesting phrase. The dream isn't just random — it feels like the *result* of having actually traveled. It's a dream about what travel does to the mind: your geography becomes unstable, different places bleed into each other.

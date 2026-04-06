@@ -6,7 +6,7 @@
 
 ## Overview
 
-Efficore is a **unified energy optimization platform for data centers**, co-founded by Jack and Kevin Zhang. The company's public domain is mira.energy.
+Efficore is a **unified energy optimization platform for data centers**, co-founded by Jack and [[people/kevin-zhang]]. The company's public domain is mira.energy.
 
 Jack leads Efficore's software and decision-making systems. Kevin brings deep expertise in energy systems and data center infrastructure — previously involved with the Northwestern Energy and Sustainability Club (NESC) and Q House.
 
@@ -40,7 +40,7 @@ Based on available signals:
 
 ## Significance
 
-Mira occupies a significant gap in the archive — the entire summer of 2024, concurrent with the Berkeley AI Hackathon (June 29) and the Japan trip planning. It likely represents either a previous startup Jack was involved with that wound down before he pivoted to AgentDex, or a parallel collaboration that influenced the AgentDex direction.
+Mira occupies a significant gap in the archive — the entire summer of 2024, concurrent with the Berkeley AI Hackathon (June 29) and the Japan trip planning. It likely represents either a previous startup Jack was involved with that wound down before he pivoted to [[projects/agentdex]], or a parallel collaboration that influenced the AgentDex direction.
 
 The Berkeley AI Hackathon Top 15 win in June 2024 (from Jack's website) may have been Mira-related or AgentDex's precursor.
 

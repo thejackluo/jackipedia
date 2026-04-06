@@ -7,7 +7,7 @@
 
 ## Overview
 
-Written the day before the AgentDex launch deadline (April 1, 2025), this short entry captures the raw emotional cost of the founder path. One of the most personal pieces in the archive — unpolished, mid-sentence, written under pressure.
+Written the day before the [[projects/agentdex]] launch deadline (April 1, 2025), this short entry captures the raw emotional cost of the founder path. One of the most personal pieces in the archive — unpolished, mid-sentence, written under pressure.
 
 ## Full Text
 

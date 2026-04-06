@@ -23,7 +23,7 @@ The fear-perfectionism-isolation triangle is a closed loop. Fear of mediocrity d
 
 ## Position in the Archive
 
-By November 2025, Jack is deep in the AgentDex build — customer discovery is done (Jan-Feb), the team is onboarded (Arman Rafian + others), the Coolify deployment is live. The entry title suggests he's examining the psychological cost of that phase.
+By November 2025, Jack is deep in the [[projects/agentdex]] build — customer discovery is done (Jan-Feb), the team is onboarded (Arman Rafian + others), the Coolify deployment is live. The entry title suggests he's examining the psychological cost of that phase.
 
 ## Themes Across the Archive
 

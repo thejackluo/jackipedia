@@ -30,7 +30,7 @@ Currently pursuing an "unconventional education" through building and tackling c
 - Won finalist at Penn and Northwestern pitch competitions
 - Top 15 at Berkeley AI Hackathon, 1st place at Digitalized and CodeDay SF
 - Discussed AI with Elon Musk on video call (Hack Club, featured in Towards AI news)
-- Co-organized Q House 2023, New York Hacker House 2025, helped inspire Georgia Tech Hacker House 2025
+- Co-organized Q House 2023, New York Hacker House 2025, helped inspire [[history/georgia-tech-era]] Hacker House 2025
 - Slept on a rooftop. Slept in a WeWork office for a month.
 - Attended NVIDIA conference, hosted group to CES
 - Growth hacked 30X in DeSo through ETH and alt coins

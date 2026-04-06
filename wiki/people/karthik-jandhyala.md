@@ -1,6 +1,6 @@
 # Karthik Jandhyala
 **Type:** Person
-**Relationship to Jack:** AgentDex team member
+**Relationship to Jack:** [[projects/agentdex]] team member
 **Last updated:** 2026-04-06
 
 ## Overview

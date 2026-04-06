@@ -9,7 +9,7 @@ New York City appears multiple times across Jack's timeline — as a destination
 
 ## New York Hacker House 2025
 
-Jack co-organized the New York Hacker House in 2025, alongside his work on Q House (2023) and helping inspire the Georgia Tech Hacker House. Sleeping in cities, building with people, moving fast — NY was a natural destination.
+Jack co-organized the New York Hacker House in 2025, alongside his work on Q House (2023) and helping inspire the [[history/georgia-tech-era]] Hacker House. Sleeping in cities, building with people, moving fast — NY was a natural destination.
 
 ## December 2025
 

@@ -30,12 +30,12 @@ Jack has been to almost all major US cities and tracks every flight in the Fligh
 | Cupertino / Bay Area | Grew up here |
 | San Francisco | Hacker houses, startup events |
 | Los Angeles / Santa Monica | City travel, beach walks |
-| Las Vegas | CES 2025 |
+| Las Vegas | [[projects/ces-2025]] |
 | Miami | Brickell, beach, galleries, content creation |
 | New York | NY Hacker House 2025, Dec 2025 meetings — [[history/new-york-city]] |
-| Atlanta | Georgia Tech |
+| Atlanta | [[history/georgia-tech-era]] |
 | Boston | MIT SIPB, 2025 |
-| Stanford / Palo Alto | TreeHacks, visits |
+| Stanford / Palo Alto | [[history/treehacks-2025]], visits |
 | Berkeley | Berkeley AI Hackathon |
 | Japan | December 2024 — [[history/japan-trip-2024]] |
 
@@ -47,7 +47,7 @@ The Japan trip (December 15–30, 2024) was Jack's most significant travel exper
 
 ## Nomadic Period (2025)
 
-During the AgentDex build period, Jack lived a partially nomadic life — moving between WeWork locations week to week, sleeping in offices. The "Vending Machine Dreams" essay was explicitly written from this period:
+During the [[projects/agentdex]] build period, Jack lived a partially nomadic life — moving between WeWork locations week to week, sleeping in offices. The "Vending Machine Dreams" essay was explicitly written from this period:
 
 > "When I move between WeWork week to week, when I am juggling conversations that pull me in five directions, when travel turns sleep into an experiment, the journal keeps me anchored."
 

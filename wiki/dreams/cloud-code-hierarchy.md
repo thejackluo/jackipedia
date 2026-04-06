@@ -5,7 +5,7 @@
 
 ## Overview
 
-A two-dream entry from the night of March 31, 2026 — the night before the planned AgentDex public launch. Jack rated this Bib Gourmand (exceptional), one of the highest ratings in his archive.
+A two-dream entry from the night of March 31, 2026 — the night before the planned [[projects/agentdex]] public launch. Jack rated this Bib Gourmand (exceptional), one of the highest ratings in his archive.
 
 ## Dream 1: Cloud Code Hierarchy
 

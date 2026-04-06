@@ -5,7 +5,7 @@
 
 ## Overview
 
-Nimesh is a hotel owner and operator who emerged from Jack's January 2026 customer discovery sprint as the single most promising champion for AgentDex. He owns 3 hotels directly and manages 20+ others under the Best Western brand. He appeared twice in the CD series — CD 14 (Jan 27) and CD 26 (Feb 16) — making him one of only a handful of customers Jack returned to.
+Nimesh is a hotel owner and operator who emerged from Jack's January 2026 customer discovery sprint as the single most promising champion for [[projects/agentdex]]. He owns 3 hotels directly and manages 20+ others under the Best Western brand. He appeared twice in the CD series — CD 14 (Jan 27) and CD 26 (Feb 16) — making him one of only a handful of customers Jack returned to.
 
 ## First Meeting (CD 14, January 27, 2026)
 
@@ -34,7 +34,7 @@ While the specific pain points are not detailed in the available records, AgentD
 
 ## Second Meeting (CD 26, February 16, 2026)
 
-Nimesh warranted a second meeting — CD 26 — after TreeHacks. The fact that Jack continued the relationship through February suggests Nimesh remained engaged.
+Nimesh warranted a second meeting — CD 26 — after [[history/treehacks-2025]]. The fact that Jack continued the relationship through February suggests Nimesh remained engaged.
 
 ## Related
 - [[people/jack-luo]]

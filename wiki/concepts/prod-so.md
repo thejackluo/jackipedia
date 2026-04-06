@@ -17,7 +17,7 @@ prod.so occupies a specific niche in the builder ecosystem — more product-focu
 
 The platform is used by people who care about how products are actually built — the decisions, the tradeoffs, the shipped reality versus the intended design.
 
-## Connection to Ivan Yeung
+## Connection to [[people/ivan-yeung]]
 
 Jack's 2024 Annual Review specifically called out **Ivan** as the person he most celebrated that year: "for his consistent drive on Prodicity." Prodicity is closely associated with the prod.so ecosystem. Ivan Yeung is one of Jack's closest builder peers — the kind of person who shows up in an annual review as the named example of what consistent drive looks like.
 
