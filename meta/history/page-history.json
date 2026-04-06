@@ -273,7 +273,13 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
-  "wiki/people/social-profiles": [],
+  "wiki/people/social-profiles": [
+    {
+      "commit": "b9719069",
+      "date": "2026-04-06 05:42:30",
+      "summary": "build: auto-update 2026-04-06 05:42 UTC (84 pages)"
+    }
+  ],
   "wiki/people/nimesh": [
     {
       "commit": "7d18e507",
@@ -545,7 +551,13 @@
       "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
     }
   ],
-  "wiki/music/soundcloud": [],
+  "wiki/music/soundcloud": [
+    {
+      "commit": "b9719069",
+      "date": "2026-04-06 05:42:30",
+      "summary": "build: auto-update 2026-04-06 05:42 UTC (84 pages)"
+    }
+  ],
   "wiki/philosophy/walk-in-the-park-framework": [
     {
       "commit": "b855070d",
@@ -579,7 +591,13 @@
       "summary": "feat: 14 new photos, EI concepts page, agent-school page, mit-era page"
     }
   ],
-  "wiki/projects/github-projects": [],
+  "wiki/projects/github-projects": [
+    {
+      "commit": "b9719069",
+      "date": "2026-04-06 05:42:30",
+      "summary": "build: auto-update 2026-04-06 05:42 UTC (84 pages)"
+    }
+  ],
   "wiki/projects/agentdex": [
     {
       "commit": "c64bc8d9",
