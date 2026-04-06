@@ -434,4 +434,21 @@ if os.path.exists(assets_src):
 
 print(f"\nDone. Deployed to {OUT_DIR}")
 
-print(f"\nDone. Deployed to {OUT_DIR}")
+# Auto-commit to git with timestamp
+import datetime
+now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+page_count = sum(
+    len([f for f in os.listdir(os.path.join(WIKI_DIR, "wiki", s)) if f.endswith(".md")])
+    for s in ["people","writings","philosophy","projects","books","fitness","dreams","history","concepts","goals","music"]
+    if os.path.exists(os.path.join(WIKI_DIR, "wiki", s))
+)
+commit_msg = f"build: auto-update {now} ({page_count} pages)"
+subprocess.run(["git", "add", "-A"], cwd=WIKI_DIR, capture_output=True)
+result = subprocess.run(
+    ["git", "commit", "-m", commit_msg],
+    cwd=WIKI_DIR, capture_output=True, text=True
+)
+if "nothing to commit" in result.stdout or "nothing to commit" in result.stderr:
+    print("  (git) nothing new to commit")
+else:
+    print(f"  ✓ git commit: {commit_msg}")

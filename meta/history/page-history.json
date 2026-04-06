@@ -156,7 +156,13 @@
       "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
     }
   ],
-  "wiki/writings/ces-2026-nvidia-keynote": [],
+  "wiki/writings/ces-2026-nvidia-keynote": [
+    {
+      "commit": "eefd6a93",
+      "date": "2026-04-06 05:31:20",
+      "summary": "feat: 5 Medium articles ingested (Vivarium, Dear Dear Jack, Philmont, Biggest Unsolved Question, CES 2026 NVIDIA Keynote)"
+    }
+  ],
   "wiki/writings/fear-connection-perfectionism": [
     {
       "commit": "c2e146b2",
@@ -192,9 +198,27 @@
       "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
     }
   ],
-  "wiki/writings/philmont-2019": [],
-  "wiki/writings/dear-dear-jack": [],
-  "wiki/writings/vivarium": [],
+  "wiki/writings/philmont-2019": [
+    {
+      "commit": "eefd6a93",
+      "date": "2026-04-06 05:31:20",
+      "summary": "feat: 5 Medium articles ingested (Vivarium, Dear Dear Jack, Philmont, Biggest Unsolved Question, CES 2026 NVIDIA Keynote)"
+    }
+  ],
+  "wiki/writings/dear-dear-jack": [
+    {
+      "commit": "eefd6a93",
+      "date": "2026-04-06 05:31:20",
+      "summary": "feat: 5 Medium articles ingested (Vivarium, Dear Dear Jack, Philmont, Biggest Unsolved Question, CES 2026 NVIDIA Keynote)"
+    }
+  ],
+  "wiki/writings/vivarium": [
+    {
+      "commit": "eefd6a93",
+      "date": "2026-04-06 05:31:20",
+      "summary": "feat: 5 Medium articles ingested (Vivarium, Dear Dear Jack, Philmont, Biggest Unsolved Question, CES 2026 NVIDIA Keynote)"
+    }
+  ],
   "wiki/writings/walk-in-the-park": [
     {
       "commit": "c2e146b2",
@@ -216,7 +240,13 @@
       "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
     }
   ],
-  "wiki/writings/biggest-unsolved-question": [],
+  "wiki/writings/biggest-unsolved-question": [
+    {
+      "commit": "eefd6a93",
+      "date": "2026-04-06 05:31:20",
+      "summary": "feat: 5 Medium articles ingested (Vivarium, Dear Dear Jack, Philmont, Biggest Unsolved Question, CES 2026 NVIDIA Keynote)"
+    }
+  ],
   "wiki/people/james-preiss": [
     {
       "commit": "7d18e507",
