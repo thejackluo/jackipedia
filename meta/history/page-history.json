@@ -263,6 +263,11 @@
   ],
   "wiki/people/meetings-index": [
     {
+      "commit": "e10f7c83",
+      "date": "2026-04-06 05:40:56",
+      "summary": "build: auto-update 2026-04-06 05:40 UTC (81 pages)"
+    },
+    {
       "commit": "f1c764ed",
       "date": "2026-04-06 03:47:54",
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
@@ -275,7 +280,13 @@
       "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
     }
   ],
-  "wiki/people/heath-sun": [],
+  "wiki/people/heath-sun": [
+    {
+      "commit": "e10f7c83",
+      "date": "2026-04-06 05:40:56",
+      "summary": "build: auto-update 2026-04-06 05:40 UTC (81 pages)"
+    }
+  ],
   "wiki/people/kunal-gupta": [
     {
       "commit": "7d18e507",
@@ -324,7 +335,13 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
-  "wiki/people/nick-sortino": [],
+  "wiki/people/nick-sortino": [
+    {
+      "commit": "e10f7c83",
+      "date": "2026-04-06 05:40:56",
+      "summary": "build: auto-update 2026-04-06 05:40 UTC (81 pages)"
+    }
+  ],
   "wiki/people/jeff": [
     {
       "commit": "7d18e507",
@@ -346,7 +363,13 @@
       "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
     }
   ],
-  "wiki/people/armaan-jain": [],
+  "wiki/people/armaan-jain": [
+    {
+      "commit": "e10f7c83",
+      "date": "2026-04-06 05:40:56",
+      "summary": "build: auto-update 2026-04-06 05:40 UTC (81 pages)"
+    }
+  ],
   "wiki/concepts/agent-x-launch": [
     {
       "commit": "c3410fe8",
