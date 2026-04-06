@@ -142,8 +142,8 @@ def build_main_page(nav, all_history, page_count=0):
 
     # Featured article — Walk in the Park Framework
     featured = """
-<div style="border:1px solid #a2a9b1; background:#eaf3fb; padding:12px 16px; margin-bottom:4px;">
-  <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:6px;">Featured article</div>
+<div class="wiki-box wiki-box-blue">
+  <div class="wiki-box-heading">Featured article</div>
   <b><a href="/wiki/philosophy/walk-in-the-park-framework.html">The Walk in the Park Framework</a></b>
   <p style="margin:8px 0 0;">On February 9, 2025, Jack articulated a four-part personal philosophy during a walk — one of the highest-rated pieces in his five-year writing archive. The framework covers relationships (grow, don't chase), success (vision over money), work (game-like engagement), and wisdom (acceptance, not control). It draws on themes from <a href="/wiki/concepts/reading-list.html">The Courage to Be Disliked</a> and represents the clearest single synthesis of Jack's values.</p>
   <div style="margin-top:8px; font-size:12px; font-family:sans-serif;"><a href="/wiki/philosophy/walk-in-the-park-framework.html">Read full article...</a></div>
@@ -154,8 +154,8 @@ def build_main_page(nav, all_history, page_count=0):
 
     # Did you know
     dyk = """
-<div style="border:1px solid #a2a9b1; background:#f8f9fa; padding:12px 16px; margin-bottom:16px;">
-  <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:6px;">Did you know</div>
+<div class="wiki-box">
+  <div class="wiki-box-heading">Did you know</div>
   <ul style="margin-left:18px; font-size:13.5px;">
     <li>... that Jack has maintained a personal writing practice since 2020, accumulating over <b>360 entries</b> spanning reflections, essays, and startup notes?</li>
     <li>... that Jack's song of the year for 2024 was <i>Steins;Gate</i>'s "Hacking to the Gate"?</li>
@@ -170,8 +170,8 @@ def build_main_page(nav, all_history, page_count=0):
 
     # In the news / recent activity
     news = """
-<div style="border:1px solid #a2a9b1; background:#f8f9fa; padding:12px 16px; margin-bottom:16px;">
-  <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:6px;">Recent activity</div>
+<div class="wiki-box">
+  <div class="wiki-box-heading">Recent activity</div>
   <ul style="margin-left:18px; font-size:13.5px;">
     <li>AgentDex auth migration to Clerk (Story 4.7) merged — <a href="/wiki/goals/agentdex.html">AgentDex</a></li>
     <li>Jackipedia launched at <a href="https://jackipedia.agentschool.io">jackipedia.agentschool.io</a></li>
@@ -184,8 +184,8 @@ def build_main_page(nav, all_history, page_count=0):
 
     # On this day
     otd = """
-<div style="border:1px solid #a2a9b1; background:#f8f9fa; padding:12px 16px;">
-  <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:6px;">On this day</div>
+<div class="wiki-box">
+  <div class="wiki-box-heading">On this day</div>
   <div style="font-size:13px; font-weight:bold; margin-bottom:6px;">April 6</div>
   <ul style="margin-left:18px; font-size:13.5px;">
     <li><b>2025:</b> Jack's app went to production for the first time — "seeing all the crazy stuff" (from 2024 annual review)</li>
@@ -195,8 +195,8 @@ def build_main_page(nav, all_history, page_count=0):
 
     # Featured list — Books
     feat_list = """
-<div style="border:1px solid #a2a9b1; background:#f5fffa; padding:12px 16px; margin-bottom:16px;">
-  <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:6px;">Featured list</div>
+<div class="wiki-box wiki-box-green">
+  <div class="wiki-box-heading">Featured list</div>
   <b><a href="/wiki/concepts/reading-list.html">Jack's Reading List</a></b>
   <p style="margin:8px 0 0; font-size:13.5px;">Jack maintains a rated reading list spanning AI, business, personal development, and philosophy. Highlights include <i>The Courage to Be Disliked</i> (5 stars), <i>Essentialism</i> (4 stars, finished Feb 2026), and <i>Billion Dollar Whale</i> (4 stars, in progress). He is currently working through multiple AI/ML books simultaneously.</p>
   <div style="margin-top:8px; font-size:12px; font-family:sans-serif;"><a href="/wiki/concepts/reading-list.html">Full reading list...</a></div>
@@ -205,8 +205,8 @@ def build_main_page(nav, all_history, page_count=0):
 
     # Featured picture — Japan 2024
     feat_pic = """
-<div style="border:1px solid #a2a9b1; background:#f8f9fa; padding:12px 16px; margin-bottom:16px;">
-  <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:6px;">Featured entry</div>
+<div class="wiki-box">
+  <div class="wiki-box-heading">Featured entry</div>
   <b>Japan Trip, December 2024</b>
   <p style="margin:8px 0; font-size:13.5px;">From December 15 to 30, 2024, Jack traveled to Japan — one of the most memorable periods of the year by his own account. The trip appears in his 2024 annual review as the defining travel experience of the year, alongside CES (Jan), TreeHacks at Stanford (Feb), and the Berkeley AI hackathon (Jun). Travel consistently absorbs the largest portion of Jack's discretionary spending.</p>
   <div style="margin-top:4px; font-size:12px; font-family:sans-serif; color:#54595d;">Source: <a href="/wiki/concepts/writing-archive.html">40 Questions Annual Review (01/06/25)</a></div>
@@ -214,8 +214,8 @@ def build_main_page(nav, all_history, page_count=0):
 
     # On this day — expanded with life timeline
     otd = """
-<div style="border:1px solid #a2a9b1; background:#f8f9fa; padding:12px 16px;">
-  <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:6px;">On this day</div>
+<div class="wiki-box">
+  <div class="wiki-box-heading">On this day</div>
   <div style="font-size:13px; font-weight:bold; margin-bottom:8px;">April 6</div>
   <ul style="margin-left:18px; font-size:13.5px; margin-bottom:10px;">
     <li><b>2025:</b> Jack's app went to production — "seeing all the crazy stuff"</li>
@@ -234,7 +234,7 @@ def build_main_page(nav, all_history, page_count=0):
 
     # Community portal section
     community = """
-<div style="border:1px solid #a2a9b1; background:#f8f9fa; padding:12px 16px; margin-bottom:16px;">
+<div class="wiki-box">
   <div style="font-size:13px; font-weight:bold; font-family:sans-serif; border-bottom:1px solid #a2a9b1; padding-bottom:4px; margin-bottom:8px;">Other areas of Jackipedia</div>
   <div style="font-size:13px; font-family:sans-serif; display:grid; grid-template-columns:1fr 1fr; gap:4px 16px;">
     <div><a href="/meta/history.html">Recent changes</a> – All edits to the wiki, most recent first.</div>
@@ -248,7 +248,7 @@ def build_main_page(nav, all_history, page_count=0):
 
     # Sister projects (Jack's own projects)
     sister = """
-<div style="border:1px solid #a2a9b1; background:#f8f9fa; padding:12px 16px; margin-bottom:16px;">
+<div class="wiki-box">
   <div style="font-size:13px; font-weight:bold; font-family:sans-serif; border-bottom:1px solid #a2a9b1; padding-bottom:4px; margin-bottom:8px;">Jack's projects</div>
   <p style="font-size:13px; font-family:sans-serif; margin-bottom:10px;">Jackipedia is maintained by <a href="https://openclaw.ai">Claw</a> and sourced from Jack's Notion workspace. Jack's active projects:</p>
   <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:8px; font-size:13px; font-family:sans-serif;">
@@ -281,7 +281,7 @@ def build_main_page(nav, all_history, page_count=0):
 
     # Languages / dimensions of Jack
     languages = """
-<div style="border:1px solid #a2a9b1; background:#f8f9fa; padding:12px 16px; margin-bottom:16px;">
+<div class="wiki-box">
   <div style="font-size:13px; font-weight:bold; font-family:sans-serif; border-bottom:1px solid #a2a9b1; padding-bottom:4px; margin-bottom:8px;">Dimensions of Jack</div>
   <p style="font-size:13px; font-family:sans-serif; margin-bottom:8px;">Jackipedia documents Jack across multiple dimensions. Articles exist or are planned for each:</p>
   <div style="font-size:13px; font-family:sans-serif; margin-bottom:6px;"><b>Documented</b></div>
@@ -339,8 +339,8 @@ def build_main_page(nav, all_history, page_count=0):
   <div>{feat_list}</div>
   <div>{feat_pic}</div>
   <div>
-    <div style="border:1px solid #a2a9b1; background:#fff8dc; padding:12px 16px;">
-      <div style="font-size:11px; font-family:sans-serif; text-transform:uppercase; letter-spacing:.05em; color:#54595d; margin-bottom:6px;">Wiki stats</div>
+    <div class="wiki-box wiki-box-yellow">
+      <div class="wiki-box-heading">Wiki stats</div>
       <table style="width:100%; border:none; font-size:13px; font-family:sans-serif;">
         <tr><td style="border:none; padding:2px 0; color:#54595d;">Articles</td><td style="border:none; padding:2px 0; font-weight:bold;">7</td></tr>
         <tr><td style="border:none; padding:2px 0; color:#54595d;">Source entries</td><td style="border:none; padding:2px 0; font-weight:bold;">360+</td></tr>
