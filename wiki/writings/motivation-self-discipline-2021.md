@@ -7,11 +7,11 @@
 
 ## Overview
 
-The earliest surviving reflection in the archive — written sometime in 2021, likely when Jack was in high school (16-17 years old). The title "Motivation and Self-Discipline Reflection Analysis" has the analytical framing that characterizes his writing throughout: even at 16, Jack approaches his inner life like a system to be debugged.
+The earliest surviving reflection in the archive - written sometime in 2021, likely when Jack was in high school (16-17 years old). The title "Motivation and Self-Discipline Reflection Analysis" has the analytical framing that characterizes his writing throughout: even at 16, Jack approaches his inner life like a system to be debugged.
 
 ## Why It Matters
 
-This entry is the origin point of the entire archive. Jack's habit of structured self-reflection — writing to understand rather than just to express — starts here.
+This entry is the origin point of the entire archive. Jack's habit of structured self-reflection - writing to understand rather than just to express - starts here.
 
 The pairing of "motivation" and "self-discipline" as the first major topic is telling. These are not the concerns of someone coasting. A teenager who writes analysis pieces on their own motivation is someone already engaged in the project of deliberate self-construction.
 

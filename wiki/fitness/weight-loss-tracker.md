@@ -7,7 +7,7 @@
 
 ## Overview
 
-Jack's weight loss tracker (labeled "MIG" — Major Improvement Goal) in Notion tracks his body weight over time. The data spans from the 2021 running project to at least 2024.
+Jack's weight loss tracker (labeled "MIG" - Major Improvement Goal) in Notion tracks his body weight over time. The data spans from the 2021 running project to at least 2024.
 
 ## Weight Trajectory
 
@@ -43,13 +43,13 @@ Jack's weight loss tracker (labeled "MIG" — Major Improvement Goal) in Notion 
 
 From 207 lbs (July 3) to 176.9 lbs (February 12) = **30 lbs lost in ~7 months**.
 
-During the first 4 weeks of running, Jack lost approximately 14 lbs (207 → ~193). The pace was roughly 0.5–1 lb per day during active running periods — consistent with high-volume cardio combined with dietary changes.
+During the first 4 weeks of running, Jack lost approximately 14 lbs (207 → ~193). The pace was roughly 0.5–1 lb per day during active running periods - consistent with high-volume cardio combined with dietary changes.
 
 The sustained loss from ~190 → 176 across fall/winter 2021 suggests the running habit continued or was supplemented with other activity changes.
 
 ## The 2024 Reset
 
-By the [[writings/annual-review-2024]], Jack notes being "slightly fatter" — suggesting some weight regain during the [[history/georgia-tech-era]] transition and startup period. The "be more fit" goal first appeared in his 2022 New Year resolution, indicating fitness has been a recurring commitment, not a one-time achievement.
+By the [[writings/annual-review-2024]], Jack notes being "slightly fatter" - suggesting some weight regain during the [[history/georgia-tech-era]] transition and startup period. The "be more fit" goal first appeared in his 2022 New Year resolution, indicating fitness has been a recurring commitment, not a one-time achievement.
 
 ## Related
 - [[fitness/running-project-2021]]

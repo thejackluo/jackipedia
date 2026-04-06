@@ -5,7 +5,7 @@
 
 ## Overview
 
-A two-dream entry from the night of March 31, 2026 — the night before the planned [[projects/agentdex]] public launch. Jack rated this Bib Gourmand (exceptional), one of the highest ratings in his archive.
+A two-dream entry from the night of March 31, 2026 - the night before the planned [[projects/agentdex]] public launch. Jack rated this Bib Gourmand (exceptional), one of the highest ratings in his archive.
 
 ## Dream 1: Cloud Code Hierarchy
 
@@ -14,7 +14,7 @@ From the Notion notes:
 
 During waking life, Jack was running multiple AI coding sessions (opencode, Claude Code) across worker-vps-1 to build out AgentDex. His mind apparently continued working on the agent orchestration problem in sleep, dreaming of the exact architecture he was building: multiple parallel coding agents arranged in a hierarchy.
 
-The "surprisingly organized" detail suggests the dream resolved or simplified something that felt chaotic in waking life — a classic integration dream.
+The "surprisingly organized" detail suggests the dream resolved or simplified something that felt chaotic in waking life - a classic integration dream.
 
 ## Dream 2: Nature Reserve Portal City
 
@@ -23,7 +23,7 @@ From the Notion notes:
 
 A surreal traversal:
 - Starts in a nature reserve with rapidly shifting biomes (forest → desert → other)
-- Walks past the edge of the map — beyond the known territory
+- Walks past the edge of the map - beyond the known territory
 - A barbershop becomes a portal
 - Emerges in a Spanish-speaking city (possibly relates to Jack's Asia/Latin America travel thoughts)
 - A graduation ceremony (achievement + transition)
@@ -34,9 +34,9 @@ A surreal traversal:
 
 The two dreams are thematically paired:
 
-**Dream 1 (Cloud Code):** The world of work — structured, hierarchical, organized. Jack's mind is optimizing his agentic systems even in sleep.
+**Dream 1 (Cloud Code):** The world of work - structured, hierarchical, organized. Jack's mind is optimizing his agentic systems even in sleep.
 
-**Dream 2 (Portal City):** The world of experience — unstructured, boundary-crossing, ultimately alone. The graduation ceremony on the night before launch is apt. The disappearing people echo the [[writings/loneliness-and-sacrifice]] theme: striving, arriving somewhere, and finding yourself alone at the destination.
+**Dream 2 (Portal City):** The world of experience - unstructured, boundary-crossing, ultimately alone. The graduation ceremony on the night before launch is apt. The disappearing people echo the [[writings/loneliness-and-sacrifice]] theme: striving, arriving somewhere, and finding yourself alone at the destination.
 
 The "walked beyond the map" motif is particularly resonant with how Jack talks about his goals: not taking the standard path, venturing into territory where there's no established route.
 

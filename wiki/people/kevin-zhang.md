@@ -9,9 +9,9 @@ Kevin Zhang is the co-founder of Efficore and one of Jack's closest technical co
 
 ## Role at Efficore
 
-Kevin co-founded Efficore with Jack. Efficore is a **unified energy optimization platform for data centers** — Kevin brings deep expertise in energy systems and data center infrastructure, translating complex energy domain knowledge into practical solutions. Jack leads Efficore's software and decision-making systems.
+Kevin co-founded Efficore with Jack. Efficore is a **unified energy optimization platform for data centers** - Kevin brings deep expertise in energy systems and data center infrastructure, translating complex energy domain knowledge into practical solutions. Jack leads Efficore's software and decision-making systems.
 
-The company's domain is mira.energy. Kevin's background includes Northwestern Energy and Sustainability Club (NESC) and Q House — the same Q House that Jack co-organized in 2023, which is how their paths likely first crossed.
+The company's domain is mira.energy. Kevin's background includes Northwestern Energy and Sustainability Club (NESC) and Q House - the same Q House that Jack co-organized in 2023, which is how their paths likely first crossed.
 
 ## [[projects/ces-2025]]
 
@@ -21,20 +21,20 @@ Kevin was a key part of Jack's CES 2025 trip to Las Vegas (January 6-10, 2025). 
 
 | Date | Meeting |
 |------|---------|
-| Jan 28, 2026 | Jack x Kevin — initial talks on PMF (product-market fit) |
-| Jun 28, 2025 | Arman / Jack / Kevin — Team Sync |
-| Feb 26, 2025 | Networking: [[people/arman-mahjoor]] (Circlez) — Kevin created this meeting note |
-| Feb 27, 2025 | Advisor: Jeff Henderson (Trienens NU) — Kevin created this note |
+| Jan 28, 2026 | Jack x Kevin - initial talks on PMF (product-market fit) |
+| Jun 28, 2025 | Arman / Jack / Kevin - Team Sync |
+| Feb 26, 2025 | Networking: [[people/arman-mahjoor]] (Circlez) - Kevin created this meeting note |
+| Feb 27, 2025 | Advisor: Jeff Henderson (Trienens NU) - Kevin created this note |
 
-Kevin appears as the creator of several Granola meeting notes — suggesting he was also using the same meeting notes infrastructure as Jack during their collaborative period (early-mid 2025).
+Kevin appears as the creator of several Granola meeting notes - suggesting he was also using the same meeting notes infrastructure as Jack during their collaborative period (early-mid 2025).
 
 ## Mira
 
-Between June-September 2024, Notion contains "Mira Meetings" — recurring syncs with someone named Mira. These appear to be Kevin-related based on the meeting structure; The Mira meetings ran Jun–Sep 2024 as weekly team syncs.
+Between June-September 2024, Notion contains "Mira Meetings" - recurring syncs with someone named Mira. These appear to be Kevin-related based on the meeting structure; The Mira meetings ran Jun–Sep 2024 as weekly team syncs.
 
 ## Architecture and Product Discussions
 
-A Notion page titled "Jack kevin architecture notion, product" (Jul 2025) captures a deep technical-product discussion between them. This kind of page is typical of serious co-founder-level conversation — not just execution updates but fundamental architecture decisions.
+A Notion page titled "Jack kevin architecture notion, product" (Jul 2025) captures a deep technical-product discussion between them. This kind of page is typical of serious co-founder-level conversation - not just execution updates but fundamental architecture decisions.
 
 ## Related
 - [[people/jack-luo]]

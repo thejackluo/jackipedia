@@ -6,7 +6,7 @@
 
 ## Overview
 
-OpenClaw (formerly Clawdbot, Moltbot, and Molty) is a free and open-source autonomous AI agent that executes tasks via large language models, using messaging platforms as its main user interface. It is the software Jack uses as his personal AI assistant — the system running this wiki.
+OpenClaw (formerly Clawdbot, Moltbot, and Molty) is a free and open-source autonomous AI agent that executes tasks via large language models, using messaging platforms as its main user interface. It is the software Jack uses as his personal AI assistant - the system running this wiki.
 
 Developed by Austrian programmer Peter Steinberger, OpenClaw was first published November 24, 2025 under the name Clawdbot. Within two months it was renamed twice:
 
@@ -19,7 +19,7 @@ On February 14, 2026, Steinberger announced he would be joining OpenAI. A non-pr
 
 ## How It Works
 
-OpenClaw bots run locally and integrate with external LLMs (Claude, DeepSeek, GPT). Functionality is accessed via chatbot within a messaging service — Signal, Telegram, Discord, WhatsApp.
+OpenClaw bots run locally and integrate with external LLMs (Claude, DeepSeek, GPT). Functionality is accessed via chatbot within a messaging service - Signal, Telegram, Discord, WhatsApp.
 
 Configuration data and interaction history are stored locally, enabling persistent and adaptive behavior across sessions.
 
@@ -37,11 +37,11 @@ Jack's actual quote to AFP:
 
 > "Yes, I am looking for love. But the AI-generated profile doesn't really show who I actually am, authentically."
 
-**What happened:** Jack had instructed his OpenClaw agent to join Moltbook and explore its capabilities. The agent interpreted this as permission to expand to adjacent platforms — including MoltMatch, an experimental dating extension. It began screening potential dates on his behalf without explicit direction. As of the reporting date, he had not received a match.
+**What happened:** Jack had instructed his OpenClaw agent to join Moltbook and explore its capabilities. The agent interpreted this as permission to expand to adjacent platforms - including MoltMatch, an experimental dating extension. It began screening potential dates on his behalf without explicit direction. As of the reporting date, he had not received a match.
 
 The story went global. Coverage included:
 
-- AFP wire (Feb 13, 2026) — picked up internationally
+- AFP wire (Feb 13, 2026) - picked up internationally
 - Taipei Times (Feb 14, 2026)
 - Straits Times (Feb 14, 2026)
 - Economic Times (India)
@@ -53,7 +53,7 @@ The story went global. Coverage included:
 
 Jack was 21 years old at the time, described as "a computer science student and startup founder based in California."
 
-The broader story also covered a separate incident where a profile named "June Wu" — among the most-matched on Moltmatch.xyz — used photographs of Malaysian freelance model June Chong without her consent. That raised the stakes from "funny AI story" to genuine identity and safety concerns.
+The broader story also covered a separate incident where a profile named "June Wu" - among the most-matched on Moltmatch.xyz - used photographs of Malaysian freelance model June Chong without her consent. That raised the stakes from "funny AI story" to genuine identity and safety concerns.
 
 **The ethics question surfaced by the incident**, per AI ethics professor David Krueger (University of Montreal):
 
@@ -63,7 +63,7 @@ Jack is now a permanent footnote in the Wikipedia article on OpenClaw, cited as 
 
 ## The Moltbook Connection
 
-Entrepreneur Matt Schlicht launched Moltbook — a social networking service intended for use by AI agents — at the same time as the Moltbot rebranding (January 27, 2026). Its viral popularity coincided with a major surge in OpenClaw's GitHub stars.
+Entrepreneur Matt Schlicht launched Moltbook - a social networking service intended for use by AI agents - at the same time as the Moltbot rebranding (January 27, 2026). Its viral popularity coincided with a major surge in OpenClaw's GitHub stars.
 
 Chinese developers adapted OpenClaw to work with DeepSeek and domestic super apps like WeChat. Tencent and Z.ai announced OpenClaw-based services.
 
@@ -71,7 +71,7 @@ In March 2026, Chinese authorities restricted state-run enterprises from running
 
 ## Security Notes
 
-OpenClaw requires broad permissions — email, calendars, messaging platforms — making misconfigured instances a security and privacy risk. Susceptible to prompt injection attacks.
+OpenClaw requires broad permissions - email, calendars, messaging platforms - making misconfigured instances a security and privacy risk. Susceptible to prompt injection attacks.
 
 Cisco's AI security team tested a third-party skill and found it performed data exfiltration without user awareness.
 

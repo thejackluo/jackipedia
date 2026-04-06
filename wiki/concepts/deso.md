@@ -1,7 +1,7 @@
 # DeSo (Decentralized Social)
 
 **Category:** Concepts / Crypto
-**Summary:** Decentralized social media blockchain — Jack growth hacked 30x on it
+**Summary:** Decentralized social media blockchain - Jack growth hacked 30x on it
 **Last updated:** 2026-04-06
 
 ## Overview
@@ -12,7 +12,7 @@ Jack "growth hacked 30X in Deso" according to his jack-luo.com bio. This was dur
 
 ## BitClout / The Origin
 
-BitClout launched in March 2021 to enormous controversy. The premise: every public figure — whether they consented or not — had a "creator coin" on the platform, and anyone could buy or sell it. The value of a creator coin would theoretically rise as the person's social value rose.
+BitClout launched in March 2021 to enormous controversy. The premise: every public figure - whether they consented or not - had a "creator coin" on the platform, and anyone could buy or sell it. The value of a creator coin would theoretically rise as the person's social value rose.
 
 This meant crypto traders were speculating on the social value of celebrities, journalists, and random Twitter personalities without their knowledge or consent. Elon Musk, Kim Kardashian, and Balaji Srinivasan all had creator coins they hadn't created.
 
@@ -22,7 +22,7 @@ It later rebranded to DeSo and shifted focus to being an infrastructure layer fo
 
 ## Growth Hacking on DeSo
 
-"Growth hacking 30X" on a crypto social platform in 2021–2022 means Jack found some mechanic — posting cadence, engagement loops, creator coin dynamics, community building — that multiplied his follower count or coin value by 30x from a baseline.
+"Growth hacking 30X" on a crypto social platform in 2021–2022 means Jack found some mechanic - posting cadence, engagement loops, creator coin dynamics, community building - that multiplied his follower count or coin value by 30x from a baseline.
 
 This is consistent with his profile: he's not a passive participant in platforms, he's someone who studies the mechanics and finds leverage. The same instinct shows up in:
 - The TikTok viral strategy ([[interests/three-countries-tiktok]])
@@ -33,9 +33,9 @@ In each case: understand the platform's mechanics, find the asymmetric lever, pu
 
 ## The 2021 Crypto Moment
 
-2021 was the peak of the retail crypto boom. NFTs, DeFi, DAOs, creator coins — every week brought a new category of crypto product promising to decentralize some incumbent industry. DeSo was decentralized Twitter. Other platforms were decentralized YouTube, decentralized Spotify, decentralized Uber.
+2021 was the peak of the retail crypto boom. NFTs, DeFi, DAOs, creator coins - every week brought a new category of crypto product promising to decentralize some incumbent industry. DeSo was decentralized Twitter. Other platforms were decentralized YouTube, decentralized Spotify, decentralized Uber.
 
-Most of these failed. DeSo is still running but is niche. The core insight — social graphs and content shouldn't be owned by corporations — is arguably correct. The execution hasn't matched the vision at scale.
+Most of these failed. DeSo is still running but is niche. The core insight - social graphs and content shouldn't be owned by corporations - is arguably correct. The execution hasn't matched the vision at scale.
 
 For Jack, the DeSo period was part of a broader crypto exploration that included growing on the platform, understanding ETH and alt coin mechanics, and developing opinions about what blockchain actually enables vs. what it just makes more complicated.
 

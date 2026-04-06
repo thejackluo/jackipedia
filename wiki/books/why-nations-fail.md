@@ -46,7 +46,7 @@ Jack's interest in [[concepts/z-fellows]] specifically, and his general alignmen
 
 ## Connection to Jack's Situation
 
-A young builder from Cupertino, rejected by MIT, who transferred schools, built things in WeWorks and hacker houses, competed at hackathons without a prestigious affiliation, and is now in the orbit of the institutions that rejected him — is living proof that the inclusive-institution argument is correct. His success doesn't depend on being inside the right extractive structure. It depends on building something real.
+A young builder from Cupertino, rejected by MIT, who transferred schools, built things in WeWorks and hacker houses, competed at hackathons without a prestigious affiliation, and is now in the orbit of the institutions that rejected him - is living proof that the inclusive-institution argument is correct. His success doesn't depend on being inside the right extractive structure. It depends on building something real.
 
 ## Related
 

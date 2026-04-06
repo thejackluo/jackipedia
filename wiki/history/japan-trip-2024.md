@@ -5,7 +5,7 @@
 
 ## Overview
 
-Jack traveled to Japan from December 15–30, 2024 — fifteen days covering what he described in his Annual Review as a key event of the year. Japan appears throughout his archive as a deep cultural anchor: the language he's studying, the anime that defined him, the transit system in his dreams, the cuisine he reaches for when working alone. The December 2024 trip was the first time he went in person.
+Jack traveled to Japan from December 15–30, 2024 - fifteen days covering what he described in his Annual Review as a key event of the year. Japan appears throughout his archive as a deep cultural anchor: the language he's studying, the anime that defined him, the transit system in his dreams, the cuisine he reaches for when working alone. The December 2024 trip was the first time he went in person.
 
 ## Dates
 
@@ -17,7 +17,7 @@ Jack traveled to Japan from December 15–30, 2024 — fifteen days covering wha
 
 ## In the Annual Review
 
-Japan is the first major event listed under "new things done" in Jack's 40 Questions Annual Review. It is mentioned ahead of the [[history/georgia-tech-era]] transfer and the production launch — suggesting it held particular personal significance.
+Japan is the first major event listed under "new things done" in Jack's 40 Questions Annual Review. It is mentioned ahead of the [[history/georgia-tech-era]] transfer and the production launch - suggesting it held particular personal significance.
 
 ## In the Dreams
 
@@ -31,7 +31,7 @@ The mother presence suggests family either joined the trip or the dream blended 
 **March 28, 2026 dream (Great America):**
 > "Japanese train with uniformed people; lots of lines; no roller coasters"
 
-The precision of the memory — uniformed station attendants, orderly queuing — is characteristic of Japan's JR and metro systems. This detail survived 15+ months in the archive and reappeared in a dream set geographically in America.
+The precision of the memory - uniformed station attendants, orderly queuing - is characteristic of Japan's JR and metro systems. This detail survived 15+ months in the archive and reappeared in a dream set geographically in America.
 
 **"Vending Machine Dreams" (August 2025):**
 The Chongqing-style stairs in Dream 2 evoke a specific East Asian urban texture that the Japan trip likely reinforced: multilevel cities, concrete and humidity, trains that run on time.
@@ -55,7 +55,7 @@ Japan-adjacent references in the archive:
 
 ## Next Visit
 
-From the March 2025 Jeff catch-up, Jack was targeting Asia — "Shanghai, Tokyo, Osaka" as next travel destinations. The Japan trip may have seeded a longer-term goal of extended stays, with the visa question raised as a practical consideration.
+From the March 2025 Jeff catch-up, Jack was targeting Asia - "Shanghai, Tokyo, Osaka" as next travel destinations. The Japan trip may have seeded a longer-term goal of extended stays, with the visa question raised as a practical consideration.
 
 ## Related
 - [[history/georgia-tech-era]]
@@ -68,16 +68,16 @@ From the March 2025 Jeff catch-up, Jack was targeting Asia — "Shanghai, Tokyo,
 
 ## Photographs
 
-![Japanese wagashi (traditional sweets) tasting — matcha mochi with red bean filling, alongside a printed flavor/pairing guide](/assets/photos/japan-sweets.jpg)
+![Japanese wagashi (traditional sweets) tasting - matcha mochi with red bean filling, alongside a printed flavor/pairing guide](/assets/photos/japan-sweets.jpg)
 
-![Jack signs up for a Japanese dating app — "登録が完了しました！" (Registration complete!)](/assets/photos/japan-dating-app.jpg)
+![Jack signs up for a Japanese dating app - "登録が完了しました！" (Registration complete!)](/assets/photos/japan-dating-app.jpg)
 
 ## Photos
 
-![Anime Expo 2022 opening crowd — Jack's early engagement with Japanese culture and anime fandom](/assets/photos/commons/anime-expo-2022.jpg)
+![Anime Expo 2022 opening crowd - Jack's early engagement with Japanese culture and anime fandom](/assets/photos/commons/anime-expo-2022.jpg)
 
-![Japan sweets — Japanese confectionery during the trip](/assets/photos/japan-sweets.jpg)
+![Japan sweets - Japanese confectionery during the trip](/assets/photos/japan-sweets.jpg)
 
 ![Japan sweets, second stop](/assets/photos/japan-sweets-2.jpg)
 
-![Japan dating app — the cultural artifact of navigating apps in Japan](/assets/photos/japan-dating-app.jpg)
+![Japan dating app - the cultural artifact of navigating apps in Japan](/assets/photos/japan-dating-app.jpg)

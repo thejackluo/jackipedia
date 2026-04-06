@@ -5,7 +5,7 @@
 
 ## Overview
 
-Jeff (last name unknown in records — Notion CRM lists "Jefferey A," location noted as Kansas) is one of Jack's closest personal friends. Their relationship is characterized by wide-ranging conversations that cross startup strategy, dating, travel, life philosophy, and psychology. Jeff is building a psychology honor society.
+Jeff (last name unknown in records - Notion CRM lists "Jefferey A," location noted as Kansas) is one of Jack's closest personal friends. Their relationship is characterized by wide-ranging conversations that cross startup strategy, dating, travel, life philosophy, and psychology. Jeff is building a psychology honor society.
 
 ## The March 25, 2026 Conversation
 
@@ -15,7 +15,7 @@ The most detailed record of Jeff in Jack's Notion is a March 25, 2026 meeting: "
 
 **Topics covered:**
 - Jack's AgentDex launch (targeting March 31)
-- Jeff's psychology honor society — growing
+- Jeff's psychology honor society - growing
 - Post-graduation plans for both
 - Dating research by a professor named Eastwick
 - Asia travel: Shanghai, Tokyo, Osaka
@@ -33,17 +33,17 @@ The most detailed record of Jeff in Jack's Notion is a March 25, 2026 meeting: "
 
 ## What This Friendship Represents
 
-Jeff is the friend Jack processes life with — not a startup collaborator, not a customer, not a mentor. The topics are the full range of what Jack is actually thinking about: work, relationships, geography, the future. This is rare in Jack's network, which is otherwise heavily skewed toward professional/strategic contacts.
+Jeff is the friend Jack processes life with - not a startup collaborator, not a customer, not a mentor. The topics are the full range of what Jack is actually thinking about: work, relationships, geography, the future. This is rare in Jack's network, which is otherwise heavily skewed toward professional/strategic contacts.
 
 The Asia visa question is interesting: Jack appears to be thinking about extended stays in Asia, and Jeff apparently surfaced the visa consideration (probably requiring a completed degree for long-stay visas in Japan or [[history/china]]).
 
 ## Eastwick Reference
 
-Dr. Paul Eastwick is a psychology researcher at UC Davis known for studying romantic attraction, compatibility, and what actually predicts relationship success. The fact that Jack and Jeff are discussing his research suggests both are thinking seriously about dating and relationships — not just casually.
+Dr. Paul Eastwick is a psychology researcher at UC Davis known for studying romantic attraction, compatibility, and what actually predicts relationship success. The fact that Jack and Jeff are discussing his research suggests both are thinking seriously about dating and relationships - not just casually.
 
 ## Psychology Honor Society
 
-Jeff is growing an honor society in psychology — likely Psi Chi (the international honor society in psychology) or a local chapter. This is a serious institutional project, not a club. Jeff appears to be at or near a university.
+Jeff is growing an honor society in psychology - likely Psi Chi (the international honor society in psychology) or a local chapter. This is a serious institutional project, not a club. Jeff appears to be at or near a university.
 
 ## Related
 - [[people/jack-luo]]

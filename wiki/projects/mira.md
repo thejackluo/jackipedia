@@ -8,9 +8,9 @@
 
 Efficore is a **unified energy optimization platform for data centers**, co-founded by Jack and [[people/kevin-zhang]]. The company's public domain is mira.energy.
 
-Jack leads Efficore's software and decision-making systems. Kevin brings deep expertise in energy systems and data center infrastructure — previously involved with the Northwestern Energy and Sustainability Club (NESC) and Q House.
+Jack leads Efficore's software and decision-making systems. Kevin brings deep expertise in energy systems and data center infrastructure - previously involved with the Northwestern Energy and Sustainability Club (NESC) and Q House.
 
-The summer 2024 period (June–September) shows intensive weekly team syncs in Notion — 14 logged "Mira Meetings" — suggesting the core product and architecture was being built out during this period.
+The summer 2024 period (June–September) shows intensive weekly team syncs in Notion - 14 logged "Mira Meetings" - suggesting the core product and architecture was being built out during this period.
 
 ## Meeting Log
 
@@ -34,13 +34,13 @@ The summer 2024 period (June–September) shows intensive weekly team syncs in N
 ## What Was Mira?
 
 Based on available signals:
-- The final meeting is labeled "After Pylon" — Pylon is an AI customer support tool (YC company); possibly Mira evaluated or integrated Pylon
+- The final meeting is labeled "After Pylon" - Pylon is an AI customer support tool (YC company); possibly Mira evaluated or integrated Pylon
 - The project had a structured meeting cadence with a co-founder/collaborator named "Jamie" (per the meeting source field "Jamie" for all Mira meetings)
 - The meetings ran at 2–3x per week intensity in August, suggesting a crunch period
 
 ## Significance
 
-Mira occupies a significant gap in the archive — the entire summer of 2024, concurrent with the Berkeley AI Hackathon (June 29) and the [[history/japan-trip-2024]] planning. It likely represents either a previous startup Jack was involved with that wound down before he pivoted to [[projects/agentdex]], or a parallel collaboration that influenced the AgentDex direction.
+Mira occupies a significant gap in the archive - the entire summer of 2024, concurrent with the Berkeley AI Hackathon (June 29) and the [[history/japan-trip-2024]] planning. It likely represents either a previous startup Jack was involved with that wound down before he pivoted to [[projects/agentdex]], or a parallel collaboration that influenced the AgentDex direction.
 
 The Berkeley AI Hackathon Top 15 win in June 2024 (from Jack's website) may have been Mira-related or AgentDex's precursor.
 

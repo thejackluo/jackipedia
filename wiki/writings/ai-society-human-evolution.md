@@ -7,7 +7,7 @@
 
 ## Overview
 
-A stream-of-consciousness speculative entry rated Bib Gourmand — [[people/jack-luo]]'s exceptional tier. Written in short bursts across a morning, this piece explores what happens at the intersection of AI capability and human identity. It reads like raw philosophical notes, unpolished but genuinely provocative.
+A stream-of-consciousness speculative entry rated Bib Gourmand - [[people/jack-luo]]'s exceptional tier. Written in short bursts across a morning, this piece explores what happens at the intersection of AI capability and human identity. It reads like raw philosophical notes, unpolished but genuinely provocative.
 
 ## The Questions
 
@@ -45,9 +45,9 @@ Jack writes in a rapid-fire style, posing questions rather than answering them:
 
 ## Themes
 
-This piece captures a recurring tension in Jack's thinking: the pull toward radical transcendence (become alien, sacrifice relationships, optimize at civilizational scale) vs. the human pull toward connection and meaning. The "1000 Elon Musks" observation is particularly notable — it suggests Jack thinks about potential not as rare but as unrealized due to environment and decision, not innate talent.
+This piece captures a recurring tension in Jack's thinking: the pull toward radical transcendence (become alien, sacrifice relationships, optimize at civilizational scale) vs. the human pull toward connection and meaning. The "1000 Elon Musks" observation is particularly notable - it suggests Jack thinks about potential not as rare but as unrealized due to environment and decision, not innate talent.
 
-The entry ends abruptly, as if Jack was interrupted or moved on — a characteristic of his most raw, generative writing sessions.
+The entry ends abruptly, as if Jack was interrupted or moved on - a characteristic of his most raw, generative writing sessions.
 
 ## Related
 - [[writings/walk-in-the-park]]

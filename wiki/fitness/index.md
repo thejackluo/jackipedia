@@ -19,7 +19,7 @@ Jack has maintained a fitness tracking practice since at least July 2021. The No
 
 ## Current Practice
 
-As of 2026, Jack is running in Atlanta area trails and going to the gym. A March 31, 2026 entry is labeled "Gym Session 1" — suggesting a new gym cycle beginning. The March 27, 2026 meeting note records:
+As of 2026, Jack is running in Atlanta area trails and going to the gym. A March 31, 2026 entry is labeled "Gym Session 1" - suggesting a new gym cycle beginning. The March 27, 2026 meeting note records:
 
 > "Exercise + meditation replacing caffeine as energy strategy"
 

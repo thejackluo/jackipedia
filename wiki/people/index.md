@@ -1,11 +1,11 @@
 # People
 **Last updated:** 2026-04-06
 
-This section contains pages about people in Jack's life — collaborators, advisors, friends, and contacts — drawn from Notion, the writing archive, meeting records, and public sources.
+This section contains pages about people in Jack's life - collaborators, advisors, friends, and contacts - drawn from Notion, the writing archive, meeting records, and public sources.
 
 ## Jack
 
-- [[people/jack-luo]] — the subject of this wiki
+- [[people/jack-luo]] - the subject of this wiki
 
 ## Close Friends and Collaborators
 
@@ -48,7 +48,7 @@ This section contains pages about people in Jack's life — collaborators, advis
 | [[people/hongyin]] | Subconscious, workflow caching |
 
 ## Meeting Records
-- [[people/meetings-index]] — full index of all logged meetings
+- [[people/meetings-index]] - full index of all logged meetings
 
 ## Notes on Coverage
 

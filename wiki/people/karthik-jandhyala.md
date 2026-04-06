@@ -9,7 +9,7 @@ Karthik Jandhyala (email: jandhyala.karthik.r@gmail.com) is a member of the Agen
 
 ## Role at AgentDex
 
-Karthik is listed as an assignee on an AgentDex task: "Arman onboarding call potentially?" — a High priority, In Progress item from the AgentDex project board (July 2025 timeframe). The fact that both Jack and Karthik were assigned suggests Karthik is either a co-founder, an early engineer, or a close collaborator on the project at that stage.
+Karthik is listed as an assignee on an AgentDex task: "Arman onboarding call potentially?" - a High priority, In Progress item from the AgentDex project board (July 2025 timeframe). The fact that both Jack and Karthik were assigned suggests Karthik is either a co-founder, an early engineer, or a close collaborator on the project at that stage.
 
 ## What Is Known
 
@@ -19,7 +19,7 @@ Karthik is listed as an assignee on an AgentDex task: "Arman onboarding call pot
 
 ## Context
 
-July 2025 was the period when AgentDex's team was forming. The codebase was being built out, the onboarding infrastructure was being established, and people like Arman and Karthik were being brought in. The task "Arman onboarding call — potentially?" suggests a deliberate team expansion process rather than an organic addition.
+July 2025 was the period when AgentDex's team was forming. The codebase was being built out, the onboarding infrastructure was being established, and people like Arman and Karthik were being brought in. The task "Arman onboarding call - potentially?" suggests a deliberate team expansion process rather than an organic addition.
 
 ## Related
 - [[people/jack-luo]]

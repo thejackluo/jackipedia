@@ -7,7 +7,7 @@
 
 ## Overview
 
-Jack's 2024 annual review, written in the "40 Questions" format — a structured self-reflection template. This is the richest single source of biographical facts in the archive. Written during CES week in Las Vegas.
+Jack's 2024 annual review, written in the "40 Questions" format - a structured self-reflection template. This is the richest single source of biographical facts in the archive. Written during CES week in Las Vegas.
 
 ## Key Facts from 2024
 
@@ -47,10 +47,10 @@ Not pursuing side projects hard enough.
 New laptop.
 
 ### Person Celebrated
-Ivan — for his consistent drive on Prodicity. (See [[people/ivan]] when created.)
+Ivan - for his consistent drive on Prodicity. (See [[people/ivan]] when created.)
 
 ### Song of the Year
-"Hacking to the Gate" — the [[interests/steins-gate]] opening theme.
+"Hacking to the Gate" - the [[interests/steins-gate]] opening theme.
 
 ### Compared to Prior Year
 Happier, slightly fatter, richer.
@@ -63,11 +63,11 @@ Bad YouTube, mindless eating.
 
 ## Analysis
 
-The pairing of "biggest achievement: transferring and social skills" with "biggest failure: not pursuing side projects" is revealing. The two are in tension — the social investment and the project investment compete for the same time and energy. Jack knows this.
+The pairing of "biggest achievement: transferring and social skills" with "biggest failure: not pursuing side projects" is revealing. The two are in tension - the social investment and the project investment compete for the same time and energy. Jack knows this.
 
-"Losing some friends" as a hardship alongside "improved social skills" as an achievement suggests 2024 was a year of deliberate social recalibration — letting some relationships go to build better ones.
+"Losing some friends" as a hardship alongside "improved social skills" as an achievement suggests 2024 was a year of deliberate social recalibration - letting some relationships go to build better ones.
 
-Japan as the defining travel experience, Steins;Gate as the song of the year — both point to a deep affinity for Japanese culture and aesthetics that runs through the archive.
+Japan as the defining travel experience, Steins;Gate as the song of the year - both point to a deep affinity for Japanese culture and aesthetics that runs through the archive.
 
 ## Related
 - [[writings/write-archive]]

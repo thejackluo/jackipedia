@@ -1,13 +1,13 @@
 # The Biggest Unsolved Question
 
-**Published:** January 24, 2026 — Medium
+**Published:** January 24, 2026 - Medium
 **Type:** Essay / philosophical question
 **Rating:** 2 Stars
 **Source:** [Read on Medium](https://thejackluo8.medium.com/the-biggest-unsolved-question-c8ba54c80275)
 
 ## Overview
 
-A short essay posing a question [[people/jack-luo]] had not resolved: how do you create exceptional environments everywhere — not just in elite institutions?
+A short essay posing a question [[people/jack-luo]] had not resolved: how do you create exceptional environments everywhere - not just in elite institutions?
 
 Published the same day as his [[history/ces]] NVIDIA Keynote writeup, during the CES trip to Las Vegas.
 
@@ -25,11 +25,11 @@ Jack had experienced this firsthand:
 
 ## The Actual Question
 
-Not "how do I get into MIT" — but something more interesting:
+Not "how do I get into MIT" - but something more interesting:
 
 > Is there a way you can create exceptional environments everywhere? Does it have to be constraints like this?
 
-The vision: exceptional environments that also promote diversity of thought, without friction of access. If that were possible, "the future is going to be amazing" — pointing to breakthroughs in bioscience, distributed research, innovations that change the world.
+The vision: exceptional environments that also promote diversity of thought, without friction of access. If that were possible, "the future is going to be amazing" - pointing to breakthroughs in bioscience, distributed research, innovations that change the world.
 
 ## Context
 

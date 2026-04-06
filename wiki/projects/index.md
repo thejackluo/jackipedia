@@ -1,7 +1,7 @@
 # Projects
 **Last updated:** 2026-04-06
 
-This section covers Jack's major projects — startups, events, and initiatives — documented from Notion, meeting records, and public sources.
+This section covers Jack's major projects - startups, events, and initiatives - documented from Notion, meeting records, and public sources.
 
 ## Active
 
@@ -35,7 +35,7 @@ Jack has a pattern of transforming attendance into organization:
 |-------|------|--------|
 | Berkeley AI Hackathon | June 2024 | Top 15 |
 | [[history/treehacks-2025]] (Stanford) | Feb 2025 | Attended |
-| CodeDay SF | — | 1st place |
+| CodeDay SF | - | 1st place |
 
 ## Related
 - [[people/jack-luo]]

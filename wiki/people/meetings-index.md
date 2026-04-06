@@ -3,7 +3,7 @@
 **Category:** People
 **Last updated:** 2026-04-06
 
-A comprehensive log of notable meetings across [[people/jack-luo]]'s life — customer discovery calls, advisor sessions, team syncs, and one-on-ones. Sourced from Notion meetings database.
+A comprehensive log of notable meetings across [[people/jack-luo]]'s life - customer discovery calls, advisor sessions, team syncs, and one-on-ones. Sourced from Notion meetings database.
 
 ## Customer Discovery ([[projects/agentdex]], Jan–Feb 2026)
 
@@ -21,7 +21,7 @@ Jack conducted 24+ customer discovery interviews in January and February 2026, v
 | CD 14 | Nimesh | Jan 27, 2026 | Owns 3 hotels, manages 20+ with Best Western. Going to conference Feb 9–12 with Best Western decision makers. "Genuinely wants to help us get revenue" |
 | CD 15 | Armaan Jain | Jan 27, 2026 | Founder of Phantom |
 | CD 16 | Armaan Agrawal | Jan 30, 2026 | No notes |
-| CD 17 | Anthony | Jan 26, 2026 | Crypto analytics startup — "Bloomberg for crypto." Heavy on Snowflake, Excel. "This probably won't work in finance due to regulations" |
+| CD 17 | Anthony | Jan 26, 2026 | Crypto analytics startup - "Bloomberg for crypto." Heavy on Snowflake, Excel. "This probably won't work in finance due to regulations" |
 | CD 19 | Sunny | Jan 31, 2026 | Data center startup |
 | CD 20 | Dewika Bhagwat | Feb 5, 2026 | Notes via Granola |
 | CD 23 | Nick Sortino | Feb 12, 2026 | Looks at Twitter/X for live sports data + internal DataAnalytics platform + logs progress on Google Sheets. "Very repetitive." Speed + accuracy as value differentiator |
@@ -38,7 +38,7 @@ Jack conducted 24+ customer discovery interviews in January and February 2026, v
 
 | Meeting | Date | Notes |
 |---------|------|-------|
-| Jack x Hongyin — Subconscious | Jan 28, 2026 | Collab next week in person on workflow caching |
+| Jack x Hongyin - Subconscious | Jan 28, 2026 | Collab next week in person on workflow caching |
 
 ## Mira Team Syncs (Jun–Sep 2024)
 
@@ -56,16 +56,16 @@ Weekly Mira meetings sourced by Jamie, running through the summer 2024 project w
 | Aug 9, 2024 | Team Sync |
 | Aug 13, 2024 | Team Sync |
 | Aug 17, 2024 | Team Sync |
-| Aug 30, 2024 | Team Sync (After Pylon — a conference or event) |
+| Aug 30, 2024 | Team Sync (After Pylon - a conference or event) |
 | Sep 5, 2024 | Team Sync |
 | Sep 10, 2024 | Team Sync |
-| Sep 12, 2024 | Final meeting — project wound down Sep 2024 |
+| Sep 12, 2024 | Final meeting - project wound down Sep 2024 |
 
 ## Hiring
 
 | Meeting | Date | Notes |
 |---------|------|-------|
-| Karthik — 2nd interview | Mar 11, 2025 | Hiring interview via Granola |
+| Karthik - 2nd interview | Mar 11, 2025 | Hiring interview via Granola |
 
 ## December 2025 NY Meetings
 
@@ -81,8 +81,8 @@ During what appears to be a New York trip in December 2025:
 | Meeting | Notes |
 |---------|-------|
 | WRITER Engineering Meeting | Sep 22, 2025. Series C, $1.9B valuation. Meeting with Patrick Anderson (Senior Technical Recruiter). Stage: Ghosted |
-| Poke Product Feedback — Miles Dobrenski | Sep 2025 |
-| STABU (Stock Trading at BU) | Oct 2, 2025. Weekly meeting at BU — Jack was briefly in the Boston area |
+| Poke Product Feedback - Miles Dobrenski | Sep 2025 |
+| STABU (Stock Trading at BU) | Oct 2, 2025. Weekly meeting at BU - Jack was briefly in the Boston area |
 | Ishan Meeting Prep | Advisor / strategic 1:1. Two versions in Notion |
 | All Hands Meeting | Dec 15, 2025. Agentdex team |
 | Startup Planning and Strategy Meeting | Undated |

@@ -7,7 +7,7 @@
 
 ## Overview
 
-Nick Sortino was one of the last customer discovery interviews in [[people/jack-luo]]'s January–February 2026 sprint for [[projects/agentdex]] — CD 23 out of at least 24. He works in sports data analytics.
+Nick Sortino was one of the last customer discovery interviews in [[people/jack-luo]]'s January–February 2026 sprint for [[projects/agentdex]] - CD 23 out of at least 24. He works in sports data analytics.
 
 ## Meeting Notes (CD 23, Feb 12, 2026)
 
@@ -24,7 +24,7 @@ All of it manual, repetitive, time-sensitive. The exact category of work AgentDe
 
 ## Significance
 
-Nick's use case is a textbook AI automation target: high-frequency data gathering from multiple sources, manual logging, accuracy-dependent. Jack noted "Speed + accuracy is the important value differentiator" — meaning the customer would pay for a system that was faster and more reliable than manual monitoring.
+Nick's use case is a textbook AI automation target: high-frequency data gathering from multiple sources, manual logging, accuracy-dependent. Jack noted "Speed + accuracy is the important value differentiator" - meaning the customer would pay for a system that was faster and more reliable than manual monitoring.
 
 Whether Nick became a customer or a lead is not recorded in the notes.
 

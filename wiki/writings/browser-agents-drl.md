@@ -7,7 +7,7 @@
 
 ## Overview
 
-A technical essay written in November 2025 proposing four concrete improvements to browser-based AI agents (web automation tools like Comet, Composite, Fellou). This is Jack's most technically rigorous piece of writing in the archive — rated 3 Stars. It reads as a genuine product and research proposal, not just speculation.
+A technical essay written in November 2025 proposing four concrete improvements to browser-based AI agents (web automation tools like Comet, Composite, Fellou). This is Jack's most technically rigorous piece of writing in the archive - rated 3 Stars. It reads as a genuine product and research proposal, not just speculation.
 
 ## Context
 
@@ -49,13 +49,13 @@ Users repeat similar tasks with similar preferences. Agents should learn these o
 
 ### 4. Dynamic Workflow Templates
 
-For power users, agents should support abstract workflow templates — reusable policies for common task types:
+For power users, agents should support abstract workflow templates - reusable policies for common task types:
 
 > "If people or users want to be power users in the future, I think there should be the ability to create power workflows for the different types of tasks, like travel planning or writing an essay, etc. This is similar to having an abstract class in computer science, except in this case you're creating workflows instead. It's like creating a policy for these AI agents."
 
 ## Significance
 
-This essay demonstrates Jack's ability to think at multiple levels of abstraction simultaneously — from RL theory to UX design to product strategy — and synthesize them into concrete proposals. It predates many features that were later built into web agent products (workflow templates, preference learning).
+This essay demonstrates Jack's ability to think at multiple levels of abstraction simultaneously - from RL theory to UX design to product strategy - and synthesize them into concrete proposals. It predates many features that were later built into web agent products (workflow templates, preference learning).
 
 ## Related
 - [[concepts/writing-archive]]

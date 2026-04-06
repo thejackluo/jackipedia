@@ -1,12 +1,12 @@
 # Electric Unicycle (EUC)
 
 **Category:** Interests / Fitness
-**Summary:** Jack's obsession with electric unicycles — 2,500+ miles, the most unusual sport in his life
+**Summary:** Jack's obsession with electric unicycles - 2,500+ miles, the most unusual sport in his life
 **Last updated:** 2026-04-06
 
 ## Overview
 
-Jack rides electric unicycles. Not as a novelty — as a primary mode of transportation and a genuine obsession. He has logged 2,500+ miles on one, making it one of the most time-intensive physical activities in his life alongside running.
+Jack rides electric unicycles. Not as a novelty - as a primary mode of transportation and a genuine obsession. He has logged 2,500+ miles on one, making it one of the most time-intensive physical activities in his life alongside running.
 
 An electric unicycle (EUC) is exactly what it sounds like: a single-wheeled self-balancing electric vehicle you stand on and lean to steer. It requires significant practice to learn, carries real injury risk at speed, and is almost universally considered strange by people who don't ride one. Jack does not care.
 
@@ -32,9 +32,9 @@ The EUC community is small, globally distributed, and has a strong online presen
 
 ## Connection to Other Interests
 
-- **Running** — both are self-powered transport with a measurable metrics layer
-- **Factorio** — both reward systems thinking and have a high skill ceiling
-- **Cities** — EUC is genuinely useful in dense urban environments; it's a city vehicle
+- **Running** - both are self-powered transport with a measurable metrics layer
+- **Factorio** - both reward systems thinking and have a high skill ceiling
+- **Cities** - EUC is genuinely useful in dense urban environments; it's a city vehicle
 
 ## Related
 
@@ -46,4 +46,4 @@ The EUC community is small, globally distributed, and has a strong online presen
 
 ## Photos
 
-![Indoor shooting range, November 2025 — another high-skill-ceiling activity in Jack's rotation](/assets/photos/commons/indoor-shooting-range.png)
+![Indoor shooting range, November 2025 - another high-skill-ceiling activity in Jack's rotation](/assets/photos/commons/indoor-shooting-range.png)

@@ -27,13 +27,13 @@ This section documents the eras, events, and places that have shaped Jack's life
 ## Places
 
 Jack has lived in or spent significant time in:
-- **Cupertino, CA** — grew up here; the reference environment
-- **San Francisco, CA** — recurring trips during college, hacker houses
-- **Atlanta, GA** — Georgia Tech
-- **Boston, MA** — MIT SIPB, hacker house, 2025
-- **Las Vegas, NV** — CES 2025
-- **New York, NY** — NY Hacker House 2025
-- **Japan** — December 2024
+- **Cupertino, CA** - grew up here; the reference environment
+- **San Francisco, CA** - recurring trips during college, hacker houses
+- **Atlanta, GA** - Georgia Tech
+- **Boston, MA** - MIT SIPB, hacker house, 2025
+- **Las Vegas, NV** - CES 2025
+- **New York, NY** - NY Hacker House 2025
+- **Japan** - December 2024
 
 ## The Arc
 

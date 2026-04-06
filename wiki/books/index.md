@@ -16,13 +16,13 @@ Jack's reading list is tracked in Notion's "Jotion V4 Media List" database. It c
 | Book | Author | Category | Status | Jack's Note |
 |------|--------|----------|--------|-------------|
 | Billion Dollar Whale | Tom Wright, Bradley Hope | Business | In Progress | "Jho Low is probably one of the most interesting guys that I have had the honor to read..." |
-| System Design Interview | Alex Xu | Technical | In Progress | — |
-| Life 3.0 | Max Tegmark | SciFi/AI | Finished | — |
-| Models | Mark Manson | Improvement | In Progress | — |
-| Deep Learning Illustrated | Krohn, Beyleveld, Bassens | AI | In Progress | — |
+| System Design Interview | Alex Xu | Technical | In Progress | - |
+| Life 3.0 | Max Tegmark | SciFi/AI | Finished | - |
+| Models | Mark Manson | Improvement | In Progress | - |
+| Deep Learning Illustrated | Krohn, Beyleveld, Bassens | AI | In Progress | - |
 | Essentialism | Greg McKeown | Personal Development | Finished | "This book is about being able to do less." |
 | 50 Political Ideas You Really Need to Know | Ben Dupré | History | Finished | "More like an encyclopedia than engaging." |
-| Understanding Deep Learning | — | AI | In Progress | — |
+| Understanding Deep Learning | - | AI | In Progress | - |
 
 ## Currently Reading (In Progress, Unrated)
 
@@ -30,13 +30,13 @@ Jack's reading list is tracked in Notion's "Jotion V4 Media List" database. It c
 |------|--------|-------|
 | Grokking Deep Reinforcement Learning | Miguel Morales | Started |
 | Power: Why Some People Have It and Others Don't | Jeffrey Pfeffer | Started |
-| Outline of Classical Chinese Grammar | Edwin Pulleyblank | — |
-| Taking Charge of Adult ADHD | Russell Barkley | — |
-| The Rare Find | George Anders | — |
-| The Art of Strategy | Dixit, Nalebuff | — |
-| Elements of Programming Interviews in Python | Aziz, Lee, Prakash | — |
-| The Power to Compete | Ryoichi Mikitani | — |
-| Why Nations Fail | Acemoglu, Robinson | — |
+| Outline of Classical Chinese Grammar | Edwin Pulleyblank | - |
+| Taking Charge of Adult ADHD | Russell Barkley | - |
+| The Rare Find | George Anders | - |
+| The Art of Strategy | Dixit, Nalebuff | - |
+| Elements of Programming Interviews in Python | Aziz, Lee, Prakash | - |
+| The Power to Compete | Ryoichi Mikitani | - |
+| Why Nations Fail | Acemoglu, Robinson | - |
 | Models: Attract Women Through Honesty | Mark Manson | Duplicate entry, same as above |
 
 ## Notable Observations
@@ -49,7 +49,7 @@ Jack's reading list is tracked in Notion's "Jotion V4 Media List" database. It c
 
 **DRL + browser agents connection:** Jack is reading *Grokking Deep Reinforcement Learning* at the same time he wrote his 3-star technical essay on using DRL for browser agents. The book is feeding the essay.
 
-**Power (Pfeffer):** Jeffrey Pfeffer's *Power* is a hardheaded, amoral analysis of how power actually works in organizations — not how it should. Jack's reading this alongside Essentialism (do less) and Models (authentic attraction). An interesting triad.
+**Power (Pfeffer):** Jeffrey Pfeffer's *Power* is a hardheaded, amoral analysis of how power actually works in organizations - not how it should. Jack's reading this alongside Essentialism (do less) and Models (authentic attraction). An interesting triad.
 
 ## Pages
 

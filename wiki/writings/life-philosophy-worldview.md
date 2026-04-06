@@ -7,7 +7,7 @@
 
 ## Overview
 
-Written two months after the [[philosophy/walk-in-the-park-framework]] framework, this entry extends Jack's philosophical thinking. Rated 2 Stars — a solid piece, though not at the peak of the Walk in the Park.
+Written two months after the [[philosophy/walk-in-the-park-framework]] framework, this entry extends Jack's philosophical thinking. Rated 2 Stars - a solid piece, though not at the peak of the Walk in the Park.
 
 ## Position in the Sequence
 
@@ -16,11 +16,11 @@ This is part of a dense cluster of philosophical writing in April 2025:
 - April 17: AI, Society and Human Evolution (Bib Gourmand)
 - April 19: Society, Status and Authenticity (2 Stars)
 
-April 2025 appears to be Jack's most productive philosophical writing period — multiple high-rated pieces in one week. This may coincide with a period of relative stability or a burst of introspection following the turbulent early 2025 entries.
+April 2025 appears to be Jack's most productive philosophical writing period - multiple high-rated pieces in one week. This may coincide with a period of relative stability or a burst of introspection following the turbulent early 2025 entries.
 
 ## Themes (inferred from title and sequence)
 
-The "Life Philosophy and Worldview" framing suggests this piece synthesizes across domains — not just a single topic but an attempt at a unified view. Coming after the Walk in the Park framework, it likely either:
+The "Life Philosophy and Worldview" framing suggests this piece synthesizes across domains - not just a single topic but an attempt at a unified view. Coming after the Walk in the Park framework, it likely either:
 1. Extends the four-principle framework with additional dimensions
 2. Tests the framework against real situations
 3. Integrates the framework with his views on AI, society, and human potential

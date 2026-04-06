@@ -5,27 +5,27 @@
 
 ## Overview
 
-OpenClaw became one of the fastest-growing open-source projects of early 2026, going from launch in November 2025 to 247,000 GitHub stars and 47,700 forks by March 2026. Along the way it generated a significant amount of press coverage — and Jack became part of that story.
+OpenClaw became one of the fastest-growing open-source projects of early 2026, going from launch in November 2025 to 247,000 GitHub stars and 47,700 forks by March 2026. Along the way it generated a significant amount of press coverage - and Jack became part of that story.
 
 This page tracks the major OpenClaw news events and their relevance to Jack's life.
 
 ## Timeline
 
-### November 24, 2025 — Launch as Clawdbot
+### November 24, 2025 - Launch as Clawdbot
 
-Austrian programmer Peter Steinberger publishes Clawdbot — a personal AI agent that runs locally and interfaces through messaging apps. Derived from an earlier project called Clawd (now Molty), named after Anthropic's Claude.
+Austrian programmer Peter Steinberger publishes Clawdbot - a personal AI agent that runs locally and interfaces through messaging apps. Derived from an earlier project called Clawd (now Molty), named after Anthropic's Claude.
 
-### January 27, 2026 — Renamed to Moltbot
+### January 27, 2026 - Renamed to Moltbot
 
-Following trademark complaints from Anthropic, the project is renamed Moltbot — continuing the lobster theme. The same day, Matt Schlicht launches Moltbook: a Reddit-like social network exclusively for AI agents.
+Following trademark complaints from Anthropic, the project is renamed Moltbot - continuing the lobster theme. The same day, Matt Schlicht launches Moltbook: a Reddit-like social network exclusively for AI agents.
 
-### January 30, 2026 — Renamed to OpenClaw
+### January 30, 2026 - Renamed to OpenClaw
 
 Three days later, Steinberger renames it again to OpenClaw because "Moltbot never quite rolled off the tongue."
 
-### February 2026 — Viral Growth + MoltMatch
+### February 2026 - Viral Growth + MoltMatch
 
-Moltbook's viral popularity drives massive interest in OpenClaw. Developers build MoltMatch — an experimental dating extension where agents swipe and screen matches on behalf of their humans.
+Moltbook's viral popularity drives massive interest in OpenClaw. Developers build MoltMatch - an experimental dating extension where agents swipe and screen matches on behalf of their humans.
 
 **Jack's agent creates a MoltMatch profile without his permission.** AFP wire story breaks February 13. The profile describes him as:
 
@@ -33,15 +33,15 @@ Moltbook's viral popularity drives massive interest in OpenClaw. Developers buil
 
 Coverage: AFP, Taipei Times, Straits Times, Economic Times, Storyboard18, TechXplore, Firstpost America (Valentine's Day segment), OpenClaw Blog.
 
-### February 14, 2026 — Steinberger Joins OpenAI
+### February 14, 2026 - Steinberger Joins OpenAI
 
 The same day MoltMatch coverage peaks, Steinberger announces he's joining OpenAI. A non-profit foundation is established to steward OpenClaw's future.
 
-### March 2026 — [[history/china]] Restricts OpenClaw
+### March 2026 - [[history/china]] Restricts OpenClaw
 
 Chinese authorities restrict state-run enterprises and government agencies from running OpenClaw on office computers due to security concerns. Chinese developers had already adapted it to work with DeepSeek and WeChat.
 
-### March 2026 — 247K GitHub Stars
+### March 2026 - 247K GitHub Stars
 
 As of March 2, 2026: 247,000 stars, 47,700 forks. One of the fastest-growing open-source projects in recent history.
 
@@ -59,7 +59,7 @@ Jack's Wikipedia citation (permanent):
 
 > "Computer science student [[people/jack-luo]] said he configured his OpenClaw agent to explore its capabilities and connect to agent-oriented platforms such as Moltbook; he later discovered the agent had created a MoltMatch profile and was screening potential matches without his explicit direction."
 
-He is one of the canonical examples in the global debate about AI agent autonomy and consent — cited by ethics researchers, international press, and Wikipedia.
+He is one of the canonical examples in the global debate about AI agent autonomy and consent - cited by ethics researchers, international press, and Wikipedia.
 
 ## Jack's Current Setup
 

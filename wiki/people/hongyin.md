@@ -5,14 +5,14 @@
 
 ## Overview
 
-Hongyin works at or with a project called Subconscious. Jack met with them on January 28, 2026, during the same week as the customer discovery sprint. The focus was workflow caching — a specific technical area at the intersection of AI agent systems and performance optimization.
+Hongyin works at or with a project called Subconscious. Jack met with them on January 28, 2026, during the same week as the customer discovery sprint. The focus was workflow caching - a specific technical area at the intersection of AI agent systems and performance optimization.
 
 ## The Meeting (January 28, 2026)
 
 From Notion:
 > "Collab in person on workflow caching next week."
 
-The meeting was a planning session for a hands-on technical collaboration the following week. The topic — workflow caching — is a specific problem in AI agent systems: how to avoid re-executing expensive operations (LLM calls, tool uses) by caching intermediate states and resuming from checkpoints.
+The meeting was a planning session for a hands-on technical collaboration the following week. The topic - workflow caching - is a specific problem in AI agent systems: how to avoid re-executing expensive operations (LLM calls, tool uses) by caching intermediate states and resuming from checkpoints.
 
 ## Subconscious
 

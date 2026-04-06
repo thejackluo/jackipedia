@@ -25,7 +25,7 @@ The two domains are pointing at each other. The content of the page is one of th
 
 Geometry Dash is a rhythm-based platformer game by RobTop Games, released in 2013. Players navigate a cube (or ship, or UFO, depending on the level) through obstacle courses synchronized to EDM music. The game has an extremely dedicated community of players who build custom levels with the in-game editor. Level 21 is one of the hardest in the base game.
 
-The GitHub username `21geometrydash` suggests Ryan has been in the Geometry Dash community long enough that it became a permanent part of his digital identity — the kind of username you make at age 14 and then keep because it's already attached to too many accounts.
+The GitHub username `21geometrydash` suggests Ryan has been in the Geometry Dash community long enough that it became a permanent part of his digital identity - the kind of username you make at age 14 and then keep because it's already attached to too many accounts.
 
 ## What We Can Infer
 
@@ -41,7 +41,7 @@ This is either very cool or the single most unintentionally mysterious personal 
 
 ## Connection to Jack
 
-Ryan appears in Jack's Wikipedia contribution history — Jack uploaded a photo of Ryan to [[interests/wikimedia-commons]] in December 2025, captioned:
+Ryan appears in Jack's Wikipedia contribution history - Jack uploaded a photo of Ryan to [[interests/wikimedia-commons]] in December 2025, captioned:
 
 > "Ryan in the car, December 2025, in full 'human bear' mode."
 

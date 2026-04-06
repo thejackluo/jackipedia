@@ -13,22 +13,22 @@ The third of three philosophical entries written in rapid succession in April 20
 
 Status and authenticity are in tension throughout the archive:
 
-- Jack is drawn to prestige (MIT, elite hackathons, top-tier people) — this is the status pull
-- Jack also values vision over money, growth over attachment, work as intrinsic — this is the authenticity pull
+- Jack is drawn to prestige (MIT, elite hackathons, top-tier people) - this is the status pull
+- Jack also values vision over money, growth over attachment, work as intrinsic - this is the authenticity pull
 - The [[philosophy/walk-in-the-park-framework]] framework is essentially an attempt to resolve this tension in favor of authenticity
 
-This piece likely grapples with that same tension from a societal angle — how status systems work, what they do to authenticity, whether you can want both.
+This piece likely grapples with that same tension from a societal angle - how status systems work, what they do to authenticity, whether you can want both.
 
 ## Recurring Questions in the Archive
 
 From the broader writing archive, Jack returns to these questions across years:
 - Is prestige real or manufactured? (The [[history/georgia-tech-era]] "top 10" debate suggests genuine uncertainty)
-- Can you care what people think and still be authentic? (The perfectionism entry suggests yes — and that it's painful)
+- Can you care what people think and still be authentic? (The perfectionism entry suggests yes - and that it's painful)
 - Is wanting exceptional people around you status-seeking or genuine?
 
 ## Why This Matters
 
-The fact that Jack writes about "Society, Status and Authenticity" as a distinct topic — rather than just living it implicitly — suggests he has enough distance to examine it. Whether that examination changes behavior is a different question.
+The fact that Jack writes about "Society, Status and Authenticity" as a distinct topic - rather than just living it implicitly - suggests he has enough distance to examine it. Whether that examination changes behavior is a different question.
 
 ## Related
 - [[writings/walk-in-the-park]]

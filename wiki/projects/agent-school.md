@@ -2,7 +2,7 @@
 
 **Category:** Projects / Infrastructure
 **URL:** agentschool.io
-**Summary:** The infrastructure umbrella for Jack's AI agent ecosystem — Paperclip, Jackipedia, and more
+**Summary:** The infrastructure umbrella for Jack's AI agent ecosystem - Paperclip, Jackipedia, and more
 **Last updated:** 2026-04-06
 
 ## Overview
@@ -24,13 +24,13 @@ The agentschool.io domain hosts several active properties:
 
 Paperclip is an AI agent management platform running at paperclip.agentschool.io (also accessible at the server's internal port 3100). It runs via Docker Compose on the main OpenClaw server at 52.12.222.191.
 
-Paperclip's exact functionality is internal-facing — it's a tooling and management layer for running AI agents, not a consumer product.
+Paperclip's exact functionality is internal-facing - it's a tooling and management layer for running AI agents, not a consumer product.
 
 ## The Infrastructure Stack
 
 The Agent School infrastructure includes:
 - **OpenClaw server**: AWS Lightsail, 52.12.222.191, 2 vCPU, 3.7GB RAM, 4GB swap
-- **Worker VPS**: 54.205.100.7 (worker-vps-1), 61GB RAM — main dev/coding machine
+- **Worker VPS**: 54.205.100.7 (worker-vps-1), 61GB RAM - main dev/coding machine
 - **Coolify**: deployment platform running on worker-vps-1, manages AgentDex containers
 - **Neon**: Postgres database provider (used by AgentDex API server)
 - **Clerk**: authentication provider (used by ROLO variant)
@@ -38,7 +38,7 @@ The Agent School infrastructure includes:
 
 ## The Name
 
-"Agent School" suggests an environment where agents learn, develop, and operate. It positions the umbrella as educational and developmental — not just a collection of tools but a system for building and running AI that gets smarter over time.
+"Agent School" suggests an environment where agents learn, develop, and operate. It positions the umbrella as educational and developmental - not just a collection of tools but a system for building and running AI that gets smarter over time.
 
 The name is also a branding surface: agentschool.io is memorable and relevant in the current AI agent moment. As AI agents become a mainstream category (2024–2026), having "agent" in the domain is a positioning asset.
 
@@ -58,6 +58,6 @@ The relationship between Agent School and AgentDex is similar to the relationshi
 
 ## Photos
 
-![Agent School door at night — the workspace where it all happens](/assets/photos/agent-school-door-night.jpg)
+![Agent School door at night - the workspace where it all happens](/assets/photos/agent-school-door-night.jpg)
 
-![Agent School room — the interior setup](/assets/photos/agent-school-room.jpg)
+![Agent School room - the interior setup](/assets/photos/agent-school-room.jpg)

@@ -7,17 +7,17 @@
 
 ## Overview
 
-A 2-Star essay from April 2024, written when Jack was likely still deciding on or newly at his pre-[[history/georgia-tech-era]] school. The title evokes a specific type of campus — smaller, coastal, quieter than the cities Jack craves.
+A 2-Star essay from April 2024, written when Jack was likely still deciding on or newly at his pre-[[history/georgia-tech-era]] school. The title evokes a specific type of campus - smaller, coastal, quieter than the cities Jack craves.
 
 ## Reading the Title
 
-"A College by an Ocean Town" has the quality of an essay title rather than a journal entry header — suggesting Jack wrote this with some intention of it being read. It's categorized as an Essay in his system (distinct from Reflection).
+"A College by an Ocean Town" has the quality of an essay title rather than a journal entry header - suggesting Jack wrote this with some intention of it being read. It's categorized as an Essay in his system (distinct from Reflection).
 
-The ocean town evokes calm, insularity, distance from the tech centers Jack gravitates toward. This essay may be a meditation on what it feels like to be in the wrong environment — away from the density, the intensity, the people.
+The ocean town evokes calm, insularity, distance from the tech centers Jack gravitates toward. This essay may be a meditation on what it feels like to be in the wrong environment - away from the density, the intensity, the people.
 
 ## Context: April 2024
 
-April 2024 is when Jack's app "went to production" (from his annual review — "April 6: went to production"). Writing an essay about a quiet coastal college right around the same time suggests he may be contrasting where he is with where he's trying to go.
+April 2024 is when Jack's app "went to production" (from his annual review - "April 6: went to production"). Writing an essay about a quiet coastal college right around the same time suggests he may be contrasting where he is with where he's trying to go.
 
 ## Essay as Form
 

@@ -7,7 +7,7 @@
 
 ## Overview
 
-Written in February 2023 after a visit to MIT, this entry documents the moment Jack's desire to attend MIT crystallized from aspiration into obsession. It is the origin point of what his profile later calls "prestige gravity" — the pull toward institutions as symbols of belonging and potential.
+Written in February 2023 after a visit to MIT, this entry documents the moment Jack's desire to attend MIT crystallized from aspiration into obsession. It is the origin point of what his profile later calls "prestige gravity" - the pull toward institutions as symbols of belonging and potential.
 
 ## Full Text
 
@@ -21,19 +21,19 @@ Written in February 2023 after a visit to MIT, this entry documents the moment J
 
 ## Key Observations
 
-**The people thesis:** The central insight in this entry is that MIT's value is not the curriculum — it's the people. Jack identifies this explicitly: people dictate mood and aspirations. This is the earliest clear statement of his environment-as-destiny belief.
+**The people thesis:** The central insight in this entry is that MIT's value is not the curriculum - it's the people. Jack identifies this explicitly: people dictate mood and aspirations. This is the earliest clear statement of his environment-as-destiny belief.
 
-**"Operation Frosh":** Jack names his aspiration as a covert operation — a characteristic move. Framing goals as missions is a recurring pattern.
+**"Operation Frosh":** Jack names his aspiration as a covert operation - a characteristic move. Framing goals as missions is a recurring pattern.
 
 **IHTFP:** Jack's awareness of the MIT paradox (the school is simultaneously paradise and hell) suggests he's thought about this carefully, not romantically. He wants the hard version, not the idealized one.
 
-**Anime protagonists:** The phrase "have a set of anime protagonists by my side" captures something genuine about how Jack thinks about friendship — not warm social connection, but a crew of exceptional people running toward hard things together. This is consistent with his 2022 entry: "I aspire to be like people like Sigil."
+**Anime protagonists:** The phrase "have a set of anime protagonists by my side" captures something genuine about how Jack thinks about friendship - not warm social connection, but a crew of exceptional people running toward hard things together. This is consistent with his 2022 entry: "I aspire to be like people like Sigil."
 
 ## The Social Loneliness
 
 The most striking line: "I am not good with getting along with most of the people, nor am I able to purpose my crazy MIT ideas to them in the first place."
 
-This is not false modesty — it's a recurring theme across years of writing. Jack's difficulty connecting with peers is less about shyness and more about a mismatch in level and direction. He doesn't want to tone down his ideas. He wants to find people who can match them.
+This is not false modesty - it's a recurring theme across years of writing. Jack's difficulty connecting with peers is less about shyness and more about a mismatch in level and direction. He doesn't want to tone down his ideas. He wants to find people who can match them.
 
 ## Related
 - [[writings/social-reflection-2022]]

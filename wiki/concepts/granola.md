@@ -7,11 +7,11 @@
 
 ## Overview
 
-Granola is an AI-powered meeting notes tool that runs on macOS, listens to meetings (via system audio capture), and produces structured AI summaries automatically. Jack uses it as his primary meeting documentation system — the Notion meetings database is full of entries tagged "Source: Granola."
+Granola is an AI-powered meeting notes tool that runs on macOS, listens to meetings (via system audio capture), and produces structured AI summaries automatically. Jack uses it as his primary meeting documentation system - the Notion meetings database is full of entries tagged "Source: Granola."
 
 ## How It Works
 
-Granola runs in the background during a call. You don't need to share a bot link or invite anyone — it captures the audio directly from your Mac's system output. After the meeting, it produces a transcript and structured summary with:
+Granola runs in the background during a call. You don't need to share a bot link or invite anyone - it captures the audio directly from your Mac's system output. After the meeting, it produces a transcript and structured summary with:
 
 - Summary of what was discussed
 - Decisions made
@@ -44,7 +44,7 @@ The pattern: every significant experience gets captured in a structured system. 
 
 Granola launched in 2023 and has grown quickly in the founder/knowledge worker segment. It competes with tools like Otter.ai, Fireflies, and tl;dv. Its differentiation: no bot join required, cleaner UI, better AI summaries, and deeper integration with macOS.
 
-It is venture-backed and actively developing. The core insight — meeting notes should be automatically generated and structured, not manually taken — is correct and will persist regardless of which tool wins.
+It is venture-backed and actively developing. The core insight - meeting notes should be automatically generated and structured, not manually taken - is correct and will persist regardless of which tool wins.
 
 ## Related
 

@@ -9,13 +9,13 @@ Georgia Tech (Georgia Institute of Technology) is where Jack transferred in Fall
 
 ## The Transfer
 
-Jack fought for the transfer to Georgia Tech — the word "fight" is used in his annual review: "transferring to Georgia Tech" as an achievement, with the implicit understanding it wasn't automatic. Transfer admissions to GT's CS program are competitive.
+Jack fought for the transfer to Georgia Tech - the word "fight" is used in his annual review: "transferring to Georgia Tech" as an achievement, with the implicit understanding it wasn't automatic. Transfer admissions to GT's CS program are competitive.
 
 His reasons, documented in the January and February 2025 reflections:
 - Better engineering environment than previous college
 - Proximity to serious students and career opportunities
 - A fresh start socially
-- A chance to not repeat the Cupertino mistake — to recognize exceptional people and actually engage with them
+- A chance to not repeat the Cupertino mistake - to recognize exceptional people and actually engage with them
 
 ## The Reality vs. the Expectation
 
@@ -31,7 +31,7 @@ And yet the loneliness persisted:
 
 ## Academic Direction
 
-In November 2024, Jack met with James Preiss — a PhD robotics advisor who recommended:
+In November 2024, Jack met with James Preiss - a PhD robotics advisor who recommended:
 - Understanding robotics as shifting from math models to ML
 - Taking ME (Mechanical Engineering) and EE (Electrical Engineering) courses
 
@@ -39,7 +39,7 @@ This suggests Jack was actively building out his academic trajectory at GT to su
 
 ## Boston Period (March 2025)
 
-At some point in early-mid 2025, Jack spent time in Boston — possibly as part of an MIT SIPB collaboration, a hacker house, or a startup sprint. The "Boston & The Future" reflection (March 2025, 3 Stars) documents this period. It coincides with his MIT connection (SIPB Arc Project).
+At some point in early-mid 2025, Jack spent time in Boston - possibly as part of an MIT SIPB collaboration, a hacker house, or a startup sprint. The "Boston & The Future" reflection (March 2025, 3 Stars) documents this period. It coincides with his MIT connection (SIPB Arc Project).
 
 ## CSA Dynasty and Insomnia Cookies (March 2025)
 
@@ -51,7 +51,7 @@ By early 2026, Jack's fitness log references Atlanta-area running and gym sessio
 
 ## Fin's Dreams and Life Accomplishments (August 2025)
 
-A 2-Star reflection from August 31, 2025 titled "Fin's Dreams & Life Accomplishments" introduces a person named "Fin" — likely a friend or collaborator at Georgia Tech, possibly a housemate. The entry appears to be about conversations Jack had with Fin about big-picture goals and ambitions.
+A 2-Star reflection from August 31, 2025 titled "Fin's Dreams & Life Accomplishments" introduces a person named "Fin" - likely a friend or collaborator at Georgia Tech, possibly a housemate. The entry appears to be about conversations Jack had with Fin about big-picture goals and ambitions.
 
 ## What Georgia Tech Provided
 
@@ -76,7 +76,7 @@ Despite the early frustrations, the Georgia Tech years were when Jack:
 
 ## Photographs
 
-![Georgia Tech football game at Bobby Dodd Stadium — Calvin Johnson name on the scoreboard, packed crowd](/assets/photos/georgia-tech-football.jpg)
+![Georgia Tech football game at Bobby Dodd Stadium - Calvin Johnson name on the scoreboard, packed crowd](/assets/photos/georgia-tech-football.jpg)
 
 ![Jack at a Gather.town virtual office with Alex, January 22, 2026](/assets/photos/gather-town-jan2026.jpg)
 
@@ -84,13 +84,13 @@ Despite the early frustrations, the Georgia Tech years were when Jack:
 
 ## Photos
 
-![Georgia Tech football game, 2025 — vs Virginia Tech](/assets/photos/commons/georgia-tech-football-2025.jpg)
+![Georgia Tech football game, 2025 - vs Virginia Tech](/assets/photos/commons/georgia-tech-football-2025.jpg)
 
-![Georgia Tech Hacker House, 2025 — the builder community Jack helped inspire](/assets/photos/commons/georgia-tech-hacker-house.jpg)
+![Georgia Tech Hacker House, 2025 - the builder community Jack helped inspire](/assets/photos/commons/georgia-tech-hacker-house.jpg)
 
-![Georgia Tech Halloween 2025 — Sigma Phi Epsilon](/assets/photos/commons/georgia-tech-halloween.jpg)
+![Georgia Tech Halloween 2025 - Sigma Phi Epsilon](/assets/photos/commons/georgia-tech-halloween.jpg)
 
-![Stealing the T — the T missing from Truist Plaza, November 2025](/assets/photos/commons/stealing-the-t.jpg)
+![Stealing the T - the T missing from Truist Plaza, November 2025](/assets/photos/commons/stealing-the-t.jpg)
 
 ![KFC food truck on campus, November 2025](/assets/photos/commons/kfc-food-truck.jpg)
 

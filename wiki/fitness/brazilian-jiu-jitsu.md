@@ -1,7 +1,7 @@
 # Brazilian Jiu-Jitsu
 
 **Category:** Fitness / Interests
-**Summary:** Jack tried BJJ on March 28, 2026 — the martial art of controlled chaos
+**Summary:** Jack tried BJJ on March 28, 2026 - the martial art of controlled chaos
 **Last updated:** 2026-04-06
 
 ## Overview
@@ -30,7 +30,7 @@ This maps onto a pattern Jack engages with elsewhere: [[interests/electric-unicy
 
 ## The Gracie Family and Brazil
 
-BJJ was systematized by Mitsuyo Maeda, a Japanese judoka who emigrated to Brazil in 1914, and passed on to the Gracie family — particularly Carlos and Helio Gracie. Helio, who was physically small and sickly, adapted the techniques specifically for leverage over strength. The art that resulted was explicitly designed to give smaller people a method of self-defense.
+BJJ was systematized by Mitsuyo Maeda, a Japanese judoka who emigrated to Brazil in 1914, and passed on to the Gracie family - particularly Carlos and Helio Gracie. Helio, who was physically small and sickly, adapted the techniques specifically for leverage over strength. The art that resulted was explicitly designed to give smaller people a method of self-defense.
 
 The Gracie family then marketed BJJ through the Ultimate Fighting Championship (UFC), which they co-founded in 1993. Royce Gracie won the first three UFCs against larger opponents from various martial arts backgrounds. This demonstrated the effectiveness of ground grappling to a global audience and launched the modern BJJ boom.
 
@@ -49,4 +49,4 @@ Mark Zuckerberg competing in MMA (and training seriously) is the most visible te
 
 ## Photos
 
-![Jack at the gym — the physical training regimen that BJJ fits into](/assets/photos/jack-gym.jpg)
+![Jack at the gym - the physical training regimen that BJJ fits into](/assets/photos/jack-gym.jpg)

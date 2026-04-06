@@ -5,14 +5,14 @@
 
 ## Overview
 
-Cupertino High School is where Jack grew up — intellectually, socially, and in terms of ambition. Located in Cupertino, California (the Silicon Valley city where Apple is headquartered), CHS sits in one of the highest-performing public school environments in the United States. Jack's years there left a deep imprint visible across the entire writing archive.
+Cupertino High School is where Jack grew up - intellectually, socially, and in terms of ambition. Located in Cupertino, California (the Silicon Valley city where Apple is headquartered), CHS sits in one of the highest-performing public school environments in the United States. Jack's years there left a deep imprint visible across the entire writing archive.
 
 ## Cupertino in Jack's Archive
 
 Cupertino appears more than any other place in Jack's writing, always with a specific quality: the people were exceptional, and Jack didn't fully appreciate it while he was there.
 
 From his 2025 nostalgia entry:
-> "Cupertino High School — it's not like everyone is hustling. There's still some level of variety."
+> "Cupertino High School - it's not like everyone is hustling. There's still some level of variety."
 
 And:
 > "I didn't really take advantage of [Cupertino people] because I didn't know back then (too spoiled). Perhaps there is even the same idea for [[history/georgia-tech-era]] people, so I want to not do that again."
@@ -22,9 +22,9 @@ The core regret: surrounded by high-signal peers and didn't extract the full val
 ## The Academics
 
 Jack's Notion archive contains evidence of his Cupertino academic life:
-- **AP Spanish** — studied seriously, with vocabulary sheets and conversation practice logged in Notion
-- **UC Application essays** — the November 2021 log documents the final week of UC application writing: multiple days of "9 hours on UC essays," activity lists, additional information essays, academic history essays
-- **Academic planning** — A January 2022 Notion page titled "2022 Course Plan: General Academic Outline & Strategy" shows Jack planning his post-high-school trajectory carefully
+- **AP Spanish** - studied seriously, with vocabulary sheets and conversation practice logged in Notion
+- **UC Application essays** - the November 2021 log documents the final week of UC application writing: multiple days of "9 hours on UC essays," activity lists, additional information essays, academic history essays
+- **Academic planning** - A January 2022 Notion page titled "2022 Course Plan: General Academic Outline & Strategy" shows Jack planning his post-high-school trajectory carefully
 
 ## The College Application Sprint (Nov 22–30, 2021)
 
@@ -39,25 +39,25 @@ Daily structure:
 - UC Essay (4–9 hour blocks)
 - Homework (AP Spanish and others)
 
-The final day, November 30, is labeled "Final Day." December 1 continues — submission was likely midnight November 30. The penultimate day, November 29, is logged as "(1 day left)."
+The final day, November 30, is labeled "Final Day." December 1 continues - submission was likely midnight November 30. The penultimate day, November 29, is logged as "(1 day left)."
 
-This level of documentation — even for a routine high school deadline — is characteristic. Jack's Notion was already his operating system.
+This level of documentation - even for a routine high school deadline - is characteristic. Jack's Notion was already his operating system.
 
 **Applications submitted to:** UC schools. He ultimately transferred to Georgia Tech.
 
 ## The SAT
 
-Jack logged his SAT test experience in a September 2021 reflection titled "SAT Test Experience & Performance Reflection." The details are not available in the block content, but the fact that it merited a dedicated Notion page with a 1-star rating (meaning it was significant enough to document and revisit) suggests it was a meaningful moment — either a good result worth capturing, a difficult experience worth processing, or both.
+Jack logged his SAT test experience in a September 2021 reflection titled "SAT Test Experience & Performance Reflection." The details are not available in the block content, but the fact that it merited a dedicated Notion page with a 1-star rating (meaning it was significant enough to document and revisit) suggests it was a meaningful moment - either a good result worth capturing, a difficult experience worth processing, or both.
 
 ## Social World
 
 The names from Jack's early Notion and dream archive reveal his Cupertino social world:
-- **Jolie** — appears in a March 2022 dream; someone with problems that Austin was asking Jack about
-- **Austin** — appears in the same dream; likely a close Cupertino friend
-- **GodZhang** — the "GodZhang Garage" named in running logs; a friend whose garage was a training venue during the summer 2021 running project
-- **Luis** — appears in the UC application week log ("Return paper to Luis")
+- **Jolie** - appears in a March 2022 dream; someone with problems that Austin was asking Jack about
+- **Austin** - appears in the same dream; likely a close Cupertino friend
+- **GodZhang** - the "GodZhang Garage" named in running logs; a friend whose garage was a training venue during the summer 2021 running project
+- **Luis** - appears in the UC application week log ("Return paper to Luis")
 
-The running project reveals Jack's Cupertino geography: Lawson Middle School, Cupertino High School, Wilson Park, Creekside Park, Great America (the nearby amusement park), and the private garages of friends. This is the texture of a Bay Area suburban childhood — parks, schools, strip malls, and the lawns of people who mattered.
+The running project reveals Jack's Cupertino geography: Lawson Middle School, Cupertino High School, Wilson Park, Creekside Park, Great America (the nearby amusement park), and the private garages of friends. This is the texture of a Bay Area suburban childhood - parks, schools, strip malls, and the lawns of people who mattered.
 
 ## The Nostalgia Problem
 

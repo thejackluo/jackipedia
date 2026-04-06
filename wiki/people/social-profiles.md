@@ -15,7 +15,7 @@
 | Instagram | instagram.com/thejackluo | |
 | Medium | medium.com/@thejackluo8 | 69+ posts |
 | SoundCloud | soundcloud.com/thejackluo | Music |
-| TikTok | tiktok.com/@chrisclipsss | 2M+ views — Brazil & Nepal content, reposted by @chrisclipsss |
+| TikTok | tiktok.com/@chrisclipsss | 2M+ views - Brazil & Nepal content, reposted by @chrisclipsss |
 | Wikipedia | wikipedia.org/wiki/User:Jack145945 | 100+ edits, 7 years |
 | Goodreads | goodreads.com/user/show/145945-jack | Reading log |
 
@@ -23,7 +23,7 @@
 
 > "I am a fourth year student in computer science focused on artificial intelligence and robotics. Building Delight to create next generation productivity software. Interested in creating better memory architectures, context engineering, and tool use in single and multi-agent systems, especially in the context of personal assistance in work and life."
 
-Currently pursuing an "unconventional education" through building and tackling challenges. Learning Japanese (between N3 and N4). Electric unicyclist — 2,500+ miles. Reads widely. Goal: find fulfillment and seek all experiences.
+Currently pursuing an "unconventional education" through building and tackling challenges. Learning Japanese (between N3 and N4). Electric unicyclist - 2,500+ miles. Reads widely. Goal: find fulfillment and seek all experiences.
 
 ## Highlights
 

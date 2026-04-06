@@ -7,7 +7,7 @@
 
 ## Overview
 
-Jackipedia is Jack's personal Wikipedia — a structured knowledge base about his own life, ideas, people, projects, and writings. It is built and maintained by Claw (his OpenClaw AI assistant) and deployed at jackipedia.agentschool.io.
+Jackipedia is Jack's personal Wikipedia - a structured knowledge base about his own life, ideas, people, projects, and writings. It is built and maintained by Claw (his OpenClaw AI assistant) and deployed at jackipedia.agentschool.io.
 
 The goal is to create a permanent, searchable, cross-referenced record of Jack's life that can be read like an encyclopedia. Unlike a blog or journal, it is organized by topic rather than by time, and every page links to every relevant other page.
 
@@ -25,23 +25,23 @@ The goal is to create a permanent, searchable, cross-referenced record of Jack's
 
 ```
 wiki/
-  people/       — Jack, collaborators, friends, advisors
-  writings/     — Essays from the 360+ entry writing archive
-  books/        — Reading list with notes
-  projects/     — [[projects/agentdex]], Mira, CES, hackathons
-  fitness/      — Running logs, gym, weight tracking
-  concepts/     — Reading list, writing archive index
-  philosophy/   — [[philosophy/walk-in-the-park-framework]] framework
-  dreams/       — Dream journal
-  meta/         — History, about
+  people/       - Jack, collaborators, friends, advisors
+  writings/     - Essays from the 360+ entry writing archive
+  books/        - Reading list with notes
+  projects/     - [[projects/agentdex]], Mira, CES, hackathons
+  fitness/      - Running logs, gym, weight tracking
+  concepts/     - Reading list, writing archive index
+  philosophy/   - [[philosophy/walk-in-the-park-framework]] framework
+  dreams/       - Dream journal
+  meta/         - History, about
 ```
 
 ## Content Philosophy
 
 - No emojis anywhere (Jack's rule)
-- Wikipedia tone and structure — neutral third-person, cited sources
-- Synthesis over summary — pages connect ideas across the archive, not just report facts
-- All public-safe information — nothing private, no credentials, no personal addresses
+- Wikipedia tone and structure - neutral third-person, cited sources
+- Synthesis over summary - pages connect ideas across the archive, not just report facts
+- All public-safe information - nothing private, no credentials, no personal addresses
 
 ## Build Process
 

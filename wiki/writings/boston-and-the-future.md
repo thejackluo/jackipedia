@@ -7,15 +7,15 @@
 
 ## Overview
 
-One of the highest-rated pieces in the archive — 3 Stars — written from Boston. The content is partially documented; the goal statement from the page header gives context:
+One of the highest-rated pieces in the archive - 3 Stars - written from Boston. The content is partially documented; the goal statement from the page header gives context:
 
 > "The goal of this page is to showcase Boston and the things I've done here to ensure I get the most out of it."
 
 ## What We Know
 
-Boston represents a deliberate environment experiment for Jack — a test of whether being in a high-signal city (MIT, Harvard, Northeastern, thriving startup scene) changes what's possible. The "ensure I get the most out of it" framing is characteristic: Jack approaches environments as resources to be extracted, not places to passively inhabit.
+Boston represents a deliberate environment experiment for Jack - a test of whether being in a high-signal city (MIT, Harvard, Northeastern, thriving startup scene) changes what's possible. The "ensure I get the most out of it" framing is characteristic: Jack approaches environments as resources to be extracted, not places to passively inhabit.
 
-The 3-Star rating from Jack himself — among the highest he awards — suggests this piece landed as significant at the time of writing.
+The 3-Star rating from Jack himself - among the highest he awards - suggests this piece landed as significant at the time of writing.
 
 ## Boston in the Archive
 

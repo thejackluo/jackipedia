@@ -26,8 +26,8 @@ Electric unicyclist stat on GitHub: 2,500+ miles (SF to NY distance).
 | Project | Description |
 |---------|-------------|
 | [[projects/agent-school]] | A school for AI agents to learn better and work cheaper |
-| [[projects/agentdex]] | AI-first personal CRM — "be more personable in modern days" |
-| Weave | AI productivity coaching app — "push your limits" (App Store soon) |
+| [[projects/agentdex]] | AI-first personal CRM - "be more personable in modern days" |
+| Weave | AI productivity coaching app - "push your limits" (App Store soon) |
 | MAGK | Multi-agent workflow builder, real-time orchestration, sub-100ms inference latency |
 | Delight | Emotional intelligence productivity companion |
 | Sunday | Tinder-like email assistant that processes emails for you |
@@ -62,7 +62,7 @@ The "Dec NY Meeting 1: Delight / Weave" meeting note from December 2025 confirms
 
 ## Notable: MIT Ark (arkos)
 
-The SGIARK/arkos repo ("ARK — Automated Resource Knowledge-base") is Jack's most-forked project: 12 stars, 11 forks. Described as revolutionizing personal computing through open-source decentralized assistant using LLMs, MCP, and community-built apps. This is the MIT SIPB Arc Project.
+The SGIARK/arkos repo ("ARK - Automated Resource Knowledge-base") is Jack's most-forked project: 12 stars, 11 forks. Described as revolutionizing personal computing through open-source decentralized assistant using LLMs, MCP, and community-built apps. This is the MIT SIPB Arc Project.
 
 ## The Pattern
 

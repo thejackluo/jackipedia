@@ -5,7 +5,7 @@
 
 ## Overview
 
-AgentDex is Jack's primary startup — a relationship intelligence platform positioned as "the Rolodex for the AI age." Also known as ROLO. The core product: a personal CRM that uses AI to help users manage their relationships, contacts, and communication patterns with minimal manual overhead.
+AgentDex is Jack's primary startup - a relationship intelligence platform positioned as "the Rolodex for the AI age." Also known as ROLO. The core product: a personal CRM that uses AI to help users manage their relationships, contacts, and communication patterns with minimal manual overhead.
 
 Jack has been building this since at least mid-2024. It went to production April 6, 2024 (first version), and publicly launched April 1, 2026.
 
@@ -29,13 +29,13 @@ Jack has been building this since at least mid-2024. It went to production April
 
 ## The Night Shift
 
-![Agentdex commit analysis — Jack at 1am still building](/assets/photos/agentdex-commit-analysis.jpg)
+![Agentdex commit analysis - Jack at 1am still building](/assets/photos/agentdex-commit-analysis.jpg)
 
 A late-night AI analysis of the agentdex-v1 commit log, March 2026. The "Jessica Incident" refers to a persona Jack added to the codebase at 10pm, deleted at 1:35am after an existential crisis, then restored 21 minutes later. She's still in the repo today.
 
 ![OpenCode session tracking March dev log](/assets/photos/opencode-dev-log.jpg)
 
-Jack's OpenCode session log for March 2026 — days like March 26 logged 76 turns in a single session. March 27: 299 turns. The kind of data that only accumulates when you don't stop.
+Jack's OpenCode session log for March 2026 - days like March 26 logged 76 turns in a single session. March 27: 299 turns. The kind of data that only accumulates when you don't stop.
 
 ## Project History
 
@@ -73,13 +73,13 @@ From the March 28 team sync (Granola):
 From March 28 meeting:
 > "Prioritize larger features vs small fixes; delegate small fixes to AI agents; proceed with Story 4.6 onboarding enhancement."
 
-This is the "overnight agent harness" architecture — AI agents handle small bugs automatically, humans handle architecture decisions.
+This is the "overnight agent harness" architecture - AI agents handle small bugs automatically, humans handle architecture decisions.
 
 ## Name History
 
-- **MAGK** — early codename during customer discovery
-- **AgentDex** — the technical project name (GitHub, Coolify, domain)
-- **ROLO** — product name for the Vercel/consumer version (rolo.agentschool.io)
+- **MAGK** - early codename during customer discovery
+- **AgentDex** - the technical project name (GitHub, Coolify, domain)
+- **ROLO** - product name for the Vercel/consumer version (rolo.agentschool.io)
 
 ## Related
 - [[people/arman-mahjoor]]
@@ -91,6 +91,6 @@ This is the "overnight agent harness" architecture — AI agents handle small bu
 
 ## Photos
 
-![Gather Town, January 2026 — the virtual team space used during AgentDex development](/assets/photos/gather-town-jan2026.jpg)
+![Gather Town, January 2026 - the virtual team space used during AgentDex development](/assets/photos/gather-town-jan2026.jpg)
 
-![AgentDex commit analysis — the codebase growth over time](/assets/photos/agentdex-commit-analysis.jpg)
+![AgentDex commit analysis - the codebase growth over time](/assets/photos/agentdex-commit-analysis.jpg)

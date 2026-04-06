@@ -9,11 +9,11 @@
 
 ## Overview
 
-The Three-Body Problem is the first novel in Liu Cixin's Remembrance of Earth's Past trilogy — the best-selling science fiction series in Chinese history. Published in [[history/china]] in 2006, translated to English by Ken Liu in 2014. Jack read all three main books in September–October 2024, triggered by the Netflix adaptation, and gave each 5 stars.
+The Three-Body Problem is the first novel in Liu Cixin's Remembrance of Earth's Past trilogy - the best-selling science fiction series in Chinese history. Published in [[history/china]] in 2006, translated to English by Ken Liu in 2014. Jack read all three main books in September–October 2024, triggered by the Netflix adaptation, and gave each 5 stars.
 
 ## Plot
 
-The story begins during China's Cultural Revolution in the 1960s, then jumps to the present day, where physicists and scientists begin encountering anomalous phenomena. They eventually discover Earth is being watched by a highly advanced civilization from the Alpha Centauri star system — the Trisolarans — whose planet orbits three suns and endures cycles of brutal chaos and brief stability.
+The story begins during China's Cultural Revolution in the 1960s, then jumps to the present day, where physicists and scientists begin encountering anomalous phenomena. They eventually discover Earth is being watched by a highly advanced civilization from the Alpha Centauri star system - the Trisolarans - whose planet orbits three suns and endures cycles of brutal chaos and brief stability.
 
 ## Jack's Rating
 

@@ -13,13 +13,13 @@ From Notion:
 > "PhD/robotics advisor. Robotics shifting from math models to ML. Recommended ME+EE courses."
 
 Two substantive claims:
-1. **Robotics is shifting from math models to ML.** This is a real and significant transition in the field — classical robotics relied on explicit kinematic models, control theory, and physics-based simulation. Modern robotics increasingly uses learned models, sim-to-real transfer, and reinforcement learning. Preiss was pointing Jack toward this inflection.
+1. **Robotics is shifting from math models to ML.** This is a real and significant transition in the field - classical robotics relied on explicit kinematic models, control theory, and physics-based simulation. Modern robotics increasingly uses learned models, sim-to-real transfer, and reinforcement learning. Preiss was pointing Jack toward this inflection.
 
-2. **Recommended ME + EE courses.** Mechanical Engineering and Electrical Engineering fundamentals — actuators, circuits, embedded systems, sensors. The advice: don't just be a software person in robotics. Know the hardware stack.
+2. **Recommended ME + EE courses.** Mechanical Engineering and Electrical Engineering fundamentals - actuators, circuits, embedded systems, sensors. The advice: don't just be a software person in robotics. Know the hardware stack.
 
 ## Significance
 
-Jack's interest in robotics is a thread that runs alongside his AI work. His website bio references "artificial intelligence and robotics" as his CS focus. The advice from Preiss — take ME+EE, understand the hardware — is the kind of direction that shapes course selection and long-term positioning.
+Jack's interest in robotics is a thread that runs alongside his AI work. His website bio references "artificial intelligence and robotics" as his CS focus. The advice from Preiss - take ME+EE, understand the hardware - is the kind of direction that shapes course selection and long-term positioning.
 
 The timing (November 2024, shortly after transferring to [[history/georgia-tech-era]]) suggests Jack was actively building out his academic trajectory at GT, and Preiss was part of that calibration.
 

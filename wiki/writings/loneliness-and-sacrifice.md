@@ -7,7 +7,7 @@
 
 ## Overview
 
-Written the day before the [[projects/agentdex]] launch deadline (April 1, 2025), this short entry captures the raw emotional cost of the founder path. One of the most personal pieces in the archive — unpolished, mid-sentence, written under pressure.
+Written the day before the [[projects/agentdex]] launch deadline (April 1, 2025), this short entry captures the raw emotional cost of the founder path. One of the most personal pieces in the archive - unpolished, mid-sentence, written under pressure.
 
 ## Full Text
 
@@ -19,15 +19,15 @@ The entry cuts off mid-sentence. The truncated "I just want to w—" suggests it
 
 ## Context
 
-This was written on March 31, 2025 — one day before Jack's stated AgentDex launch target ("AgentDex launch Mar 31," per the meeting notes). The emotional state reflects the final stretch of a long solo grind.
+This was written on March 31, 2025 - one day before Jack's stated AgentDex launch target ("AgentDex launch Mar 31," per the meeting notes). The emotional state reflects the final stretch of a long solo grind.
 
-The physical details are striking: office, rooftop, Chipotle. This isn't metaphorical — Jack was literally living the startup monk archetype at some point in his college years.
+The physical details are striking: office, rooftop, Chipotle. This isn't metaphorical - Jack was literally living the startup monk archetype at some point in his college years.
 
 ## Significance
 
 This entry is the clearest evidence in the archive of what Jack has actually sacrificed. The gap between his public ambition (founder, builder, exceptional-environment seeker) and the private reality (alone, uncertain, questioning) is documented here in real time.
 
-The piece connects directly to the tension in [[philosophy/walk-in-the-park-framework]] — Jack knows the framework for why isolation might be worth it, but living it is different from knowing it.
+The piece connects directly to the tension in [[philosophy/walk-in-the-park-framework]] - Jack knows the framework for why isolation might be worth it, but living it is different from knowing it.
 
 ## Related
 - [[writings/walk-in-the-park]]
@@ -37,6 +37,6 @@ The piece connects directly to the tension in [[philosophy/walk-in-the-park-fram
 
 ## Photographs
 
-![Late night — noodles reheated in a microwave. The startup diet.](/assets/photos/noodles-microwave.jpg)
+![Late night - noodles reheated in a microwave. The startup diet.](/assets/photos/noodles-microwave.jpg)
 
-![Jack in the rain, carrying a catering tray — a hacker house food run](/assets/photos/jack-rain-catering.jpg)
+![Jack in the rain, carrying a catering tray - a hacker house food run](/assets/photos/jack-rain-catering.jpg)

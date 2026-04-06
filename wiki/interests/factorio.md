@@ -6,7 +6,7 @@
 
 ## Overview
 
-Factorio is a factory-building and automation game where you land on an alien planet, mine resources, build increasingly complex production lines, and eventually launch a rocket into space. It is widely considered one of the most addictive and intellectually demanding games ever made — the Steam reviews famously say things like "I now understand why my dad left."
+Factorio is a factory-building and automation game where you land on an alien planet, mine resources, build increasingly complex production lines, and eventually launch a rocket into space. It is widely considered one of the most addictive and intellectually demanding games ever made - the Steam reviews famously say things like "I now understand why my dad left."
 
 Jack loves it. This is not a coincidence.
 
@@ -20,7 +20,7 @@ This is essentially the same mental model Jack applies to:
 - Investor pitch mechanics (what's the throughput-limiting constraint in a pitch?)
 - His own life operating system (which input is the bottleneck to his output?)
 
-The game rewards exactly the kind of thinking he already does. It's not escapism — it's a test bench.
+The game rewards exactly the kind of thinking he already does. It's not escapism - it's a test bench.
 
 ## The Automation Loop
 
@@ -30,7 +30,7 @@ This is Jack's preferred mode of operating at work too. Manually building the fi
 
 ## The Biters
 
-Factorio also has enemies — alien "biters" that attack your base if you pollute enough. Most experienced players eventually build walls and turrets to handle them passively, then stop thinking about them. The enemies become a background constraint you optimize around, not a primary challenge.
+Factorio also has enemies - alien "biters" that attack your base if you pollute enough. Most experienced players eventually build walls and turrets to handle them passively, then stop thinking about them. The enemies become a background constraint you optimize around, not a primary challenge.
 
 Jack's equivalent: bureaucratic friction, credential gatekeeping, slow institutional processes. They're obstacles, but they're not the main game.
 
