@@ -14,11 +14,16 @@ Eddie's Instagram bio: "are you living the life you want? psychology @harvard mi
 
 The Harvard psychology angle combined with a productivity/fulfillment content lens puts him squarely in the same intellectual territory as Jack — both are thinking about what it means to build a meaningful life, and both are doing it publicly while still in school.
 
-## The Startup
+## Delight and Weave
 
-Jack and Eddie worked on a startup together for approximately two weeks. The exact project is not documented, but the pairing makes sense: Jack brings the technical/AI/agent-building side, Eddie brings the Harvard psychology + audience-building angle. A productivity or personal growth product at the intersection of both would be the natural overlap.
+Jack and Eddie worked on **Delight** and **Weave** together for approximately two weeks. Both are productivity/personal growth products:
 
-The two-week sprint is a familiar format in Jack's history — short, intense, collaborative bursts that sometimes become longer projects and sometimes don't. The fact that they're still in each other's orbit suggests the relationship outlasted the sprint.
+- **Delight** — emotional intelligence productivity companion. Also appears in Jack's GitHub (magk-app/delight): "software that pushes you to achieve your goals, tracks them dynamically, and helps delegate and outsource to AI agents when necessary."
+- **Weave** — AI productivity coaching app, "push your limits." Listed on Jack's GitHub as App Store-bound.
+
+The pairing makes obvious sense: Jack brings the technical/AI/agent-building side, Eddie brings the Harvard psychology + audience-building angle. Delight especially sits at the exact intersection of emotional intelligence research and AI tooling that both are drawn to.
+
+The December 2025 New York trip included a meeting logged as "Dec NY Meeting 1: Delight / Weave" — likely the moment they were aligning on direction or pitching the concept to someone.
 
 ## Boston Connection
 

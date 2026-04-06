@@ -15,7 +15,7 @@ Jack co-organized the New York Hacker House in 2025, alongside his work on Q Hou
 
 In December 2025, Jack was in New York for a focused business trip. Two meetings are logged in Notion:
 
-- **Dec NY Meeting 1: Delight / Weave** — a meeting with the team or founders behind Delight/Weave, an AI productivity/note-taking product
+- **Dec NY Meeting 1: Delight / Weave** — meeting with Eddie Lou ([[people/eddie-lou]]) around Delight and Weave, the two productivity/EI products they were building together for approximately two weeks
 - **Dec Meeting 2: Product Ideas and MVP** — planning session for next steps
 
 The trip had the texture of late-year momentum-building: meetings in the day, city exploration at night.
