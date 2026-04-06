@@ -6,6 +6,10 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
+  "wiki/dreams/great-america": [],
+  "wiki/dreams/cloud-code-hierarchy": [],
+  "wiki/fitness/running-project-2021": [],
+  "wiki/fitness/weight-loss-tracker": [],
   "wiki/writings/ai-society-human-evolution": [
     {
       "commit": "c2e146b2",
@@ -139,8 +143,20 @@
       "summary": "ingest: 20 writing pages \u2014 walk in park, browser agents DRL, AI/society, nostalgia/burnout, loneliness, MIT frosh, Georgia Tech escapism, social 2022, year-end 2022, annual review 2024, boston, treehacks, philosophy trilogy, steins gate, fear/connection, relationships, ocean town, motivation 2021"
     }
   ],
-  "wiki/people/james-preiss": [],
-  "wiki/people/hongyin": [],
+  "wiki/people/james-preiss": [
+    {
+      "commit": "7d18e507",
+      "date": "2026-04-06 04:57:17",
+      "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
+    }
+  ],
+  "wiki/people/hongyin": [
+    {
+      "commit": "7d18e507",
+      "date": "2026-04-06 04:57:17",
+      "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
+    }
+  ],
   "wiki/people/meetings-index": [
     {
       "commit": "f1c764ed",
@@ -148,20 +164,70 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
-  "wiki/people/nimesh": [],
-  "wiki/people/kunal-gupta": [],
-  "wiki/people/kevin-zhang": [],
-  "wiki/people/karthik-jandhyala": [],
+  "wiki/people/nimesh": [
+    {
+      "commit": "7d18e507",
+      "date": "2026-04-06 04:57:17",
+      "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
+    }
+  ],
+  "wiki/people/kunal-gupta": [
+    {
+      "commit": "7d18e507",
+      "date": "2026-04-06 04:57:17",
+      "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
+    }
+  ],
+  "wiki/people/kevin-zhang": [
+    {
+      "commit": "7d18e507",
+      "date": "2026-04-06 04:57:17",
+      "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
+    }
+  ],
+  "wiki/people/karthik-jandhyala": [
+    {
+      "commit": "7d18e507",
+      "date": "2026-04-06 04:57:17",
+      "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
+    }
+  ],
   "wiki/people/jack-luo": [
+    {
+      "commit": "7d18e507",
+      "date": "2026-04-06 04:57:17",
+      "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
+    },
     {
       "commit": "f1c764ed",
       "date": "2026-04-06 03:47:54",
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
-  "wiki/people/jeff": [],
-  "wiki/people/manas-nair": [],
-  "wiki/people/arman-mahjoor": [],
+  "wiki/people/jeff": [
+    {
+      "commit": "7d18e507",
+      "date": "2026-04-06 04:57:17",
+      "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
+    }
+  ],
+  "wiki/people/manas-nair": [
+    {
+      "commit": "7d18e507",
+      "date": "2026-04-06 04:57:17",
+      "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
+    }
+  ],
+  "wiki/people/arman-mahjoor": [
+    {
+      "commit": "7d18e507",
+      "date": "2026-04-06 04:57:17",
+      "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
+    }
+  ],
+  "wiki/concepts/agent-x-launch": [],
+  "wiki/concepts/ai-interactive-storytelling": [],
+  "wiki/concepts/investor-pitch-mechanics": [],
   "wiki/concepts/reading-list": [
     {
       "commit": "f1c764ed",
@@ -176,11 +242,19 @@
       "summary": "ingest: writing archive (360 entries), walk-in-the-park framework, annual review 2024"
     }
   ],
+  "wiki/books/essentialism": [],
+  "wiki/books/the-courage-to-be-disliked": [],
+  "wiki/books/billion-dollar-whale": [],
+  "wiki/books/life-30": [],
   "wiki/philosophy/walk-in-the-park-framework": [
     {
       "commit": "b855070d",
       "date": "2026-04-06 03:51:52",
       "summary": "ingest: writing archive (360 entries), walk-in-the-park framework, annual review 2024"
     }
-  ]
+  ],
+  "wiki/projects/mira": [],
+  "wiki/projects/ces-2025": [],
+  "wiki/projects/agentdex": [],
+  "wiki/projects/jackipedia": []
 }
