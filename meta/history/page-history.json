@@ -34,6 +34,13 @@
       "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
     }
   ],
+  "wiki/dreams/index": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
   "wiki/dreams/japanese-stores-phantom-friends": [
     {
       "commit": "f9fee634",
@@ -68,6 +75,13 @@
       "date": "2026-04-06 05:25:30",
       "summary": "feat: 14 new photos, EI concepts page, agent-school page, mit-era page"
     },
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
+  "wiki/fitness/index": [
     {
       "commit": "c3410fe8",
       "date": "2026-04-06 05:04:20",
@@ -293,6 +307,18 @@
     }
   ],
   "wiki/people/nimesh": [
+    {
+      "commit": "7d18e507",
+      "date": "2026-04-06 04:57:17",
+      "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
+    }
+  ],
+  "wiki/people/index": [
+    {
+      "commit": "d57911d9",
+      "date": "2026-04-06 05:51:54",
+      "summary": "build: auto-update 2026-04-06 05:51 UTC (83 pages)"
+    },
     {
       "commit": "7d18e507",
       "date": "2026-04-06 04:57:17",
@@ -567,6 +593,13 @@
       "summary": "build: auto-update 2026-04-06 06:03 UTC (95 pages)"
     }
   ],
+  "wiki/books/index": [
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
   "wiki/books/billion-dollar-whale": [
     {
       "commit": "c3410fe8",
@@ -615,6 +648,23 @@
       "commit": "1d08c5bd",
       "date": "2026-04-06 05:53:40",
       "summary": "build: auto-update 2026-04-06 05:53 UTC (84 pages)"
+    }
+  ],
+  "wiki/history/index": [
+    {
+      "commit": "83bb4f5c",
+      "date": "2026-04-06 05:45:43",
+      "summary": "build: auto-update 2026-04-06 05:45 UTC (83 pages)"
+    },
+    {
+      "commit": "c64bc8d9",
+      "date": "2026-04-06 05:25:30",
+      "summary": "feat: 14 new photos, EI concepts page, agent-school page, mit-era page"
+    },
+    {
+      "commit": "f9fee634",
+      "date": "2026-04-06 05:10:30",
+      "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
     }
   ],
   "wiki/history/wework-nomadic-period": [
@@ -752,6 +802,13 @@
       "summary": "build: auto-update 2026-04-06 06:10 UTC (97 pages)"
     }
   ],
+  "wiki/interests/index": [
+    {
+      "commit": "45a88027",
+      "date": "2026-04-06 06:10:09",
+      "summary": "build: auto-update 2026-04-06 06:10 UTC (97 pages)"
+    }
+  ],
   "wiki/interests/city-skylines": [
     {
       "commit": "45a88027",
@@ -814,6 +871,18 @@
       "commit": "aa83b40e",
       "date": "2026-04-06 05:14:13",
       "summary": "images: profile photo, berkeley hackathon group, elon musk hackclub call; CSS image styles; auto-copy assets on build"
+    },
+    {
+      "commit": "c3410fe8",
+      "date": "2026-04-06 05:04:20",
+      "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
+    }
+  ],
+  "wiki/projects/index": [
+    {
+      "commit": "c64bc8d9",
+      "date": "2026-04-06 05:25:30",
+      "summary": "feat: 14 new photos, EI concepts page, agent-school page, mit-era page"
     },
     {
       "commit": "c3410fe8",

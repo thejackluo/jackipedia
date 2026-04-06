@@ -409,12 +409,16 @@ def build_main_page(nav, all_history, page_count=0):
 
 nav = get_sidebar_nav()
 all_history = {}
-skip = {"AGENTS.md", "build.sh", "index.md"}  # index handled separately
+skip_files = {"AGENTS.md", "build.sh"}  # root index.md handled separately
+root_skip = {"index.md"}  # only skip index.md at the top level
 
 for root, dirs, files in os.walk(WIKI_DIR):
     dirs[:] = [d for d in dirs if d not in {".git", "meta"}]
+    is_root = (root == WIKI_DIR)
     for fname in files:
-        if fname.endswith(".md") and fname not in skip:
+        if fname.endswith(".md") and fname not in skip_files:
+            if is_root and fname in root_skip:
+                continue
             build_page(os.path.join(root, fname), nav, all_history)
 
 # Build log page
