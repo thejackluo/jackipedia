@@ -1,59 +1,100 @@
 # Meetings Index
+
+**Category:** People
 **Last updated:** 2026-04-06
-**Source:** Jotion 4.5 Meetings database (Notion)
 
-Jack has been systematically logging meetings since at least 2024. Key categories:
+A comprehensive log of notable meetings across Jack's life — customer discovery calls, advisor sessions, team syncs, and one-on-ones. Sourced from Notion meetings database.
 
-## People Met (Customer Discovery / 1:1s)
+## Customer Discovery (AgentDex, Jan–Feb 2026)
 
-### Customer Discovery (CD series — Jan/Feb 2026)
-AgentDex/MAGK customer discovery sprint. Jack conducted 20+ customer interviews.
+Jack conducted 24+ customer discovery interviews in January and February 2026, validating AgentDex's AI-powered CRM concept. Each meeting was logged with a summary and ICP assessment.
 
-| # | Person | Date | Notes |
-|---|--------|------|-------|
-| CD 2 | Seco | Jan 26 | Not ICP, potential collab on website if needed for revenue |
-| CD 5 | Manas Nair | Jan 21 | Going to connect Jack with cofounder who does sales |
-| CD 8 | Arman Rafian | Jan 23 | (later became team member) |
-| CD 9 | Heath Sun | Jan 28 | Pivoted from security cameras to voice agent startup; discussed MAGK |
-| CD 10 | Aarush Jambunathan | Jan 26 | Not ICP, reevaluate in future |
-| CD 12 | Rahul | Jan 26 | — |
-| CD 13 | Chithralekha | Jan 26 | PM at Goldman Sachs. Not ICP but can provide intros/advising |
-| CD 14 | Nimesh | Jan 27 | Hotel owner (3 hotels, manages 20+ with Best Western). Genuine interest in helping get revenue. Has pain points. |
-| CD 15 | Armaan Jain | Jan 27 | Founder of Phantom |
-| CD 16 | Armaan Agrawal | Jan 30 | — |
-| CD 17 | Anthony | Jan 26 | Crypto analytics startup ("Bloomberg for crypto"). Won't work in finance due to regulations |
-| CD 19 | Sunny | Jan 31 | Data center startup |
-| CD 20 | Dewika Bhagwat | Feb 5 | — |
-| CD 23 | Nick Sortino | Feb 12 | Looks at Twitter/X for live sports data + internal analytics + Google Sheets. Very repetitive. Speed + accuracy = key value |
-| CD 24 | Deeksha Sharma | Feb 13 | — |
+| # | Person | Date | Summary |
+|---|--------|------|---------|
+| CD 2 | Seco | Jan 26, 2026 | Not ICP, potential collab on website/project if needed for revenue |
+| CD 5 | Manas Nair | Jan 21, 2026 | Going to connect Jack with his cofounder who does sales |
+| CD 8 | Arman Mahjoor | Jan 23, 2026 | Strong connection — closeness 8/10, marked Critical priority |
+| CD 9 | Heath Sun | Jan 28, 2026 | Pivoted from security cameras to voice agent startup. Discussed MAGK, technical approaches, workflow pain points, social media marketing |
+| CD 10 | Aarush Jambunathan | Jan 26, 2026 | Not ICP, but reevaluate in future |
+| CD 12 | Rahul | Jan 26, 2026 | Notes via Granola |
+| CD 13 | Chithralekha | Jan 26, 2026 | Not ICP. PM at Goldman Sachs. Can provide intros and advising |
+| CD 14 | Nimesh | Jan 27, 2026 | Owns 3 hotels, manages 20+ with Best Western. Going to conference Feb 9–12 with Best Western decision makers. "Genuinely wants to help us get revenue" |
+| CD 15 | Armaan Jain | Jan 27, 2026 | Founder of Phantom |
+| CD 16 | Armaan Agrawal | Jan 30, 2026 | No notes |
+| CD 17 | Anthony | Jan 26, 2026 | Crypto analytics startup — "Bloomberg for crypto." Heavy on Snowflake, Excel. "This probably won't work in finance due to regulations" |
+| CD 19 | Sunny | Jan 31, 2026 | Data center startup |
+| CD 20 | Dewika Bhagwat | Feb 5, 2026 | Notes via Granola |
+| CD 23 | Nick Sortino | Feb 12, 2026 | Looks at Twitter/X for live sports data + internal DataAnalytics platform + logs progress on Google Sheets. "Very repetitive." Speed + accuracy as value differentiator |
+| CD 24 | Deeksha Sharma | Feb 13, 2026 | No notes |
 
-### Advisor Meetings
-- **Kunal Gupta** (Apr 16, 2025) — Successful startup family. Recommended staying in school. Working in startup at 25.
-- **James Preiss** (Nov 2, 2024) — PhD/robotics advisor. Robotics shifting from math models to ML. Recommended ME+EE courses.
-- **Hongyin (Subconscious)** (Jan 28, 2026) — Collab in person on workflow caching next week.
+## Advisor Meetings
 
-### 1:1 / Personal
-- **Jeff** (Mar 25, 2026) — Startup, dating, travel, life plans. Jeff's psychology honor society growing. Jack targeting Agent Text launch Mar 31.
-- **Ishan** — Meeting prep documented, no date
+| Meeting | Date | Key Takeaway |
+|---------|------|-------------|
+| James Preiss (robotics PhD) | Nov 2, 2024 | Robotics shifting from mathematical models to ML. Take ME and EE courses |
+| Kunal Gupta (startups & family) | Apr 16, 2025 | Successful startup family. Recommended staying in school. Working in startup at age 25 |
 
-### Team Syncs
-- **Mira Meetings** — Weekly/biweekly syncs Jun-Sep 2024 (Mira = likely an early team/project collaborator)
-- **AgentDex codebase + onboarding** (Mar 28, 2026) — Reviewed repo structure, proposed Story 4.6
-- **Personal Dev, Crisis Management & Agent X Launch** (Mar 27, 2026) — Discussed energy management (exercise > caffeine), Agent X launch April 1
+## Collaboration Meetings
 
-### Notable 1:1 Notes (Granola-sourced, recent)
-- **Pitch deck feedback** (Apr 1, 2026) — Quantify pain, team slide early, avoid live demos, visual slides, leave Q&A time, be authentic about unknowns
-- **AI Interactive Storytelling & Game Dev** (Mar 25, 2026) — Contact: Huijia (Freya) for generative AI collab. Book rec: "Hamlet on the Holodeck" by Janet Murray.
+| Meeting | Date | Notes |
+|---------|------|-------|
+| Jack x Hongyin — Subconscious | Jan 28, 2026 | Collab next week in person on workflow caching |
 
-## Key People (extracted from meetings)
-- [[people/arman-rafian]] — CD 8 + AgentDex team member
-- [[people/manas-nair]] — CD 5, sales connection
-- [[people/nimesh]] — CD 14, hotel operator, genuine champion
-- [[people/hongyin]] — Subconscious, workflow caching collab
-- [[people/jeff]] — friend, psychology/honor society
-- [[people/kunal-gupta]] — advisor, startup family
-- [[people/james-preiss]] — robotics PhD advisor
+## Mira Team Syncs (Jun–Sep 2024)
+
+Weekly Mira meetings sourced by Jamie, running through the summer 2024 project with Kevin Zhang.
+
+| Date | Notes |
+|------|-------|
+| Jun 9, 2024 | (NO NOTE) |
+| Jul 1, 2024 | Team Sync |
+| Jul 24, 2024 | Team Sync |
+| Aug 1, 2024 | Team Sync |
+| Aug 4, 2024 | Team Sync |
+| Aug 5, 2024 | Team Sync |
+| Aug 8, 2024 | Team Sync |
+| Aug 9, 2024 | Team Sync |
+| Aug 13, 2024 | Team Sync |
+| Aug 17, 2024 | Team Sync |
+| Aug 30, 2024 | Team Sync (After Pylon — a conference or event) |
+| Sep 5, 2024 | Team Sync |
+| Sep 10, 2024 | Team Sync |
+| Sep 12, 2024 | Final meeting — project wound down Sep 2024 |
+
+## Hiring
+
+| Meeting | Date | Notes |
+|---------|------|-------|
+| Karthik — 2nd interview | Mar 11, 2025 | Hiring interview via Granola |
+
+## December 2025 NY Meetings
+
+During what appears to be a New York trip in December 2025:
+
+| Meeting | Notes |
+|---------|-------|
+| Dec NY Meeting 1: Delight / Weave | Company name suggests AI note-taking / meeting intelligence space |
+| Dec Meeting 2: Product Ideas and MVP | Planning session |
+
+## Other Notable Meetings
+
+| Meeting | Notes |
+|---------|-------|
+| WRITER Engineering Meeting | Sep 22, 2025. Series C, $1.9B valuation. Meeting with Patrick Anderson (Senior Technical Recruiter). Stage: Ghosted |
+| Poke Product Feedback — Miles Dobrenski | Sep 2025 |
+| STABU (Stock Trading at BU) | Oct 2, 2025. Weekly meeting at BU — Jack was briefly in the Boston area |
+| Ishan Meeting Prep | Advisor / strategic 1:1. Two versions in Notion |
+| All Hands Meeting | Dec 15, 2025. Agentdex team |
+| Startup Planning and Strategy Meeting | Undated |
 
 ## Related
-- [[goals/agentdex]]
-- [[people/jack-luo]]
+
+- [[people/manas-nair]]
+- [[people/arman-mahjoor]]
+- [[people/karthik-jandhyala]]
+- [[people/james-preiss]]
+- [[people/kunal-gupta]]
+- [[people/hongyin]]
+- [[people/nimesh]]
+- [[projects/mira]]
+- [[projects/agentdex]]
