@@ -483,3 +483,39 @@ if "nothing to commit" in result.stdout or "nothing to commit" in result.stderr:
     print("  (git) nothing new to commit")
 else:
     print(f"  ✓ git commit: {commit_msg}")
+
+# ── Search index + search page ────────────────────────────────────────────────
+import json as _json
+
+_index = []
+for _root, _dirs, _files in os.walk(WIKI_DIR):
+    for _f in sorted(_files):
+        if not _f.endswith(".md") or ".zh." in _f or ".ja." in _f:
+            continue
+        _path = os.path.join(_root, _f)
+        _rel  = os.path.relpath(_path, WIKI_DIR).replace(".md", "")
+        _url  = f"/wiki/{_rel}.html"
+        with open(_path) as _fh:
+            _raw = _fh.read()
+        _title_m = re.search(r'^#\s+(.+)', _raw, re.MULTILINE)
+        _title = _title_m.group(1).strip() if _title_m else _rel.split("/")[-1].replace("-"," ").title()
+        _summ_m = re.search(r'\*\*Summary:\*\*\s*(.+)', _raw)
+        if _summ_m:
+            _summary = _summ_m.group(1).strip()
+        else:
+            _lines = [l.strip() for l in _raw.split("\n") if l.strip() and not l.startswith("#") and not l.startswith("**") and not l.startswith("|") and not l.startswith("-")]
+            _summary = _lines[0][:160] if _lines else ""
+        _body = re.sub(r'\[\[([^\]|]+)(?:\|[^\]]+)?\]\]', r'\1', _raw)
+        _body = re.sub(r'\*+|#+|`+|\|', ' ', _body)
+        _body = re.sub(r'\s+', ' ', _body).strip()[:2000]
+        _cat = _rel.split("/")[0]
+        _index.append({"title": _title, "url": _url, "summary": _summary, "body": _body, "cat": _cat})
+
+with open(f"{OUT_DIR}/search-index.json", "w") as _fh:
+    _json.dump(_index, _fh)
+print(f"  ✓ search-index.json ({len(_index)} articles)")
+
+# Copy search.html to web root
+import shutil as _shutil
+_shutil.copy("/home/ubuntu/jackipedia/search.html", f"{OUT_DIR}/search.html")
+print("  ✓ search.html")

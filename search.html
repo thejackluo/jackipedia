@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Search — Jackipedia</title>
+<script>
+(function(){var t=localStorage.getItem('theme')||'light';document.documentElement.setAttribute('data-theme',t);})();
+</script>
+<link rel="stylesheet" href="/assets/style.css">
+<style>
+#search-results { margin-top: 1.5rem; }
+.result-item { border-bottom: 1px solid var(--border); padding: 1rem 0; }
+.result-item:last-child { border-bottom: none; }
+.result-item h3 { margin: 0 0 0.25rem; font-size: 1.1rem; }
+.result-item h3 a { color: var(--link); text-decoration: none; }
+.result-item h3 a:hover { text-decoration: underline; }
+.result-cat { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.3rem; }
+.result-summary { font-size: 0.92rem; color: var(--text); margin: 0; }
+.result-summary mark { background: var(--highlight, #ffe066); color: inherit; border-radius: 2px; padding: 0 2px; }
+#search-count { color: var(--muted); font-size: 0.9rem; margin-bottom: 1rem; }
+#search-input-large {
+  width: 100%; font-size: 1.1rem; padding: 0.6rem 1rem;
+  border: 1px solid var(--border); border-radius: 6px;
+  background: var(--bg); color: var(--text); outline: none;
+  box-sizing: border-box;
+}
+#search-input-large:focus { border-color: var(--link); }
+:root { --highlight: #ffe066; }
+[data-theme="dark"] { --highlight: #7a6a00; }
+</style>
+</head>
+<body>
+<div id="topbar">
+  <button id="sidebar-toggle" aria-label="Toggle sidebar" onclick="toggleSidebar()">
+    <svg width="20" height="18" viewBox="0 0 20 18" fill="currentColor"><rect width="20" height="2" rx="1"/><rect y="8" width="20" height="2" rx="1"/><rect y="16" width="20" height="2" rx="1"/></svg>
+  </button>
+  <a class="site-name" href="/index.html">Jack<span>ipedia</span></a>
+  <form id="search-form" onsubmit="doSearch(event)">
+    <input type="text" placeholder="Search Jackipedia" id="q-top" autocomplete="off">
+    <button type="submit">&#128269;</button>
+  </form>
+  <button id="theme-toggle" aria-label="Toggle dark mode" onclick="toggleTheme()">
+    <span class="icon-sun">&#9788;</span>
+    <span class="icon-moon">&#9790;</span>
+  </button>
+</div>
+
+<div id="sidebar-backdrop" onclick="closeSidebar()"></div>
+<div id="layout">
+  <nav id="sidebar"><div id="sidebar-nav-placeholder"></div></nav>
+  <main id="main-content">
+    <div id="content">
+      <h1>Search Jackipedia</h1>
+      <input id="search-input-large" type="text" placeholder="Type to search..." autofocus autocomplete="off">
+      <div id="search-count"></div>
+      <div id="search-results"></div>
+    </div>
+  </main>
+</div>
+
+<script src="/random-articles.js"></script>
+<script>
+// Theme
+function toggleTheme(){var t=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';document.documentElement.setAttribute('data-theme',t);localStorage.setItem('theme',t);}
+function toggleSidebar(){document.getElementById('sidebar').classList.toggle('open');document.getElementById('sidebar-backdrop').classList.toggle('show');}
+function closeSidebar(){document.getElementById('sidebar').classList.remove('open');document.getElementById('sidebar-backdrop').classList.remove('show');}
+function goRandom(){if(typeof randomArticles!=='undefined'&&randomArticles.length){window.location=randomArticles[Math.floor(Math.random()*randomArticles.length)];}}
+
+// Search
+let INDEX = null;
+
+async function loadIndex() {
+  if (INDEX) return INDEX;
+  const r = await fetch('/search-index.json');
+  INDEX = await r.json();
+  return INDEX;
+}
+
+function highlight(text, terms) {
+  let out = text.slice(0, 200);
+  terms.forEach(t => {
+    const re = new RegExp('(' + t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')', 'gi');
+    out = out.replace(re, '<mark>$1</mark>');
+  });
+  return out;
+}
+
+async function runSearch(query) {
+  const resultsEl = document.getElementById('search-results');
+  const countEl = document.getElementById('search-count');
+  if (!query.trim()) { resultsEl.innerHTML = ''; countEl.textContent = ''; return; }
+
+  const idx = await loadIndex();
+  const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
+
+  const scored = [];
+  for (const item of idx) {
+    const titleL = item.title.toLowerCase();
+    const bodyL  = (item.summary + ' ' + item.body).toLowerCase();
+    let score = 0;
+    let allMatch = true;
+    for (const t of terms) {
+      const inTitle  = titleL.includes(t);
+      const inBody   = bodyL.includes(t);
+      if (!inTitle && !inBody) { allMatch = false; break; }
+      if (inTitle) score += 10;
+      if (inBody)  score += 1;
+    }
+    if (allMatch) scored.push({ item, score });
+  }
+  scored.sort((a,b) => b.score - a.score);
+
+  countEl.textContent = scored.length === 0
+    ? `No results for "${query}"`
+    : `${scored.length} result${scored.length===1?'':'s'} for "${query}"`;
+
+  if (scored.length === 0) {
+    resultsEl.innerHTML = '<p style="color:var(--muted)">Try a different search term.</p>';
+    return;
+  }
+
+  resultsEl.innerHTML = scored.slice(0, 30).map(({item}) => `
+    <div class="result-item">
+      <div class="result-cat">${item.cat}</div>
+      <h3><a href="${item.url}">${item.title}</a></h3>
+      <p class="result-summary">${highlight(item.summary || item.body, terms)}</p>
+    </div>
+  `).join('');
+}
+
+function doSearch(e) {
+  if (e) e.preventDefault();
+  const q = document.getElementById('search-input-large').value;
+  window.history.replaceState({}, '', '/search.html?q=' + encodeURIComponent(q));
+  runSearch(q);
+}
+
+function doSearchTop(e) {
+  if (e) e.preventDefault();
+  const q = document.getElementById('q-top').value;
+  document.getElementById('search-input-large').value = q;
+  window.history.replaceState({}, '', '/search.html?q=' + encodeURIComponent(q));
+  runSearch(q);
+}
+
+document.getElementById('search-form').onsubmit = doSearchTop;
+
+// Live search as you type
+document.getElementById('search-input-large').addEventListener('input', function() {
+  runSearch(this.value);
+});
+
+// Pre-fill from URL param
+window.addEventListener('DOMContentLoaded', () => {
+  const params = new URLSearchParams(window.location.search);
+  const q = params.get('q') || '';
+  if (q) {
+    document.getElementById('search-input-large').value = q;
+    document.getElementById('q-top').value = q;
+    runSearch(q);
+  }
+});
+</script>
+</body>
+</html>
