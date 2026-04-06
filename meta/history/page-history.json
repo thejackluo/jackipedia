@@ -769,6 +769,11 @@
   ],
   "wiki/people/index": [
     {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    },
+    {
       "commit": "337e1ee6",
       "date": "2026-04-06 08:47:03",
       "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
@@ -807,6 +812,11 @@
     }
   ],
   "wiki/people/kevin-zhang": [
+    {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    },
     {
       "commit": "337e1ee6",
       "date": "2026-04-06 08:47:03",
@@ -856,6 +866,11 @@
     }
   ],
   "wiki/people/jack-luo": [
+    {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    },
     {
       "commit": "337e1ee6",
       "date": "2026-04-06 08:47:03",
@@ -1154,7 +1169,13 @@
       "summary": "build: auto-update 2026-04-06 06:07 UTC (97 pages)"
     }
   ],
-  "wiki/concepts/linear": [],
+  "wiki/concepts/linear": [
+    {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    }
+  ],
   "wiki/concepts/jotion": [
     {
       "commit": "337e1ee6",
@@ -1216,7 +1237,13 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
-  "wiki/concepts/notion": [],
+  "wiki/concepts/notion": [
+    {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    }
+  ],
   "wiki/concepts/openclaw": [
     {
       "commit": "337e1ee6",
@@ -1261,8 +1288,20 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
-  "wiki/concepts/burning-man": [],
-  "wiki/concepts/mit-media-lab": [],
+  "wiki/concepts/burning-man": [
+    {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    }
+  ],
+  "wiki/concepts/mit-media-lab": [
+    {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    }
+  ],
   "wiki/concepts/elon-musk-hack-club": [
     {
       "commit": "337e1ee6",
@@ -1377,7 +1416,13 @@
       "summary": "build: auto-update 2026-04-06 06:35 UTC (109 pages)"
     }
   ],
-  "wiki/concepts/figma": [],
+  "wiki/concepts/figma": [
+    {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    }
+  ],
   "wiki/concepts/idea-vault": [
     {
       "commit": "337e1ee6",
@@ -1487,7 +1532,13 @@
       "summary": "build: auto-update 2026-04-06 06:03 UTC (95 pages)"
     }
   ],
-  "wiki/books/design-of-everyday-things": [],
+  "wiki/books/design-of-everyday-things": [
+    {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    }
+  ],
   "wiki/books/three-body-problem.ja": [
     {
       "commit": "a8891a31",
@@ -1610,6 +1661,11 @@
     }
   ],
   "wiki/history/vienna-austria": [
+    {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    },
     {
       "commit": "337e1ee6",
       "date": "2026-04-06 08:47:03",
@@ -1753,6 +1809,11 @@
   ],
   "wiki/history/wework-nomadic-period": [
     {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    },
+    {
       "commit": "337e1ee6",
       "date": "2026-04-06 08:47:03",
       "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
@@ -1832,6 +1893,11 @@
   ],
   "wiki/history/qhouse-2023": [
     {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    },
+    {
       "commit": "337e1ee6",
       "date": "2026-04-06 08:47:03",
       "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
@@ -1907,6 +1973,11 @@
     }
   ],
   "wiki/history/new-york-city": [
+    {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    },
     {
       "commit": "337e1ee6",
       "date": "2026-04-06 08:47:03",
@@ -2153,7 +2224,13 @@
       "summary": "build: auto-update 2026-04-06 06:32 UTC (106 pages)"
     }
   ],
-  "wiki/history/san-francisco": [],
+  "wiki/history/san-francisco": [
+    {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    }
+  ],
   "wiki/interests/mit-blogs": [
     {
       "commit": "337e1ee6",
@@ -2416,7 +2493,13 @@
       "summary": "build: auto-update 2026-04-06 06:10 UTC (97 pages)"
     }
   ],
-  "wiki/interests/anime": [],
+  "wiki/interests/anime": [
+    {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    }
+  ],
   "wiki/interests/wikipedia-contributions": [
     {
       "commit": "337e1ee6",
@@ -2495,7 +2578,13 @@
       "summary": "ingest: writing archive (360 entries), walk-in-the-park framework, annual review 2024"
     }
   ],
-  "wiki/philosophy/effective-altruism": [],
+  "wiki/philosophy/effective-altruism": [
+    {
+      "commit": "d04fc9bc",
+      "date": "2026-04-06 21:57:30",
+      "summary": "build: auto-update 2026-04-06 21:57 UTC (127 pages)"
+    }
+  ],
   "wiki/projects/ces-2025.zh": [
     {
       "commit": "d5fb1681",
