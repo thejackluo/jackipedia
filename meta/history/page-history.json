@@ -158,7 +158,13 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
-  "wiki/fitness/brazilian-jiu-jitsu": [],
+  "wiki/fitness/brazilian-jiu-jitsu": [
+    {
+      "commit": "b18535b9",
+      "date": "2026-04-06 07:33:05",
+      "summary": "build: auto-update 2026-04-06 07:33 UTC (128 pages)"
+    }
+  ],
   "wiki/writings/ai-society-human-evolution": [
     {
       "commit": "948c69c8",
@@ -899,6 +905,11 @@
   ],
   "wiki/concepts/agent-x-launch": [
     {
+      "commit": "b18535b9",
+      "date": "2026-04-06 07:33:05",
+      "summary": "build: auto-update 2026-04-06 07:33 UTC (128 pages)"
+    },
+    {
       "commit": "948c69c8",
       "date": "2026-04-06 06:45:28",
       "summary": "build: auto-update 2026-04-06 06:45 UTC (112 pages)"
@@ -1183,8 +1194,20 @@
       "summary": "build: auto-update 2026-04-06 06:03 UTC (95 pages)"
     }
   ],
-  "wiki/books/agents-in-the-long-game": [],
-  "wiki/books/why-nations-fail": [],
+  "wiki/books/agents-in-the-long-game": [
+    {
+      "commit": "b18535b9",
+      "date": "2026-04-06 07:33:05",
+      "summary": "build: auto-update 2026-04-06 07:33 UTC (128 pages)"
+    }
+  ],
+  "wiki/books/why-nations-fail": [
+    {
+      "commit": "b18535b9",
+      "date": "2026-04-06 07:33:05",
+      "summary": "build: auto-update 2026-04-06 07:33 UTC (128 pages)"
+    }
+  ],
   "wiki/books/the-courage-to-be-disliked": [
     {
       "commit": "948c69c8",
@@ -1281,7 +1304,13 @@
       "summary": "build: auto-update 2026-04-06 07:28 UTC (123 pages)"
     }
   ],
-  "wiki/books/power-why-some-people": [],
+  "wiki/books/power-why-some-people": [
+    {
+      "commit": "b18535b9",
+      "date": "2026-04-06 07:33:05",
+      "summary": "build: auto-update 2026-04-06 07:33 UTC (128 pages)"
+    }
+  ],
   "wiki/history/boston": [
     {
       "commit": "ec2587b9",
@@ -1297,6 +1326,11 @@
     }
   ],
   "wiki/history/mit-era": [
+    {
+      "commit": "b18535b9",
+      "date": "2026-04-06 07:33:05",
+      "summary": "build: auto-update 2026-04-06 07:33 UTC (128 pages)"
+    },
     {
       "commit": "5ebe9165",
       "date": "2026-04-06 06:43:54",
@@ -1491,6 +1525,11 @@
   ],
   "wiki/history/new-york-city": [
     {
+      "commit": "b18535b9",
+      "date": "2026-04-06 07:33:05",
+      "summary": "build: auto-update 2026-04-06 07:33 UTC (128 pages)"
+    },
+    {
       "commit": "948c69c8",
       "date": "2026-04-06 06:45:28",
       "summary": "build: auto-update 2026-04-06 06:45 UTC (112 pages)"
@@ -1605,6 +1644,11 @@
   ],
   "wiki/history/ucsc-era": [
     {
+      "commit": "b18535b9",
+      "date": "2026-04-06 07:33:05",
+      "summary": "build: auto-update 2026-04-06 07:33 UTC (128 pages)"
+    },
+    {
       "commit": "83bb4f5c",
       "date": "2026-04-06 05:45:43",
       "summary": "build: auto-update 2026-04-06 05:45 UTC (83 pages)"
@@ -1706,7 +1750,13 @@
       "summary": "build: auto-update 2026-04-06 06:18 UTC (100 pages)"
     }
   ],
-  "wiki/interests/japanese-language": [],
+  "wiki/interests/japanese-language": [
+    {
+      "commit": "b18535b9",
+      "date": "2026-04-06 07:33:05",
+      "summary": "build: auto-update 2026-04-06 07:33 UTC (128 pages)"
+    }
+  ],
   "wiki/interests/three-countries-tiktok": [
     {
       "commit": "5ebe9165",
@@ -1945,6 +1995,11 @@
     }
   ],
   "wiki/projects/agent-school": [
+    {
+      "commit": "b18535b9",
+      "date": "2026-04-06 07:33:05",
+      "summary": "build: auto-update 2026-04-06 07:33 UTC (128 pages)"
+    },
     {
       "commit": "5ebe9165",
       "date": "2026-04-06 06:43:54",
