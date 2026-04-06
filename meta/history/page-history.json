@@ -405,7 +405,13 @@
       "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
     }
   ],
-  "wiki/people/leo-zhang": [],
+  "wiki/people/leo-zhang": [
+    {
+      "commit": "6b128df8",
+      "date": "2026-04-06 05:56:45",
+      "summary": "build: auto-update 2026-04-06 05:56 UTC (85 pages)"
+    }
+  ],
   "wiki/people/armaan-jain": [
     {
       "commit": "e10f7c83",
