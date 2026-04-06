@@ -597,8 +597,19 @@
       "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
     }
   ],
-  "wiki/history/new-york-city": [],
+  "wiki/history/new-york-city": [
+    {
+      "commit": "7d985e37",
+      "date": "2026-04-06 05:58:05",
+      "summary": "build: auto-update 2026-04-06 05:58 UTC (86 pages)"
+    }
+  ],
   "wiki/history/travel": [
+    {
+      "commit": "7d985e37",
+      "date": "2026-04-06 05:58:05",
+      "summary": "build: auto-update 2026-04-06 05:58 UTC (86 pages)"
+    },
     {
       "commit": "56e922e0",
       "date": "2026-04-06 05:56:03",
