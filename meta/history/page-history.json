@@ -816,7 +816,13 @@
       "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
     }
   ],
-  "wiki/people/ryan-li": [],
+  "wiki/people/ryan-li": [
+    {
+      "commit": "1b5b8122",
+      "date": "2026-04-06 07:42:05",
+      "summary": "build: auto-update 2026-04-06 07:42 UTC (130 pages)"
+    }
+  ],
   "wiki/people/arman-mahjoor": [
     {
       "commit": "948c69c8",
