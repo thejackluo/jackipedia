@@ -32,7 +32,7 @@ Jack has been to almost all major US cities and tracks every flight in the Fligh
 | Los Angeles / Santa Monica | City travel, beach walks |
 | Las Vegas | CES 2025 |
 | Miami | Brickell, beach, galleries, content creation |
-| New York | NY Hacker House 2025 |
+| New York | NY Hacker House 2025, Dec 2025 meetings — [[history/new-york-city]] |
 | Atlanta | Georgia Tech |
 | Boston | MIT SIPB, 2025 |
 | Stanford / Palo Alto | TreeHacks, visits |
@@ -76,3 +76,7 @@ From the March 2025 Jeff conversation, Jack's next travel targets: **Shanghai, T
 ![Santa Monica beach — wide sandy shore, bike path, Santa Monica mountains in the distance](/assets/photos/santa-monica-beach.jpg)
 
 Santa Monica's wide flat beach on a clear day — blue sky, mountains behind the bay, the bike path running parallel. One of those California days where everything looks like a postcard.
+
+![Jack walking on a snowy mountain path — pine trees, mountain range, overcast winter sky](/assets/photos/jack-snowy-mountain.jpg)
+
+Winter mountain hiking — black puffer, hands in pockets, walking toward a lodge with a snow-dusted mountain range in the background. Likely White Mountains, New Hampshire, or Vermont. The scale of the landscape against the solitary figure is quietly cinematic.
