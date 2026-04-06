@@ -6,13 +6,13 @@
 
 ## Overview
 
-Leo Zhang is a Caltech student from Florida — Jack calls him "the Florida Man." They met at an internal post hosted by Corey and bonded immediately over a shared skepticism of startup culture's favorite non-word.
+Leo Zhang is a Caltech student from Florida — Jack calls him "the Florida Man." They met at Internapalooza hosted by Cory and bonded immediately over a shared rejection of startup culture's most hollow value.
 
 ## How They Met
 
-Leo and Jack met at an event hosted by Corey. The conversation that kicked off their friendship: Leo said "proceed" is bullshit. Jack agreed. They've been talking ever since.
+Leo and Jack met at Internapalooza, an event hosted by Cory. The conversation that kicked off their friendship: Leo said **prestige** is bullshit. Jack agreed. They've been talking ever since.
 
-For context, "proceed" is the kind of word that shows up in corporate emails, pitch feedback, and advisor conversations — a word that sounds like forward motion but often means nothing. Leo's willingness to call it out signals the same directness and low tolerance for performative language that runs through Jack's own writing.
+For context: "prestige" is the word that organizes an enormous amount of tech and startup decision-making — which school, which company, which investor, which accelerator. Leo's willingness to call the whole system out by name signals a level of independence from status games that Jack finds rare and valuable.
 
 ## Profile
 
@@ -20,12 +20,15 @@ For context, "proceed" is the kind of word that shows up in corporate emails, pi
 - **Origin:** Florida
 - **Vibe:** Contrarian, direct, calls things what they are
 
-## The "Proceed" Theory
+## The "Prestige is Bullshit" Theory
 
-The fact that a shared opinion about a single word was enough to start a lasting friendship says something about both of them. They're the kind of people who filter for signal fast — one honest take and you're either in or out.
+The fact that a shared rejection of prestige-seeking was enough to start a lasting friendship says something about both of them. They're the kind of people who filter for signal fast — one honest take and you're either in or out.
+
+Notably, this is a more radical position than it sounds. Both Jack and Leo operate in environments saturated with prestige signaling — Caltech and the Bay Area startup scene are arguably the most prestige-dense environments in the country. Saying prestige is bullshit from inside those environments is different from saying it from outside.
 
 ## Related
 
 - [[people/index]]
 - [[people/jack-luo]]
 - [[people/meetings-index]]
+- [[history/internapalooza]]

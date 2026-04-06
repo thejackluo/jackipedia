@@ -524,6 +524,7 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
+  "wiki/concepts/z-fellows": [],
   "wiki/concepts/emotional-intelligence-ai": [
     {
       "commit": "c64bc8d9",
@@ -877,6 +878,7 @@
       "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
     }
   ],
+  "wiki/history/internapalooza": [],
   "wiki/interests/mit-blogs": [
     {
       "commit": "a452445d",
