@@ -365,7 +365,13 @@
       "summary": "feat: 14 new photos, EI concepts page, agent-school page, mit-era page"
     }
   ],
-  "wiki/concepts/openclaw-news": [],
+  "wiki/concepts/openclaw-news": [
+    {
+      "commit": "75913391",
+      "date": "2026-04-06 05:39:12",
+      "summary": "build: auto-update 2026-04-06 05:39 UTC (78 pages)"
+    }
+  ],
   "wiki/concepts/investor-pitch-mechanics": [
     {
       "commit": "c3410fe8",
@@ -399,7 +405,13 @@
       "summary": "ingest: writing archive (360 entries), walk-in-the-park framework, annual review 2024"
     }
   ],
-  "wiki/concepts/wikipedia-editing": [],
+  "wiki/concepts/wikipedia-editing": [
+    {
+      "commit": "75913391",
+      "date": "2026-04-06 05:39:12",
+      "summary": "build: auto-update 2026-04-06 05:39 UTC (78 pages)"
+    }
+  ],
   "wiki/books/essentialism": [
     {
       "commit": "c3410fe8",
@@ -421,7 +433,13 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
-  "wiki/books/goodreads": [],
+  "wiki/books/goodreads": [
+    {
+      "commit": "75913391",
+      "date": "2026-04-06 05:39:12",
+      "summary": "build: auto-update 2026-04-06 05:39 UTC (78 pages)"
+    }
+  ],
   "wiki/books/life-30": [
     {
       "commit": "c3410fe8",
@@ -436,7 +454,13 @@
       "summary": "feat: 14 new photos, EI concepts page, agent-school page, mit-era page"
     }
   ],
-  "wiki/history/wework-nomadic-period": [],
+  "wiki/history/wework-nomadic-period": [
+    {
+      "commit": "75913391",
+      "date": "2026-04-06 05:39:12",
+      "summary": "build: auto-update 2026-04-06 05:39 UTC (78 pages)"
+    }
+  ],
   "wiki/history/georgia-tech-era": [
     {
       "commit": "12c9d050",
@@ -473,7 +497,13 @@
       "summary": "photos: 5 personal photos added \u2014 flighty stats, noodles, neon sign, rain/catering tray, japan sweets; new travel page with full flight stats"
     }
   ],
-  "wiki/history/frontier-gowild": [],
+  "wiki/history/frontier-gowild": [
+    {
+      "commit": "75913391",
+      "date": "2026-04-06 05:39:12",
+      "summary": "build: auto-update 2026-04-06 05:39 UTC (78 pages)"
+    }
+  ],
   "wiki/history/ucsc-era": [
     {
       "commit": "f9fee634",
