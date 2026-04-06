@@ -2,13 +2,13 @@
 
 **Category:** History
 **Period:** 2023
-**Location:** New York City
+**Location:** San Francisco
 **Summary:** NYC hacker house co-organized by Jack - where Kevin Zhang connection solidified
 **Last updated:** 2026-04-06
 
 ## Overview
 
-Q House was a hacker house Jack co-organized in New York City in 2023. It is listed on jack-luo.com as one of his notable organizational achievements alongside the New York Hacker House 2025 and inspiring the vision for the [[history/georgia-tech-era]] Hacker House 2025.
+Q House was a hacker house Jack co-organized in San Francisco in 2023. It is listed on jack-luo.com as one of his notable organizational achievements alongside the New York Hacker House 2025 and inspiring the vision for the [[history/georgia-tech-era]] Hacker House 2025.
 
 The name "Q House" suggests either a location or a community identity - the exact name is documented but the derivation is not yet confirmed.
 
@@ -26,7 +26,7 @@ This is the same logic Jack would later apply to:
 - New York Hacker House 2025
 - Inspiring the Georgia Tech Hacker House (2025, same year)
 
-## New York as a Hacker House City
+## San Francisco as a Hacker House City
 
 New York is an unusual choice for a hacker house. Most hacker houses cluster in San Francisco and the Bay Area (proximity to VCs, other founders, talent). New York has a different energy: more finance, more media, more fashion - but also a growing tech scene, a better cost-to-density ratio than SF, and a different kind of ambition.
 

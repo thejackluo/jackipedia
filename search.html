@@ -1,42 +1,173 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Search — Jackipedia</title>
 <script>
-(function(){var t=localStorage.getItem('theme')||'light';document.documentElement.setAttribute('data-theme',t);})();
+(function(){
+  var saved = localStorage.getItem('jw-theme');
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  var theme = saved || (prefersDark ? 'dark' : 'light');
+  document.documentElement.setAttribute('data-theme', theme);
+})();
 </script>
-<link rel="stylesheet" href="/assets/style.css">
 <style>
-#search-results { margin-top: 1.5rem; }
-.result-item { border-bottom: 1px solid var(--border); padding: 1rem 0; }
-.result-item:last-child { border-bottom: none; }
-.result-item h3 { margin: 0 0 0.25rem; font-size: 1.1rem; }
-.result-item h3 a { color: var(--link); text-decoration: none; }
-.result-item h3 a:hover { text-decoration: underline; }
-.result-cat { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.3rem; }
-.result-summary { font-size: 0.92rem; color: var(--text); margin: 0; }
-.result-summary mark { background: var(--highlight, #ffe066); color: inherit; border-radius: 2px; padding: 0 2px; }
-#search-count { color: var(--muted); font-size: 0.9rem; margin-bottom: 1rem; }
+:root {
+  --bg: #ffffff; --bg-secondary: #f8f9fa; --bg-topbar: #ffffff;
+  --border: #a2a9b1; --border-light: #eaecf0; --text: #202122;
+  --text-muted: #54595d; --link: #3366cc; --link-visited: #6b4ba6;
+  --code-bg: #f8f9fa; --sidebar-bg: #f8f9fa; --footer-bg: #f8f9fa;
+  --search-bg: #ffffff; --toggle-bg: #a2a9b1; --highlight: #ffe066;
+}
+[data-theme="dark"] {
+  --bg: #1a1a1b; --bg-secondary: #272729; --bg-topbar: #1a1a1b;
+  --border: #3c3c3d; --border-light: #2d2d2e; --text: #d7dadc;
+  --text-muted: #818384; --link: #4e9af1; --link-visited: #a47dd1;
+  --code-bg: #272729; --sidebar-bg: #1f1f20; --footer-bg: #1f1f20;
+  --search-bg: #272729; --highlight: #7a6a00;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg); color: var(--text);
+  font-family: -apple-system, 'Linux Libertine', Georgia, Times, serif;
+  font-size: 14px; line-height: 1.6;
+}
+
+/* Topbar */
+#topbar {
+  background: var(--bg-topbar); border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; padding: 0 12px; height: 50px;
+  gap: 10px; position: sticky; top: 0; z-index: 200;
+}
+#topbar .site-name {
+  font-size: 1rem; font-weight: bold; color: var(--text);
+  text-decoration: none; white-space: nowrap; font-family: sans-serif; flex-shrink: 0;
+}
+#topbar .site-name span { color: var(--link); }
+#menu-toggle {
+  display: none; background: none; border: none; cursor: pointer;
+  padding: 6px; color: var(--text); flex-shrink: 0;
+}
+#search-form {
+  display: flex; align-items: center; border: 1px solid var(--border);
+  border-radius: 2px; overflow: hidden; flex: 1; max-width: 380px; margin-left: auto;
+}
+#search-form input {
+  border: none; padding: 5px 8px; font-size: 13px; width: 100%;
+  outline: none; font-family: sans-serif; background: var(--search-bg); color: var(--text);
+}
+#search-form button {
+  background: var(--bg-secondary); border: none; border-left: 1px solid var(--border);
+  padding: 5px 10px; cursor: pointer; font-size: 13px; color: var(--text-muted); flex-shrink: 0;
+}
+#theme-toggle {
+  flex-shrink: 0; background: none; border: none; cursor: pointer;
+  padding: 4px 6px; color: var(--text-muted); font-size: 17px; line-height: 1;
+  display: flex; align-items: center; border-radius: 4px;
+}
+#theme-toggle:hover { background: var(--bg-secondary); }
+.icon-moon { display: none; }
+.icon-sun { display: inline; }
+[data-theme="dark"] .icon-moon { display: inline; }
+[data-theme="dark"] .icon-sun { display: none; }
+#random-btn {
+  flex-shrink: 0; background: none; border: 1px solid var(--border);
+  cursor: pointer; padding: 4px 8px; color: var(--text-muted);
+  font-size: 13px; border-radius: 3px; font-family: sans-serif; white-space: nowrap;
+}
+#random-btn:hover { background: var(--bg-secondary); color: var(--link); }
+
+/* Layout */
+#layout { display: flex; min-height: calc(100vh - 50px); }
+
+/* Sidebar */
+#sidebar {
+  width: 160px; min-height: 100%; background: var(--sidebar-bg);
+  border-right: 1px solid var(--border); padding: 12px 0;
+  flex-shrink: 0; font-size: 12.5px; font-family: sans-serif;
+}
+#sidebar .nav-heading {
+  font-size: 11px; font-weight: bold; text-transform: uppercase;
+  letter-spacing: 0.04em; color: var(--text-muted); padding: 8px 12px 2px;
+}
+#sidebar a { display: block; padding: 2px 12px; color: var(--link); text-decoration: none; }
+#sidebar a:hover { text-decoration: underline; }
+#sidebar hr { border: none; border-top: 1px solid var(--border); margin: 6px 0; }
+#sidebar-backdrop { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.4); z-index: 150; }
+
+/* Content */
+#content-wrap { flex: 1; min-width: 0; }
+#content { padding: 24px; max-width: 860px; }
+
+h1 {
+  font-family: 'Linux Libertine', Georgia, Times, serif; font-size: 1.95em;
+  font-weight: normal; border-bottom: 1px solid var(--border);
+  padding-bottom: 4px; margin-bottom: 16px;
+}
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:visited { color: var(--link-visited); }
+
+/* Search UI */
+#search-box-wrap { margin-bottom: 1.5rem; }
 #search-input-large {
   width: 100%; font-size: 1.1rem; padding: 0.6rem 1rem;
-  border: 1px solid var(--border); border-radius: 6px;
+  border: 1px solid var(--border); border-radius: 4px;
   background: var(--bg); color: var(--text); outline: none;
-  box-sizing: border-box;
 }
 #search-input-large:focus { border-color: var(--link); }
-:root { --highlight: #ffe066; }
-[data-theme="dark"] { --highlight: #7a6a00; }
+
+#search-count { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1rem; font-family: sans-serif; }
+
+.result-item { border-bottom: 1px solid var(--border-light); padding: 0.9rem 0; }
+.result-item:last-child { border-bottom: none; }
+.result-cat {
+  font-size: 0.72rem; color: var(--text-muted); text-transform: uppercase;
+  letter-spacing: 0.08em; margin-bottom: 3px; font-family: sans-serif;
+}
+.result-item h3 { margin: 0 0 4px; font-size: 1.05rem; font-family: sans-serif; font-weight: 600; }
+.result-item h3 a { color: var(--link); text-decoration: none; }
+.result-item h3 a:hover { text-decoration: underline; }
+.result-summary { font-size: 0.9rem; color: var(--text-muted); margin: 0; font-family: sans-serif; }
+.result-summary mark { background: var(--highlight); color: inherit; border-radius: 2px; padding: 0 2px; }
+
+/* Footer */
+#footer {
+  border-top: 1px solid var(--border); padding: 12px 24px;
+  font-size: 12px; font-family: sans-serif; color: var(--text-muted);
+  background: var(--footer-bg); margin-left: 160px;
+}
+#footer a { color: var(--link); }
+
+/* Mobile */
+@media (max-width: 768px) {
+  #menu-toggle { display: flex; }
+  #sidebar {
+    position: fixed; top: 50px; left: 0; bottom: 0; width: 240px;
+    z-index: 160; overflow-y: auto; transform: translateX(-100%);
+  }
+  #sidebar.open { transform: translateX(0); }
+  #sidebar-backdrop.open { display: block; }
+  #content { padding: 14px; }
+  #footer { margin-left: 0; }
+  #search-form { max-width: none; }
+}
 </style>
 </head>
 <body>
+
 <div id="topbar">
-  <button id="sidebar-toggle" aria-label="Toggle sidebar" onclick="toggleSidebar()">
-    <svg width="20" height="18" viewBox="0 0 20 18" fill="currentColor"><rect width="20" height="2" rx="1"/><rect y="8" width="20" height="2" rx="1"/><rect y="16" width="20" height="2" rx="1"/></svg>
+  <button id="menu-toggle" aria-label="Open navigation" onclick="toggleSidebar()">
+    <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+      <rect y="3" width="20" height="2" rx="1"/>
+      <rect y="9" width="20" height="2" rx="1"/>
+      <rect y="15" width="20" height="2" rx="1"/>
+    </svg>
   </button>
   <a class="site-name" href="/index.html">Jack<span>ipedia</span></a>
-  <form id="search-form" onsubmit="doSearch(event)">
+  <form id="search-form" onsubmit="doSearchTop(event)">
     <input type="text" placeholder="Search Jackipedia" id="q-top" autocomplete="off">
     <button type="submit">&#128269;</button>
   </form>
@@ -44,117 +175,155 @@
     <span class="icon-sun">&#9788;</span>
     <span class="icon-moon">&#9790;</span>
   </button>
+  <button id="random-btn" onclick="goRandom()" title="Random article">&#9684;</button>
 </div>
 
 <div id="sidebar-backdrop" onclick="closeSidebar()"></div>
+
 <div id="layout">
-  <nav id="sidebar"><div id="sidebar-nav-placeholder"></div></nav>
-  <main id="main-content">
+  <nav id="sidebar">
+    <div class="nav-section">
+      <div class="nav-heading">Navigation</div>
+      <a href="/index.html">Main page</a>
+      <a href="/meta/history.html">Recent changes</a>
+      <a href="#" onclick="goRandom(); return false;">Random article</a>
+    </div>
+    <hr>
+    <div class="nav-section">
+      <div class="nav-heading">People</div>
+      <a href="/wiki/people/jack-luo.html">Jack Luo</a>
+      <a href="/wiki/people/index.html">All people</a>
+    </div>
+    <div class="nav-section">
+      <div class="nav-heading">Categories</div>
+      <a href="/wiki/concepts/reading-list.html">Books</a>
+      <a href="/wiki/history/index.html">History</a>
+      <a href="/wiki/philosophy/walk-in-the-park-framework.html">Philosophy</a>
+      <a href="/wiki/projects/index.html">Projects</a>
+    </div>
+  </nav>
+
+  <div id="content-wrap">
     <div id="content">
       <h1>Search Jackipedia</h1>
-      <input id="search-input-large" type="text" placeholder="Type to search..." autofocus autocomplete="off">
+      <div id="search-box-wrap">
+        <input id="search-input-large" type="text" placeholder="Type to search all articles..." autofocus autocomplete="off">
+      </div>
       <div id="search-count"></div>
       <div id="search-results"></div>
     </div>
-  </main>
+  </div>
+</div>
+
+<div id="footer">
+  Jackipedia &mdash; Jack Luo's personal knowledge wiki &nbsp;|&nbsp;
+  <a href="/meta/history.html">Recent changes</a> &nbsp;|&nbsp;
+  <a href="/index.html">Main page</a>
 </div>
 
 <script src="/random-articles.js"></script>
 <script>
-// Theme
-function toggleTheme(){var t=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';document.documentElement.setAttribute('data-theme',t);localStorage.setItem('theme',t);}
-function toggleSidebar(){document.getElementById('sidebar').classList.toggle('open');document.getElementById('sidebar-backdrop').classList.toggle('show');}
-function closeSidebar(){document.getElementById('sidebar').classList.remove('open');document.getElementById('sidebar-backdrop').classList.remove('show');}
-function goRandom(){if(typeof randomArticles!=='undefined'&&randomArticles.length){window.location=randomArticles[Math.floor(Math.random()*randomArticles.length)];}}
+function toggleTheme() {
+  var html = document.documentElement;
+  var next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+  html.setAttribute('data-theme', next);
+  localStorage.setItem('jw-theme', next);
+}
+function toggleSidebar() {
+  document.getElementById('sidebar').classList.toggle('open');
+  document.getElementById('sidebar-backdrop').classList.toggle('open');
+}
+function closeSidebar() {
+  document.getElementById('sidebar').classList.remove('open');
+  document.getElementById('sidebar-backdrop').classList.remove('open');
+}
+function goRandom() {
+  if (typeof JACKIPEDIA_ARTICLES !== 'undefined' && JACKIPEDIA_ARTICLES.length) {
+    window.location.href = JACKIPEDIA_ARTICLES[Math.floor(Math.random() * JACKIPEDIA_ARTICLES.length)];
+  }
+}
 
-// Search
-let INDEX = null;
+var INDEX = null;
 
 async function loadIndex() {
   if (INDEX) return INDEX;
-  const r = await fetch('/search-index.json');
+  var r = await fetch('/search-index.json');
   INDEX = await r.json();
   return INDEX;
 }
 
 function highlight(text, terms) {
-  let out = text.slice(0, 200);
-  terms.forEach(t => {
-    const re = new RegExp('(' + t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')', 'gi');
+  var out = (text || '').slice(0, 220);
+  terms.forEach(function(t) {
+    var re = new RegExp('(' + t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
     out = out.replace(re, '<mark>$1</mark>');
   });
   return out;
 }
 
 async function runSearch(query) {
-  const resultsEl = document.getElementById('search-results');
-  const countEl = document.getElementById('search-count');
+  var resultsEl = document.getElementById('search-results');
+  var countEl = document.getElementById('search-count');
   if (!query.trim()) { resultsEl.innerHTML = ''; countEl.textContent = ''; return; }
 
-  const idx = await loadIndex();
-  const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
+  var idx = await loadIndex();
+  var terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
 
-  const scored = [];
-  for (const item of idx) {
-    const titleL = item.title.toLowerCase();
-    const bodyL  = (item.summary + ' ' + item.body).toLowerCase();
-    let score = 0;
-    let allMatch = true;
-    for (const t of terms) {
-      const inTitle  = titleL.includes(t);
-      const inBody   = bodyL.includes(t);
+  var scored = [];
+  for (var i = 0; i < idx.length; i++) {
+    var item = idx[i];
+    var titleL = item.title.toLowerCase();
+    var bodyL = ((item.summary || '') + ' ' + (item.body || '')).toLowerCase();
+    var score = 0;
+    var allMatch = true;
+    for (var j = 0; j < terms.length; j++) {
+      var t = terms[j];
+      var inTitle = titleL.includes(t);
+      var inBody = bodyL.includes(t);
       if (!inTitle && !inBody) { allMatch = false; break; }
       if (inTitle) score += 10;
-      if (inBody)  score += 1;
+      if (inBody) score += 1;
     }
-    if (allMatch) scored.push({ item, score });
+    if (allMatch) scored.push({ item: item, score: score });
   }
-  scored.sort((a,b) => b.score - a.score);
+  scored.sort(function(a, b) { return b.score - a.score; });
 
   countEl.textContent = scored.length === 0
-    ? `No results for "${query}"`
-    : `${scored.length} result${scored.length===1?'':'s'} for "${query}"`;
+    ? 'No results for "' + query + '"'
+    : scored.length + ' result' + (scored.length === 1 ? '' : 's') + ' for "' + query + '"';
 
   if (scored.length === 0) {
-    resultsEl.innerHTML = '<p style="color:var(--muted)">Try a different search term.</p>';
+    resultsEl.innerHTML = '<p style="color:var(--text-muted);font-family:sans-serif;">Try a different search term.</p>';
     return;
   }
 
-  resultsEl.innerHTML = scored.slice(0, 30).map(({item}) => `
-    <div class="result-item">
-      <div class="result-cat">${item.cat}</div>
-      <h3><a href="${item.url}">${item.title}</a></h3>
-      <p class="result-summary">${highlight(item.summary || item.body, terms)}</p>
-    </div>
-  `).join('');
-}
-
-function doSearch(e) {
-  if (e) e.preventDefault();
-  const q = document.getElementById('search-input-large').value;
-  window.history.replaceState({}, '', '/search.html?q=' + encodeURIComponent(q));
-  runSearch(q);
+  resultsEl.innerHTML = scored.slice(0, 30).map(function(s) {
+    var item = s.item;
+    // Fix URL — strip leading /wiki/ prefix duplication if any
+    var url = item.url;
+    return '<div class="result-item">' +
+      '<div class="result-cat">' + (item.cat || '') + '</div>' +
+      '<h3><a href="' + url + '">' + item.title + '</a></h3>' +
+      '<p class="result-summary">' + highlight(item.summary || item.body, terms) + '</p>' +
+      '</div>';
+  }).join('');
 }
 
 function doSearchTop(e) {
   if (e) e.preventDefault();
-  const q = document.getElementById('q-top').value;
+  var q = document.getElementById('q-top').value;
   document.getElementById('search-input-large').value = q;
   window.history.replaceState({}, '', '/search.html?q=' + encodeURIComponent(q));
   runSearch(q);
 }
 
-document.getElementById('search-form').onsubmit = doSearchTop;
-
-// Live search as you type
 document.getElementById('search-input-large').addEventListener('input', function() {
   runSearch(this.value);
 });
 
-// Pre-fill from URL param
-window.addEventListener('DOMContentLoaded', () => {
-  const params = new URLSearchParams(window.location.search);
-  const q = params.get('q') || '';
+window.addEventListener('DOMContentLoaded', function() {
+  var params = new URLSearchParams(window.location.search);
+  var q = params.get('q') || '';
   if (q) {
     document.getElementById('search-input-large').value = q;
     document.getElementById('q-top').value = q;

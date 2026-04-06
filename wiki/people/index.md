@@ -29,17 +29,7 @@ This section contains pages about people in Jack's life - collaborators, advisor
 | [[people/kunal-gupta]] | Startups | Apr 2025 |
 | [[people/james-preiss]] | Robotics / PhD | Nov 2024 |
 
-## Customer Discovery (CD Sprint, Jan-Feb 2026)
 
-| Person | CD # | Notes |
-|--------|------|-------|
-| [[people/nimesh]] | CD 14, 26 | Hotel operator, Best Western, champion |
-| [[people/manas-nair]] | CD 5 | Sales co-founder intro |
-| Arman Rafian | CD 8 | Became team member |
-| Heath Sun | CD 9 | Voice agent startup |
-| Nick Sortino | CD 23 | Sports analytics, spreadsheet-heavy workflow |
-| Armaan Jain | CD 15 | Founder of Phantom |
-| Chithralekha | CD 13 | Goldman Sachs PM, intro/advising potential |
 
 ## Technical Collaborators
 

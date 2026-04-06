@@ -6,7 +6,7 @@
 
 ## Overview
 
-New York City appears throughout Jack's archive as a node: Q House 2023, the WeWork nomadic period, the meeting with [[people/eddie-lou]] in December 2025, the New York Hacker House 2025. It is one of the cities in active rotation alongside Boston, San Francisco, and Atlanta ([[history/georgia-tech-era]]).
+New York City appears throughout Jack's archive as a node: the WeWork nomadic period, the WeWork nomadic period, the meeting with [[people/eddie-lou]] in December 2025, the New York Hacker House 2025. It is one of the cities in active rotation alongside Boston, San Francisco, and Atlanta ([[history/georgia-tech-era]]).
 
 ## The City
 

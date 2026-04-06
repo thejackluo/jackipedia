@@ -61,7 +61,7 @@ Working on agentic architecture. GitHub: github.com/SGIARK/arkos.
 
 ![Elon Musk on the Hack Club video call](/assets/photos/elon-hackclub-1.jpg)
 - Featured in Towards AI news
-- Co-organized Q House (2023), New York Hacker House (2025), and inspired the Georgia Tech Hacker House (2025)
+- Co-organized Q House (2023, SF), New York Hacker House (2025), and inspired the Georgia Tech Hacker House (2025)
 - Slept on a WeWork office rooftop for a month
 - Attended NVIDIA conference; hosted a group trip to [[projects/ces-2025]]
 - TikTok viral: 2 million+ combined views

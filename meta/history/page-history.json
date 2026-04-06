@@ -767,67 +767,6 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
-  "wiki/people/social-profiles": [
-    {
-      "commit": "337e1ee6",
-      "date": "2026-04-06 08:47:03",
-      "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
-    },
-    {
-      "commit": "5ebe9165",
-      "date": "2026-04-06 06:43:54",
-      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
-    },
-    {
-      "commit": "87e6fa3d",
-      "date": "2026-04-06 06:15:05",
-      "summary": "build: auto-update 2026-04-06 06:15 UTC (97 pages)"
-    },
-    {
-      "commit": "47303ccd",
-      "date": "2026-04-06 06:14:04",
-      "summary": "build: auto-update 2026-04-06 06:14 UTC (97 pages)"
-    },
-    {
-      "commit": "b9719069",
-      "date": "2026-04-06 05:42:30",
-      "summary": "build: auto-update 2026-04-06 05:42 UTC (84 pages)"
-    }
-  ],
-  "wiki/people/nimesh": [
-    {
-      "commit": "337e1ee6",
-      "date": "2026-04-06 08:47:03",
-      "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
-    },
-    {
-      "commit": "5ebe9165",
-      "date": "2026-04-06 06:43:54",
-      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
-    },
-    {
-      "commit": "7d18e507",
-      "date": "2026-04-06 04:57:17",
-      "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
-    }
-  ],
-  "wiki/people/ryan-jae-li": [
-    {
-      "commit": "337e1ee6",
-      "date": "2026-04-06 08:47:03",
-      "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
-    },
-    {
-      "commit": "5ebe9165",
-      "date": "2026-04-06 06:43:54",
-      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
-    },
-    {
-      "commit": "2f7e1ea4",
-      "date": "2026-04-06 06:37:29",
-      "summary": "build: auto-update 2026-04-06 06:37 UTC (110 pages)"
-    }
-  ],
   "wiki/people/index": [
     {
       "commit": "337e1ee6",
@@ -848,28 +787,6 @@
       "commit": "7d18e507",
       "date": "2026-04-06 04:57:17",
       "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
-    }
-  ],
-  "wiki/people/heath-sun": [
-    {
-      "commit": "337e1ee6",
-      "date": "2026-04-06 08:47:03",
-      "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
-    },
-    {
-      "commit": "948c69c8",
-      "date": "2026-04-06 06:45:28",
-      "summary": "build: auto-update 2026-04-06 06:45 UTC (112 pages)"
-    },
-    {
-      "commit": "5ebe9165",
-      "date": "2026-04-06 06:43:54",
-      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
-    },
-    {
-      "commit": "e10f7c83",
-      "date": "2026-04-06 05:40:56",
-      "summary": "build: auto-update 2026-04-06 05:40 UTC (81 pages)"
     }
   ],
   "wiki/people/kunal-gupta": [
@@ -1010,28 +927,6 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
-  "wiki/people/nick-sortino": [
-    {
-      "commit": "337e1ee6",
-      "date": "2026-04-06 08:47:03",
-      "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
-    },
-    {
-      "commit": "948c69c8",
-      "date": "2026-04-06 06:45:28",
-      "summary": "build: auto-update 2026-04-06 06:45 UTC (112 pages)"
-    },
-    {
-      "commit": "5ebe9165",
-      "date": "2026-04-06 06:43:54",
-      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
-    },
-    {
-      "commit": "e10f7c83",
-      "date": "2026-04-06 05:40:56",
-      "summary": "build: auto-update 2026-04-06 05:40 UTC (81 pages)"
-    }
-  ],
   "wiki/people/jeff": [
     {
       "commit": "337e1ee6",
@@ -1057,35 +952,6 @@
       "commit": "7d18e507",
       "date": "2026-04-06 04:57:17",
       "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
-    }
-  ],
-  "wiki/people/manas-nair": [
-    {
-      "commit": "337e1ee6",
-      "date": "2026-04-06 08:47:03",
-      "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
-    },
-    {
-      "commit": "5ebe9165",
-      "date": "2026-04-06 06:43:54",
-      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
-    },
-    {
-      "commit": "7d18e507",
-      "date": "2026-04-06 04:57:17",
-      "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
-    }
-  ],
-  "wiki/people/ryan-li": [
-    {
-      "commit": "337e1ee6",
-      "date": "2026-04-06 08:47:03",
-      "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
-    },
-    {
-      "commit": "1b5b8122",
-      "date": "2026-04-06 07:42:05",
-      "summary": "build: auto-update 2026-04-06 07:42 UTC (130 pages)"
     }
   ],
   "wiki/people/arman-mahjoor": [
@@ -1115,18 +981,6 @@
       "summary": "people: full section \u2014 jack-luo rewrite, arman mahjoor, kevin zhang, jeff, nimesh, james preiss, kunal gupta, hongyin, manas nair, karthik jandhyala, people index"
     }
   ],
-  "wiki/people/cory-levy": [
-    {
-      "commit": "337e1ee6",
-      "date": "2026-04-06 08:47:03",
-      "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
-    },
-    {
-      "commit": "1acb59f7",
-      "date": "2026-04-06 07:34:43",
-      "summary": "build: auto-update 2026-04-06 07:34 UTC (129 pages)"
-    }
-  ],
   "wiki/people/jack-luo.zh": [
     {
       "commit": "1b094f72",
@@ -1137,89 +991,6 @@
       "commit": "a8891a31",
       "date": "2026-04-06 06:03:07",
       "summary": "build: auto-update 2026-04-06 06:03 UTC (95 pages)"
-    }
-  ],
-  "wiki/people/leo-zhang": [
-    {
-      "commit": "337e1ee6",
-      "date": "2026-04-06 08:47:03",
-      "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
-    },
-    {
-      "commit": "5ebe9165",
-      "date": "2026-04-06 06:43:54",
-      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
-    },
-    {
-      "commit": "e981f81f",
-      "date": "2026-04-06 06:35:00",
-      "summary": "build: auto-update 2026-04-06 06:35 UTC (109 pages)"
-    },
-    {
-      "commit": "6f5b60eb",
-      "date": "2026-04-06 06:32:53",
-      "summary": "build: auto-update 2026-04-06 06:32 UTC (106 pages)"
-    },
-    {
-      "commit": "6b128df8",
-      "date": "2026-04-06 05:56:45",
-      "summary": "build: auto-update 2026-04-06 05:56 UTC (85 pages)"
-    }
-  ],
-  "wiki/people/ivan-yeung": [
-    {
-      "commit": "337e1ee6",
-      "date": "2026-04-06 08:47:03",
-      "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
-    },
-    {
-      "commit": "5ebe9165",
-      "date": "2026-04-06 06:43:54",
-      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
-    },
-    {
-      "commit": "e981f81f",
-      "date": "2026-04-06 06:35:00",
-      "summary": "build: auto-update 2026-04-06 06:35 UTC (109 pages)"
-    }
-  ],
-  "wiki/people/eddie-lou": [
-    {
-      "commit": "337e1ee6",
-      "date": "2026-04-06 08:47:03",
-      "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
-    },
-    {
-      "commit": "2c4dfac7",
-      "date": "2026-04-06 05:59:31",
-      "summary": "build: auto-update 2026-04-06 05:59 UTC (87 pages)"
-    },
-    {
-      "commit": "fcc5c336",
-      "date": "2026-04-06 05:58:47",
-      "summary": "build: auto-update 2026-04-06 05:58 UTC (87 pages)"
-    }
-  ],
-  "wiki/people/armaan-jain": [
-    {
-      "commit": "337e1ee6",
-      "date": "2026-04-06 08:47:03",
-      "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
-    },
-    {
-      "commit": "948c69c8",
-      "date": "2026-04-06 06:45:28",
-      "summary": "build: auto-update 2026-04-06 06:45 UTC (112 pages)"
-    },
-    {
-      "commit": "5ebe9165",
-      "date": "2026-04-06 06:43:54",
-      "summary": "build: auto-update 2026-04-06 06:43 UTC (112 pages)"
-    },
-    {
-      "commit": "e10f7c83",
-      "date": "2026-04-06 05:40:56",
-      "summary": "build: auto-update 2026-04-06 05:40 UTC (81 pages)"
     }
   ],
   "wiki/concepts/agent-x-launch": [
@@ -1383,6 +1154,7 @@
       "summary": "build: auto-update 2026-04-06 06:07 UTC (97 pages)"
     }
   ],
+  "wiki/concepts/linear": [],
   "wiki/concepts/jotion": [
     {
       "commit": "337e1ee6",
@@ -1444,6 +1216,7 @@
       "summary": "expand: books section (4 pages), projects (4 pages), fitness (3 pages), dreams (3 pages), concepts (3 new pages), nav updated to show all 9 sections"
     }
   ],
+  "wiki/concepts/notion": [],
   "wiki/concepts/openclaw": [
     {
       "commit": "337e1ee6",
@@ -1488,6 +1261,8 @@
       "summary": "init: jackipedia v1 \u2014 meetings, books, jack-luo profile"
     }
   ],
+  "wiki/concepts/burning-man": [],
+  "wiki/concepts/mit-media-lab": [],
   "wiki/concepts/elon-musk-hack-club": [
     {
       "commit": "337e1ee6",
@@ -1602,6 +1377,7 @@
       "summary": "build: auto-update 2026-04-06 06:35 UTC (109 pages)"
     }
   ],
+  "wiki/concepts/figma": [],
   "wiki/concepts/idea-vault": [
     {
       "commit": "337e1ee6",
@@ -1711,6 +1487,7 @@
       "summary": "build: auto-update 2026-04-06 06:03 UTC (95 pages)"
     }
   ],
+  "wiki/books/design-of-everyday-things": [],
   "wiki/books/three-body-problem.ja": [
     {
       "commit": "a8891a31",
@@ -2376,6 +2153,7 @@
       "summary": "build: auto-update 2026-04-06 06:32 UTC (106 pages)"
     }
   ],
+  "wiki/history/san-francisco": [],
   "wiki/interests/mit-blogs": [
     {
       "commit": "337e1ee6",
@@ -2638,6 +2416,7 @@
       "summary": "build: auto-update 2026-04-06 06:10 UTC (97 pages)"
     }
   ],
+  "wiki/interests/anime": [],
   "wiki/interests/wikipedia-contributions": [
     {
       "commit": "337e1ee6",
@@ -2716,6 +2495,7 @@
       "summary": "ingest: writing archive (360 entries), walk-in-the-park framework, annual review 2024"
     }
   ],
+  "wiki/philosophy/effective-altruism": [],
   "wiki/projects/ces-2025.zh": [
     {
       "commit": "d5fb1681",

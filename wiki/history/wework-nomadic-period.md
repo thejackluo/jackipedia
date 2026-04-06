@@ -25,7 +25,7 @@ The disadvantage is obvious: it's a coworking space, not a home. The lighting is
 
 The WeWork month sits within a broader nomadic arc in Jack's timeline. Between leaving [[history/georgia-tech-era]] (formally or effectively) and establishing a more stable base in Boston, there was a period of deliberate placelessness:
 
-- Q House 2023 (NYC)
+- Q House 2023 (SF)
 - WeWork (city TBD - likely NYC, Boston, or SF)
 - Various hacker houses and temporary arrangements
 - Couch-surfing and extended stays in different cities
