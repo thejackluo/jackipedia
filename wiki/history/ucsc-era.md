@@ -1,5 +1,17 @@
 # UC Santa Cruz Era
 
+
+<table class="infobox">
+<caption>UC Santa Cruz Era</caption>
+<tr><th class="infobox-section" colspan="2">Institution</th></tr>
+<tr><th class="infobox-label">University</th><td class="infobox-data">University of California, Santa Cruz</td></tr>
+<tr><th class="infobox-label">Location</th><td class="infobox-data">Santa Cruz, California</td></tr>
+<tr><th class="infobox-section" colspan="2">Jack's Attendance</th></tr>
+<tr><th class="infobox-label">Period</th><td class="infobox-data">2022–2023</td></tr>
+<tr><th class="infobox-label">Outcome</th><td class="infobox-data">Transferred to Georgia Tech</td></tr>
+</table>
+
+
 **Category:** History
 **Period:** 2022–2023
 **Summary:** Jack's brief time at UC Santa Cruz - the wrong environment, leading to transfer

@@ -1,37 +1,48 @@
 # Billion Dollar Whale
-**Author:** Tom Wright, Bradley Hope
-**Rating:** 4 Stars
-**Status:** In Progress
-**Category:** Business
-**Last updated:** 2026-04-06
 
-## Overview
+<table class="infobox">
+<caption>Billion Dollar Whale</caption>
+<tr><th class="infobox-section" colspan="2">Book details</th></tr>
+<tr><th class="infobox-label">Authors</th><td class="infobox-data">Tom Wright & Bradley Hope</td></tr>
+<tr><th class="infobox-label">Published</th><td class="infobox-data">2018</td></tr>
+<tr><th class="infobox-label">Genre</th><td class="infobox-data">Business / Investigative</td></tr>
+<tr><th class="infobox-label">Jack's rating</th><td class="infobox-data">⭐⭐⭐⭐ (4/5)</td></tr>
+<tr><th class="infobox-label">Progress</th><td class="infobox-data">In progress (16%)</td></tr>
+<tr><th class="infobox-section" colspan="2">Subject</th></tr>
+<tr><th class="infobox-label">Subject</th><td class="infobox-data">Jho Low / 1MDB scandal</td></tr>
+<tr><th class="infobox-label">Amount stolen</th><td class="infobox-data">~$4.5 billion</td></tr>
+<tr><th class="infobox-section" colspan="2">Jack's take</th></tr>
+<tr><th class="infobox-label" colspan="2" style="font-weight:normal; font-style:italic; text-align:center; padding: 8px;">"Jho Low is probably one of the most interesting guys I have had the honor to read."</th></tr>
+</table>
 
-"Billion Dollar Whale" tells the story of Jho Low - the Malaysian financier who allegedly orchestrated the 1MDB scandal, one of the largest financial frauds in history. He stole billions from the Malaysian sovereign wealth fund and spent it on superyachts, Hollywood films (The Wolf of Wall Street), real estate, and parties with celebrities and heads of state.
+**Billion Dollar Whale** by Tom Wright and Bradley Hope is the investigative account of how Jho Low, a young Malaysian financier, orchestrated the theft of approximately $4.5 billion from Malaysia's 1MDB sovereign wealth fund — using Goldman Sachs, Hollywood celebrities, and the global financial system as instruments.
 
-Jack is in the middle of this book and gave it 4 stars. His note:
+Jack is reading it (16% in) and rates it 4 stars. His note: "Jho Low is probably one of the most interesting guys I have had the honor to read."
 
-> "Jho Low is probably one of the most interesting guys that I have had the honor to read. The book is about the idea that even with extraordinary wealth [...]"
+## The Story
 
-The note trails off but the framing is clear: Jack is fascinated by Jho Low as a character, not just a cautionary tale.
+Jho Low was not a head of state, a criminal kingpin, or a tech billionaire. He was a financier from Penang, Malaysia, who discovered that in the post-2008 world of loose capital and pliable institutions, a person with enough audacity, enough relationships, and enough willingness to lie could move billions.
 
-## Why Jho Low Is Interesting to Jack
+The scheme: Low positioned himself as a connected intermediary for Malaysian sovereign wealth, got Goldman Sachs to raise billions in bonds for 1MDB (a Malaysian government investment fund), and then systematically looted the proceeds. The money funded:
+- The *Wolf of Wall Street* film (produced by his friend Riza Aziz)
+- A $250 million superyacht
+- Tens of millions in Las Vegas gambling
+- Luxury real estate in New York and LA
+- Parties with celebrities including Paris Hilton and Leonardo DiCaprio
 
-Jho Low pulled off the impossible-seeming: a nobody from Malaysia who walked into Goldman Sachs, prime ministers, Saudi royalty, Hollywood studios, and convinced all of them he was legitimate. His weapon was social performance - projecting wealth, confidence, and connections he didn't yet have until people helped him acquire the real versions.
+## Why It's Compelling
 
-For someone like Jack who is deeply interested in how social proof, network effects, and perception-as-reality work, Jho Low is a masterclass. (In the wrong direction - but a masterclass.)
+The book works because Low is genuinely fascinating: not brilliant in any conventional sense, but operating with complete freedom from ordinary constraints — no shame, no fear, complete comfort performing at every level of society simultaneously. He threw parties where everyone thought someone else was paying.
 
-The parallels to legitimate startup tactics are uncomfortable but real: fake it till you make it, use early credibility to unlock the next level, make the narrative so compelling that people want to believe it.
+The parallel to the FTX/SBF story is unavoidable: both involve someone who understood that social legitimacy (proximity to celebrities, institutions, governments) functions as a substitute for actual credibility, at least temporarily.
 
-## Connection to Jack's Reading Stack
-
-Jho Low + Jeffrey Pfeffer's *Power* + Mark Manson's *Models* form an unusual trio:
-- Jho Low: power through illusion and social performance
-- Pfeffer: power through strategic positioning and ruthlessness
-- Manson: authentic power through not caring about approval
-
-Jack appears to be triangulating - reading multiple, conflicting theories of how social influence actually works.
+See [[philosophy/effective-altruism]] for the SBF/FTX thread.
 
 ## Related
-- [[books/index]]
+
+- [[concepts/reading-list]]
+- [[philosophy/effective-altruism]]
+- [[books/zero-to-one]]
+- [[books/essentialism]]
+- [[history/san-francisco]]
 - [[people/jack-luo]]

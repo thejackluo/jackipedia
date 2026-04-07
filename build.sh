@@ -567,9 +567,16 @@ for _root, _dirs, _files in os.walk(WIKI_DIR):
     for _f in sorted(_files):
         if not _f.endswith(".md") or ".zh." in _f or ".ja." in _f:
             continue
+        # Skip root-level non-wiki files
         _path = os.path.join(_root, _f)
         _rel  = os.path.relpath(_path, WIKI_DIR).replace(".md", "")
-        _url  = f"/wiki/{_rel}.html"
+        if "/" not in _rel:
+            continue  # skip AGENTS.md, build.sh, etc at root level
+        _rel  = os.path.relpath(_path, WIKI_DIR).replace(".md", "")
+        # _rel is relative to WIKI_DIR (e.g. "wiki/dreams/foo" or "log")
+        # Strip leading "wiki/" if present to avoid double prefix
+        _rel_stripped = _rel[5:] if _rel.startswith("wiki/") else _rel
+        _url  = f"/{_rel}.html"
         with open(_path) as _fh:
             _raw = _fh.read()
         _title_m = re.search(r'^#\s+(.+)', _raw, re.MULTILINE)
@@ -583,7 +590,7 @@ for _root, _dirs, _files in os.walk(WIKI_DIR):
         _body = re.sub(r'\[\[([^\]|]+)(?:\|[^\]]+)?\]\]', r'\1', _raw)
         _body = re.sub(r'\*+|#+|`+|\|', ' ', _body)
         _body = re.sub(r'\s+', ' ', _body).strip()[:2000]
-        _cat = _rel.split("/")[0]
+        _cat = _rel_stripped.split("/")[0]
         _index.append({"title": _title, "url": _url, "summary": _summary, "body": _body, "cat": _cat})
 
 with open(f"{OUT_DIR}/search-index.json", "w") as _fh:

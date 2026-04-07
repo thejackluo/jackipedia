@@ -1,64 +1,58 @@
 # Anime
 
-**Category:** Interests
-**Summary:** Japanese animated television and film — Jack's long-running engagement with the medium from childhood through adult life
-**Last updated:** 2026-04-06
+<table class="infobox">
+<caption>Anime</caption>
+<tr><th class="infobox-image" colspan="2">
+<img src="/assets/photos/chainsaw-man-flight.jpg" alt="Chainsaw Man on a flight">
+<span class="infobox-caption">Chainsaw Man watched on a flight</span>
+</th></tr>
+<tr><th class="infobox-section" colspan="2">Overview</th></tr>
+<tr><th class="infobox-label">Engagement</th><td class="infobox-data">Childhood through present</td></tr>
+<tr><th class="infobox-label">Top rated</th><td class="infobox-data">Steins;Gate, Chainsaw Man, AoT</td></tr>
+<tr><th class="infobox-label">Song of 2024</th><td class="infobox-data">"Hacking to the Gate" (Steins;Gate)</td></tr>
+<tr><th class="infobox-section" colspan="2">Events</th></tr>
+<tr><th class="infobox-label">Anime Expo</th><td class="infobox-data">2022, Los Angeles</td></tr>
+<tr><th class="infobox-label">Japan trip</th><td class="infobox-data"><a href="/wiki/history/japan-trip-2024.html">December 2024</a></td></tr>
+</table>
 
-## Overview
+**Anime** — Japanese animated series and films — has been part of Jack's media diet across most of his life. The medium spans a wide range: children's action series, psychological thrillers, philosophical science fiction, and stylistically extreme art films. Jack's engagement reflects his broader tastes: the works that have stayed with him tend to be the ones with genuine ideas.
 
-Anime — Japanese animated series and films — has been part of Jack's media diet across most of his life. The medium spans a wide range: children's action series, psychological thrillers, philosophical science fiction, slice-of-life romance, and stylistically extreme art films.
+## Watching on Flights
 
-Jack's engagement with anime reflects his broader tastes: the works that have stayed with him tend to be the ones with genuine ideas, not just impressive production values.
+A consistent pattern in Jack's travel is watching anime in transit. Chainsaw Man was watched on a flight — the kinetic animation and dense plot make it ideal for long-haul viewing.
 
-## Favorites and Notable Works
+![Chainsaw Man on flight entertainment screen](/assets/photos/chainsaw-man-flight-2.jpg)
 
-**Steins;Gate** — A time travel thriller about a self-styled "mad scientist" in Akihabara who accidentally discovers a method to send messages to the past, triggering a sequence of events that spirals into tragedy and grief. Regarded as one of the best science fiction narratives in the medium. The first half is slow and comedic; the second half is devastating.
+## Favorites
 
-See [[interests/steins-gate]] for a full entry.
+**Steins;Gate** — Time travel thriller, Akihabara setting. The first half is slow and comedic; the second half is devastating. Jack's song of the year for 2024: "Hacking to the Gate" from the Steins;Gate soundtrack — directly connecting his anime taste to his music taste.
 
-**Chainsaw Man** — A horror-action series about a young man who merges with a chainsaw devil and becomes a devil hunter. Notable for its nihilism, kinetic animation, and willingness to kill characters the audience has invested in. The anime adaptation has exceptional production quality. *Chainsaw Man* was Jack's reading material on a flight (chainsaw-man-flight.jpg).
+**Chainsaw Man** — Horror-action. Notable nihilism, exceptional MAPPA animation, willingness to kill characters the audience has invested in. Jack photographed himself watching it on a flight.
 
-**Attack on Titan (Shingeki no Kyojin)** — Epic fantasy about humanity surviving inside walled cities to escape giants. Started as a straightforward action series; evolved into a meditation on cycles of violence, genocide, and the human capacity for self-justification. The final arc is one of the most ambitious and divisive conclusions in the medium.
+**Attack on Titan** — Started as action; became a meditation on cycles of violence. The final arc is one of the most ambitious and divisive conclusions in the medium.
 
-**Fullmetal Alchemist: Brotherhood** — Two brothers pursue a way to restore their bodies after a failed alchemical ritual. Regarded as one of the most complete and satisfying anime series ever produced. Unusually tight plot with no wasted arcs.
+**Fullmetal Alchemist: Brotherhood** — Widely regarded as one of the most complete anime series ever produced. Tight plot, no wasted arcs.
 
-**Neon Genesis Evangelion** — Deeply influential psychological mecha series from 1995. Teenage pilots controlling giant robots fight alien beings; the series gradually reveals that the characters' psychological damage is the real subject. Controversial ending, deeply studied. Influenced everything after it.
+**Neon Genesis Evangelion** — Deeply influential psychological mecha series from 1995. The series that influenced everything after it.
 
-**Death Note** — Psychological cat-and-mouse thriller about a high school student who gains a notebook that kills anyone whose name is written in it, and the detective trying to catch him. The first half is outstanding; widely considered to decline after a major plot point.
+**Death Note** — Cat-and-mouse psychological thriller. Exceptional first half; widely considered to decline after a major plot point.
 
-## Watching Context
+## Anime Expo 2022
 
-Jack's anime watching spans multiple modes:
+Jack attended Anime Expo at the Los Angeles Convention Center in 2022 — the largest anime convention in the US with 100,000+ attendees.
 
-**Travel viewing** — Anime is good on planes. Dense plot and compelling animation make long flights pass faster. Chainsaw Man flight is documented.
+## Japan and Anime
 
-**Social watching** — Watching anime with friends or partners is a different experience. Discussion, reactions, episodic rhythm.
-
-**Seasonal following** — The anime release calendar runs in seasons (Winter, Spring, Summer, Fall). Following airing shows creates a community of real-time discussion.
-
-## The Cultural Context
-
-Anime is produced within a specific Japanese industrial and cultural context that differs significantly from Western animation. Key differences:
-
-**Source material** — Most anime adapts manga (comics) or light novels (prose novels with illustrations). This creates adaptations with varying fidelity to the source.
-
-**Production model** — Most seasonal anime is produced on tight schedules with variable quality. Studio quality varies enormously — MAPPA, Ufotable, Kyoto Animation (KyoAni), and WIT Studio are known for consistent production quality; others less so.
-
-**Genre breadth** — Animation in Japan is not treated as a children's medium. There are anime for every demographic: children (Doraemon), teenage boys (Shonen Jump adaptations), teenage girls (shoujo), adult women (josei), adult men (seinen). This breadth means serious adult storytelling exists within the medium.
-
-**Cultural embedding** — Anime references are embedded in Japanese popular culture in a way that anime from specific shows becomes inseparable from the series. Phrases, gestures, and images from popular anime are broadly recognizable.
-
-## Anime Expo
-
-Jack attended Anime Expo 2022 at the Los Angeles Convention Center. Anime Expo is the largest anime convention in the United States, attracting 100,000+ attendees. The convention floor has merchandise, artist alleys, industry panels, and screenings. Jack's photo from this event is in `assets/photos/commons/anime-expo-2022.jpg`.
+Jack's [[history/japan-trip-2024]] deepened his engagement with the medium's cultural context. Visiting Akihabara in Tokyo — the electronics and anime district — and experiencing how embedded the medium is in Japanese popular culture is a different experience from watching it abroad.
 
 ## Related
 
 - [[history/japan-trip-2024]]
+- [[history/cupertino-high-school]]
 - [[history/vienna-austria]]
 - [[concepts/reading-list]]
-- [[concepts/burning-man]]
-- [[history/cupertino-high-school]]
 - [[history/ucsc-era]]
 - [[interests/index]]
 - [[people/jack-luo]]
+
+![Chainsaw Man on plane — watching on a flight](/assets/photos/chainsaw-man-plane.jpg)

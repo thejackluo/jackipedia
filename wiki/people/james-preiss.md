@@ -1,4 +1,16 @@
 # James Preiss
+
+
+<table class="infobox">
+<caption>James Preiss</caption>
+<tr><th class="infobox-section" colspan="2">Personal</th></tr>
+<tr><th class="infobox-label">Field</th><td class="infobox-data">Robotics research</td></tr>
+<tr><th class="infobox-label">Level</th><td class="infobox-data">PhD</td></tr>
+<tr><th class="infobox-section" colspan="2">Relationship to Jack</th></tr>
+<tr><th class="infobox-label">Type</th><td class="infobox-data">Robotics advisor</td></tr>
+<tr><th class="infobox-label">Meeting</th><td class="infobox-data">November 2, 2024</td></tr>
+</table>
+
 **Type:** Person
 **Relationship to Jack:** Robotics advisor
 **Last updated:** 2026-04-06

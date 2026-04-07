@@ -1,4 +1,18 @@
 # The Courage to Be Disliked
+
+
+<table class="infobox">
+<caption>The Courage to Be Disliked</caption>
+<tr><th class="infobox-section" colspan="2">Publication</th></tr>
+<tr><th class="infobox-label">Author</th><td class="infobox-data">Ichiro Kishimi, Fumitake Koga</td></tr>
+<tr><th class="infobox-label">Published</th><td class="infobox-data">2013 (Japan), 2018 (English)</td></tr>
+<tr><th class="infobox-label">Genre</th><td class="infobox-data">Philosophy / Self-help</td></tr>
+<tr><th class="infobox-label">Subject</th><td class="infobox-data">Adlerian psychology</td></tr>
+<tr><th class="infobox-section" colspan="2">Jack's Reading</th></tr>
+<tr><th class="infobox-label">Rating</th><td class="infobox-data">5 / 5</td></tr>
+<tr><th class="infobox-label">Status</th><td class="infobox-data">Finished (51% read)</td></tr>
+</table>
+
 **Author:** Ichiro Kishimi, Fumitake Koga
 **Rating:** 5 Stars (highest)
 **Status:** Finished

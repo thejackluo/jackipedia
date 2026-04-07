@@ -1,4 +1,19 @@
 # Kevin Zhang
+
+
+<table class="infobox">
+<caption>Kevin Zhang</caption>
+<tr><th class="infobox-section" colspan="2">Personal</th></tr>
+<tr><th class="infobox-label">Location</th><td class="infobox-data">San Francisco Bay Area</td></tr>
+<tr><th class="infobox-section" colspan="2">Work</th></tr>
+<tr><th class="infobox-label">Role</th><td class="infobox-data">Co-founder, Efficore (Mira)</td></tr>
+<tr><th class="infobox-label">Domain</th><td class="infobox-data"><a href="https://mira.energy">mira.energy</a></td></tr>
+<tr><th class="infobox-label">Background</th><td class="infobox-data">Energy systems, data center infrastructure</td></tr>
+<tr><th class="infobox-section" colspan="2">Relationship to Jack</th></tr>
+<tr><th class="infobox-label">Type</th><td class="infobox-data">Co-founder, collaborator</td></tr>
+<tr><th class="infobox-label">Met via</th><td class="infobox-data"><a href="/wiki/history/qhouse-2023.html">Q House SF, 2023</a></td></tr>
+</table>
+
 **Type:** Person
 **Relationship to Jack:** Co-founder of [[projects/mira]], collaborator, co-organizer
 **Last updated:** 2026-04-06

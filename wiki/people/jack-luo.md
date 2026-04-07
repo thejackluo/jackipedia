@@ -1,173 +1,119 @@
 # Jack Luo
-**Type:** Self
-**Last updated:** 2026-04-06
+
+<table class="infobox">
+<caption>Jack Luo</caption>
+<tr><th class="infobox-image" colspan="2">
+<img src="/assets/photos/jack-main.jpg" alt="Jack Luo">
+<span class="infobox-caption">Jack Luo, Oakland CA, 2024</span>
+</th></tr>
+<tr><th class="infobox-section" colspan="2">Personal</th></tr>
+<tr><th class="infobox-label">Full name</th><td class="infobox-data">Jack Luo</td></tr>
+<tr><th class="infobox-label">Chinese name</th><td class="infobox-data">罗唅章 (Luó Hán Zhāng)</td></tr>
+<tr><th class="infobox-label">Username</th><td class="infobox-data">thejackluo</td></tr>
+<tr><th class="infobox-label">Location</th><td class="infobox-data">Oakland, CA</td></tr>
+<tr><th class="infobox-section" colspan="2">Education</th></tr>
+<tr><th class="infobox-label">High school</th><td class="infobox-data"><a href="/wiki/history/cupertino-high-school.html">Cupertino High School</a></td></tr>
+<tr><th class="infobox-label">University</th><td class="infobox-data"><a href="/wiki/history/ucsc-era.html">UCSC</a> → <a href="/wiki/history/georgia-tech-era.html">Georgia Tech</a></td></tr>
+<tr><th class="infobox-section" colspan="2">Work</th></tr>
+<tr><th class="infobox-label">Main project</th><td class="infobox-data"><a href="/wiki/projects/agentdex.html">AgentDex</a></td></tr>
+<tr><th class="infobox-label">Organization</th><td class="infobox-data"><a href="/wiki/projects/agent-school.html">Agent School</a></td></tr>
+<tr><th class="infobox-label">Focus</th><td class="infobox-data">AI agents, HCI, automation</td></tr>
+<tr><th class="infobox-section" colspan="2">Online</th></tr>
+<tr><th class="infobox-label">GitHub</th><td class="infobox-data"><a href="https://github.com/thejackluo">thejackluo</a></td></tr>
+<tr><th class="infobox-label">Website</th><td class="infobox-data"><a href="https://jack-luo.com">jack-luo.com</a></td></tr>
+<tr><th class="infobox-label">Notion</th><td class="infobox-data"><a href="https://thejackluo.notion.site">thejackluo.notion.site</a></td></tr>
+</table>
+
+**Jack Luo** (username: thejackluo) is a builder, writer, and student working at the intersection of AI agents, automation, and personal software. He is the founder of [[projects/agentdex]] and the operator of [[projects/agent-school]]. Based in Oakland, CA.
 
 ## Overview
 
-Jack Luo (username: thejackluo) is a builder, writer, and student working at the intersection of AI agents, automation, and personal software.
-
-![Jack Luo](/assets/photos/jack-main.jpg) He is the founder of [[projects/agentdex]] and the operator of [[projects/agent-school]]. He describes himself as an "AI-centric full-stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight."
-
-He has been maintaining a writing practice since at least 2021 - 360+ entries spanning deep personal reflection, technical essays, and annual reviews. The archive is the best record of who he is.
-
-## Biographical Facts
-
-| Field | Value |
-|-------|-------|
-| Full name | Jack Luo |
-| Chinese name | 罗唅章 (Luó Hán Zhāng) |
-| Username | thejackluo |
-| Current location | San Francisco Bay Area / Oakland, CA |
-| Email | jack@hexahacks.com |
-| GitHub | github.com/thejackluo |
-| LinkedIn | linkedin.com/in/thejackluo |
-| Website | jack-luo.com |
-| Instagram | @thejackluo |
-| Twitter/X | @thejackluo |
+Jack describes himself as an "AI-centric full-stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight." He has maintained a writing practice since 2021 — 360+ entries spanning personal reflection, technical essays, and annual reviews. The archive is the primary record of who he is; see [[concepts/writing-archive]].
 
 ## Education
 
-Jack has been through multiple schools:
-- Previous college years, before the [[history/georgia-tech-era]] transfer.
-- **Georgia Tech** - Computer Science, focus on AI and embedded systems. Transferred in 2024. The transfer itself was "biggest achievement of 2024" per his annual review.
-- **MIT** - Currently affiliated with MIT SIPB (Student Information Processing Board) on the Arc Project. LinkedIn lists MIT as current institution.
+- **[[history/cupertino-high-school]]** — grew up in Cupertino, steps from Apple HQ
+- **[[history/ucsc-era]]** — University of California, Santa Cruz
+- **[[history/georgia-tech-era]]** — Georgia Institute of Technology, CS, transferred 2024. Rated "biggest achievement of 2024" in his annual review.
+- **[[history/mit-era]]** — MIT-affiliated via SIPB Arc Project and [[projects/agent-school]] (room E38-379)
 
-## Career and Projects
+## Projects
 
-### AgentDex
-Personal CRM and relationship intelligence platform - "the Rolodex for the AI age" (hence ROLO). Originally called MAGK during customer discovery. Went to production April 6, 2024. Stack: Next.js, Clerk auth, Coolify deployment on worker-vps-1 (agentdex.agentschool.io), Vercel for the Rolo variant (rolo.agentschool.io).
+**[[projects/agentdex]]** — Personal CRM and relationship intelligence platform. "The Rolodex for the AI age." Production since April 2026. Stack: Next.js, PostgreSQL, Drizzle ORM, Clerk auth.
 
-### Agent School
-Infrastructure and tooling for AI agents. Hosts the agentschool.io domain, Paperclip instance, [[projects/jackipedia]].
+**[[projects/agent-school]]** — Infrastructure umbrella for AI agent tooling. Hosts agentschool.io, Paperclip, [[projects/jackipedia]].
 
-### HexaHacks
-Earlier project / organization, still active. Jack's email is jack@hexahacks.com. Kevin Zhang is CTO.
-
-### Delight / MAGK
-Building "delight" - referenced on jack-luo.com as "next generation productivity software" - the same thread as AgentDex.
-
-### MIT SIPB Arc Project
-Working on agentic architecture. GitHub: github.com/SGIARK/arkos.
+**[[projects/mira]]** — Earlier energy-focused startup with [[people/kevin-zhang]] (Efficore). Domain: mira.energy.
 
 ## Accomplishments
 
-- Won Top 15 at Berkeley AI Hackathon (June 2024)
-
-![Berkeley AI Hackathon - Jack and team at UC Berkeley](/assets/photos/berkeley-hackathon.jpg)
-
-- Won 1st place at Digitalized and CodeDay SF
-- Finalist at Penn's pitch competition and Northwestern's pitch competition
-- Discussed AI with Elon Musk on Hack Club video calls (2 appearances, both on YouTube)
-
-![Elon Musk on the Hack Club video call](/assets/photos/elon-hackclub-1.jpg)
-- Featured in Towards AI news
-- Co-organized Q House (2023, SF), New York Hacker House (2025), and inspired the Georgia Tech Hacker House (2025)
+- Top 15 at Berkeley AI Hackathon, June 2024
+- 1st place at Digitalized and CodeDay SF
+- Finalist at Penn's and Northwestern's pitch competitions
+- Discussed AI with Elon Musk on two Hack Club video calls (both on YouTube)
+- TikTok viral: 2M+ combined views
+- Co-organized [[history/qhouse-2023]] (SF), New York Hacker House (2025)
 - Slept on a WeWork office rooftop for a month
-- Attended NVIDIA conference; hosted a group trip to [[projects/ces-2025]]
-- TikTok viral: 2 million+ combined views
-- Growth hacked 30x in Deso (crypto social platform)
-- Graduated from Buildspace S4 ("nights and weekends")
+- Attended NVIDIA conference; led group trip to [[projects/ces-2025]]
 - Surpassed 50 published blogs on Medium
-
-## Personality and Psychology
-
-Jack is a highly ambitious, synthesis-oriented builder. His dominant traits: strong taste instincts, genuine founder energy, deep idea-orientation across product/philosophy/tech, and a recurring struggle between grounded execution and dramatic transcendence.
-
-Key patterns documented in his writing:
-- Environment-as-destiny: the people around you are the decisive variable
-- Aspirational mismatch as loneliness: "I don't aspire to be them" (2022)
-- Fear/perfectionism/isolation triangle - self-diagnosed in Nov 2025
-- Japan and anime as recurring cultural anchors ([[interests/steins-gate]], "Hacking to the Gate")
-- Startup sacrifice as identity: rooftop, Chipotle, solitude
-
-## Japanese
-Currently learning Japanese, self-rated between N3 and N4.
-
-## Outside Interests
-- Electric unicycle riding
-- Travel (visited almost all major US cities; Japan Dec 2024, targeting Shanghai/Tokyo/Osaka next)
-- Reading (Understanding Deep Learning; full list in [[concepts/reading-list]])
-- Writing on Medium (50+ blogs published)
-
-## People Close to Jack
-- [[people/arman-mahjoor]] - Close friend and AgentDex collaborator
-- [[people/kevin-zhang]] - Co-founder of [[projects/mira]], technical co-conspirator
-- [[people/jeff]] - College-era friend, psychology, Kansas
-- [[people/nimesh]] - Customer champion, hotel operator
-- [[people/james-preiss]] - Robotics advisor
+- Graduated Buildspace S4
 
 ## Writing
 
-Jack's writing archive spans 2021–2026. Published on multiple platforms:
+Jack's writing is published across three platforms:
 
-- **jack-luo.com/blogs** - personal blog, 50+ posts. Key entries:
-  - *"MIT Blog"* (jack-luo.com/blogs/mit) - written after his MIT rejection on Pi Day (March 14). Full essay on building a world-class education outside elite institutions: "drink from the right firehose," surround yourself with great people, approach everything with IHTFP energy. One of his most personal public pieces.
-  - *"Unconventional Education"* - the framing that runs through his entire educational arc: [[history/ucsc-era]] → Georgia Tech → Boston → self-directed learning
-- **Medium** (@thejackluo8) - 50+ articles including technical pieces on hierarchical memory and adaptive state management for AI agents
-- **Notion writing archive** - 360+ private entries, 2021–2026
+- **jack-luo.com/blogs** — personal blog, 50+ posts. Key piece: *"MIT Blog"* — written after his MIT rejection on Pi Day. One of his most personal public essays.
+- **Medium** (@thejackluo8) — 50+ technical articles on AI agents, hierarchical memory, and adaptive state management
+- **Notion** — 360+ private entries, 2021–2026. See [[concepts/writing-archive]].
 
-The best public pieces are documented in the [[concepts/writing-archive]] section. Start with [[writings/walk-in-the-park]] for his core philosophy, or [[writings/annual-review-2024]] for the most recent full-year reflection.
+## People
 
-## Sources
-- **jack-luo.com** - personal website (live as of 2026-04-06)
-- **jack-luo.com/blogs/mit** - full MIT rejection essay
-- **jack-luo.com/journey** - creative projects: Limbinal (novel), SoundCloud music
-- **jack-luo.com/special/books** - full bookshelf with ratings and progress
-- Notion workspace: USER.md, meetings DB, CRM DB, writing archive
-- LinkedIn (public profile)
-- GitHub: github.com/thejackluo
-- Conversations via Telegram (2026-03 to present)
+- [[people/arman-mahjoor]] — close friend, AgentDex collaborator
+- [[people/kevin-zhang]] — co-founder of [[projects/mira]], met at [[history/qhouse-2023]]
+- [[people/james-preiss]] — robotics advisor
+- [[people/kunal-gupta]] — startup advisor
 
-## Personal Artifacts
+## Interests
 
-![Custom tote bag with Jack's photo printed on it](/assets/photos/jack-tote-bag.jpg)
+- [[interests/anime]] — Steins;Gate, Chainsaw Man, Attack on Titan; song of 2024: "Hacking to the Gate"
+- [[concepts/reading-list]] — 30+ books tracked; 5-star: Hard Thing About Hard Things, Three-Body Problem, How to Win Friends
+- Travel — [[history/japan-trip-2024]], [[history/miami]], [[history/vienna-austria]]; 76 flights, 120,963 miles
+- Electric unicycle riding
+- Japanese language (self-rated N3–N4)
 
-A custom-printed tote bag with Jack's photo on it - spotted in a car. The kind of thing that exists because someone made it happen.
+## Photos
 
-![Jack and a friend at a Chinese BBQ restaurant](/assets/photos/jack-bbq-friend.jpg)
+![Jack crouching in neon-lit rainy parking lot — one of the definitive Jack photos](/assets/photos/jack-neon-rain.jpg)
 
-Jack and a friend at a Chinese BBQ restaurant - skewers on the table, neon sign visible through the wooden partition behind them. The casual version of the social life.
+![Jack LinkedIn profile photo](/assets/photos/jack-linkedin.jpg)
 
-![Hillside house in Oakland/Berkeley hills](/assets/photos/hillside-house.jpg)
+![Jack with friends at hotpot dinner](/assets/photos/jack-hotpot.jpg)
 
-A modern hillside house in the Oakland/Berkeley hills - white concrete, multiple decks, wood-paneled upper story, blue sky. Jack's home base area.
+![Jack with friend at Chinese BBQ — skewers, neon sign visible behind](/assets/photos/jack-bbq-friend.jpg)
 
-## Travel Statistics
+![Group photo](/assets/photos/group-photo-1.jpg)
 
-![Flighty flight log - 76 flights, 120,963 miles, 26 airports, 9 airlines](/assets/photos/flighty-stats.jpg)
+![Jack carrying tote bag](/assets/photos/jack-tote-bag.jpg)
 
-All-time Flighty stats as of early 2026:
-- **76 flights** (15 long haul)
-- **120,963 miles** - 4.9x around the world
-- **12 days 8 hours** total flight time
-- **26 airports**, **9 airlines**
-- **Most flown aircraft:** A321neo (26 flights)
-- **30 hours lost to delays** (averaged 56 min late per delayed flight)
+![Jack photo tote bag — printed with his own face](/assets/photos/jack-photo-tote-bag.jpg)
 
-## Portrait: Neon Rain
+![Chinese mooncakes at cultural event](/assets/photos/chinese-mooncakes-event.jpg)
 
-![Jack crouching in a neon-lit rainy parking lot, pink puddle reflection](/assets/photos/jack-neon-rain.jpg)
+## Hackathon
 
-One of the definitive Jack photos - crouching in a rain-soaked parking lot at night, pink and purple neon reflecting in the puddle beneath him, Patagonia puffer and backpack, BMW headlights in the background. Looks like a still from a cyberpunk film. The photo captures something real: the aesthetic of late-night city life that runs through his writing, his taste in music, and his vision of what a meaningful life looks like.
+![Berkeley AI Hackathon 2024 — Top 15 finish](/assets/photos/berkeley-hackathon.jpg)
 
-## Portrait: Rooftop Meditation
+## Elon Musk Hack Club
 
-![Jack meditating in lotus pose on a snowy rooftop at night, city lights behind him](/assets/photos/jack-rooftop-meditation.jpg)
+![Elon Musk on Hack Club video call — Jack participated twice](/assets/photos/elon-hackclub-1.jpg)
 
-Black jacket, lotus position, city lights blurred across the horizon. Taken on a snowy rooftop - likely Boston or New York during the nomadic period.
+## Related
 
-## Food Photos
-
-![Michelin star dish - Gucci Osteria Beverly Hills, June 2022](/assets/photos/commons/michelin-star-dish.jpg)
-
-![American wagyu at an Atlanta yakiniku restaurant, November 2025](/assets/photos/commons/american-wagyu-atlanta.jpg)
-
-![Jack at a Chinese BBQ restaurant with a friend](/assets/photos/jack-bbq-friend.jpg)
-
-![Noodles (microwave edition) - the other end of the food spectrum](/assets/photos/noodles-microwave.jpg)
-
-![Lobster plushie - the kind of detail that shows up when someone's paying attention](/assets/photos/lobster-plushie.jpg)
-
-![Hillside house - the architectural aesthetic](/assets/photos/hillside-house.jpg)
-
-![Jack rain catering - operating in all conditions](/assets/photos/jack-rain-catering.jpg)
+- [[projects/agentdex]]
+- [[projects/agent-school]]
+- [[concepts/writing-archive]]
+- [[concepts/reading-list]]
+- [[history/georgia-tech-era]]
+- [[history/japan-trip-2024]]
+- [[interests/anime]]
+- [[philosophy/walk-in-the-park-framework]]

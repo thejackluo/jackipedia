@@ -1,4 +1,18 @@
 # Arman Mahjoor
+
+
+<table class="infobox">
+<caption>Arman Mahjoor</caption>
+<tr><th class="infobox-section" colspan="2">Personal</th></tr>
+<tr><th class="infobox-label">Location</th><td class="infobox-data">San Francisco Bay Area</td></tr>
+<tr><th class="infobox-section" colspan="2">Work</th></tr>
+<tr><th class="infobox-label">Company</th><td class="infobox-data">Circlez (co-founder)</td></tr>
+<tr><th class="infobox-label">Previous</th><td class="infobox-data"><a href="/wiki/projects/agentdex.html">AgentDex</a> team</td></tr>
+<tr><th class="infobox-section" colspan="2">Relationship to Jack</th></tr>
+<tr><th class="infobox-label">Type</th><td class="infobox-data">Close friend, collaborator</td></tr>
+<tr><th class="infobox-label">Met via</th><td class="infobox-data">College</td></tr>
+</table>
+
 **Type:** Person
 **Relationship to Jack:** Close friend, [[projects/agentdex]] team member
 **Last updated:** 2026-04-06

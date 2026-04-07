@@ -1,76 +1,54 @@
 # San Francisco
 
-**Category:** History / Places
-**Summary:** The city that defines Bay Area tech culture, where ambition and dysfunction coexist at the edge of the Pacific
-**Last updated:** 2026-04-06
+<table class="infobox">
+<caption>San Francisco</caption>
+<tr><th class="infobox-image" colspan="2">
+<img src="/assets/photos/roof.jpg" alt="San Francisco rooftop view">
+<span class="infobox-caption">San Francisco rooftop, Bay Area</span>
+</th></tr>
+<tr><th class="infobox-section" colspan="2">City details</th></tr>
+<tr><th class="infobox-label">State</th><td class="infobox-data">California, USA</td></tr>
+<tr><th class="infobox-label">Population</th><td class="infobox-data">~870,000</td></tr>
+<tr><th class="infobox-label">Area</th><td class="infobox-data">49 sq miles (7×7 peninsula)</td></tr>
+<tr><th class="infobox-label">Jack's base</th><td class="infobox-data">Oakland, CA (adjacent)</td></tr>
+<tr><th class="infobox-section" colspan="2">Jack's connections</th></tr>
+<tr><th class="infobox-label">Hacker house</th><td class="infobox-data"><a href="/wiki/history/qhouse-2023.html">Q House 2023</a></td></tr>
+<tr><th class="infobox-label">School</th><td class="infobox-data"><a href="/wiki/history/ucsc-era.html">UCSC</a> (nearby)</td></tr>
+<tr><th class="infobox-label">Hackathon</th><td class="infobox-data">Berkeley AI Hackathon 2024</td></tr>
+</table>
 
-## Overview
-
-San Francisco is a 7x7 mile peninsula on the western edge of North America, home to approximately 870,000 people, and the symbolic center of the global technology industry. It is dense, expensive, geographically dramatic, and deeply contradictory — a city of staggering wealth and visible poverty, of progressive politics and institutional dysfunction, of world-class restaurants and streets that smell like eucalyptus and urine simultaneously.
-
-For Jack, San Francisco is a reference point, a place of proximity to tech culture, and eventually a candidate for where serious things happen.
+**San Francisco** is a 49-square-mile peninsula on the western edge of North America, home to approximately 870,000 people, and the symbolic center of the global technology industry. Jack is based in Oakland — directly across the Bay, 15 minutes by BART — and the SF/Oakland area is his primary operational base.
 
 ## Geography and Neighborhoods
 
-San Francisco's geography creates its character. The city is built on hills — some of them steep enough that streets turn into stairs. The bay on the east, the Pacific on the west, fog rolling in through the Golden Gate every afternoon. The climate is strange: it is colder in July than in December, because the Pacific summer fog suppresses heat.
+San Francisco's hills create its character. The bay on the east, the Pacific on the west, fog rolling in through the Golden Gate every afternoon.
 
-The neighborhoods are distinct cultures within 49 square miles:
+**SoMa** — The tech industry's original home. Salesforce Tower, startups stacked in converted warehouses. Uber and Airbnb are here.
 
-**SoMa (South of Market)** — The tech industry's original home. Warehouses converted to offices, startups stacked in buildings along Folsom and Howard, Salesforce Tower dominating the skyline. Twitter was here. Uber was here. Airbnb is still here.
+**Mission District** — Best taquerias in the city. Dolores Park. The 24th Street murals. Heavily gentrified but still has the best food.
 
-**Mission District** — Originally working-class Latino, now gentrified but still has the best taquerias in the city. Dolores Park — a crowded hillside park that functions as a community living room every weekend. The murals on 24th Street.
+**Haight-Ashbury** — Where the Summer of Love happened in 1967. Now vintage shops and tourists, but the Victorians are intact.
 
-**Castro** — The historic center of LGBTQ+ culture in America. Harvey Milk's camera shop was here. The Castro Theatre, a movie palace from 1922, still operating.
-
-**Tenderloin** — Dense, poor, concentrated drug use, surrounded by expensive neighborhoods. A daily example of the city's inequality.
-
-**North Beach** — Italian-American neighborhood adjacent to the Financial District. City Lights Books, where the Beat Generation gathered. The best coffee in the city (Caffe Trieste, since 1956).
-
-**Pacific Heights / Marina** — Wealthier residential neighborhoods. Victorian painted ladies. The Presidio. Running trails above the bay.
-
-**Haight-Ashbury** — Where the Summer of Love happened in 1967. Now a tourist area and vintage clothing shops, but the architecture is intact.
+**North Beach** — Italian-American neighborhood. City Lights Books (Beat Generation). Caffè Trieste, since 1956.
 
 ## Tech Culture
 
-San Francisco's relationship with the technology industry is the defining story of the city's recent decades. In the 1990s, the first dot-com boom changed real estate markets, displaced longtime residents, and then collapsed. In the 2010s, the second wave was larger, more sustained, and more structurally transformative.
+San Francisco's concentration of founders, engineers, and capital creates compounding returns that pulled more of all three in. The same dynamic that creates financial centers creates tech centers.
 
-The Bay Area concentration of talent, capital, and infrastructure — Stanford, Berkeley, the network of VC firms on Sand Hill Road, the density of engineers and founders — created compounding returns that pulled more talent and capital in. This is not a mystery: the same dynamic that creates financial centers creates tech centers.
+The consequences: median rent among the highest in the world. The city's failure to build housing at scale is a decades-long policy failure that the tech boom accelerated.
 
-The consequences are also not mysterious: median rent in San Francisco is among the highest in the world. The city's failure to build housing at the scale its population demands is a policy failure that has been running for decades. The tech industry accelerated this failure by paying workers far above what the housing market was built to handle.
+## Food and Restaurants
 
-## Restaurants and Food
+- **Mission burritos** — La Taqueria, El Farolito, Taqueria Cancun. Massive, foil-wrapped, rice inside.
+- **Zuni Café** — The roast chicken has been on the menu for decades.
+- **Tartine Bakery** — Country sourdough. Lines form before opening.
+- **Ferry Building Marketplace** — Farmers market Tuesday/Thursday/Saturday.
 
-San Francisco's food scene is genuinely excellent, spanning multiple culinary traditions:
+## Q House 2023
 
-**Mission burritos** — The SF burrito is a specific thing: massive, foil-wrapped, rice and beans inside (controversial to purists), from taquerias like La Taqueria, El Farolito, Taqueria Cancun.
+Jack co-organized [[history/qhouse-2023]] in San Francisco in 2023 — a hacker house that produced the [[people/kevin-zhang]] / [[projects/mira]] connection and proved the live-work density model worked for him as an organizer.
 
-**Zuni Café** — The roast chicken has been on the menu for decades. The bread salad is as good as the chicken.
-
-**State Bird Provisions** — Dim sum format with California produce. Difficult reservation.
-
-**Tartine Bakery** — Country sourdough that people wait in line for. The bread culture in SF is real — the natural lactic acid bacteria in SF fog is genuinely different, which affects sourdough fermentation.
-
-**Ferry Building Marketplace** — Farmers market on Tuesdays, Thursdays, Saturdays. High-quality produce, artisan vendors, bay views.
-
-**Chinatown** — The oldest Chinatown in North America. Dense, cheap, authentic. Dim sum at City View or Yank Sing.
-
-## The Cultural Tension
-
-San Francisco holds a specific set of contradictions that have become more apparent as tech wealth grew:
-
-The city is politically progressive but economically exclusionary. People who care about housing affordability support regulations that make housing unaffordable. The drug crisis in the Tenderloin is treated with compassion rhetoric and minimal operational effectiveness.
-
-The tech industry brought money and talent and changed the city's character in ways that longtime residents experience as displacement. The people who changed the city often don't engage with the city — they live in their apps, eat in catered offices, take private shuttles to Silicon Valley, and experience San Francisco as a backdrop.
-
-This tension is the city's central political and cultural conflict. It is not resolved and does not appear to be resolving.
-
-## Why It Matters for Jack
-
-San Francisco is the default city for anyone in Jack's orbit. It's where founders move when they're serious. It's where the people he wants to be around are concentrated. The Bay Area has the highest density of ambitious technical builders in the world.
-
-The counter-argument — that the city's dysfunction, expense, and cultural stagnation are real costs — is also taken seriously. Many founders have moved to New York, Miami, or Austin in recent years. The network effects that made SF dominant are real but not infinite.
-
-For Jack, the question is not whether SF is important but whether it's where he specifically needs to be at any given point.
+![San Francisco rooftop — one of the classic Bay Area views](/assets/photos/jack-rooftop-meditation.jpg)
 
 ## Related
 

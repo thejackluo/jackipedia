@@ -1,5 +1,17 @@
 # WeWork Nomadic Period
 
+
+<table class="infobox">
+<caption>WeWork Nomadic Period</caption>
+<tr><th class="infobox-section" colspan="2">Period</th></tr>
+<tr><th class="infobox-label">Duration</th><td class="infobox-data">~1 month (2024–2025)</td></tr>
+<tr><th class="infobox-label">Location</th><td class="infobox-data">WeWork, New York City</td></tr>
+<tr><th class="infobox-label">Living situation</th><td class="infobox-data">Rooftop, office spaces</td></tr>
+<tr><th class="infobox-section" colspan="2">Context</th></tr>
+<tr><th class="infobox-label">Activity</th><td class="infobox-data">Building, catering work, exploring NYC</td></tr>
+</table>
+
+
 **Category:** History
 **Period:** 2024–2025 (approx)
 **Summary:** Jack lived in a WeWork office for a month - the nomadic phase between Georgia Tech and Boston
@@ -49,3 +61,21 @@ This is the same logic as the electric unicycle (no car, no parking, maximum mob
 - [[history/new-york-city]]
 - [[interests/electric-unicycle]]
 - [[people/jack-luo]]
+
+## Photos from the Nomadic Period
+
+![Neon sign — FYF, a venue from the nomadic period](/assets/photos/neon-sign-fyf.jpg)
+
+![Neon sign — late night city life](/assets/photos/neon-sign.jpg)
+
+![Noodles in microwave — the bachelor pad meal](/assets/photos/noodles-microwave.jpg)
+
+![Jack's seafood NYC — dining in New York](/assets/photos/jacks-seafood-nyc.jpg)
+
+![Hillside house — one of the places Jack stayed during the nomadic period](/assets/photos/hillside-house.jpg)
+
+![Green neon sign — FYF venue](/assets/photos/neon-sign-fyf-green.jpg)
+
+![Jack catering in rain — carrying food during the nomadic period](/assets/photos/jack-catering-rain.jpg)
+
+![Noodles in microwave — bachelor pad cooking](/assets/photos/noodles-microwave-2.jpg)

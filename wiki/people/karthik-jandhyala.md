@@ -1,4 +1,15 @@
 # Karthik Jandhyala
+
+
+<table class="infobox">
+<caption>Karthik Jandhyala</caption>
+<tr><th class="infobox-section" colspan="2">Work</th></tr>
+<tr><th class="infobox-label">Role</th><td class="infobox-data"><a href="/wiki/projects/agentdex.html">AgentDex</a> team member</td></tr>
+<tr><th class="infobox-section" colspan="2">Relationship to Jack</th></tr>
+<tr><th class="infobox-label">Type</th><td class="infobox-data">Collaborator</td></tr>
+<tr><th class="infobox-label">Email</th><td class="infobox-data">jandhyala.karthik.r@gmail.com</td></tr>
+</table>
+
 **Type:** Person
 **Relationship to Jack:** [[projects/agentdex]] team member
 **Last updated:** 2026-04-06

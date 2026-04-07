@@ -31,7 +31,6 @@ Jack's reading list is tracked in Notion's "Jotion V4 Media List" database. It c
 | Grokking Deep Reinforcement Learning | Miguel Morales | Started |
 | Power: Why Some People Have It and Others Don't | Jeffrey Pfeffer | Started |
 | Outline of Classical Chinese Grammar | Edwin Pulleyblank | - |
-| Taking Charge of Adult ADHD | Russell Barkley | - |
 | The Rare Find | George Anders | - |
 | The Art of Strategy | Dixit, Nalebuff | - |
 | Elements of Programming Interviews in Python | Aziz, Lee, Prakash | - |
@@ -40,8 +39,6 @@ Jack's reading list is tracked in Notion's "Jotion V4 Media List" database. It c
 | Models: Attract Women Through Honesty | Mark Manson | Duplicate entry, same as above |
 
 ## Notable Observations
-
-**The ADHD book:** "Taking Charge of Adult ADHD" by Russell Barkley appears in the active reading list. This is the only direct health/neurology reference in the reading list and likely connects to self-diagnosis or exploration.
 
 **Classical Chinese Grammar:** Unexpected. Jack is either studying classical Chinese for language depth, philosophical reading (Confucian texts, Taoism), or as part of his Japan/Asia cultural interest.
 

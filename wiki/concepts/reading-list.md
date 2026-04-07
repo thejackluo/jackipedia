@@ -1,85 +1,131 @@
 # Reading List
-**Last updated:** 2026-04-06
-**Source:** Apple Books Library (screenshots), Jotion V4 Media List Database
+**Last updated:** 2026-04-07
+**Source:** Goodreads + Apple Books library screenshots
 
-Jack maintains an extensive reading list spanning AI, business, personal development, history, sci-fi, and technical books. He tracks progress in Apple Books and rates books 1–5 stars.
+Jack maintains a reading list spanning AI, business, personal development, history, sci-fi, and technical books. Ratings and reviews sourced directly from his Goodreads account and Apple Books library.
 
-![Jack's Apple Books library — AI, business, philosophy, and personal development](/assets/photos/reading-library-1.jpg)
+![Jack's reading list — Goodreads app, sorted by date](/assets/photos/reading-list-goodreads-4.jpg)
 
 ## ⭐⭐⭐⭐⭐ Five Stars (Exceptional)
 
-- **The Courage to Be Disliked** — Ichiro Kishimi & Fumitake Koga | *Philosophy* | In progress (51%)
-  - Deeply resonant — ranked as Jack's highest-rated book alongside the agents book
-  - Core premise: freedom comes from separating your tasks from others' tasks
-- **Agents in the Long Game of AI** — McShane, Nirenburg, English | *AI* | Finished
+- **The Hard Thing About Hard Things** — Ben Horowitz | *Business* | Finished
+  - "I can physically feel the tension that Ben Horowitz has felt when he is building a startup through this book."
+- **How to Win Friends & Influence People** — Dale Carnegie | *Social* | Finished Jan 2023
+  - "This is a foundational piece of work that I've still used as advice to this day."
+- **The Three-Body Problem** — Liu Cixin | *Sci-Fi* | Read Sep–Oct 2024
+  - "One of the best books series I've read in recent time ever since the Netflix show has come out. I highly, highly recommend."
+- **Where You Go Is Not Who You'll Be** — Frank Bruni | *Education* | Read Jan 2022
+  - "One of the most important books I've read in the 2022 era. You are who you believe who you are."
+- **Agents in the Long Game of AI** — Marjorie McShane et al. | *AI* | Finished (4★ on Goodreads)
 
 ## ⭐⭐⭐⭐ Four Stars (Excellent)
 
-### Business & Power
-- **[[books/billion-dollar-whale]]** — Tom Wright & Bradley Hope | *Business* | In progress (16%)
-  - "Jho Low is probably one of the most interesting guys I have had the honor to read"
-- **Power: Why Some People Have It and Others Don't** — Jeffrey Pfeffer | In progress (9%)
-- **Why Nations Fail** — Acemoglu & Robinson | *Political Economy* | In progress (12%)
-- **The Power to Compete** — Ryoichi & Hiroshi Mikitani | *Economics/Japan* | In progress (52%)
-- **The Art of Strategy** — Dixit & Nalebuff | *Game Theory* | In progress (9%)
-- **The Rare Find** — George Anders | *Business* | In progress (15%)
+### Read / Finished
+- **[[books/essentialism]]** — Greg McKeown | Read Dec 2025–Feb 14, 2026
+  - "Far too many people are focused on additive activities... this book is about being able to prioritize."
+- **Zero to One** — Peter Thiel | Read Jul 2025
+  - "Zero to One is a very fascinating book about how to build startups from the ground up. I have applied a lot of the ideas in my own thought process."
+- **The Courage to Be Disliked** — Ichiro Kishimi | Read Apr–Nov 2025
+  - "A phenomenal piece of work that takes the unique format of a conversation between a lost guy and a philosopher."
+- **Classroom of the Elite (Vol. 1)** — Syougo Kinugasa | *Light Novel* | Read Jan 2023
+  - "To be comprehensive about my book collection, I will add this series."
+- **Life 3.0** — Max Tegmark | *AI* | Finished
+  - "A great high-level overview of the application and emergence of AI by an MIT expert grappling with the idea of being human in artificial intelligence."
 
-### AI & Technical
-- **Deep Learning Illustrated** — Krohn, Beyleveld, Bassens | *AI* | In progress (29%)
-- **Grokking Deep Reinforcement Learning** — Miguel Morales | *AI* | In progress (8%)
-- **The Hundred-Page Machine Learning Book** — Andriy Burkov | *AI* | In progress (1%)
+### In Progress
+- **[[books/billion-dollar-whale]]** — Tom Wright & Bradley Hope | In progress (16%)
+  - "Jho Low is probably one of the most interesting guys I have had the honor to read."
 - **System Design Interview** — Alex Xu | *Technical* | In progress (28%)
-- **Elements of Programming Interviews in Python** — Aziz, Lee, Prakash | *Technical* | In progress (10%)
-- **Making Embedded Systems** — Elecia White | *Technical* | In progress (3%)
-
-### Personal Development & Psychology
-- **[[books/essentialism]]** — Greg McKeown | *Personal Development* | Finished Feb 14, 2026
-  - "Far too many people are focused on additive activities... this book is about being able to do less"
-- **Models: Attract Women Through Honesty** — Mark Manson | *Relationships* | In progress (45%)
-- **Taking Charge of Adult ADHD** — Russell A. Barkley | *Psychology* | In progress (14%)
-- **Are You Mad at Me?** — Meg Josephson | *Psychology* | In progress (1%)
-
-### Philosophy & History
-- **Zero to One** — Peter Thiel | *Startups* | **Finished**
-- **[[books/life-30]]** — Max Tegmark | *AI/SciFi* | In progress (32%)
-- **Homo Deus** — Yuval Noah Harari | *History/Future* | In progress (24%)
-- **Blindsight** — Peter Watts | *Sci-Fi* | In progress (2%)
+- **Models: Attract Women Through Honesty** — Mark Manson | In progress (45%)
+- **Deep Learning Illustrated** — Krohn, Beyleveld, Bassens | In progress (29%)
+- **The Hundred-Page Machine Learning Book** — Andriy Burkov | In progress (1%)
+- **Grokking Deep Reinforcement Learning** — Miguel Morales | In progress (8%)
+- **Power: Why Some People Have It and Others Don't** — Jeffrey Pfeffer | In progress (9%)
+- **The Rare Find** — George Anders | In progress (15%)
+- **The Art of Strategy** — Dixit & Nalebuff | In progress (9%)
+- **Elements of Programming Interviews in Python** — Aziz, Lee, Prakash | In progress (10%)
+- **The Power to Compete** — Ryoichi & Hiroshi Mikitani | In progress (52%)
+- **Why Nations Fail** — Acemoglu & Robinson | In progress (12%)
+- **Making Embedded Systems** — Elecia White | In progress (3%)
+- **Are You Mad at Me?** — Meg Josephson | In progress (1%)
 
 ## ⭐⭐⭐ Three Stars (Good)
 
-- **50 Political Ideas You Really Need to Know** — Ben Dupré | *History* | Finished (14%)
-  - "Good foundational overview... felt more like an encyclopedia, not too engaging"
+- **Homo Deus** — Yuval Noah Harari | *History/Future* | In progress
+  - "This is my controversial take, but I think Homo Deus is not one of my favorite books. The ideas are great, but I just did not find the interest to continue."
+- **50 Political Ideas You Really Need to Know** — Ben Dupré | Finished
+  - "A good foundational overview of different political ideas. It felt more like an encyclopedia with facts, rather than anything too engaging."
+- **Frankenstein: The 1818 Text** — Mary Shelley | Read Sep 2022
+  - "Great book nothing particularly memorable."
 
-## Currently In Queue (Unrated / Early)
+## ⭐⭐ Two Stars
 
-- **Deep Utopia** — Nick Bostrom | *AI/Philosophy* | In progress (1%)
-- **Superintelligence** — Nick Bostrom | *AI* | In progress (1%)
-- **Ender's Game** — Orson Scott Card | *Sci-Fi* | In progress
-- **Originals** — Adam Grant | *Business* | In progress
-- **Outline of Classical Chinese Grammar** — Edwin G. Pulleyblank | *Linguistics* | In progress (11%)
+- **Principles of Building AI Agents** — Sam Bhagwat | Read Jan 2024
+  - "Free book I got at a hackathon. It has good introductory materials on agents though it's not the most well [written]."
 
-## Library Screenshot
+## Currently Queued / Early
 
-![Apple Books reading library — full view](/assets/photos/reading-library-5.jpg)
+- **Deep Utopia** — Nick Bostrom | In progress (1%)
+- **Superintelligence** — Nick Bostrom | In progress (1%)
+- **Ender's Game** — Orson Scott Card | In progress
+- **Originals** — Adam Grant | In progress
+- **Blindsight** — Peter Watts | In progress (2%)
+- **Outline of Classical Chinese Grammar** — Edwin Pulleyblank | In progress (11%)
+
+![Reading list — Goodreads, more completed books](/assets/photos/reading-list-goodreads-5.jpg)
 
 ## Patterns & Insights
 
-Jack reads broadly but the library reveals clear clusters:
+From the full library, several clusters emerge:
 
-1. **AI/agents** — Multiple ML, deep learning, and agent theory books. Bostrom's *Superintelligence* and *Deep Utopia* signal engagement with long-termist ideas.
-2. **Business + power dynamics** — Billion Dollar Whale, Power, Why Nations Fail, Art of Strategy. Interested in *how* power actually works, not just aspirationally.
-3. **Personal development + psychology** — Essentialism, Models, Courage to Be Disliked, ADHD. Actively working on self-understanding and independence from external validation.
-4. **Technical depth** — System Design Interview, EPI Python, ML books — serious technical grounding, not just product-level.
-5. **Sci-Fi** — Blindsight, Ender's Game, Homo Deus. Fiction that takes intelligence and the future seriously.
-6. **Japan** — The Power to Compete (Rakuten founder on revitalizing Japan's economy). Consistent with Japan trip 2024 and Japanese language interest.
+1. **AI/agents** — McShane, Burkov, Bhagwat, DRL, Deep Learning. Bostrom's *Superintelligence* + *Deep Utopia* signal long-termist thinking.
+2. **Startup/business** — Ben Horowitz (5★), Zero to One (4★), Billion Dollar Whale (4★), Power (4★). A consistent pattern: Jack wants to understand how power, money, and organizations actually work.
+3. **Personal development** — Essentialism, Courage to Be Disliked, How to Win Friends, Models. Notably, all rated 4–5 stars — this category resonates more than casual.
+4. **Sci-fi** — Three-Body Problem (5★), Life 3.0 (4★), Ender's Game, Blindsight. Hard sci-fi that takes intelligence and the future seriously.
+5. **Japanese/Asian** — Classroom of the Elite (Japanese light novel), The Power to Compete (Rakuten), Outline of Classical Chinese Grammar. Consistent Asia interest.
+6. **History/politics** — Where You Go Is Not Who You'll Be (education), 50 Political Ideas, Homo Deus (Harari).
 
-The ADHD book alongside *Courage to Be Disliked* is notable: both address self-acceptance, independence from external judgment, and managing a mind that works differently. The combination suggests active work on understanding his own cognitive style rather than just optimizing around it.
+**The Hard Thing About Hard Things** at 5 stars alongside **How to Win Friends** — the combination suggests Jack values both operational grit and social intelligence as equally foundational. Not just the intellectual framework for building, but the human side.
 
-Zero to One finished — Thiel's influence shows up in contrarian framing, technology pessimism about globalization, and the "what important truth do very few people agree with you on?" heuristic.
+**The Three-Body Problem** at 5 stars is notable: it's the only pure fiction in the top tier. Liu Cixin's trilogy treats civilizational-scale problems seriously — exactly the register Jack is drawn to.
+
+![Reading library — Apple Books](/assets/photos/reading-library-1.jpg)
 
 ## Related
+
 - [[people/jack-luo]]
 - [[books/essentialism]]
 - [[books/the-courage-to-be-disliked]]
 - [[books/billion-dollar-whale]]
 - [[books/life-30]]
+- [[books/three-body-problem]]
+- [[philosophy/walk-in-the-park-framework]]
+
+## Additional Library Screenshots
+
+![Apple Books library — full reading list view 2](/assets/photos/reading-library-2.jpg)
+![Apple Books library — view 3](/assets/photos/reading-library-3.jpg)
+![Apple Books library — view 4](/assets/photos/reading-library-4.jpg)
+![Apple Books library — view 6](/assets/photos/reading-library-6.jpg)
+![Apple Books library — view 7](/assets/photos/reading-library-7.jpg)
+![Goodreads read shelf — completed books with ratings 1](/assets/photos/reading-list-goodreads-1.jpg)
+![Goodreads read shelf — completed books with ratings 2](/assets/photos/reading-list-goodreads-2.jpg)
+![Goodreads read shelf — completed books with ratings 3](/assets/photos/reading-list-goodreads-3.jpg)
+
+![Goodreads read shelf — Hard Thing About Hard Things, Zero to One, Homo Deus](/assets/photos/goodreads-hard-thing-zero-to-one.jpg)
+
+![Goodreads read shelf — Essentialism, How to Win Friends and Influence People](/assets/photos/goodreads-essentialism-how-to-win.jpg)
+
+![Goodreads read shelf — Life 3.0, Three-Body Problem, Courage to Be Disliked](/assets/photos/goodreads-life30-threebody-courage.jpg)
+
+![Goodreads read shelf — Mathematics of Poker, Agents in Long Game of AI, Unfair Advantage](/assets/photos/goodreads-read-shelf-1.jpg)
+
+![Goodreads read shelf — Principles of Building AI Agents, Frankenstein, Classroom of the Elite](/assets/photos/goodreads-read-shelf-2.jpg)
+
+![Reading library Kindle — view 1](/assets/photos/reading-library-kindle-1.jpg)
+
+![Reading library Kindle — view 2](/assets/photos/reading-library-kindle-2.jpg)
+
+![Reading library Kindle — view 3](/assets/photos/reading-library-kindle-3.jpg)
+
+![Apple Books library — view 5](/assets/photos/reading-library-5.jpg)

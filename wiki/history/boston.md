@@ -1,5 +1,17 @@
 # Boston
 
+
+<table class="infobox">
+<caption>Boston</caption>
+<tr><th class="infobox-section" colspan="2">Place</th></tr>
+<tr><th class="infobox-label">State</th><td class="infobox-data">Massachusetts, USA</td></tr>
+<tr><th class="infobox-label">Known for</th><td class="infobox-data">MIT, Harvard, tech ecosystem</td></tr>
+<tr><th class="infobox-section" colspan="2">Jack's Connection</th></tr>
+<tr><th class="infobox-label">Network</th><td class="infobox-data">MITAS, MIT SIPB, MITBuilds</td></tr>
+<tr><th class="infobox-label">Key event</th><td class="infobox-data">MITAS Founder Breakfast, April 16, 2026</td></tr>
+</table>
+
+
 **Category:** History / Places
 **Summary:** Jack's time in Boston - MIT connections, MITAS network, the city that matches his ambitions
 **Last updated:** 2026-04-06
@@ -60,4 +72,12 @@ Jack's nomadic period - WeWork, hacker houses, couch-surfing, city-hopping - was
 
 ## Photos
 
-![Jack on a snowy mountain - the kind of landscape that shows up when you leave California](/assets/photos/jack-snowy-mountain.jpg)
+![Jack at MIT — group crowd at an event](/assets/photos/mit-group-crowd.jpg)
+
+![MIT rabbit — the wild rabbit that lives near campus, an unofficial mascot for late-night builders](/assets/photos/mit-rabbit.jpg)
+
+## MITBuilds Community
+
+Jack is part of the MITBuilds founders WhatsApp group. The community shares startup resources, feedback requests, and events like the **MITAS (MIT Alumni Startup Network) Founder Breakfast** on April 16, 2026 in Boston.
+
+![MITBuilds WhatsApp — MITAS founder breakfast announcement, April 16 Boston](/assets/photos/mitbuilds-mitas-whatsapp.jpg)

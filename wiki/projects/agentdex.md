@@ -1,13 +1,29 @@
-# AgentDex (ROLO)
-**Category:** Project
-**Status:** Active (launched April 1, 2026)
-**Last updated:** 2026-04-06
+# AgentDex
 
-## Overview
+<table class="infobox">
+<caption>AgentDex</caption>
+<tr><th class="infobox-image" colspan="2">
+<img src="/assets/photos/startup-is-resumed.jpg" alt="AgentDex development">
+<span class="infobox-caption">AgentDex in development, early 2026</span>
+</th></tr>
+<tr><th class="infobox-section" colspan="2">Project overview</th></tr>
+<tr><th class="infobox-label">Also known as</th><td class="infobox-data">ROLO</td></tr>
+<tr><th class="infobox-label">Type</th><td class="infobox-data">Personal CRM / Relationship intelligence</td></tr>
+<tr><th class="infobox-label">Status</th><td class="infobox-data">🟢 Active</td></tr>
+<tr><th class="infobox-label">Launched</th><td class="infobox-data">April 1, 2026</td></tr>
+<tr><th class="infobox-label">Founded</th><td class="infobox-data">Mid-2024</td></tr>
+<tr><th class="infobox-section" colspan="2">Technical</th></tr>
+<tr><th class="infobox-label">Stack</th><td class="infobox-data">Next.js, PostgreSQL, Drizzle ORM</td></tr>
+<tr><th class="infobox-label">Auth</th><td class="infobox-data">Clerk</td></tr>
+<tr><th class="infobox-label">Hosting</th><td class="infobox-data">AWS / Nixpacks</td></tr>
+<tr><th class="infobox-label">Repo</th><td class="infobox-data"><a href="https://github.com/agent-school/agentdex">agent-school/agentdex</a></td></tr>
+<tr><th class="infobox-section" colspan="2">People</th></tr>
+<tr><th class="infobox-label">Founder</th><td class="infobox-data"><a href="/wiki/people/jack-luo.html">Jack Luo</a></td></tr>
+<tr><th class="infobox-label">Collaborator</th><td class="infobox-data"><a href="/wiki/people/arman-mahjoor.html">Arman Mahjoor</a></td></tr>
+<tr><th class="infobox-label">Advisor</th><td class="infobox-data"><a href="/wiki/people/kunal-gupta.html">Kunal Gupta</a></td></tr>
+</table>
 
-AgentDex is Jack's primary startup - a relationship intelligence platform positioned as "the Rolodex for the AI age." Also known as ROLO. The core product: a personal CRM that uses AI to help users manage their relationships, contacts, and communication patterns with minimal manual overhead.
-
-Jack has been building this since at least mid-2024. It went to production April 6, 2024 (first version), and publicly launched April 1, 2026.
+**AgentDex** (also known as ROLO) is [[people/jack-luo]]'s primary startup — a relationship intelligence platform and personal CRM positioned as "the Rolodex for the AI age." The core product helps users manage contacts, meetings, and relationships using AI extraction, calendar integration, and a typed relationship graph — with minimal manual overhead.
 
 ## Product
 
@@ -85,12 +101,21 @@ This is the "overnight agent harness" architecture - AI agents handle small bugs
 - [[people/arman-mahjoor]]
 - [[people/kevin-zhang]]
 - [[people/karthik-jandhyala]]
-- [[people/nimesh]]
 - [[people/jack-luo]]
 - [[projects/mira]]
+- [[projects/agent-school]]
+- [[history/georgia-tech-era]]
+- [[concepts/notion]]
+- [[concepts/linear]]
 
-## Photos
+## Development Photos
 
-![Gather Town, January 2026 - the virtual team space used during AgentDex development](/assets/photos/gather-town-jan2026.jpg)
+![Gather Town, January 2026 — virtual team space during AgentDex development](/assets/photos/gather-town-jan2026.jpg)
 
-![AgentDex commit analysis - the codebase growth over time](/assets/photos/agentdex-commit-analysis.jpg)
+![OpenCode dev log March 2026 — AI-assisted sessions, 299 messages on Mar 27](/assets/photos/agentdex-opencode-log-march.jpg)
+
+![AgentDex dev session — deep work](/assets/photos/agentdex-dev-session.jpg)
+
+![Startup financials class — studying financial modeling](/assets/photos/startup-financials-class.jpg)
+
+![Startup class notes — financial modeling coursework](/assets/photos/startup-class-notes.jpg)

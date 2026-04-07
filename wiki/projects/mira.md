@@ -1,4 +1,18 @@
 # Efficore (Mira)
+
+
+<table class="infobox">
+<caption>Efficore (Mira)</caption>
+<tr><th class="infobox-section" colspan="2">Project</th></tr>
+<tr><th class="infobox-label">Full name</th><td class="infobox-data">Efficore</td></tr>
+<tr><th class="infobox-label">Domain</th><td class="infobox-data"><a href="https://mira.energy">mira.energy</a></td></tr>
+<tr><th class="infobox-label">Status</th><td class="infobox-data">Active</td></tr>
+<tr><th class="infobox-label">Active dev</th><td class="infobox-data">June–September 2024</td></tr>
+<tr><th class="infobox-section" colspan="2">Team</th></tr>
+<tr><th class="infobox-label">Co-founders</th><td class="infobox-data"><a href="/wiki/people/jack-luo.html">Jack Luo</a>, <a href="/wiki/people/kevin-zhang.html">Kevin Zhang</a></td></tr>
+<tr><th class="infobox-label">Focus</th><td class="infobox-data">Energy optimization for data centers</td></tr>
+</table>
+
 **Category:** Project
 **Status:** Active (domain: mira.energy)
 **Active development period:** June–September 2024

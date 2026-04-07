@@ -1,40 +1,48 @@
-# Fitness Hub
-**Category:** Fitness
-**Last updated:** 2026-04-06
+# Fitness
 
-## Overview
+<table class="infobox">
+<caption>Fitness</caption>
+<tr><th class="infobox-image" colspan="2">
+<img src="/assets/photos/jack-gym-2.jpg" alt="Jack at the gym">
+<span class="infobox-caption">Jack at the gym, 2025</span>
+</th></tr>
+<tr><th class="infobox-section" colspan="2">Overview</th></tr>
+<tr><th class="infobox-label">Activities</th><td class="infobox-data">Gym, running, weight tracking</td></tr>
+<tr><th class="infobox-label">Tracked</th><td class="infobox-data">Weight, workouts, running miles</td></tr>
+<tr><th class="infobox-section" colspan="2">Goals</th></tr>
+<tr><th class="infobox-label">2024 goal</th><td class="infobox-data">Weight loss, consistency</td></tr>
+<tr><th class="infobox-label">Running</th><td class="infobox-data">See running project 2021</td></tr>
+</table>
 
-Jack has maintained a fitness tracking practice since at least July 2021. The Notion fitness hub (titled "Jotion V4.5 Fitness Hub") contains multiple databases and trackers covering running, gym sessions, weight loss, and activity logs.
+Jack tracks his fitness across weight management, gym sessions, and running. This section documents his physical health practices and goals.
 
-## Databases
+![Jack at the gym, working on cable machine](/assets/photos/jack-gym.jpg)
 
-| Database | Contents |
-|----------|---------|
-| Running log (b2cf6952) | 25+ runs, July 2021 – Feb 2022, with distance/speed/weight/notes |
-| Activity log (d4ebe65c) | Hiking, bike party, other activities |
-| Gym sessions (887ab620) | Workout tracking, sets/reps/weight, ongoing into 2026 |
-| Run Tracker Pro (template) | Pro template with Strava-style fields |
-| Workout Tracker (template) | Set/rep template for gym |
-| Weight Loss Tracker (MIG) | Body weight over time |
+## Gym
 
-## Current Practice
+Jack lifts weights regularly. The gym photos show cable machine work — a standard upper-body pulling and pushing routine. Consistency at the gym is one of the recurring themes in his annual reviews as both an achievement and an aspiration.
 
-As of 2026, Jack is running in Atlanta area trails and going to the gym. A March 31, 2026 entry is labeled "Gym Session 1" - suggesting a new gym cycle beginning. The March 27, 2026 meeting note records:
+## Running
 
-> "Exercise + meditation replacing caffeine as energy strategy"
+In 2021, Jack undertook a structured [[fitness/running-project-2021]] — a documented attempt to build a consistent running practice. Running intersects with his broader interest in physical discipline and the relationship between physical state and cognitive performance.
 
-This is a real shift: Jack is actively replacing stimulant-based energy management (caffeine) with movement-based energy management (exercise, meditation). This aligns with the [[philosophy/walk-in-the-park-framework]] framework's principle 3 (work: present over perfect) and his broader project of becoming more stable.
+## Weight Tracking
 
-## Fitness in the Writing Archive
+Jack tracks his weight over time in [[fitness/weight-loss-tracker]]. Weight management appears in his annual reviews as a conscious goal — specifically in the context of the relationship between physical health and mental performance. Physical health is consistently in the list of things Jack wants to improve, alongside work output and social relationships.
 
-Fitness appears repeatedly in Jack's writings:
-- 2021: "Be more fit" as New Year's resolution
-- 2021: Car crash during running project
-- 2024: "Slightly fatter" noted in annual review
-- 2025: Twisted ankle and minor lung issue noted as 2024 hardships
-- 2026: Exercise replacing caffeine, started gym
+## Body and Performance
+
+The connection between physical state and cognitive performance appears repeatedly in Jack's self-analysis. Sleep quality, exercise frequency, and eating patterns are all recognized as upstream variables that affect how well he can think and build.
+
+This is consistent with his reading list — [[books/essentialism]] contains a chapter on protecting "the asset" (yourself), and the [[philosophy/walk-in-the-park-framework]] includes themes of sustainable practice over intensity spikes.
 
 ## Related
+
 - [[fitness/running-project-2021]]
 - [[fitness/weight-loss-tracker]]
+- [[books/essentialism]]
+- [[philosophy/walk-in-the-park-framework]]
+- [[concepts/reading-list]]
 - [[people/jack-luo]]
+
+![Jack gym selfie — at the cable machine](/assets/photos/jack-gym-selfie.jpg)

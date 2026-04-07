@@ -1,5 +1,17 @@
 # New York City
 
+
+<table class="infobox">
+<caption>New York City</caption>
+<tr><th class="infobox-section" colspan="2">Place</th></tr>
+<tr><th class="infobox-label">State</th><td class="infobox-data">New York, USA</td></tr>
+<tr><th class="infobox-section" colspan="2">Jack's Connection</th></tr>
+<tr><th class="infobox-label">Period</th><td class="infobox-data">2024–2025 (nomadic period)</td></tr>
+<tr><th class="infobox-label">Key location</th><td class="infobox-data"><a href="/wiki/history/wework-nomadic-period.html">WeWork rooftop</a></td></tr>
+<tr><th class="infobox-label">Event</th><td class="infobox-data">New York Hacker House, 2025</td></tr>
+</table>
+
+
 **Category:** History / Places
 **Summary:** Jack's time in and relationship with New York City
 **Last updated:** 2026-04-06

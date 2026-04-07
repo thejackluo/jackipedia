@@ -1,4 +1,17 @@
 # Life 3.0: Being Human in the Age of Artificial Intelligence
+
+
+<table class="infobox">
+<caption>Life 3.0</caption>
+<tr><th class="infobox-section" colspan="2">Publication</th></tr>
+<tr><th class="infobox-label">Author</th><td class="infobox-data">Max Tegmark</td></tr>
+<tr><th class="infobox-label">Published</th><td class="infobox-data">2017</td></tr>
+<tr><th class="infobox-label">Genre</th><td class="infobox-data">AI / Science</td></tr>
+<tr><th class="infobox-section" colspan="2">Jack's Reading</th></tr>
+<tr><th class="infobox-label">Rating</th><td class="infobox-data">4 / 5</td></tr>
+<tr><th class="infobox-label">Status</th><td class="infobox-data">Finished</td></tr>
+</table>
+
 **Author:** Max Tegmark
 **Rating:** 4 Stars
 **Status:** Finished

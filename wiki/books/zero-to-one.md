@@ -1,5 +1,18 @@
 # Zero to One
 
+
+<table class="infobox">
+<caption>Zero to One</caption>
+<tr><th class="infobox-section" colspan="2">Publication</th></tr>
+<tr><th class="infobox-label">Author</th><td class="infobox-data">Peter Thiel, Blake Masters</td></tr>
+<tr><th class="infobox-label">Published</th><td class="infobox-data">2014</td></tr>
+<tr><th class="infobox-label">Genre</th><td class="infobox-data">Business / Startups</td></tr>
+<tr><th class="infobox-section" colspan="2">Jack's Reading</th></tr>
+<tr><th class="infobox-label">Rating</th><td class="infobox-data">4 / 5</td></tr>
+<tr><th class="infobox-label">Status</th><td class="infobox-data">Completed</td></tr>
+</table>
+
+
 **Category:** Books
 **Author:** Peter Thiel (with Blake Masters)
 **Published:** 2014

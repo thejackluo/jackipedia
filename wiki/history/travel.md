@@ -1,4 +1,19 @@
 # Travel
+
+
+<table class="infobox">
+<caption>Travel</caption>
+<tr><th class="infobox-section" colspan="2">Stats (Flighty, 2026)</th></tr>
+<tr><th class="infobox-label">Total flights</th><td class="infobox-data">76 (15 long haul)</td></tr>
+<tr><th class="infobox-label">Miles flown</th><td class="infobox-data">120,963 mi (4.9× around Earth)</td></tr>
+<tr><th class="infobox-label">Flight time</th><td class="infobox-data">12 days, 8 hours</td></tr>
+<tr><th class="infobox-label">Airports</th><td class="infobox-data">26</td></tr>
+<tr><th class="infobox-label">Airlines</th><td class="infobox-data">9</td></tr>
+<tr><th class="infobox-section" colspan="2">Key Trips</th></tr>
+<tr><th class="infobox-label">International</th><td class="infobox-data"><a href="/wiki/history/japan-trip-2024.html">Japan 2024</a>, China, Austria</td></tr>
+<tr><th class="infobox-label">Domestic</th><td class="infobox-data">NYC, Boston, Miami, Atlanta, LA</td></tr>
+</table>
+
 **Category:** History
 **Last updated:** 2026-04-06
 
@@ -51,8 +66,6 @@ During the [[projects/agentdex]] build period, Jack lived a partially nomadic li
 
 > "When I move between WeWork week to week, when I am juggling conversations that pull me in five directions, when travel turns sleep into an experiment, the journal keeps me anchored."
 
-![Jack in the rain, holding a catering tray - a hacker house food run](/assets/photos/jack-rain-catering.jpg)
-
 ## Flight Culture
 
 ![Chainsaw Man on airplane seatback screen](/assets/photos/chainsaw-man-flight.jpg)
@@ -79,14 +92,14 @@ Santa Monica's wide flat beach on a clear day - blue sky, mountains behind the b
 
 ![Jack walking on a snowy mountain path - pine trees, mountain range, overcast winter sky](/assets/photos/jack-snowy-mountain.jpg)
 
-Winter mountain hiking - black puffer, hands in pockets, walking toward a lodge with a snow-dusted mountain range in the background. Likely White Mountains, New Hampshire, or Vermont. The scale of the landscape against the solitary figure is quietly cinematic.
+Winter mountain hiking - black puffer, hands in pockets, walking toward a lodge with a snow-dusted mountain range in the background. Likely White Mountains, New Hampshire, or Vermont.
 
 ## Photos
 
-![Flighty stats - 76 flights, 120,963 miles, 4.9x around the earth](/assets/photos/flighty-stats.jpg)
+![Flighty stats detailed view](/assets/photos/flighty-stats-2.jpg)
 
-![Flighty stats, detailed view](/assets/photos/flighty-stats-2.jpg)
+![Flighty all-time stats](/assets/photos/flighty-stats-all-time.jpg)
 
-![Santa Monica beach - one of many US cities visited](/assets/photos/santa-monica-beach.jpg)
+![Lobster plushie at airport](/assets/photos/lobster-plushie-airport.jpg)
 
-![Chainsaw Man on a flight - reading manga at 35,000 feet](/assets/photos/chainsaw-man-flight.jpg)
+![Jack looking out plane window](/assets/photos/jack-plane-window.jpg)

@@ -1,5 +1,16 @@
 # Miami
 
+
+<table class="infobox">
+<caption>Miami</caption>
+<tr><th class="infobox-section" colspan="2">Place</th></tr>
+<tr><th class="infobox-label">State</th><td class="infobox-data">Florida, USA</td></tr>
+<tr><th class="infobox-section" colspan="2">Jack's Visit</th></tr>
+<tr><th class="infobox-label">Period</th><td class="infobox-data">2024 (Frontier/GoWild trip)</td></tr>
+<tr><th class="infobox-label">Related</th><td class="infobox-data"><a href="/wiki/history/frontier-gowild.html">Frontier GoWild</a></td></tr>
+</table>
+
+
 **Category:** History / Places
 **Summary:** Jack's time in Miami - the city, the food, the beach, the culture
 **Last updated:** 2026-04-06

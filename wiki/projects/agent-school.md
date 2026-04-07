@@ -1,5 +1,19 @@
 # Agent School
 
+
+<table class="infobox">
+<caption>Agent School</caption>
+<tr><th class="infobox-section" colspan="2">Project</th></tr>
+<tr><th class="infobox-label">Type</th><td class="infobox-data">Infrastructure / Organization</td></tr>
+<tr><th class="infobox-label">URL</th><td class="infobox-data"><a href="https://agentschool.io">agentschool.io</a></td></tr>
+<tr><th class="infobox-label">Status</th><td class="infobox-data">Active</td></tr>
+<tr><th class="infobox-section" colspan="2">Details</th></tr>
+<tr><th class="infobox-label">Operator</th><td class="infobox-data"><a href="/wiki/people/jack-luo.html">Jack Luo</a></td></tr>
+<tr><th class="infobox-label">Location</th><td class="infobox-data">MIT E38-379, Cambridge MA</td></tr>
+<tr><th class="infobox-label">Services</th><td class="infobox-data">Paperclip, Jackipedia, AgentDex</td></tr>
+</table>
+
+
 **Category:** Projects / Infrastructure
 **URL:** agentschool.io
 **Summary:** The infrastructure umbrella for Jack's AI agent ecosystem - Paperclip, Jackipedia, and more
@@ -58,6 +72,12 @@ The relationship between Agent School and AgentDex is similar to the relationshi
 
 ## Photos
 
-![Agent School door at night - the workspace where it all happens](/assets/photos/agent-school-door-night.jpg)
+![Agent School door at night — the workspace where it all happens](/assets/photos/agent-school-door-night.jpg)
 
-![Agent School room - the interior setup](/assets/photos/agent-school-room.jpg)
+![Agent School room — interior setup](/assets/photos/agent-school-room.jpg)
+
+![Agent School door — hand-lettered sign reads "AGENT SCHOOL"](/assets/photos/agent-school-e38-379-door.jpg)
+
+![Agent School room E38-379 — Jack building at desk, MIT campus](/assets/photos/agent-school-e38-379-room.jpg)
+
+![Instagram story: "If you are in agent school get grinding :)"](/assets/photos/agent-school-startup-resumed-story.jpg)

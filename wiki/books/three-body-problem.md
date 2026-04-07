@@ -1,5 +1,20 @@
 # The Three-Body Problem
 
+
+<table class="infobox">
+<caption>The Three-Body Problem</caption>
+<tr><th class="infobox-section" colspan="2">Publication</th></tr>
+<tr><th class="infobox-label">Author</th><td class="infobox-data">Liu Cixin</td></tr>
+<tr><th class="infobox-label">Translator</th><td class="infobox-data">Ken Liu (English)</td></tr>
+<tr><th class="infobox-label">Published</th><td class="infobox-data">2006 (China), 2014 (English)</td></tr>
+<tr><th class="infobox-label">Genre</th><td class="infobox-data">Science fiction</td></tr>
+<tr><th class="infobox-label">Series</th><td class="infobox-data">Remembrance of Earth's Past, Book 1</td></tr>
+<tr><th class="infobox-section" colspan="2">Jack's Reading</th></tr>
+<tr><th class="infobox-label">Rating</th><td class="infobox-data">5 / 5</td></tr>
+<tr><th class="infobox-label">Read</th><td class="infobox-data">September–October 2024</td></tr>
+</table>
+
+
 **Category:** Books
 **Author:** Liu Cixin
 **Translator:** Ken Liu (English edition)

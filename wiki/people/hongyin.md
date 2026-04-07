@@ -1,4 +1,16 @@
 # Hongyin (Subconscious)
+
+
+<table class="infobox">
+<caption>Hongyin</caption>
+<tr><th class="infobox-section" colspan="2">Work</th></tr>
+<tr><th class="infobox-label">Company</th><td class="infobox-data">Subconscious</td></tr>
+<tr><th class="infobox-label">Focus</th><td class="infobox-data">Workflow caching, knowledge graphs</td></tr>
+<tr><th class="infobox-section" colspan="2">Relationship to Jack</th></tr>
+<tr><th class="infobox-label">Type</th><td class="infobox-data">Technical collaborator</td></tr>
+<tr><th class="infobox-label">Meeting</th><td class="infobox-data">January 28, 2026</td></tr>
+</table>
+
 **Type:** Person
 **Relationship to Jack:** Technical collaborator
 **Last updated:** 2026-04-06

@@ -1,83 +1,61 @@
-# Japan Trip (December 2024)
-**Category:** History / Travel
-**Period:** December 15–30, 2024
-**Last updated:** 2026-04-06
+# Japan Trip 2024
 
-## Overview
+<table class="infobox">
+<caption>Japan Trip 2024</caption>
+<tr><th class="infobox-image" colspan="2">
+<img src="/assets/photos/japan-sweets.jpg" alt="Japanese sweets, Kyoto">
+<span class="infobox-caption">Japanese sweets, December 2024</span>
+</th></tr>
+<tr><th class="infobox-section" colspan="2">Trip details</th></tr>
+<tr><th class="infobox-label">Dates</th><td class="infobox-data">December 15–30, 2024</td></tr>
+<tr><th class="infobox-label">Duration</th><td class="infobox-data">15 days</td></tr>
+<tr><th class="infobox-label">Country</th><td class="infobox-data">Japan 🇯🇵</td></tr>
+<tr><th class="infobox-label">Cities</th><td class="infobox-data">Tokyo, Kyoto, Osaka</td></tr>
+<tr><th class="infobox-section" colspan="2">Context</th></tr>
+<tr><th class="infobox-label">Year ranking</th><td class="infobox-data">#1 travel experience of 2024</td></tr>
+<tr><th class="infobox-label">Source</th><td class="infobox-data">2024 Annual Review</td></tr>
+</table>
 
-Jack traveled to Japan from December 15–30, 2024 - fifteen days covering what he described in his Annual Review as a key event of the year. Japan appears throughout his archive as a deep cultural anchor: the language he's studying, the anime that defined him, the transit system in his dreams, the cuisine he reaches for when working alone. The December 2024 trip was the first time he went in person.
+Jack traveled to **Japan** from December 15–30, 2024 — fifteen days across Tokyo, Kyoto, and Osaka. The trip appears prominently in his [[concepts/writing-archive]] 2024 annual review as the defining travel experience of the year, outranking CES (January), TreeHacks at Stanford (February), and the Berkeley AI Hackathon (June).
 
-## Dates
+## Why Japan
 
-| Date | Note |
-|------|------|
-| December 15, 2024 | Departure |
-| December 30, 2024 | Return |
-| Duration | 15 nights |
+Japan was not Jack's first trip abroad, but it carried particular weight given his longstanding interest in [[interests/anime]], Japanese design aesthetics, and the country's relationship with technology. Japan represents a specific kind of environment Jack is drawn to: intense craft culture, aesthetic density, extreme organizational competence, and a distinct relationship with technology that is neither utopian nor dystopian.
 
-## In the Annual Review
+Jack's reading list includes *The Power to Compete* by Ryoichi Mikitani (Rakuten founder), which is explicitly about Japan's struggle to compete globally in the technology economy — a book that reads differently after visiting the country.
 
-Japan is the first major event listed under "new things done" in Jack's 40 Questions Annual Review. It is mentioned ahead of the [[history/georgia-tech-era]] transfer and the production launch - suggesting it held particular personal significance.
+## Tokyo
 
-## In the Dreams
+Tokyo is one of the densest and most navigable cities on earth. The train network (JR, Tokyo Metro, and private lines) connects essentially everything. The food is exceptional at every price point — konbini (convenience store) food in Japan is better than restaurant food in most countries. Shibuya, Shinjuku, Akihabara (the electronics and anime district), Harajuku, and Shimokitazawa each have distinct identities.
 
-The Japan trip surfaced in Jack's dreams almost immediately:
+## Kyoto
 
-**March 2, 2025 dream (Japanese stores):**
-> "Traveling to Japanese stores and getting discounts with mom"
+Kyoto is the counter to Tokyo — slower, older, more conscious of tradition. The temple density is high: Fushimi Inari (the famous red torii gates), Kinkaku-ji (Golden Pavilion), Arashiyama. The food culture is kaiseki (multi-course Japanese haute cuisine) and matcha everything. December Kyoto is cold and less crowded than peak tourist season.
 
-The mother presence suggests family either joined the trip or the dream blended the trip with family memory.
+## Osaka
 
-**March 28, 2026 dream (Great America):**
-> "Japanese train with uniformed people; lots of lines; no roller coasters"
+Osaka is Japan's food city — takoyaki, okonomiyaki, kushikatsu. More casual and louder than Tokyo or Kyoto. Dotonbori, the neon-lit canal district, is genuinely impressive at night.
 
-The precision of the memory - uniformed station attendants, orderly queuing - is characteristic of Japan's JR and metro systems. This detail survived 15+ months in the archive and reappeared in a dream set geographically in America.
+## Food
 
-**"Vending Machine Dreams" (August 2025):**
-The Chongqing-style stairs in Dream 2 evoke a specific East Asian urban texture that the Japan trip likely reinforced: multilevel cities, concrete and humidity, trains that run on time.
+![Japanese sweets, Kyoto 2024](/assets/photos/japan-sweets-2.jpg)
 
-## Cities Visited
+Japanese food in Japan is a different experience from Japanese food abroad. The ingredient quality, the obsessive attention to technique at every price point, and the sheer variety — ramen, sushi, soba, tempura, yakitori, izakaya plates, conveyor belt sushi, standing soba bars — make even a brief trip a culinary education.
 
-Not documented in current sources. Based on Jack's stated travel ambitions (Shanghai, Tokyo, Osaka) and his anime/gaming affinity (Akihabara, Harajuku), likely included:
-- Tokyo (most probable)
-- Possibly Osaka or Kyoto
-- Possibly a rural or countryside detour
-
-## Japan in the Writing Archive
-
-Japan-adjacent references in the archive:
-- [[interests/steins-gate]] (set in Akihabara, Tokyo)
-- "Hacking to the Gate" as 2024 song of the year
-- Classical Chinese Grammar in reading list (adjacent East Asian linguistic interest)
-- "The Power to Compete" by Rakuten founder Mikitani
-- Japanese language study (self-rated N3–N4)
-- Electric unicycle (popular in Japan's cycling culture)
-
-## Next Visit
-
-From the March 2025 Jeff catch-up, Jack was targeting Asia - "Shanghai, Tokyo, Osaka" as next travel destinations. The Japan trip may have seeded a longer-term goal of extended stays, with the visa question raised as a practical consideration.
+Jack photographed sweets extensively — a consistent pattern in his travel documentation.
 
 ## Related
-- [[history/georgia-tech-era]]
-- [[writings/annual-review-2024]]
-- [[writings/steins-gate]]
-- [[dreams/japanese-stores-phantom-friends]]
-- [[dreams/great-america]]
-- [[people/jeff]]
+
+- [[history/travel]]
+- [[history/vienna-austria]]
+- [[history/san-francisco]]
+- [[interests/anime]]
+- [[concepts/reading-list]]
+- [[books/billion-dollar-whale]]
 - [[people/jack-luo]]
 
-## Photographs
+## Dating Apps in Japan
 
-![Japanese wagashi (traditional sweets) tasting - matcha mochi with red bean filling, alongside a printed flavor/pairing guide](/assets/photos/japan-sweets.jpg)
+![Japanese dating app — exploring apps while in Japan](/assets/photos/japan-dating-app.jpg)
 
-![Jack signs up for a Japanese dating app - "登録が完了しました！" (Registration complete!)](/assets/photos/japan-dating-app.jpg)
-
-## Photos
-
-![Anime Expo 2022 opening crowd - Jack's early engagement with Japanese culture and anime fandom](/assets/photos/commons/anime-expo-2022.jpg)
-
-![Japan sweets - Japanese confectionery during the trip](/assets/photos/japan-sweets.jpg)
-
-![Japan sweets, second stop](/assets/photos/japan-sweets-2.jpg)
-
-![Japan dating app - the cultural artifact of navigating apps in Japan](/assets/photos/japan-dating-app.jpg)
+Using dating apps while traveling is a common way to meet locals and get a ground-level view of a city's social culture. Japan's dating app ecosystem (Pairs, Bumble, Tinder) reflects the country's social dynamics around dating and introductions.

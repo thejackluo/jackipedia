@@ -1,97 +1,53 @@
-# Georgia Tech Era (2024–present)
-**Category:** History
-**Period:** Fall 2024 – present
-**Last updated:** 2026-04-06
+# Georgia Tech Era
 
-## Overview
+<table class="infobox">
+<caption>Georgia Tech Era</caption>
+<tr><th class="infobox-image" colspan="2">
+<img src="/assets/photos/georgia-tech-football.jpg" alt="Georgia Tech football stadium">
+<span class="infobox-caption">Georgia Tech campus, Atlanta</span>
+</th></tr>
+<tr><th class="infobox-section" colspan="2">Period</th></tr>
+<tr><th class="infobox-label">School</th><td class="infobox-data">Georgia Institute of Technology</td></tr>
+<tr><th class="infobox-label">Location</th><td class="infobox-data">Atlanta, GA</td></tr>
+<tr><th class="infobox-label">Started</th><td class="infobox-data">2024 (transfer)</td></tr>
+<tr><th class="infobox-label">Major</th><td class="infobox-data">Computer Science</td></tr>
+<tr><th class="infobox-label">Status</th><td class="infobox-data">Active</td></tr>
+<tr><th class="infobox-section" colspan="2">Context</th></tr>
+<tr><th class="infobox-label">Prior school</th><td class="infobox-data"><a href="/wiki/history/ucsc-era.html">UCSC</a></td></tr>
+<tr><th class="infobox-label">High school</th><td class="infobox-data"><a href="/wiki/history/cupertino-high-school.html">Cupertino HS</a></td></tr>
+</table>
 
-Georgia Tech (Georgia Institute of Technology) is where Jack transferred in Fall 2024, studying Computer Science with a focus on AI and embedded systems. The transfer was his stated biggest achievement of 2024. Located in Midtown Atlanta, Georgia Tech is consistently ranked among the top CS programs in the United States.
+Jack transferred to **Georgia Institute of Technology** in 2024 — one of the top computer science programs in the US, known particularly for its systems, robotics, and ML curriculum. The transfer represented a deliberate step toward a more technically rigorous environment and better proximity to the East Coast tech and research communities.
 
-## The Transfer
+Georgia Tech is in Atlanta, which has a distinct culture from Bay Area or Boston tech scenes: more enterprise, more logistics and supply chain, more Southern hospitality. The campus is compact and intense.
 
-Jack fought for the transfer to Georgia Tech - the word "fight" is used in his annual review: "transferring to Georgia Tech" as an achievement, with the implicit understanding it wasn't automatic. Transfer admissions to GT's CS program are competitive.
+## Academic Focus
 
-His reasons, documented in the January and February 2025 reflections:
-- Better engineering environment than previous college
-- Proximity to serious students and career opportunities
-- A fresh start socially
-- A chance to not repeat the Cupertino mistake - to recognize exceptional people and actually engage with them
+Georgia Tech's CS program is structured around specialization threads. The most relevant for Jack:
 
-## The Reality vs. the Expectation
+- **Intelligence** — machine learning, AI, perception, robotics
+- **Systems & Architecture** — OS, networks, compilers, distributed systems
+- **People** — HCI, collaborative computing, design
 
-The January–February 2025 entries are a reckoning. Jack transferred expecting environment to fix things. It didn't fix things immediately:
+The Intelligence thread is one of the strongest in the country, with direct connections to Georgia Tech's College of Computing research labs — including work on reinforcement learning, computer vision, and language models.
 
-> "I've been here for a short time, so I haven't found the right circle. But that's the same with Cupertino. Honestly, the Georgia Tech culture might not be the worst. Why would you want ultra cutthroat anyway?"
+## Hacker House
 
-This is a significant admission. Jack's idealization of high-intensity environments starts bending against reality. "Why would you want ultra-cutthroat anyway?" is a question he would not have asked at age 17.
+Jack inspired the vision for a Georgia Tech Hacker House in 2025 — applying the same model as [[history/qhouse-2023]] (SF) and the New York Hacker House 2025. The idea: concentrate motivated builders, compress the timeline of meaningful work, create relationships that outlast the house.
 
-And yet the loneliness persisted:
-> "I don't know many people in this environment and feel a bit lonely."
-> "I felt like there are infinite things to do and am overwhelmed where to start."
+## Atlanta
 
-## Academic Direction
+Atlanta is an underrated city for builders. Cost of living is a fraction of SF or NYC. The MARTA connects to the airport and campus. The food scene (Buford Highway for international food, Ponce City Market, Krog Street Market) is excellent. The city has a growing tech scene built partly around Georgia Tech's alumni network.
 
-In November 2024, Jack met with James Preiss - a PhD robotics advisor who recommended:
-- Understanding robotics as shifting from math models to ML
-- Taking ME (Mechanical Engineering) and EE (Electrical Engineering) courses
-
-This suggests Jack was actively building out his academic trajectory at GT to support AI/robotics work, not just coasting through CS requirements.
-
-## Boston Period (March 2025)
-
-At some point in early-mid 2025, Jack spent time in Boston - possibly as part of an MIT SIPB collaboration, a hacker house, or a startup sprint. The "Boston & The Future" reflection (March 2025, 3 Stars) documents this period. It coincides with his MIT connection (SIPB Arc Project).
-
-## CSA Dynasty and Insomnia Cookies (March 2025)
-
-A 1-Star reflection from March 9, 2025 titled "CSA Dynasty & Insomnia Cookies" suggests involvement with the Chinese Students Association at Georgia Tech ("Dynasty" is a common CSA event name) and a late-night Insomnia Cookies run. This is the only reference to a specific extracurricular social activity at GT.
-
-## The Atlanta Running Context
-
-By early 2026, Jack's fitness log references Atlanta-area running and gym sessions. His running has adapted to the Atlanta terrain (hills, trails) from the flat Cupertino garage circuits of 2021.
-
-## Fin's Dreams and Life Accomplishments (August 2025)
-
-A 2-Star reflection from August 31, 2025 titled "Fin's Dreams & Life Accomplishments" introduces a person named "Fin" - likely a friend or collaborator at Georgia Tech, possibly a housemate. The entry appears to be about conversations Jack had with Fin about big-picture goals and ambitions.
-
-## What Georgia Tech Provided
-
-Despite the early frustrations, the Georgia Tech years were when Jack:
-- Completed the most intensive period of customer discovery (25+ interviews)
-- Assembled the [[projects/agentdex]] team ([[people/arman-mahjoor]], [[people/karthik-jandhyala]])
-- Had his deepest advisor conversations (James Preiss, Kunal Gupta)
-- Wrote the [[philosophy/walk-in-the-park-framework]] framework
-- Published "Vending Machine Dreams" on Medium
-- Launched AgentDex (April 2026)
-- Got involved with MIT SIPB
+The contrast with [[history/ucsc-era]] Santa Cruz is stark: Atlanta is urban, dense, ambitious, hot and humid in summer, with a very different social texture.
 
 ## Related
+
+- [[history/ucsc-era]]
 - [[history/cupertino-high-school]]
-- [[writings/nostalgia-burnout-georgia-tech]]
-- [[writings/escapism-georgia-tech]]
-- [[writings/loneliness-and-sacrifice]]
-- [[people/james-preiss]]
-- [[people/kunal-gupta]]
+- [[history/boston]]
+- [[history/qhouse-2023]]
+- [[history/san-francisco]]
 - [[projects/agentdex]]
+- [[concepts/mit-media-lab]]
 - [[people/jack-luo]]
-
-## Photographs
-
-![Georgia Tech football game at Bobby Dodd Stadium - Calvin Johnson name on the scoreboard, packed crowd](/assets/photos/georgia-tech-football.jpg)
-
-![Jack at a Gather.town virtual office with Alex, January 22, 2026](/assets/photos/gather-town-jan2026.jpg)
-
-![Neon sign at a WeWork or hacker house common area during the startup grind period](/assets/photos/neon-sign.jpg)
-
-## Photos
-
-![Georgia Tech football game, 2025 - vs Virginia Tech](/assets/photos/commons/georgia-tech-football-2025.jpg)
-
-![Georgia Tech Hacker House, 2025 - the builder community Jack helped inspire](/assets/photos/commons/georgia-tech-hacker-house.jpg)
-
-![Georgia Tech Halloween 2025 - Sigma Phi Epsilon](/assets/photos/commons/georgia-tech-halloween.jpg)
-
-![Stealing the T - the T missing from Truist Plaza, November 2025](/assets/photos/commons/stealing-the-t.jpg)
-
-![KFC food truck on campus, November 2025](/assets/photos/commons/kfc-food-truck.jpg)
-
-![Georgia Tech football](/assets/photos/georgia-tech-football.jpg)

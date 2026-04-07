@@ -1,4 +1,16 @@
 # Cupertino High School Era (2019–2022)
+
+
+<table class="infobox">
+<caption>Cupertino High School</caption>
+<tr><th class="infobox-section" colspan="2">Institution</th></tr>
+<tr><th class="infobox-label">Location</th><td class="infobox-data">Cupertino, California</td></tr>
+<tr><th class="infobox-label">Type</th><td class="infobox-data">Public high school</td></tr>
+<tr><th class="infobox-section" colspan="2">Jack's Attendance</th></tr>
+<tr><th class="infobox-label">Period</th><td class="infobox-data">2019–2022</td></tr>
+<tr><th class="infobox-label">Context</th><td class="infobox-data">Silicon Valley, steps from Apple HQ</td></tr>
+</table>
+
 **Category:** History
 **Period:** High school years, approximately 2019–2022
 **Last updated:** 2026-04-06

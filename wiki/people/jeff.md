@@ -1,4 +1,17 @@
 # Jeff (College Friend)
+
+
+<table class="infobox">
+<caption>Jeff</caption>
+<tr><th class="infobox-section" colspan="2">Personal</th></tr>
+<tr><th class="infobox-label">Full name</th><td class="infobox-data">Jefferey A.</td></tr>
+<tr><th class="infobox-label">Location</th><td class="infobox-data">Kansas</td></tr>
+<tr><th class="infobox-label">Field</th><td class="infobox-data">Psychology</td></tr>
+<tr><th class="infobox-section" colspan="2">Relationship to Jack</th></tr>
+<tr><th class="infobox-label">Type</th><td class="infobox-data">Close friend</td></tr>
+<tr><th class="infobox-label">Met</th><td class="infobox-data">College</td></tr>
+</table>
+
 **Type:** Person
 **Relationship to Jack:** Close friend since college
 **Last updated:** 2026-04-06

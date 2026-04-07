@@ -1,42 +1,53 @@
-# Essentialism: The Disciplined Pursuit of Less
-**Author:** Greg McKeown
-**Rating:** 4 Stars
-**Status:** Finished (February 14, 2026)
-**Category:** Personal Development
-**Last updated:** 2026-04-06
+# Essentialism
 
-## Overview
+<table class="infobox">
+<caption>Essentialism</caption>
+<tr><th class="infobox-section" colspan="2">Book details</th></tr>
+<tr><th class="infobox-label">Author</th><td class="infobox-data">Greg McKeown</td></tr>
+<tr><th class="infobox-label">Published</th><td class="infobox-data">2014</td></tr>
+<tr><th class="infobox-label">Genre</th><td class="infobox-data">Personal Development</td></tr>
+<tr><th class="infobox-label">Jack's rating</th><td class="infobox-data">⭐⭐⭐⭐ (4/5)</td></tr>
+<tr><th class="infobox-label">Finished</th><td class="infobox-data">February 14, 2026</td></tr>
+<tr><th class="infobox-section" colspan="2">Key quote</th></tr>
+<tr><th class="infobox-label" colspan="2" style="font-weight:normal; font-style:italic; text-align:center; padding: 8px;">"Far too many people are focused on additive activities."</th></tr>
+</table>
 
-Essentialism is a book about doing less - but doing the right things completely. McKeown argues that most people live their lives by default, saying yes to everything and spreading themselves thin. The Essentialist says no to almost everything in order to make maximum progress on the few things that matter.
+**Essentialism: The Disciplined Pursuit of Less** by Greg McKeown is a personal development book arguing that the key to extraordinary achievement is not doing more but doing the right things — fewer, better, with full commitment. Jack finished it on February 14, 2026, rating it 4 stars.
 
-Jack finished this on February 14, 2026 and gave it 4 stars. His note:
+## Core Argument
 
-> "This book is great because far too many people are focused on additive activities, trying to do as much as possible. This book is about being able to do less."
+McKeown's thesis is that the default mode of modern life is non-essentialism: saying yes to everything, spreading effort thin, allowing the trivial many to crowd out the vital few. The essentialist asks: *What is the most important thing I could be doing with this time?* And then does only that.
 
-## Core Arguments
+The book is structured around three core ideas:
 
-1. **The paradox of success:** Success creates options; options create distraction; distraction creates failure. The more successful you become, the harder it is to stay essential.
+1. **Explore** — Give yourself permission to think and explore before committing
+2. **Eliminate** — Cut out everything that is not essential, including good opportunities
+3. **Execute** — Remove obstacles, create systems that make the essential effortless
 
-2. **Less but better:** Not about doing less for its own sake, but doing fewer things to a higher standard. The Latin root of "essential" - *esse* - means "to be."
+## Key Concepts
 
-3. **The 90% rule:** For every opportunity, ask: "Is this in the top 10% of what I could do?" If not, eliminate it.
+**The power of no** — Every yes is a no to something else. The essentialist says no by default and yes only after deliberate consideration. McKeown's framing: "If it isn't a clear yes, then it's a clear no."
 
-4. **Protect the asset:** Your highest contribution is you. Sleep, recovery, thinking time are not luxuries - they are the asset that enables everything else.
+**Protect the asset** — You are the asset. Sleep, health, reflection time — these are not luxuries but prerequisites for high performance. Burning yourself out is non-essentialist.
 
-5. **Boundaries as freedom:** Saying no to the non-essential is not selfish. It is the prerequisite for doing anything excellent.
+**The 90 percent rule** — When evaluating any opportunity, ask: "Is this in the top 10 percent of things I could be doing?" If not, it's a no.
 
-## Jack's Reading Context
+**Sunk cost trap** — Essentialists don't let past investment justify continued commitment. If something isn't essential now, stop.
 
-February 2026 is a high-pressure month: the customer discovery sprint is in full swing (25+ interviews), the [[projects/agentdex]] team is being assembled, and Jack is 6 weeks from the March 31 launch. Reading Essentialism at this moment is significant.
+## Relevance to Jack
 
-The book directly addresses one of his profiled failure modes: "chases possibility faster than operationalizing consistency - bottleneck is disciplined reduction." Essentialism is the exact prescription for that diagnosis.
+Jack's core failure mode, identified in his own writing, is too many simultaneous fronts — starting new projects before compounding kicks in, following novelty at the expense of depth. Essentialism is a direct counter to this.
 
-## Tension with His Nature
+The book resonated enough to earn 4 stars and finish in under a month. The key quote — "far too many people are focused on additive activities" — appears in his reading notes and reflects the tension between Jack's expansive curiosity and the need for focused execution.
 
-Jack is a generalist who follows energy into interesting directions. Essentialism asks for something close to the opposite. The book probably appeals to his intellectual understanding of his own failure modes more than it resolves them in practice. But the 4-star rating suggests he found it genuinely valuable - not just theoretically correct.
+Pair with [[philosophy/walk-in-the-park-framework]], which addresses the same tension from a more personal angle, and [[books/the-courage-to-be-disliked]], which approaches it through the lens of radical independence from others' expectations.
 
 ## Related
-- [[books/index]]
-- [[writings/walk-in-the-park]]
-- [[writings/escapism-georgia-tech]]
+
+- [[philosophy/walk-in-the-park-framework]]
+- [[books/the-courage-to-be-disliked]]
+- [[books/zero-to-one]]
+- [[books/billion-dollar-whale]]
+- [[concepts/reading-list]]
+- [[projects/agentdex]]
 - [[people/jack-luo]]
