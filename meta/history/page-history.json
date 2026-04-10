@@ -897,6 +897,11 @@
   ],
   "wiki/people/jack-luo": [
     {
+      "commit": "68e5e479",
+      "date": "2026-04-10 17:57:34",
+      "summary": "remove: delete ucsc-era.md and all UCSC/UC Santa Cruz mentions across wiki"
+    },
+    {
       "commit": "ef4ffb80",
       "date": "2026-04-10 13:43:10",
       "summary": "build: auto-update 2026-04-10 13:43 UTC (127 pages)"
@@ -1851,6 +1856,11 @@
   ],
   "wiki/history/salem-bike-trip": [
     {
+      "commit": "68e5e479",
+      "date": "2026-04-10 17:57:34",
+      "summary": "remove: delete ucsc-era.md and all UCSC/UC Santa Cruz mentions across wiki"
+    },
+    {
       "commit": "dfb47af6",
       "date": "2026-04-06 08:48:30",
       "summary": "build: auto-update 2026-04-06 08:48 UTC (131 pages)"
@@ -1905,6 +1915,11 @@
   ],
   "wiki/history/index": [
     {
+      "commit": "68e5e479",
+      "date": "2026-04-10 17:57:34",
+      "summary": "remove: delete ucsc-era.md and all UCSC/UC Santa Cruz mentions across wiki"
+    },
+    {
       "commit": "337e1ee6",
       "date": "2026-04-06 08:47:03",
       "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
@@ -1941,6 +1956,11 @@
     }
   ],
   "wiki/history/chatgpt-senior-year": [
+    {
+      "commit": "68e5e479",
+      "date": "2026-04-10 17:57:34",
+      "summary": "remove: delete ucsc-era.md and all UCSC/UC Santa Cruz mentions across wiki"
+    },
     {
       "commit": "337e1ee6",
       "date": "2026-04-06 08:47:03",
@@ -2000,6 +2020,11 @@
     }
   ],
   "wiki/history/georgia-tech-era": [
+    {
+      "commit": "68e5e479",
+      "date": "2026-04-10 17:57:34",
+      "summary": "remove: delete ucsc-era.md and all UCSC/UC Santa Cruz mentions across wiki"
+    },
     {
       "commit": "e0f2d6d0",
       "date": "2026-04-07 06:14:48",
@@ -2321,33 +2346,6 @@
       "summary": "build: auto-update 2026-04-06 06:29 UTC (104 pages)"
     }
   ],
-  "wiki/history/ucsc-era": [
-    {
-      "commit": "e0f2d6d0",
-      "date": "2026-04-07 06:14:48",
-      "summary": "wiki: photo audit, dedup, infoboxes for people/books/history/projects"
-    },
-    {
-      "commit": "337e1ee6",
-      "date": "2026-04-06 08:47:03",
-      "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
-    },
-    {
-      "commit": "b18535b9",
-      "date": "2026-04-06 07:33:05",
-      "summary": "build: auto-update 2026-04-06 07:33 UTC (128 pages)"
-    },
-    {
-      "commit": "83bb4f5c",
-      "date": "2026-04-06 05:45:43",
-      "summary": "build: auto-update 2026-04-06 05:45 UTC (83 pages)"
-    },
-    {
-      "commit": "f9fee634",
-      "date": "2026-04-06 05:10:30",
-      "summary": "dreams: 6 new pages (vending machine essay, 2022/2023/2025 dreams); history: new section with cupertino, ucsc, georgia tech, japan, index"
-    }
-  ],
   "wiki/history/japan-trip-2024.ja": [
     {
       "commit": "337e1ee6",
@@ -2416,6 +2414,11 @@
   ],
   "wiki/history/san-francisco": [
     {
+      "commit": "68e5e479",
+      "date": "2026-04-10 17:57:34",
+      "summary": "remove: delete ucsc-era.md and all UCSC/UC Santa Cruz mentions across wiki"
+    },
+    {
       "commit": "ef4ffb80",
       "date": "2026-04-10 13:43:10",
       "summary": "build: auto-update 2026-04-10 13:43 UTC (127 pages)"
@@ -2437,6 +2440,11 @@
     }
   ],
   "wiki/interests/mit-blogs": [
+    {
+      "commit": "68e5e479",
+      "date": "2026-04-10 17:57:34",
+      "summary": "remove: delete ucsc-era.md and all UCSC/UC Santa Cruz mentions across wiki"
+    },
     {
       "commit": "337e1ee6",
       "date": "2026-04-06 08:47:03",
@@ -2649,6 +2657,11 @@
   ],
   "wiki/interests/wikimedia-commons": [
     {
+      "commit": "68e5e479",
+      "date": "2026-04-10 17:57:34",
+      "summary": "remove: delete ucsc-era.md and all UCSC/UC Santa Cruz mentions across wiki"
+    },
+    {
       "commit": "337e1ee6",
       "date": "2026-04-06 08:47:03",
       "summary": "build: auto-update 2026-04-06 08:47 UTC (130 pages)"
@@ -2678,6 +2691,11 @@
   ],
   "wiki/interests/city-skylines": [
     {
+      "commit": "68e5e479",
+      "date": "2026-04-10 17:57:34",
+      "summary": "remove: delete ucsc-era.md and all UCSC/UC Santa Cruz mentions across wiki"
+    },
+    {
       "commit": "ef4ffb80",
       "date": "2026-04-10 13:43:10",
       "summary": "build: auto-update 2026-04-10 13:43 UTC (127 pages)"
@@ -2705,6 +2723,11 @@
   ],
   "wiki/interests/anime": [
     {
+      "commit": "68e5e479",
+      "date": "2026-04-10 17:57:34",
+      "summary": "remove: delete ucsc-era.md and all UCSC/UC Santa Cruz mentions across wiki"
+    },
+    {
       "commit": "e0f2d6d0",
       "date": "2026-04-07 06:14:48",
       "summary": "wiki: photo audit, dedup, infoboxes for people/books/history/projects"
@@ -2721,6 +2744,11 @@
     }
   ],
   "wiki/interests/wikipedia-contributions": [
+    {
+      "commit": "68e5e479",
+      "date": "2026-04-10 17:57:34",
+      "summary": "remove: delete ucsc-era.md and all UCSC/UC Santa Cruz mentions across wiki"
+    },
     {
       "commit": "337e1ee6",
       "date": "2026-04-06 08:47:03",
