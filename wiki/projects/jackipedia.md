@@ -22,7 +22,7 @@
 <tr><th class="infobox-label">Source</th><td class="infobox-data">Notion MCP + Git</td></tr>
 </table>
 
-**Jackipedia** is the personal knowledge wiki of [[people/jack-luo]] — a builder, founder, and student based in Oakland, CA. It is structured like Wikipedia but documents a single person's life: ideas, people, projects, writing, books, travel, and philosophy. It is built and maintained by Claw (Jack's [[concepts/notion]]-connected AI assistant) and deployed at [jackipedia.agentschool.io](https://jackipedia.agentschool.io).
+**Jackipedia** is the personal knowledge wiki of [[people/jack-luo]] — a builder, founder, and student based in Cupertino, CA. It is structured like Wikipedia but documents a single person's life: ideas, people, projects, writing, books, travel, and philosophy. It is built and maintained by Claw (Jack's [[concepts/notion]]-connected AI assistant) and deployed at [jackipedia.agentschool.io](https://jackipedia.agentschool.io).
 
 The goal is a permanent, searchable, cross-referenced record — organized by topic rather than by time, where every page links to every relevant other page.
 

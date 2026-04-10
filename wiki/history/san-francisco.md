@@ -10,14 +10,14 @@
 <tr><th class="infobox-label">State</th><td class="infobox-data">California, USA</td></tr>
 <tr><th class="infobox-label">Population</th><td class="infobox-data">~870,000</td></tr>
 <tr><th class="infobox-label">Area</th><td class="infobox-data">49 sq miles (7×7 peninsula)</td></tr>
-<tr><th class="infobox-label">Jack's base</th><td class="infobox-data">Oakland, CA (adjacent)</td></tr>
+<tr><th class="infobox-label">Jack's base</th><td class="infobox-data">Cupertino, CA</td></tr>
 <tr><th class="infobox-section" colspan="2">Jack's connections</th></tr>
 <tr><th class="infobox-label">Hacker house</th><td class="infobox-data"><a href="/wiki/history/qhouse-2023.html">Q House 2023</a></td></tr>
 <tr><th class="infobox-label">School</th><td class="infobox-data"><a href="/wiki/history/ucsc-era.html">UCSC</a> (nearby)</td></tr>
 <tr><th class="infobox-label">Hackathon</th><td class="infobox-data">Berkeley AI Hackathon 2024</td></tr>
 </table>
 
-**San Francisco** is a 49-square-mile peninsula on the western edge of North America, home to approximately 870,000 people, and the symbolic center of the global technology industry. Jack is based in Oakland — directly across the Bay, 15 minutes by BART — and the SF/Oakland area is his primary operational base.
+**San Francisco** is a 49-square-mile peninsula on the western edge of North America, home to approximately 870,000 people, and the symbolic center of the global technology industry. Jack is based in Cupertino, CA and the Bay Area is his primary operational base.
 
 ## Geography and Neighborhoods
 

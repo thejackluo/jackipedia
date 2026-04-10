@@ -17,7 +17,7 @@ Jack's photo archive across trips documents skylines specifically:
 - **New York City** - night city selfie with a friend, Manhattan backdrop, Dec 2025
 - **Miami** - Brickell skyline visible in the Seafood & Martinis neon bar shot; rooftop energy throughout
 - **Atlanta** - Georgia Tech campus on the edge of Midtown; Georgia Tech football stadium with Midtown skyline behind it
-- **Oakland/SF Bay Area** - home base; Bay Area density as the daily context
+- **Cupertino/SF Bay Area** - home base; Bay Area density as the daily context
 - **Japan** - dense urban streetscapes from the 2024 trip
 
 ## Boston vs Bay Area
@@ -41,7 +41,7 @@ A dense skyline is a visual proof that such a world exists.
 | [[history/cupertino-high-school]] / Silicon Valley | Grew up here |
 | Santa Cruz | [[history/ucsc-era]] era |
 | Atlanta | Georgia Tech era |
-| Oakland / Bay Area | Current base |
+| Cupertino / Bay Area | Current base |
 | San Jose | Frequent |
 | Tokyo / Japan | 2024 trip |
 | Miami | 2025 trip |

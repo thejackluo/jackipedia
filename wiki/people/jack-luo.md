@@ -4,13 +4,13 @@
 <caption>Jack Luo</caption>
 <tr><th class="infobox-image" colspan="2">
 <img src="/assets/photos/jack-main.jpg" alt="Jack Luo">
-<span class="infobox-caption">Jack Luo, Oakland CA, 2024</span>
+<span class="infobox-caption">Jack Luo, Cupertino CA, 2024</span>
 </th></tr>
 <tr><th class="infobox-section" colspan="2">Personal</th></tr>
 <tr><th class="infobox-label">Full name</th><td class="infobox-data">Jack Luo</td></tr>
 <tr><th class="infobox-label">Chinese name</th><td class="infobox-data">罗唅章 (Luó Hán Zhāng)</td></tr>
 <tr><th class="infobox-label">Username</th><td class="infobox-data">thejackluo</td></tr>
-<tr><th class="infobox-label">Location</th><td class="infobox-data">Oakland, CA</td></tr>
+<tr><th class="infobox-label">Location</th><td class="infobox-data">Cupertino, CA</td></tr>
 <tr><th class="infobox-section" colspan="2">Education</th></tr>
 <tr><th class="infobox-label">High school</th><td class="infobox-data"><a href="/wiki/history/cupertino-high-school.html">Cupertino High School</a></td></tr>
 <tr><th class="infobox-label">University</th><td class="infobox-data"><a href="/wiki/history/ucsc-era.html">UCSC</a> → <a href="/wiki/history/georgia-tech-era.html">Georgia Tech</a></td></tr>
@@ -24,7 +24,7 @@
 <tr><th class="infobox-label">Notion</th><td class="infobox-data"><a href="https://thejackluo.notion.site">thejackluo.notion.site</a></td></tr>
 </table>
 
-**Jack Luo** (username: thejackluo) is a builder, writer, and student working at the intersection of AI agents, automation, and personal software. He is the founder of [[projects/agentdex]] and the operator of [[projects/agent-school]]. Based in Oakland, CA.
+**Jack Luo** (username: thejackluo) is a builder, writer, and student working at the intersection of AI agents, automation, and personal software. He is the founder of [[projects/agentdex]] and the operator of [[projects/agent-school]]. Based in Cupertino, CA.
 
 ## Overview
 
