@@ -897,6 +897,11 @@
   ],
   "wiki/people/jack-luo": [
     {
+      "commit": "ef4ffb80",
+      "date": "2026-04-10 13:43:10",
+      "summary": "build: auto-update 2026-04-10 13:43 UTC (127 pages)"
+    },
+    {
       "commit": "e0f2d6d0",
       "date": "2026-04-07 06:14:48",
       "summary": "wiki: photo audit, dedup, infoboxes for people/books/history/projects"
@@ -2411,6 +2416,11 @@
   ],
   "wiki/history/san-francisco": [
     {
+      "commit": "ef4ffb80",
+      "date": "2026-04-10 13:43:10",
+      "summary": "build: auto-update 2026-04-10 13:43 UTC (127 pages)"
+    },
+    {
       "commit": "e0f2d6d0",
       "date": "2026-04-07 06:14:48",
       "summary": "wiki: photo audit, dedup, infoboxes for people/books/history/projects"
@@ -2667,6 +2677,11 @@
     }
   ],
   "wiki/interests/city-skylines": [
+    {
+      "commit": "ef4ffb80",
+      "date": "2026-04-10 13:43:10",
+      "summary": "build: auto-update 2026-04-10 13:43 UTC (127 pages)"
+    },
     {
       "commit": "337e1ee6",
       "date": "2026-04-06 08:47:03",
@@ -3010,6 +3025,11 @@
     }
   ],
   "wiki/projects/jackipedia": [
+    {
+      "commit": "ef4ffb80",
+      "date": "2026-04-10 13:43:10",
+      "summary": "build: auto-update 2026-04-10 13:43 UTC (127 pages)"
+    },
     {
       "commit": "e0f2d6d0",
       "date": "2026-04-07 06:14:48",
