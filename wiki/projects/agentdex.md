@@ -47,7 +47,6 @@
 
 ![Agentdex commit analysis - Jack at 1am still building](/assets/photos/agentdex-commit-analysis.jpg)
 
-A late-night AI analysis of the agentdex-v1 commit log, March 2026. The "Jessica Incident" refers to a persona Jack added to the codebase at 10pm, deleted at 1:35am after an existential crisis, then restored 21 minutes later. She's still in the repo today.
 
 ![OpenCode session tracking March dev log](/assets/photos/opencode-dev-log.jpg)
 

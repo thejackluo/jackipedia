@@ -2,7 +2,7 @@
 
 **Category:** Concepts / Ecosystem
 **Website:** ycombinator.com
-**Founded:** 2005 by Paul Graham, Jessica Livingston, Trevor Blackwell, Robert Morris
+**Founded:** 2005 by Paul Graham, Trevor Blackwell, Robert Morris, and others
 **Summary:** The world's most influential startup accelerator - and its role in Jack's ecosystem
 **Last updated:** 2026-04-06
 
