@@ -39,7 +39,6 @@ A dense skyline is a visual proof that such a world exists.
 | City | Context |
 |------|---------|
 | [[history/cupertino-high-school]] / Silicon Valley | Grew up here |
-| Santa Cruz | [[history/ucsc-era]] era |
 | Atlanta | Georgia Tech era |
 | Cupertino / Bay Area | Current base |
 | San Jose | Frequent |

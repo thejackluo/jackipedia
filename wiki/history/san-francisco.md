@@ -13,7 +13,6 @@
 <tr><th class="infobox-label">Jack's base</th><td class="infobox-data">Cupertino, CA</td></tr>
 <tr><th class="infobox-section" colspan="2">Jack's connections</th></tr>
 <tr><th class="infobox-label">Hacker house</th><td class="infobox-data"><a href="/wiki/history/qhouse-2023.html">Q House 2023</a></td></tr>
-<tr><th class="infobox-label">School</th><td class="infobox-data"><a href="/wiki/history/ucsc-era.html">UCSC</a> (nearby)</td></tr>
 <tr><th class="infobox-label">Hackathon</th><td class="infobox-data">Berkeley AI Hackathon 2024</td></tr>
 </table>
 
@@ -55,7 +54,6 @@ Jack co-organized [[history/qhouse-2023]] in San Francisco in 2023 — a hacker 
 - [[history/boston]]
 - [[history/qhouse-2023]]
 - [[history/georgia-tech-era]]
-- [[history/ucsc-era]]
 - [[history/travel]]
 - [[history/vienna-austria]]
 - [[concepts/burning-man]]

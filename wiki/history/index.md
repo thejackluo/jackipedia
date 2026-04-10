@@ -37,7 +37,7 @@ Jack has lived in or spent significant time in:
 
 ## The Arc
 
-High school in Cupertino → [[history/ucsc-era]] (wrong environment) → transfer fight → Georgia Tech → Boston/MIT connections → AgentDex launch → ongoing.
+High school in Cupertino → Georgia Tech → Boston/MIT connections → AgentDex launch → ongoing.
 
 The through-line is a person trying to find or build the right environment while building the internal capacity to not need it as desperately.
 

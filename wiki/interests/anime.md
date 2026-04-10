@@ -51,7 +51,6 @@ Jack's [[history/japan-trip-2024]] deepened his engagement with the medium's cul
 - [[history/cupertino-high-school]]
 - [[history/vienna-austria]]
 - [[concepts/reading-list]]
-- [[history/ucsc-era]]
 - [[interests/index]]
 - [[people/jack-luo]]
 

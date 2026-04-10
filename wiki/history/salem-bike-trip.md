@@ -25,7 +25,7 @@ Either way, Salem's arrival is worth it: the city's historic core is compact, wa
 
 The "Facebook Bike Trip" label suggests this was a group ride organized through a Facebook group or event - the pre-Discord, pre-group-chat era of social coordination. Facebook Events were the primary tool for organizing group activities among friend groups from roughly 2010 through 2018. By the early 2020s, most coordination had moved to group chats.
 
-If this trip was Facebook-organized, it likely predates 2022 - possibly a high school or early college era adventure from the [[history/cupertino-high-school]] or early [[history/ucsc-era]] period. Or it could be a Boston-era trip where the group used a Facebook group that already existed.
+If this trip was Facebook-organized, it likely predates 2022 - possibly a high school or early college era adventure from the [[history/cupertino-high-school]] period. Or it could be a Boston-era trip where the group used a Facebook group that already existed.
 
 ## Salem
 

@@ -17,7 +17,7 @@ Jack has uploaded 23 images to Wikimedia Commons as Jack145945, all released und
 
 ![Anime Expo 2022 opening crowd](/assets/photos/commons/anime-expo-2022.jpg)
 
-The opening crowd at Anime Expo 2022, Los Angeles. Uploaded November 2022. This was one of Jack's earliest Commons contributions - during the [[history/ucsc-era]] era, before the [[history/georgia-tech-era]] transfer. Anime Expo is the largest anime convention in North America; this photo captures the moment the doors opened.
+The opening crowd at Anime Expo 2022, Los Angeles. Uploaded November 2022. This was one of Jack's earliest Commons contributions - before the [[history/georgia-tech-era]] transfer. Anime Expo is the largest anime convention in North America; this photo captures the moment the doors opened.
 
 ### Michelin Star Dish - Gucci Osteria, Beverly Hills (Jun 2022)
 

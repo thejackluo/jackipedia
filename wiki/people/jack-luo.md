@@ -13,7 +13,7 @@
 <tr><th class="infobox-label">Location</th><td class="infobox-data">Cupertino, CA</td></tr>
 <tr><th class="infobox-section" colspan="2">Education</th></tr>
 <tr><th class="infobox-label">High school</th><td class="infobox-data"><a href="/wiki/history/cupertino-high-school.html">Cupertino High School</a></td></tr>
-<tr><th class="infobox-label">University</th><td class="infobox-data"><a href="/wiki/history/ucsc-era.html">UCSC</a> → <a href="/wiki/history/georgia-tech-era.html">Georgia Tech</a></td></tr>
+<tr><th class="infobox-label">University</th><td class="infobox-data"><a href="/wiki/history/georgia-tech-era.html">Georgia Tech</a></td></tr>
 <tr><th class="infobox-section" colspan="2">Work</th></tr>
 <tr><th class="infobox-label">Main project</th><td class="infobox-data"><a href="/wiki/projects/agentdex.html">AgentDex</a></td></tr>
 <tr><th class="infobox-label">Organization</th><td class="infobox-data"><a href="/wiki/projects/agent-school.html">Agent School</a></td></tr>
@@ -33,7 +33,6 @@ Jack describes himself as an "AI-centric full-stack engineer based in the Bay Ar
 ## Education
 
 - **[[history/cupertino-high-school]]** — grew up in Cupertino, steps from Apple HQ
-- **[[history/ucsc-era]]** — University of California, Santa Cruz
 - **[[history/georgia-tech-era]]** — Georgia Institute of Technology, CS, transferred 2024. Rated "biggest achievement of 2024" in his annual review.
 - **[[history/mit-era]]** — MIT-affiliated via SIPB Arc Project and [[projects/agent-school]] (room E38-379)
 

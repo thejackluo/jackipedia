@@ -1,7 +1,7 @@
 # ChatGPT, Senior Year, and Skipping Class
 
 **Category:** History / Concepts
-**Period:** 2022–2023 (Senior year of high school / early UCSC)
+**Period:** 2022–2023 (Senior year of high school)
 **Summary:** How Jack used ChatGPT and GPT-2.5 during senior year - and what he did with the time he got back
 **Last updated:** 2026-04-06
 
@@ -46,7 +46,6 @@ Jack's writing practice - 360+ entries since at least 2021 - continued through a
 
 The willingness to skip class when class isn't the highest-value use of time is consistent across the archive:
 
-- UC Santa Cruz felt like the wrong environment → transferred
 - [[history/georgia-tech-era]] wasn't moving fast enough → moved to Boston, built [[projects/agentdex]]
 - Standard accelerator timelines too slow → applied to [[concepts/z-fellows]], a16z Speedrun
 
@@ -55,7 +54,6 @@ The willingness to skip class when class isn't the highest-value use of time is 
 ## Related
 
 - [[history/cupertino-high-school]]
-- [[history/ucsc-era]]
 - [[concepts/experiment-log]]
 - [[concepts/z-fellows]]
 - [[people/jack-luo]]

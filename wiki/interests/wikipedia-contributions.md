@@ -12,10 +12,9 @@ Jack has edited Wikipedia as **Jack145945** since at least 2019, accumulating 10
 
 ## Editing Timeline
 
-### 2023 - UCSC Era
+### 2023
 First documented burst: February 25, 2023.
 
-- **UC Santa Cruz** (+712, +565, +340 chars) - multiple sessions expanding the UCSC article. Jack was at UCSC and clearly felt the Wikipedia article didn't capture the school accurately. This is characteristic: edit the thing that doesn't represent you well.
 - **Prom** (−451, reverted) - July 2023, attempted to trim the Prom article. Reverted.
 - **Friendship** (−2, reverted) - July 2023, small edit, reverted.
 - **Pho** (−5, reverted) - July 2023.
@@ -59,14 +58,13 @@ This session is remarkable. Jack substantially expanded the Georgia Tech article
 
 ### Early 2026
 - **Cold-weather biking** (Feb 20, 2026) - −31 edit, trimming his own earlier addition.
-- **UC Santa Cruz** (Mar 30, 2025) - +74, reverted.
 - **Ratatouille** (Feb 8, 2026) - −5, reverted. And another Ratatouille edit in Dec 2025 (+72) also reverted. Jack keeps trying to edit the Ratatouille article and keeps getting reverted.
 
 ## Patterns
 
-**Articles about his own context** - UCSC, Georgia Tech, CES, UCSB - get the biggest and most careful edits. These are the articles where he has firsthand knowledge and genuine frustration with inaccuracy.
+**Articles about his own context** - Georgia Tech, CES, UCSB - get the biggest and most careful edits. These are the articles where he has firsthand knowledge and genuine frustration with inaccuracy.
 
-**Repeated reverts on the same articles** - Prom (3 attempts), Ratatouille (2 attempts), Wharton (reverted same day), UCSC (reverted). Jack makes edits that other editors disagree with, gets reverted, and sometimes tries again. This is either stubbornness or genuine confidence in his additions - probably both.
+**Repeated reverts on the same articles** - Prom (3 attempts), Ratatouille (2 attempts), Wharton (reverted same day). Jack makes edits that other editors disagree with, gets reverted, and sometimes tries again. This is either stubbornness or genuine confidence in his additions - probably both.
 
 **The 3am app sprint** - Five articles in three minutes via the iOS app's suggested-edit feature. This is the "just one more" mode that also shows up in [[interests/factorio]] and running: once the feedback loop starts, you don't stop until something external interrupts it.
 
@@ -79,7 +77,6 @@ Three separate editing sessions across 14 months. Three reverts. Whatever Jack t
 ## Related
 
 - [[history/georgia-tech-era]]
-- [[history/ucsc-era]]
 - [[projects/ces-2025]]
 - [[interests/city-skylines]]
 - [[people/jack-luo]]
@@ -90,7 +87,7 @@ Jack's Wikipedia user page (User:Jack145945) reads like a manifesto:
 
 > "Hi, I am Jack. I am a computer science student who cares a lot about how knowledge is organized, explained, and preserved. Most of my edits come from a simple instinct: when I read something confusing, unsourced, or structurally messy, I want to make it clearer, more reliable, and easier for future readers to understand."
 
-He lists his focus areas: technology, universities, urban planning, cities. The user page accurately predicts the contribution log - Georgia Tech, UCSC, UCSB, CES, Humanoid robot, Nvidia GTC, Cold-weather biking.
+He lists his focus areas: technology, universities, urban planning, cities. The user page accurately predicts the contribution log - Georgia Tech, UCSB, CES, Humanoid robot, Nvidia GTC, Cold-weather biking.
 
 The userboxes:
 - **100+ edits** on Wikipedia
