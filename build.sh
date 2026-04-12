@@ -244,7 +244,7 @@ def build_main_page(nav, all_history, page_count=0):
         '... that Jack\'s <a href="/wiki/philosophy/walk-in-the-park-framework.html">Walk in the Park philosophy</a> was synthesized entirely during a single walk in February 2025?',
         '... that Jack identified his biggest failure of 2024 as "not pursuing side projects hard enough" in his <a href="/wiki/concepts/writing-archive.html">annual review</a>?',
         '... that <a href="/wiki/projects/agentdex.html">AgentDex</a> was built with a BMAD story workflow and has over 6 epics of structured product work?',
-        '... that Jack attended <a href="/wiki/history/cupertino-high-school.html">Cupertino High School</a> — steps from Apple HQ — before studying at <a href="/wiki/history/ucsc-era.html">UCSC</a> and <a href="/wiki/history/georgia-tech-era.html">Georgia Tech</a>?',
+        '... that Jack attended <a href="/wiki/history/cupertino-high-school.html">Cupertino High School</a> — steps from Apple HQ — before studying at <a href="/wiki/history/georgia-tech-era.html">Georgia Tech</a>?',
         '... that Jack performed in a choir on a trip to <a href="/wiki/history/vienna-austria.html">Vienna</a> — the city where Mozart, Beethoven, and Brahms all spent their careers?',
         '... that Jack is reading <a href="/wiki/books/billion-dollar-whale.html">Billion Dollar Whale</a> — calling Jho Low "one of the most interesting guys I have had the honor to read"?',
         '... that <a href="/wiki/history/qhouse-2023.html">Q House</a> was a hacker house Jack co-organized in San Francisco in 2023, where his working relationship with <a href="/wiki/people/kevin-zhang.html">Kevin Zhang</a> solidified?',
@@ -416,7 +416,7 @@ def build_main_page(nav, all_history, page_count=0):
 <div class="mp-title">Welcome to Jackipedia</div>
 
 <div class="mp-welcome">
-  <b>Jackipedia</b> is the personal knowledge wiki of <a href="/wiki/people/jack-luo.html">Jack Luo</a> — a builder, founder, and student based in Oakland, CA.
+  <b>Jackipedia</b> is the personal knowledge wiki of <a href="/wiki/people/jack-luo.html">Jack Luo</a> — a builder, founder, and student based in Cupertino, CA.
   This wiki is compiled from five years of personal writing, meeting logs, books, and reflections.
   It currently contains <b>{page_count} articles</b> drawn from <b>360+ source entries</b> spanning 2020–2026.
   Maintained by <a href="https://openclaw.ai">Claw</a> via Notion MCP.
