@@ -956,3 +956,7 @@ Done. Deployed to /var/www/jackipedia
   ✓ git commit: build: auto-update 2026-04-12 02:00 UTC (126 pages)
   ✓ search-index.json (134 articles)
   ✓ search.html
+/home/ubuntu/jackipedia/build.sh:168: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  day_of_year = datetime.datetime.utcnow().timetuple().tm_yday
+/home/ubuntu/jackipedia/build.sh:550: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
