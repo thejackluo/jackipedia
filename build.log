@@ -4481,3 +4481,174 @@ OSError: [Errno 28] No space left on device
   day_of_year = datetime.datetime.utcnow().timetuple().tm_yday
 /home/ubuntu/jackipedia/build.sh:550: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+  ✓ log.md
+  ✓ wiki/dreams/jolie-austin-cool-place.md
+  ✓ wiki/dreams/great-america.md
+  ✓ wiki/dreams/cloud-code-hierarchy.md
+  ✓ wiki/dreams/vending-machine-2023.md
+  ✓ wiki/dreams/index.md
+  ✓ wiki/dreams/japanese-stores-phantom-friends.md
+  ✓ wiki/dreams/roguelike-card-game.md
+  ✓ wiki/dreams/vending-machine-dreams.md
+  ✓ wiki/fitness/running-project-2021.md
+  ✓ wiki/fitness/weight-loss-tracker.md
+  ✓ wiki/fitness/index.md
+  ✓ wiki/fitness/brazilian-jiu-jitsu.md
+  ✓ wiki/writings/ai-society-human-evolution.md
+  ✓ wiki/writings/mit-operation-frosh.md
+  ✓ wiki/writings/college-ocean-town.md
+  ✓ wiki/writings/steins-gate.md
+  ✓ wiki/writings/social-reflection-2022.md
+  ✓ wiki/writings/annual-review-2024.md
+  ✓ wiki/writings/loneliness-and-sacrifice.md
+  ✓ wiki/writings/boston-and-the-future.md
+  ✓ wiki/writings/year-end-2021-2022.md
+  ✓ wiki/writings/life-philosophy-worldview.md
+  ✓ wiki/writings/relationships-trust-growth.md
+  ✓ wiki/writings/ces-2026-nvidia-keynote.md
+  ✓ wiki/writings/fear-connection-perfectionism.md
+  ✓ wiki/writings/vivarium.ja.md
+  ✓ wiki/writings/nostalgia-burnout-georgia-tech.md
+  ✓ wiki/writings/escapism-georgia-tech.md
+  ✓ wiki/writings/treehacks-2025.md
+  ✓ wiki/writings/browser-agents-drl.md
+  ✓ wiki/writings/philmont-2019.md
+  ✓ wiki/writings/dear-dear-jack.md
+  ✓ wiki/writings/limbinal.md
+  ✓ wiki/writings/annual-review-2024.zh.md
+  ✓ wiki/writings/vivarium.md
+  ✓ wiki/writings/walk-in-the-park.md
+  ✓ wiki/writings/society-status-authenticity.md
+  ✓ wiki/writings/motivation-self-discipline-2021.md
+  ✓ wiki/writings/boston-and-the-future.zh.md
+  ✓ wiki/writings/biggest-unsolved-question.md
+  ✓ wiki/people/james-preiss.md
+  ✓ wiki/people/hongyin.md
+  ✓ wiki/people/meetings-index.md
+  ✓ wiki/people/index.md
+  ✓ wiki/people/kunal-gupta.md
+  ✓ wiki/people/kevin-zhang.md
+  ✓ wiki/people/karthik-jandhyala.md
+  ✓ wiki/people/jack-luo.md
+  ✓ wiki/people/jeff.md
+  ✓ wiki/people/arman-mahjoor.md
+  ✓ wiki/people/jack-luo.zh.md
+  ✓ wiki/concepts/agent-x-launch.md
+  ✓ wiki/concepts/ai-interactive-storytelling.md
+  ✓ wiki/concepts/prod-so.md
+  ✓ wiki/concepts/granola.md
+  ✓ wiki/concepts/z-fellows.md
+  ✓ wiki/concepts/emotional-intelligence-ai.md
+  ✓ wiki/concepts/hackathon-circuit.md
+  ✓ wiki/concepts/experiment-log.md
+  ✓ wiki/concepts/linear.md
+  ✓ wiki/concepts/jotion.md
+  ✓ wiki/concepts/openclaw-news.md
+  ✓ wiki/concepts/investor-pitch-mechanics.md
+  ✓ wiki/concepts/notion.md
+  ✓ wiki/concepts/openclaw.md
+  ✓ wiki/concepts/reading-list.md
+  ✓ wiki/concepts/burning-man.md
+  ✓ wiki/concepts/mit-media-lab.md
+  ✓ wiki/concepts/elon-musk-hack-club.md
+  ✓ wiki/concepts/entp-mbti.md
+  ✓ wiki/concepts/deso.md
+  ✓ wiki/concepts/writing-archive.md
+  ✓ wiki/concepts/buildspace.md
+  ✓ wiki/concepts/wikipedia-editing.md
+  ✓ wiki/concepts/y-combinator.md
+  ✓ wiki/concepts/figma.md
+  ✓ wiki/concepts/idea-vault.md
+  ✓ wiki/books/essentialism.md
+  ✓ wiki/books/three-body-problem.md
+  ✓ wiki/books/agents-in-the-long-game.md
+  ✓ wiki/books/why-nations-fail.md
+  ✓ wiki/books/the-courage-to-be-disliked.md
+  ✓ wiki/books/three-body-problem.zh.md
+  ✓ wiki/books/design-of-everyday-things.md
+  ✓ wiki/books/three-body-problem.ja.md
+  ✓ wiki/books/index.md
+  ✓ wiki/books/billion-dollar-whale.md
+  ✓ wiki/books/goodreads.md
+  ✓ wiki/books/life-30.md
+  ✓ wiki/books/zero-to-one.md
+  ✓ wiki/books/power-why-some-people.md
+  ✓ wiki/history/boston.md
+  ✓ wiki/history/vienna-austria.md
+  ✓ wiki/history/mit-era.md
+  ✓ wiki/history/salem-bike-trip.md
+  ✓ wiki/history/miami.md
+  ✓ wiki/history/index.md
+  ✓ wiki/history/chatgpt-senior-year.md
+  ✓ wiki/history/wework-nomadic-period.md
+  ✓ wiki/history/georgia-tech-era.md
+  ✓ wiki/history/qhouse-2023.md
+  ✓ wiki/history/japan-trip-2024.md
+  ✓ wiki/history/ces.md
+  ✓ wiki/history/new-york-city.md
+  ✓ wiki/history/treehacks-2025.md
+  ✓ wiki/history/philmont-2019.md
+  ✓ wiki/history/travel.md
+  ✓ wiki/history/japan-trip-2024.zh.md
+  ✓ wiki/history/frontier-gowild.md
+  ✓ wiki/history/china.md
+  ✓ wiki/history/japan-trip-2024.ja.md
+  ✓ wiki/history/cupertino-high-school.md
+  ✓ wiki/history/internapalooza.md
+  ✓ wiki/history/san-francisco.md
+  ✓ wiki/interests/mit-blogs.md
+  ✓ wiki/interests/electric-unicycle.md
+  ✓ wiki/interests/tuvalu.md
+  ✓ wiki/interests/north-korea-food.md
+  ✓ wiki/interests/steins-gate.md
+  ✓ wiki/interests/japanese-language.md
+  ✓ wiki/interests/three-countries-tiktok.md
+  ✓ wiki/interests/world-records.md
+  ✓ wiki/interests/factorio.md
+  ✓ wiki/interests/index.md
+  ✓ wiki/interests/cave-diving.md
+  ✓ wiki/interests/omegle.md
+  ✓ wiki/interests/soundcloud.md
+  ✓ wiki/interests/wikimedia-commons.md
+  ✓ wiki/interests/blue-prince.md
+  ✓ wiki/interests/city-skylines.md
+  ✓ wiki/interests/anime.md
+  ✓ wiki/interests/wikipedia-contributions.md
+  ✓ wiki/music/soundcloud.ja.md
+  ✓ wiki/music/soundcloud.md
+  ✓ wiki/philosophy/walk-in-the-park-framework.md
+  ✓ wiki/philosophy/effective-altruism.md
+  ✓ wiki/projects/ces-2025.zh.md
+  ✓ wiki/projects/mira.md
+  ✓ wiki/projects/ces-2025.md
+  ✓ wiki/projects/index.md
+  ✓ wiki/projects/agent-school.md
+  ✓ wiki/projects/github-projects.md
+  ✓ wiki/projects/agentdex.md
+  ✓ wiki/projects/jackipedia.md
+  ✓ log.md
+  ✓ index.html (main page)
+  ✓ meta/history.html
+  ✓ random-articles.js (124 articles)
+  ✓ assets/
+
+Done. Deployed to /var/www/jackipedia
+  ✓ git commit: build: auto-update 2026-05-08 02:00 UTC (126 pages)
+  ✓ search-index.json (134 articles)
+  ✓ search.html
+Traceback (most recent call last):
+  File "/home/ubuntu/jackipedia/build.sh", line 497, in <module>
+    build_page(os.path.join(root, fname), nav, all_history)
+  File "/home/ubuntu/jackipedia/build.sh", line 159, in build_page
+    f.write(html)
+OSError: [Errno 28] No space left on device
+Traceback (most recent call last):
+  File "/home/ubuntu/jackipedia/build.sh", line 497, in <module>
+    build_page(os.path.join(root, fname), nav, all_history)
+  File "/home/ubuntu/jackipedia/build.sh", line 159, in build_page
+    f.write(html)
+OSError: [Errno 28] No space left on device
+/home/ubuntu/jackipedia/build.sh:168: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  day_of_year = datetime.datetime.utcnow().timetuple().tm_yday
+/home/ubuntu/jackipedia/build.sh:550: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
