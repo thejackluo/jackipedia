@@ -560,38 +560,46 @@ else:
     print(f"  ✓ git commit: {commit_msg}")
 
 # ── Search index + search page ────────────────────────────────────────────────
-import json as _json
+import json as _json, re as _re2
+
+def _strip_wiki(s):
+    """Strip [[wikilinks]] and other markdown noise from a string."""
+    s = _re2.sub(r'\[\[([^\]|]+)(?:\|([^\]]+))?\]\]', lambda m: m.group(2) or m.group(1).split('/')[-1].replace('-',' ').title(), s)
+    s = _re2.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', s)  # [text](url) → text
+    s = _re2.sub(r'[*_`#|]', ' ', s)
+    s = _re2.sub(r'\s+', ' ', s).strip()
+    return s
 
 _index = []
 for _root, _dirs, _files in os.walk(WIKI_DIR):
     for _f in sorted(_files):
         if not _f.endswith(".md") or ".zh." in _f or ".ja." in _f:
             continue
-        # Skip root-level non-wiki files
         _path = os.path.join(_root, _f)
         _rel  = os.path.relpath(_path, WIKI_DIR).replace(".md", "")
         if "/" not in _rel:
-            continue  # skip AGENTS.md, build.sh, etc at root level
+            continue
         _rel  = os.path.relpath(_path, WIKI_DIR).replace(".md", "")
-        # _rel is relative to WIKI_DIR (e.g. "wiki/dreams/foo" or "log")
-        # Strip leading "wiki/" if present to avoid double prefix
         _rel_stripped = _rel[5:] if _rel.startswith("wiki/") else _rel
         _url  = f"/{_rel}.html"
         with open(_path) as _fh:
             _raw = _fh.read()
         _title_m = re.search(r'^#\s+(.+)', _raw, re.MULTILINE)
-        _title = _title_m.group(1).strip() if _title_m else _rel.split("/")[-1].replace("-"," ").title()
+        _title_raw = _title_m.group(1).strip() if _title_m else _rel.split("/")[-1].replace("-"," ").title()
+        _title = _strip_wiki(_title_raw)  # Clean wikilinks from title
         _summ_m = re.search(r'\*\*Summary:\*\*\s*(.+)', _raw)
         if _summ_m:
-            _summary = _summ_m.group(1).strip()
+            _summary = _strip_wiki(_summ_m.group(1).strip())
         else:
-            _lines = [l.strip() for l in _raw.split("\n") if l.strip() and not l.startswith("#") and not l.startswith("**") and not l.startswith("|") and not l.startswith("-")]
-            _summary = _lines[0][:160] if _lines else ""
-        _body = re.sub(r'\[\[([^\]|]+)(?:\|[^\]]+)?\]\]', r'\1', _raw)
-        _body = re.sub(r'\*+|#+|`+|\|', ' ', _body)
-        _body = re.sub(r'\s+', ' ', _body).strip()[:2000]
+            _lines = [l.strip() for l in _raw.split("\n") if l.strip() and not l.startswith("#") and not l.startswith("**") and not l.startswith("|") and not l.startswith("-") and not l.startswith("!")]
+            _summary = _strip_wiki(_lines[0])[:200] if _lines else ""
+        # Full body — strip markup, no length limit for indexing
+        _body = _strip_wiki(_raw)
         _cat = _rel_stripped.split("/")[0]
-        _index.append({"title": _title, "url": _url, "summary": _summary, "body": _body, "cat": _cat})
+        # Extract tags from frontmatter if present
+        _tags_m = re.search(r'^tags:\s*\[([^\]]+)\]', _raw, re.MULTILINE)
+        _tags = _tags_m.group(1).replace('"','').replace("'",'').strip() if _tags_m else ""
+        _index.append({"title": _title, "url": _url, "summary": _summary, "body": _body[:3000], "cat": _cat, "tags": _tags})
 
 with open(f"{OUT_DIR}/search-index.json", "w") as _fh:
     _json.dump(_index, _fh)

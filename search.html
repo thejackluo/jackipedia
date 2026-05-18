@@ -252,13 +252,29 @@ async function loadIndex() {
   return INDEX;
 }
 
+function countOccurrences(str, term) {
+  var count = 0, pos = 0;
+  while ((pos = str.indexOf(term, pos)) !== -1) { count++; pos += term.length; }
+  return count;
+}
+
 function highlight(text, terms) {
-  var out = (text || '').slice(0, 220);
+  // Find the best snippet — the region with highest density of term matches
+  var full = (text || '');
+  var best_pos = 0, best_score = 0;
+  var lower = full.toLowerCase();
+  for (var i = 0; i < Math.max(1, full.length - 200); i += 40) {
+    var chunk = lower.slice(i, i + 200);
+    var s = terms.reduce(function(acc, t) { return acc + countOccurrences(chunk, t); }, 0);
+    if (s > best_score) { best_score = s; best_pos = i; }
+  }
+  var snippet = full.slice(best_pos, best_pos + 240);
+  if (best_pos > 0) snippet = '…' + snippet;
   terms.forEach(function(t) {
     var re = new RegExp('(' + t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
-    out = out.replace(re, '<mark>$1</mark>');
+    snippet = snippet.replace(re, '<mark>$1</mark>');
   });
-  return out;
+  return snippet;
 }
 
 async function runSearch(query) {
@@ -267,24 +283,44 @@ async function runSearch(query) {
   if (!query.trim()) { resultsEl.innerHTML = ''; countEl.textContent = ''; return; }
 
   var idx = await loadIndex();
-  var terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
+  var queryL = query.toLowerCase().trim();
+  var terms = queryL.split(/\s+/).filter(Boolean);
 
   var scored = [];
   for (var i = 0; i < idx.length; i++) {
     var item = idx[i];
     var titleL = item.title.toLowerCase();
-    var bodyL = ((item.summary || '') + ' ' + (item.body || '')).toLowerCase();
+    var summaryL = (item.summary || '').toLowerCase();
+    var bodyL = (item.body || '').toLowerCase();
+    var tagsL = (item.tags || '').toLowerCase();
     var score = 0;
     var allMatch = true;
+
     for (var j = 0; j < terms.length; j++) {
       var t = terms[j];
-      var inTitle = titleL.includes(t);
-      var inBody = bodyL.includes(t);
-      if (!inTitle && !inBody) { allMatch = false; break; }
-      if (inTitle) score += 10;
-      if (inBody) score += 1;
+      var inTitle   = titleL.includes(t);
+      var inSummary = summaryL.includes(t);
+      var inBody    = bodyL.includes(t);
+      var inTags    = tagsL.includes(t);
+      if (!inTitle && !inSummary && !inBody && !inTags) { allMatch = false; break; }
+      // Weighted scoring
+      if (inTitle)   score += 20 + countOccurrences(titleL, t) * 5;
+      if (inSummary) score += 8  + countOccurrences(summaryL, t) * 2;
+      if (inBody)    score += 1  + countOccurrences(bodyL, t);
+      if (inTags)    score += 15;
     }
-    if (allMatch) scored.push({ item: item, score: score });
+    if (!allMatch) continue;
+
+    // Exact phrase bonus
+    if (terms.length > 1 && titleL.includes(queryL))   score += 50;
+    if (terms.length > 1 && summaryL.includes(queryL)) score += 20;
+    if (terms.length > 1 && bodyL.includes(queryL))    score += 10;
+
+    // Category relevance boost — people/projects/history rank higher for proper nouns
+    var firstTermCap = query.trim()[0] === query.trim()[0].toUpperCase();
+    if (firstTermCap && ['people','projects','history'].includes(item.cat)) score += 5;
+
+    scored.push({ item: item, score: score });
   }
   scored.sort(function(a, b) { return b.score - a.score; });
 
@@ -299,12 +335,11 @@ async function runSearch(query) {
 
   resultsEl.innerHTML = scored.slice(0, 30).map(function(s) {
     var item = s.item;
-    // Fix URL — strip leading /wiki/ prefix duplication if any
-    var url = item.url;
+    var snippet = highlight((item.summary && item.summary.length > 40) ? item.summary : item.body, terms);
     return '<div class="result-item">' +
       '<div class="result-cat">' + (item.cat || '') + '</div>' +
-      '<h3><a href="' + url + '">' + item.title + '</a></h3>' +
-      '<p class="result-summary">' + highlight(item.summary || item.body, terms) + '</p>' +
+      '<h3><a href="' + item.url + '">' + item.title + '</a></h3>' +
+      '<p class="result-summary">' + snippet + '</p>' +
       '</div>';
   }).join('');
 }
